@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G615FU,INS,004915190409,SM-G615FU/INS, India,India,No-carrier,Asia,Southern Asia,G615FUDDU2BSC1,Oreo(Android 8.1.0),2019-04-09,2019-03-01,Galaxy J7 Max ,https://doc.samsungmobile.com/SM-G615FU/004915190409/eng.html

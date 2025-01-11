@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A800I,BNG,023527220810,SM-A800I/BNG, Bangladesh,Bangladesh,No-carrier,Asia,Southern Asia,A800IXXU2BVG3,Marshmallow(Android 6.0.1),2022-08-09,2017-08-01,Galaxy A8 ,https://doc.samsungmobile.com/SM-A800I/023527220810/eng.html
+SM-A800I,INS,023484220808,SM-A800I/INS, India,India,No-carrier,Asia,Southern Asia,A800IXXU2BVG3,Marshmallow(Android 6.0.1),2022-08-08,2017-08-01,Galaxy A8 ,https://doc.samsungmobile.com/SM-A800I/023484220808/eng.html
+SM-A800I,NPL,023522220810,SM-A800I/NPL, Nepal,Nepal,No-carrier,Asia,Southern Asia,A800IXXU2BVG3,Marshmallow(Android 6.0.1),2022-08-09,2017-08-01,Galaxy A8 ,https://doc.samsungmobile.com/SM-A800I/023522220810/eng.html
+SM-A800I,SLK,023530220810,SM-A800I/SLK, Sri Lanka,Sri Lanka,No-carrier,Asia,Southern Asia,A800IXXU2BVG3,Marshmallow(Android 6.0.1),2022-08-09,2017-08-01,Galaxy A8 ,https://doc.samsungmobile.com/SM-A800I/023530220810/eng.html

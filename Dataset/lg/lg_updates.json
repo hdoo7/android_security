@@ -1,0 +1,1363 @@
+{
+    "G5": {
+        "LG G5 T-MOBILE H830 ": [
+            {
+                "Software Version": "H83030c",
+                "Release Date": "September, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g5-tmobile-h830-software-update-CT10000027-20150202851401"
+            },
+            {
+                "Software Version": "H83020o",
+                "Release Date": "February, 2018",
+                "Description": "Android Security Update (2018-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g5-tmobile-h830-software-update-CT10000027-20150202851401"
+            },
+            {
+                "Software Version": "H83020n",
+                "Release Date": "December, 2017",
+                "Description": "Security Maintenance Release, Android Security Update (2017-12-01), Wi-Fi KRACK patch, SVN Update 12 -> 13",
+                "url": "https://www.lg.com/us/support/help-library/lg-g5-tmobile-h830-software-update-CT10000027-20150202851401"
+            },
+            {
+                "Software Version": "H83020c",
+                "Release Date": "January, 2017",
+                "Description": "Android Nougat 7.0 Software Update, Android Security Updates (January)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g5-tmobile-h830-software-update-CT10000027-20150202851401"
+            },
+            {
+                "Software Version": "H83020a",
+                "Release Date": "November, 2016",
+                "Description": "Android Nougat 7.0 Software Update, Android Security Updates",
+                "url": "https://www.lg.com/us/support/help-library/lg-g5-tmobile-h830-software-update-CT10000027-20150202851401"
+            },
+            {
+                "Software Version": "H83010i",
+                "Release Date": "September, 2016",
+                "Description": "Improved brightness issue, Improve audio quality, Improved UX for Exchange Active Sync email, Android Security Updates",
+                "url": "https://www.lg.com/us/support/help-library/lg-g5-tmobile-h830-software-update-CT10000027-20150202851401"
+            }
+        ]
+    },
+    "G6": {
+        "LG G6 AT&T H871 ": [
+            {
+                "Software Version": "H87121m",
+                "Release Date": "March, 2019",
+                "Description": "Android Security Update (2019-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H87121L",
+                "Release Date": "Janauary, 2019",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H87121k",
+                "Release Date": "December, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H97121j",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H87121i",
+                "Release Date": "September, 2018",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H87121c",
+                "Release Date": "July, 2018",
+                "Description": "Maintenance Release, Flash Jump-Cut, Timer Guide, Google ARCore, Bright mode, Google Assistant with LG integration, Android Security Update (2018-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H87120c",
+                "Release Date": "June, 2018",
+                "Description": "Android Oreo OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            },
+            {
+                "Software Version": "H87110p",
+                "Release Date": "Ferbruary, 2018",
+                "Description": "Security Maintenance Release, Android Security Update (2018-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-att-h871-software-update--20150310492779"
+            }
+        ],
+        "LG G6 H872 T-Mobile Software Update Info": [
+            {
+                "Software Version": "H87220g",
+                "Release Date": "January, 2019",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            },
+            {
+                "Software Version": "H87220f",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            },
+            {
+                "Software Version": "H87220e",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            },
+            {
+                "Software Version": "H87220d",
+                "Release Date": "October, 2018",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            },
+            {
+                "Software Version": "H87220a",
+                "Release Date": "June, 2018",
+                "Description": "OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            },
+            {
+                "Software Version": "H87211h",
+                "Release Date": "May, 2018",
+                "Description": "Android Security Update (2018-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            },
+            {
+                "Software Version": "H87211g",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Update (2017-12-01), Vibration Motor overdrive duration reduced, Power charging after moisture detection change:, EVS vocoder library fix - Qualcomm Fix by CR1033779 (EVS encoder is stuck in infinite loop causing system hang. There is a corner case of EVS voice call with 16KHz sampling rate and nonCA.), Fixed no track information for streaming data of Play Music service when device is connected to Toyota or Denso which supports Bluetooth browsing (Toyota Entunes).",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-h872-tmobile-software-update-info--20150310493480"
+            }
+        ],
+        "LG G6 VS988 Verizon Software Update Info": [
+            {
+                "Software Version": "VS98820j",
+                "Release Date": "July, 2019",
+                "Description": "Maintenance Release (2019-07-24)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98820g",
+                "Release Date": "February, 2019",
+                "Description": "Android Security Update (2019-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98820f",
+                "Release Date": "Janayry, 2019",
+                "Description": "Maintenance Release, Android Security Update (2018-12-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98820e",
+                "Release Date": "November, 2018",
+                "Description": "Maintenance Release, Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98820d",
+                "Release Date": "September, 2018",
+                "Description": "Maintenance Release, Android Security Update (2018-09-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98820c",
+                "Release Date": "August, 2018",
+                "Description": "Maintenance Release, Android Security Update (2018-07-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98820A",
+                "Release Date": "May, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update (2018-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98816A",
+                "Release Date": "March, 2018",
+                "Description": "Android Security Update (2018-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            },
+            {
+                "Software Version": "VS98815A",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Update, UX Changes, Haptic Tuning",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-vs988-verizon-software-update-info--20150310491891"
+            }
+        ],
+        "LG G6 US997 ": [
+            {
+                "Software Version": "US99721e",
+                "Release Date": "March, 2019",
+                "Description": "Android Security Update (2019-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            },
+            {
+                "Software Version": "US99721d",
+                "Release Date": "December, 2018",
+                "Description": "Android Security Update (2018-12-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            },
+            {
+                "Software Version": "US99721c",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-09-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            },
+            {
+                "Software Version": "US99721b",
+                "Release Date": "September, 2018",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            },
+            {
+                "Software Version": "US99720b",
+                "Release Date": "June, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update (2018-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            },
+            {
+                "Software Version": "US99717a",
+                "Release Date": "January, 2018",
+                "Description": "Haptic feedback improvement, RTT legacy Issue, Android Security Update (2018-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            },
+            {
+                "Software Version": "US99716b",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Updates, Wi-Fi KRACK Patch",
+                "url": "https://www.lg.com/us/support/help-library/lg-g6-us997-software-update-CT10000027-20150628450861"
+            }
+        ]
+    },
+    "G7": {
+        "LG G7 FIT ACG Q850QM ": [
+            {
+                "Software Version": "",
+                "Release Date": "",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-g7-fit-acg-q850qm-software-update--20151145977213"
+            }
+        ],
+        "LG G7 FIT OPEN Q850QM ": [
+            {
+                "Software Version": "",
+                "Release Date": "",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-g7-fit-open-q850qm-software-update--20151058016851"
+            }
+        ],
+        "LG G7 FIT LRA Q850QM ": [
+            {
+                "Software Version": "",
+                "Release Date": "",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-g7-fit-lra-q850qm-software-update--20151145975114"
+            }
+        ],
+        "LG G7 ThinQ G710 Cricket Software Update": [
+            {
+                "Software Version": "G710TM20d",
+                "Release Date": "July, 2019",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-g7-thinq-g710-cricket-software-update--20151307482670"
+            }
+        ],
+        "LG SPRINT G7ThinQ G710PM ": [
+            {
+                "Software Version": "G710P20e",
+                "Release Date": "March, 2020",
+                "Description": "Security Maintenance Release (2020-03-20)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P20d",
+                "Release Date": "Febraury, 2020",
+                "Description": "OS Upgrade (2020-02-15)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P18a",
+                "Release Date": "November,2019",
+                "Description": "October Android security update (2019-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P17a",
+                "Release Date": "August,2019",
+                "Description": "August Android security update (2019-08-26)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P16a",
+                "Release Date": "June, 2019",
+                "Description": "Android Security Update (2019-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P15a",
+                "Release Date": "May, 2019",
+                "Description": "Android Security Update (2019-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P14b",
+                "Release Date": "Febraury, 2019",
+                "Description": "Android Security Update (2019-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P13a",
+                "Release Date": "December, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P12A",
+                "Release Date": "September, 2018",
+                "Description": "Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710P11a",
+                "Release Date": "July, 2018",
+                "Description": "Android Security Update (2018-07-01), Improves camera features and Android Assistant (Google Lens)",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            },
+            {
+                "Software Version": "G710PM10a",
+                "Release Date": "June, 2018",
+                "Description": "Maintenance Release, This release includes various bug fixes and system improvements",
+                "url": "https://www.lg.com/us/support/help-library/lg-sprint-g7thinq-g710pm-software-update--20150819935110"
+            }
+        ]
+    },
+    "G8": {
+        "LG G8 Amazon G820QM8 ": [
+            {
+                "Software Version": "G820QM21b",
+                "Release Date": "February, 2020",
+                "Description": "OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-g8-amazon-g820qm8-software-update--20151136908491"
+            },
+            {
+                "Software Version": "G820QM11j",
+                "Release Date": "November, 2019",
+                "Description": "Security Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-g8-amazon-g820qm8-software-update--20151136908491"
+            },
+            {
+                "Software Version": "G820QM10a",
+                "Release Date": "April, 2018",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-g8-amazon-g820qm8-software-update--20151136908491"
+            }
+        ],
+        "LG T-Mobile G8 G820TM ": [
+            {
+                "Software Version": "G820TM10q",
+                "Release Date": "January, 2020",
+                "Description": "January Android security update (2020-01-22)",
+                "url": "https://www.lg.com/us/support/help-library/lg-tmobile-g8-g820tm-software-update--20151100884746"
+            },
+            {
+                "Software Version": "G820TM10p",
+                "Release Date": "November, 2019",
+                "Description": "Security Maintenance Release (2019-11-04)",
+                "url": "https://www.lg.com/us/support/help-library/lg-tmobile-g8-g820tm-software-update--20151100884746"
+            },
+            {
+                "Software Version": "G820TM10o",
+                "Release Date": "September, 2019",
+                "Description": "Android Security Update (2019-09-27)",
+                "url": "https://www.lg.com/us/support/help-library/lg-tmobile-g8-g820tm-software-update--20151100884746"
+            },
+            {
+                "Software Version": "G820TM10j",
+                "Release Date": "June, 2018",
+                "Description": "Android Security Update (2019-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-tmobile-g8-g820tm-software-update--20151100884746"
+            },
+            {
+                "Software Version": "G820TM10i",
+                "Release Date": "April, 2018",
+                "Description": "Android Security Update (2019-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-tmobile-g8-g820tm-software-update--20151100884746"
+            },
+            {
+                "Software Version": "G820TM10f",
+                "Release Date": "April, 2018",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-tmobile-g8-g820tm-software-update--20151100884746"
+            }
+        ],
+        "LG AT&T G8 G820UM1 ": [
+            {
+                "Software Version": "G820UM20r",
+                "Release Date": "August, 2020",
+                "Description": "Security Maintenance Release (2020-08-29)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM20k",
+                "Release Date": "April, 2020",
+                "Description": "Security Maintenance Release (2020-04-28)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM20i",
+                "Release Date": "February, 2020",
+                "Description": "Android Q OS upgrade(2020-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM10n",
+                "Release Date": "September, 2018",
+                "Description": "September Android security update (2019-09-24)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM10m",
+                "Release Date": "August, 2018",
+                "Description": "IPME W2 MR (2019-08-27)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM10j",
+                "Release Date": "June, 2018",
+                "Description": "Android Security Update (2019-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM10i",
+                "Release Date": "April, 2018",
+                "Description": "Android Security Update (2019-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            },
+            {
+                "Software Version": "G820UM10g",
+                "Release Date": "April, 2018",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-att-g8-g820um1-software-update--20151100958507"
+            }
+        ],
+        "LG Verizon G8 ThinQ G820UMB Software Update": [
+            {
+                "Software Version": "G820UM20g",
+                "Release Date": "October",
+                "Description": "Security Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-verizon-g8-thinq-g820umb-software-update--20151100874896"
+            },
+            {
+                "Software Version": "G820UM20e",
+                "Release Date": "July",
+                "Description": "June Security Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-verizon-g8-thinq-g820umb-software-update--20151100874896"
+            }
+        ],
+        "LG ACG G8 G820QM7 ": [
+            {
+                "Software Version": "G820QM20e",
+                "Release Date": "March, 2020",
+                "Description": "Android Q OS upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-acg-g8-g820qm7-software-update-CT10000027-20151146005407"
+            },
+            {
+                "Software Version": "G820QM20b",
+                "Release Date": "January, 2020",
+                "Description": "Android Q OS upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-acg-g8-g820qm7-software-update-CT10000027-20151146005407"
+            },
+            {
+                "Software Version": "G820QM10a",
+                "Release Date": "April, 2018",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-acg-g8-g820qm7-software-update-CT10000027-20151146005407"
+            }
+        ]
+    },
+    "V10": {
+        "LG VERIZON V10 VS990 ": [
+            {
+                "Software Version": "VS9902BA",
+                "Release Date": "January 17",
+                "Description": ", , ",
+                "url": "https://www.lg.com/us/support/help-library/lg-verizon-v10-vs990-software-update-CT10000027-20150227710071"
+            }
+        ],
+        "LG V10 AT&T H900 ": [
+            {
+                "Software Version": "H90022b",
+                "Release Date": "October, 2017",
+                "Description": "Android Security Update (2017-09-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v10-att-h900-software-update-CT10000027-20150106715620"
+            },
+            {
+                "Software Version": "H90021z",
+                "Release Date": "March, 2017",
+                "Description": "Android Security Update (03-01-2017)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v10-att-h900-software-update-CT10000027-20150106715620"
+            },
+            {
+                "Software Version": "H90021y",
+                "Release Date": "February, 2017",
+                "Description": "Android Security Update (2017-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v10-att-h900-software-update-CT10000027-20150106715620"
+            },
+            {
+                "Software Version": "H90021x",
+                "Release Date": "December, 2016",
+                "Description": "Android Security Update",
+                "url": "https://www.lg.com/us/support/help-library/lg-v10-att-h900-software-update-CT10000027-20150106715620"
+            },
+            {
+                "Software Version": "H90021v",
+                "Release Date": "August, 2016",
+                "Description": "AT&T WiFi Calling, General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v10-att-h900-software-update-CT10000027-20150106715620"
+            },
+            {
+                "Software Version": "H90010f",
+                "Release Date": "November, 2015",
+                "Description": "General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v10-att-h900-software-update-CT10000027-20150106715620"
+            }
+        ]
+    },
+    "V20": {
+        "LG V20 SPRINT LS997 ": [
+            {
+                "Software Version": "LS99720a",
+                "Release Date": "July, 2018",
+                "Description": "Android O OS Upgrade (8.0)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-sprint-ls997-software-update-CT10000027-20150257242438"
+            },
+            {
+                "Software Version": "LS997ZVD",
+                "Release Date": "March, 2018",
+                "Description": "Android Security Update (2018-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-sprint-ls997-software-update-CT10000027-20150257242438"
+            },
+            {
+                "Software Version": "LS997ZVC",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Update (2018-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-sprint-ls997-software-update-CT10000027-20150257242438"
+            },
+            {
+                "Software Version": "LS997ZV5",
+                "Release Date": "December, 2016",
+                "Description": "General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-sprint-ls997-software-update-CT10000027-20150257242438"
+            }
+        ],
+        "LG V20 AT&T H910 ": [
+            {
+                "Software Version": "H91020h",
+                "Release Date": "September, 2018",
+                "Description": "Android Security Update (2018-09-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91020g",
+                "Release Date": "August, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010v",
+                "Release Date": "June, 2018",
+                "Description": "Android Security Update (2018-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010u",
+                "Release Date": "March, 2018",
+                "Description": "Android Security Update (2018-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010t",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Update (2018-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010r",
+                "Release Date": "November, 2017",
+                "Description": "KRACK, Android Security Update (2017-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010q",
+                "Release Date": "October, 2017",
+                "Description": "Android Security Update (2017-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010p",
+                "Release Date": "October, 2017",
+                "Description": "WiFi Calling Improvements, IPME Improvements, IMS/VoLTE - DTMF tones not playing in certain conditions, UFS read fail, NFC Application - Kovio Tag reading fix, Duplicated Tx messages when using Emoji, Android Security Update (2017-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010m",
+                "Release Date": "April, 2017",
+                "Description": "Android Security Update (2017-04-07)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            },
+            {
+                "Software Version": "H91010L",
+                "Release Date": "January, 2017",
+                "Description": "General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-att-h910-software-update-CT10000027-20150261717551"
+            }
+        ],
+        "LG V20 VERIZON VS995 ": [
+            {
+                "Software Version": "VS99520c",
+                "Release Date": "November",
+                "Description": "Android Security Update (2018-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS99520b",
+                "Release Date": "October",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS9951CA",
+                "Release Date": "June",
+                "Description": "Android Security Update (2018-05-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS9951BA",
+                "Release Date": "March",
+                "Description": "Android Security Update (2018-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS9951AA",
+                "Release Date": "February",
+                "Description": "Android Security Update (2018-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS99519A",
+                "Release Date": "January",
+                "Description": "AppFlash added, RTCP timer, Android Secrurity Update (2017-12-01), Preloaded improved LG apps\nLGHome : 5.30.16 -> 5.30.33\nLGInCallUI : 5.30.13.49 -> 5.30.13.52\nLGEmail : 6.75.12 -> 6.75.32, LGHome : 5.30.16 -> 5.30.33, LGInCallUI : 5.30.13.49 -> 5.30.13.52, LGEmail : 6.75.12 -> 6.75.32, Press and hold an empty space on your Home screen, Tap Settings in the bottom right corner, Tap Swipe Access, Tap AppFlash, After enabling AppFlash, it is conveniently located on the side screen. Simply swipe right and you're ready to go. You can find AppFlash controls in Home screen Settings under \"Layout\". Tap Left Home screen for more.",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS99513A",
+                "Release Date": "January",
+                "Description": "Android Security Update, General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS99512A",
+                "Release Date": "November",
+                "Description": "Android Security Update, General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS99511A",
+                "Release Date": "October",
+                "Description": "Performance enhancements, Removal of Amazon Shopping App, General maintenance",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            },
+            {
+                "Software Version": "VS9951AA",
+                "Release Date": "February",
+                "Description": "Android Security Update (2018-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-verizon-vs995-software-update-CT10000027-20150227878227"
+            }
+        ],
+        "LG V20 US CELLULAR US996 ": [
+            {
+                "Software Version": "US99620f",
+                "Release Date": "Janaury, 2019",
+                "Description": "Android Security Update (2018-11-01), Android O OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            },
+            {
+                "Software Version": "US99610p",
+                "Release Date": "March, 2018",
+                "Description": "Android Security Update (2018-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            },
+            {
+                "Software Version": "US99610o",
+                "Release Date": "March, 2018",
+                "Description": "Android Security Update (2018-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            },
+            {
+                "Software Version": "US99610L",
+                "Release Date": "November, 2017",
+                "Description": "WiFi Issue Fix, KRACK patches",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            },
+            {
+                "Software Version": "US99610k",
+                "Release Date": "October, 2017",
+                "Description": "Android Security Update",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            },
+            {
+                "Software Version": "US99610h",
+                "Release Date": "May, 2017",
+                "Description": "Android Security Update (Apr. 2017)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            },
+            {
+                "Software Version": "US99610f",
+                "Release Date": "January, 2017",
+                "Description": "Android Security Update (2016-12-12)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-us-cellular-us996-software-update-CT10000027-20150711870427"
+            }
+        ],
+        "LG V20 T-MOBILE H918 ": [
+            {
+                "Software Version": "H91820h",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            },
+            {
+                "Software Version": "H91820g",
+                "Release Date": "October, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update (2018-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            },
+            {
+                "Software Version": "H91820f",
+                "Release Date": "September, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            },
+            {
+                "Software Version": "H91810u",
+                "Release Date": "June, 2018",
+                "Description": "Android Security Update (2018-05-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            },
+            {
+                "Software Version": "H91810t",
+                "Release Date": "April, 2018",
+                "Description": "Android Security Update (2018-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            },
+            {
+                "Software Version": "H91810s",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Update (2018-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            },
+            {
+                "Software Version": "H91810j",
+                "Release Date": "January, 2017",
+                "Description": "General maintenance (Audio, Software and Power adjustments), Android Security Updates (December)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v20-tmobile-h918-software-update-CT10000027-20150267096820"
+            }
+        ]
+    },
+    "V30": {
+        "LG V30+ LS998U ": [
+            {
+                "Software Version": "LS99830a",
+                "Release Date": "August, 2019",
+                "Description": "August Android Security Update (2019-08-27)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            },
+            {
+                "Software Version": "LS99829a",
+                "Release Date": "June, 2019",
+                "Description": "Android Security Update (2019-05-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            },
+            {
+                "Software Version": "LS99828a",
+                "Release Date": "March, 2019",
+                "Description": "Android Security Update (2019-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            },
+            {
+                "Software Version": "LS99827a",
+                "Release Date": "February, 2019",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            },
+            {
+                "Software Version": "LS99826a",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-10-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            },
+            {
+                "Software Version": "LS99822a",
+                "Release Date": "August, 2018",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            },
+            {
+                "Software Version": "LS99821a",
+                "Release Date": "May, 2018",
+                "Description": "Android Security Update (2018-05-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-ls998u-software-update-CT10000027-20150740839626"
+            }
+        ],
+        "LG V30 VERIZON VS996 ": [
+            {
+                "Software Version": "VS99630c",
+                "Release Date": "September",
+                "Description": "OS Upgrade (2019-09-16)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620k",
+                "Release Date": "May",
+                "Description": "Android Security Update (2019-05-01), Camera application updates",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620j",
+                "Release Date": "March",
+                "Description": "Android Security Update (2019-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620i",
+                "Release Date": "February",
+                "Description": "Various Improvements and Fixes Applied",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620h",
+                "Release Date": "Janauary",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620g",
+                "Release Date": "December",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620f",
+                "Release Date": "September",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620e",
+                "Release Date": "July",
+                "Description": "Android Security Update (2018-07-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620d",
+                "Release Date": "July",
+                "Description": "Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620c",
+                "Release Date": "May",
+                "Description": "Android Security Update (2018-05-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620b",
+                "Release Date": "April",
+                "Description": "New feature:, AI CAM, Bright Mode, Mode Icon Edit Menu, Preview Tap, Filters, Graphy 2.0, Quick Settings, Video Preview, Scan QR CodeAndroid Security Update (2018-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99620a",
+                "Release Date": "March",
+                "Description": "Android O Upgrade, Android Security Update (2018-02-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99610e",
+                "Release Date": "January",
+                "Description": "VoLTE UI spec, Android Security Update (Nov. 2017), KRACK",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99610d",
+                "Release Date": "November",
+                "Description": "LAA patch",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            },
+            {
+                "Software Version": "VS99610c",
+                "Release Date": "October",
+                "Description": "OLED Optimization, Icon color of notification bar and soft-key adjustment, Hiding home touch buttons (navigation bar), Brightness control by thermal mitigation in a sunny outdoor environment",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-verizon-vs996-software-update-CT10000027-20150600137024"
+            }
+        ],
+        "LG V30 US CELLULAR US998 ": [
+            {
+                "Software Version": "US99820h",
+                "Release Date": "April, 2019",
+                "Description": "Android Security Update (2019-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99820g",
+                "Release Date": "January, 2019",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99820f",
+                "Release Date": "December, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99820e",
+                "Release Date": "September, 2018",
+                "Description": "Android Security Update (2018-09-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99820d",
+                "Release Date": "July, 2018",
+                "Description": "Android Security Update (2018-07-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99820c",
+                "Release Date": "July, 2018",
+                "Description": "Android O OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99820b",
+                "Release Date": "June, 2018",
+                "Description": "Camera Timer helper is integrated with auto flash feature for taking photos or video with ready time display, Camera night vision is integrated to support bright mode and auto detection in dark environments with Sum Binning solution, AI Camera integration that supports auto recognition of objects while taking photos Boot Logo updated (LG V30 -> LG V30 ThinQ)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99810d",
+                "Release Date": "April, 2018",
+                "Description": "Android Security Update (2018-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            },
+            {
+                "Software Version": "US99810c",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Updates, KRACK Patches",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-us-cellular-us998-software-update-CT10000027-20150600218412"
+            }
+        ],
+        "LG V30 T-MOBILE H932 ": [
+            {
+                "Software Version": "H93230d",
+                "Release Date": "October, 2019",
+                "Description": "OS Upgrade (2019-10-07)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220s",
+                "Release Date": "March, 2019",
+                "Description": "Android Security Update (2019-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220r",
+                "Release Date": "February, 2019",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220p",
+                "Release Date": "December, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220o",
+                "Release Date": "October, 2018",
+                "Description": "Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220k",
+                "Release Date": "August, 2018",
+                "Description": "Android Security Update (2018-08-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220j",
+                "Release Date": "June, 2018",
+                "Description": "Android Security Update (2018-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93220h",
+                "Release Date": "May, 2018",
+                "Description": "Android O OS Upgrade, Android Security Update",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            },
+            {
+                "Software Version": "H93210d",
+                "Release Date": "January, 2018",
+                "Description": "Android Security Update (2018-01-01), Wi-Fi KRACK patch, SVN Update (03 > 04)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v30-tmobile-h932-software-update-CT10000027-20150630356490"
+            }
+        ]
+    },
+    "V35": {
+        "LG V35 V350AWM ": [
+            {
+                "Software Version": "V350AWM20i",
+                "Release Date": "February, 2020",
+                "Description": "Security Maintenance Release (2020-02-19)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v35-v350awm-software-update-CT10000027-20150797033466"
+            },
+            {
+                "Software Version": "G850UM10c",
+                "Release Date": "November, 2018",
+                "Description": "New Product Introduction (2018-11-01), Unified SW but full Sprint in-stock process",
+                "url": "https://www.lg.com/us/support/help-library/lg-v35-v350awm-software-update-CT10000027-20150797033466"
+            }
+        ]
+    },
+    "V40": {
+        "LG V40 ThinQ Verizon V405UAB ": [
+            {
+                "Software Version": "V405UA30c",
+                "Release Date": "October",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-verizon-v405uab-software-update--20150880739552"
+            }
+        ],
+        "LG V40 ThinQ V405QA Software Update": [
+            {
+                "Software Version": "V405QA20e",
+                "Release Date": "February, 2020",
+                "Description": ", Software Maintenance Release, LG Internal Update",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-v405qa-software-update--20150909053393"
+            },
+            {
+                "Software Version": "V405QA20a",
+                "Release Date": "June, 2019",
+                "Description": "Android P OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-v405qa-software-update--20150909053393"
+            },
+            {
+                "Software Version": "V405QA11e",
+                "Release Date": "February, 2019",
+                "Description": "Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-v405qa-software-update--20150909053393"
+            },
+            {
+                "Software Version": "V405QA11d",
+                "Release Date": "Janauary, 2019",
+                "Description": "Android Security Update (2018-12-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-v405qa-software-update--20150909053393"
+            },
+            {
+                "Software Version": "V405QA10d",
+                "Release Date": "October, 2018",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-v405qa-software-update--20150909053393"
+            }
+        ],
+        "LG V40 ThinQ AT&T V405UA1 Software Update": [
+            {
+                "Software Version": "V405UA21a",
+                "Release Date": "March, 2020",
+                "Description": "Security Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA20y",
+                "Release Date": "February, 2020",
+                "Description": "January Android security update, LG Internal, CCPA EMR",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA20v",
+                "Release Date": "December, 2019",
+                "Description": "CPL update MR, November Android security",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA20o",
+                "Release Date": "November, 2019",
+                "Description": "STIR & SHAKEN Maintenance Release(2019-11-12)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA20g",
+                "Release Date": "October, 2019",
+                "Description": "September Android Security Update (2019-10-02)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA20e",
+                "Release Date": "June, 2019",
+                "Description": "Android Security Update (2019-06-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA20d",
+                "Release Date": "May, 2019",
+                "Description": "Android P OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10o",
+                "Release Date": "April, 2019",
+                "Description": "Android Security Update (2019-04-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10n",
+                "Release Date": "March, 2019",
+                "Description": "Android Security Update (2019-03-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10m",
+                "Release Date": "Janaury, 2019",
+                "Description": "Android Security Update (2019-01-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10L",
+                "Release Date": "Janaury, 2019",
+                "Description": "A5G E signal icons added where supported",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10k",
+                "Release Date": "December, 2018",
+                "Description": "Android Security Update (2018-11-01)",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10j",
+                "Release Date": "November, 2018",
+                "Description": "Android Security Update (2018-10-01), Camera Improvements:, Avatar feature is added in sticker mode of front camera, Story Shot (Augmented Selfie) feature is added in Portrait mode (front facing camera), Improvement on low light image quality, AI camera image quality and white balance brighteness in outdoor conditions., Google Lens integration",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            },
+            {
+                "Software Version": "V405UA10d",
+                "Release Date": "October, 2018",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-v40-thinq-att-v405ua1-software-update--20150909064048"
+            }
+        ]
+    },
+    "V50": {
+        "LG V50 ThinQ Verizon V450VM Software Update": [
+            {
+                "Software Version": "V450VM20d",
+                "Release Date": "July, 2020",
+                "Description": "June Android Security Patch release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            },
+            {
+                "Software Version": "V450VM10j",
+                "Release Date": "March, 2020",
+                "Description": "Security Maintenance Update",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            },
+            {
+                "Software Version": "V450VM10i",
+                "Release Date": "December, 2019",
+                "Description": "Security Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            },
+            {
+                "Software Version": "V450VM10h",
+                "Release Date": "October, 2019",
+                "Description": "October Android security update",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            },
+            {
+                "Software Version": "V450VM10f",
+                "Release Date": "July, 2019",
+                "Description": "5G enhancement, Mobile hotspot improvement",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            },
+            {
+                "Software Version": "V450VM10d",
+                "Release Date": "June, 2019",
+                "Description": "Android Security Update (2019-06-01), Various other updates applied",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            },
+            {
+                "Software Version": "V450VM10c",
+                "Release Date": "June, 2019",
+                "Description": "Maintenance Release",
+                "url": "https://www.lg.com/us/support/help-library/lg-v50-thinq-verizon-v450vm-software-update-CT10000027-20151161979089"
+            }
+        ]
+    },
+    "Q6": {
+        "LG Q6 US CELLULAR US700 ": [
+            {
+                "Software Version": "US70020a",
+                "Release Date": "July, 2018",
+                "Description": "Android O OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-q6-us-cellular-us700-software-update--20150783751622"
+            },
+            {
+                "Software Version": "US70010j",
+                "Release Date": "July, 2018",
+                "Description": "Portrait Mode (front camera), Flash Jump-Cut, Timer helper w LED Flash, Android Security Update",
+                "url": "https://www.lg.com/us/support/help-library/lg-q6-us-cellular-us700-software-update--20150783751622"
+            }
+        ]
+    },
+    "Q8": {},
+    "X300": {},
+    "X400": {},
+    "X500": {},
+    "X cam": {},
+    "CV1": {},
+    "CV3": {},
+    "CV5": {},
+    "CV7": {},
+    "CV1S": {},
+    "CV7AS": {},
+    "K40": {
+        "LG OPEN K40 X420QN ": [
+            {
+                "Software Version": "X420QN20d",
+                "Release Date": "November, 2019",
+                "Description": "Pie OS Upgrade",
+                "url": "https://www.lg.com/us/support/help-library/lg-open-k40-x420qn-software-update--20151167850288"
+            },
+            {
+                "Software Version": "X420QN10b",
+                "Release Date": "June, 2019",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-open-k40-x420qn-software-update--20151167850288"
+            }
+        ],
+        "LG X420MM K40 Software Update": [
+            {
+                "Software Version": "X420MM10n",
+                "Release Date": "January, 2020",
+                "Description": "CPL upgrade, WFC issue",
+                "url": "https://www.lg.com/us/support/help-library/lg-x420mm-k40-software-update--20151204440501"
+            },
+            {
+                "Software Version": "LMX420MM10g",
+                "Release Date": "August, 2019",
+                "Description": "August Android security update",
+                "url": "https://www.lg.com/us/support/help-library/lg-x420mm-k40-software-update--20151204440501"
+            },
+            {
+                "Software Version": "X420MM10d",
+                "Release Date": "July, 2019",
+                "Description": "New Product Introduction",
+                "url": "https://www.lg.com/us/support/help-library/lg-x420mm-k40-software-update--20151204440501"
+            }
+        ]
+    },
+    "K50": {},
+    "Q60": {},
+    "Q70": {},
+    "DH10": {},
+    "DH15": {},
+    "DH30": {},
+    "DH35": {},
+    "DH40": {},
+    "DH5": {},
+    "DH50": {},
+    "Velvet": {},
+    "TF10": {},
+    "Wing": {},
+    "G5  ": {},
+    "G6  ": {},
+    "G7  ": {},
+    "G8  ": {},
+    "V10  ": {},
+    "V20  ": {},
+    "V30  ": {},
+    "V35  ": {},
+    "V40  ": {},
+    "V50  ": {},
+    "Q6  ": {},
+    "Q8  ": {},
+    "X300  ": {},
+    "X400  ": {},
+    "X500  ": {},
+    "X cam  ": {},
+    "CV1  ": {},
+    "CV3  ": {},
+    "CV5  ": {},
+    "CV7  ": {},
+    "CV1S  ": {},
+    "CV7AS  ": {},
+    "K40  ": {},
+    "K50  ": {},
+    "Q60  ": {},
+    "Q70  ": {},
+    "DH10  ": {},
+    "DH15  ": {},
+    "DH30  ": {},
+    "DH35  ": {},
+    "DH40  ": {},
+    "DH5  ": {},
+    "V60": {
+        "LG V60 ThinQ AT&T V600VM Software Update": [
+            {
+                "Software Version": "V600VM10e",
+                "Release Date": "6/29/2020",
+                "Description": ", , , , , , ",
+                "url": "https://www.lg.com/us/support/help-library/lg-v60-thinq-att-v600vm-software-update-CT10000027-20151598715275"
+            },
+            {
+                "Software Version": "",
+                "Release Date": "",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-v60-thinq-att-v600vm-software-update-CT10000027-20151598715275"
+            },
+            {
+                "Software Version": "",
+                "Release Date": "",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-v60-thinq-att-v600vm-software-update-CT10000027-20151598715275"
+            },
+            {
+                "Software Version": "",
+                "Release Date": "",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-v60-thinq-att-v600vm-software-update-CT10000027-20151598715275"
+            }
+        ],
+        "LG V60 ThinQ US Cellular V600TM0 Software Update": [
+            {
+                "Software Version": "V600TM10a",
+                "Release Date": "April, 2020",
+                "Description": "",
+                "url": "https://www.lg.com/us/support/help-library/lg-v60-thinq-us-cellular-v600tm0-software-update-CT10000027-20151668013046"
+            }
+        ]
+    },
+    "EH13": {},
+    "EH35": {},
+    "Style3": {},
+    "Ace": {
+        "Facebook\n/LGUSSupport": []
+    },
+    "nan": {}
+}

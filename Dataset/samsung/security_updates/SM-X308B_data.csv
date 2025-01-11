@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-X308B,TUR,029813240330,SM-X308B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X308BJXS2AXE2,U(Android 14),2024-06-06,2024-05-01,Galaxy Tab Active5 5G ,https://doc.samsungmobile.com/SM-X308B/029813240330/eng.html
+SM-X308B,TUR,029813240330,SM-X308B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X308BJXU1AXD7,U(Android 14),2024-05-23,2024-04-01,Galaxy Tab Active5 5G ,https://doc.samsungmobile.com/SM-X308B/029813240330/eng.html
+SM-X308B,TUR,029813240330,SM-X308B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X308BJXS1AXC3,U(Android 14),2024-03-29,2024-03-01,Galaxy Tab Active5 5G ,https://doc.samsungmobile.com/SM-X308B/029813240330/eng.html

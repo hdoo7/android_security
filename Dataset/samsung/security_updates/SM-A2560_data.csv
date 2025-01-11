@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A2560,TGY,028633240130,SM-A2560/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A2560ZHS2AXD1,U(Android 14),2024-05-14,2024-04-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-A2560/028633240130/eng.html
+SM-A2560,TGY,028633240130,SM-A2560/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A2560ZHU1AXB6,U(Android 14),2024-03-28,2024-02-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-A2560/028633240130/eng.html
+SM-A2560,TGY,028633240130,SM-A2560/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A2560ZHS1AXA2,U(Android 14),2024-01-30,2024-01-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-A2560/028633240130/eng.html

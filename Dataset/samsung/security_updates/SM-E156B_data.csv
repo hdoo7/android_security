@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-E156B,INS,029885240423,SM-E156B/INS, India,India,No-carrier,Asia,Southern Asia,E156BXXS2AXE1,U(Android 14),2024-05-29,2024-05-01,Galaxy F15 5G ,https://doc.samsungmobile.com/SM-E156B/029885240423/eng.html
+SM-E156B,INS,029885240423,SM-E156B/INS, India,India,No-carrier,Asia,Southern Asia,E156BXXS1AXD3,U(Android 14),2024-04-22,2024-04-01,Galaxy F15 5G ,https://doc.samsungmobile.com/SM-E156B/029885240423/eng.html

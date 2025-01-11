@@ -1,0 +1,903 @@
+id,device,region,last_android_version,last_update_date
+taurus,Mi 2A,China,Android 4.1,2015-04-27
+mione_plus,MI 1S,China,Android 4.1,2015-04-12
+HM2013022,Redmi 1 TD,China,Android 4.4,2017-11-15
+HM2014813,Redmi 2 LTE,China,Android 4.4,2015-03-29
+HM2013023_sg_global,Redmi 1 W,Singapore,Android 4.4,2015-12-24
+HM2014811,Redmi 2 LTE,Global,Android 4.4,2015-10-17
+virgo_lte_ct,Mi Note LTE CT,China,Android 4.4,2016-08-23
+lcsh92_wet_jb9_global,Redmi Note 3G,Global,Android 4.4,2018-08-03
+HM2013023,Redmi 1,Global,Android 4.4,2018-09-26
+prada_global,Redmi 4,Global,Android 6.0,2019-05-21
+wt88047_pro_global,Redmi 2 Pro,Global,Android 5.1,2018-08-03
+HM2014011,Redmi 1S TD 3G,China,Android 4.4,2018-09-07
+HM2014501,Redmi 1S TD 4G,China,Android 4.4,2018-09-07
+lcsh92_wet_tdd,Redmi Note 1 TD,China,Android 4.4,2018-08-03
+lcsh92_wet_jb9,Redmi Note 3G,China,Android 4.4,2018-08-03
+armani,Redmi 1S,China,Android 4.4,2018-09-07
+aries_global,MI 2S,Global,Android 5.0,2018-10-14
+aries,MI 2S,China,Android 5.0,2018-10-14
+armani_global,Redmi 1S,Global,Android 4.4,2018-09-09
+wt88047_pro,Redmi 2 Pro,China,Android 5.1,2018-09-07
+wt86047_pro,Redmi 2 Pro,China,Android 5.1,2018-09-07
+cancro_lte_ct,MI 4 LTE CT,China,Android 6.0,2018-10-14
+ido_xhdpi_global,Redmi 3/3 Pro,Global,Android 5.1,2018-09-08
+vince_ru_global,Redmi 5 Plus,Russia,Android 7.1,2018-08-08
+cancro_global,MI 3 / Mi 4,Global,Android 6.0,2018-10-14
+pisces,MI 3 TD,China,Android 4.4,2018-09-07
+mocha_global,MiPad 1,Global,Android 4.4,2018-09-09
+mocha,MiPad 1,China,Android 4.4,2018-09-07
+lte26007,Redmi 2A,China,Android 4.4,2018-09-26
+leo,Mi Note Pro,China,Android 7.0,2018-10-14
+latte,MiPad 2,China,Android 5.1,2018-09-07
+hermes_global,Redmi Note 2,Global,Android 5.0,2018-09-09
+wt88047,Redmi 2,China,Android 4.4,2018-09-07
+wt88047_global,Redmi 2,Global,Android 4.4,2018-09-07
+wt86047,Redmi 2,China,Android 4.4,2018-09-07
+virgo_global,Mi Note,Global,Android 6.0,2018-10-14
+virgo,Mi Note,China,Android 6.0,2018-10-14
+hermes,Redmi Note 2,China,Android 5.0,2018-09-07
+gucci,Redmi Note 1S 4G,China,Android 4.4,2018-09-07
+dior,Redmi Note 4G,China,Android 4.4,2018-09-07
+dior_global,Redmi Note 4G,Global,Android 4.4,2018-09-09
+ferrari,MI 4i,China,Android 5.0,2018-10-14
+hennessy,Redmi Note 3 (MTK),China,Android 5.0,2018-09-07
+gucci_global,Redmi Note 1S 4G,Global,Android 4.4,2018-09-07
+ferrari_global,MI 4i,Global,Android 5.0,2018-09-07
+ido_xhdpi,Redmi 3,China,Android 5.1,2018-10-14
+aqua,MI 4S,China,Android 7.0,2018-11-08
+libra,Mi 4c,China,Android 7.0,2018-10-30
+cancro,MI 3 / Mi 4,China,Android 6.0,2018-11-07
+vince_global,Redmi 5 Plus / Note 5,Global,Android 8.1,2019-11-20
+gemini,MI 5,China,Android 8.0,2019-01-08
+gemini_global,MI 5,Global,Android 8.0,2019-02-04
+kenzo,Redmi Note 3 Pro,China,Android 6.0,2019-01-16
+kenzo_global,Redmi Note 3 Pro,Global,Android 6.0,2019-01-25
+mido_global,Redmi Note 4,Global,Android 7.0,2019-11-19
+omega,Redmi Pro,China,Android 6.0,2019-03-29
+cappu,Mi Pad 3,China,Android 7.0,2019-08-30
+kate_global,Redmi Note 3 SE,Global,Android 6.0,2019-03-29
+nikel_global,Redmi Note 4 MTK,Global,Android 6.0,2019-03-29
+ysl_global,Redmi S2/Y2,Global,Android 9.0,2020-09-29
+helium,Mi Max Prime,China,Android 7.0,2019-06-18
+ysl,Redmi S2,China,Android 9.0,2020-08-05
+helium_global,Mi Max Prime,Global,Android 7.0,2019-05-13
+hydrogen,Mi Max,China,Android 7.0,2019-06-18
+hydrogen_global,Mi Max,Global,Android 7.0,2019-05-13
+tulip_ru_global,Redmi Note 6 Pro,Russia,Android 8.1,2019-03-11
+nikel,Redmi Note 4 MTK,China,Android 6.0,2019-05-22
+rolex_global,Redmi 4A,Global,Android 7.1,2019-07-03
+land,Redmi 3S,China,Android 6.0,2019-05-21
+land_global,Redmi 3S,Global,Android 6.0,2019-05-28
+markw,Redmi 4 Prime,China,Android 6.0,2019-05-21
+prada,Redmi 4,China,Android 6.0,2019-05-21
+rolex,Redmi 4A,China,Android 6.0,2019-05-21
+capricorn_global,Mi 5s,Global,Android 8.0,2019-06-28
+natrium_global,Mi 5s Plus,Global,Android 8.0,2019-06-28
+clover,Mi Pad 4 (Plus),China,Android 8.1,2019-08-29
+markw_global,Redmi 4 Prime,Global,Android 6.0,2019-05-20
+raphael,Redmi K20 Pro,China,Android 11.0,2021-11-25
+cactus_global,Redmi 6A,Global,Android 9.0,2020-09-22
+cereus_global,Redmi 6,Global,Android 9.0,2020-09-22
+grus_global,Mi 9 SE,Global,Android 11.0,2021-05-25
+sagit_global,Mi 6,Global,Android 9.0,2020-03-23
+rosy_global,Redmi 5,Global,Android 8.1,2020-01-09
+polaris_global,Mi MIX 2S,Global,Android 10.0,2021-01-04
+riva_global,Redmi 5A,Global,Android 8.1,2019-11-12
+platina_global,Mi 8 Lite,Global,Android 10.0,2020-09-21
+sakura_india_global,Redmi 6 Pro,India,Android 9.0,2020-11-12
+scorpio_global,Mi Note 2,Global,Android 8.0,2019-11-13
+santoni_global,Redmi 4X,Global,Android 7.1,2019-11-21
+tulip_global,Redmi Note 6 Pro,Global,Android 9.0,2021-01-06
+ugg_global,Redmi Note 5A Prime,Global,Android 7.1,2019-11-12
+ugglite_global,Redmi Note 5A (2GB),Global,Android 7.1,2019-11-12
+perseus_global,Mi MIX 3,Global,Android 10.0,2020-11-20
+cepheus_global,Mi 9,Global,Android 11.0,2021-06-17
+oxygen_global,Mi Max 2,Global,Android 7.1,2019-11-06
+beryllium_global,POCO F1,Global,Android 10.0,2021-01-11
+chiron_global,Mi MIX 2,Global,Android 9.0,2020-10-10
+dipper_global,Mi 8,Global,Android 10.0,2021-12-21
+equuleus_global,Mi 8 Pro,Global,Android 10.0,2022-01-11
+jason_global,Mi Note 3,Global,Android 9.0,2020-09-21
+lithium_global,Mi MIX,Global,Android 8.0,2019-11-13
+nitrogen_global,Mi Max 3,Global,Android 10.0,2020-10-16
+whyred_global,Redmi Note 5 / Note 5 Pro,Global,Android 9.0,2021-01-04
+cepheus,Mi 9,China,Android 11.0,2021-12-01
+andromeda,Mi MIX 3 5G,China,Android 9.0,2019-11-22
+raphaels,Redmi K20 Pro Premium Edition,China,Android 9.0,2019-09-29
+scorpio,Mi Note 2,China,Android 8.0,2019-12-04
+santoni,Redmi 4X,China,Android 7.1,2019-11-12
+riva,Redmi 5A,China,Android 8.1,2019-12-25
+oxygen,Mi Max 2,China,Android 7.1,2019-11-06
+natrium,Mi 5s Plus,China,Android 8.0,2019-11-08
+mido,Redmi Note 4,China,Android 7.0,2019-11-25
+meri,Mi 5C,China,Android 7.1,2019-12-10
+lithium,Mi MIX,China,Android 8.0,2019-11-08
+capricorn,Mi 5s,China,Android 8.0,2019-11-11
+tiffany,Mi 5X,China,Android 8.1,2019-11-27
+ugg,Redmi Note 5A Prime,China,Android 7.1,2019-11-05
+ugglite,Redmi Note 5A (2GB),China,Android 7.1,2019-11-05
+lotus,Mi Play,China,Android 8.1,2020-11-26
+rosy,Redmi 5,China,Android 8.1,2019-12-25
+vince,Redmi 5 Plus,China,Android 8.1,2019-11-27
+violet,Redmi Note 7 Pro,China,Android 10.0,2021-11-17
+ursa,Mi 8 Explorer,China,Android 10.0,2021-11-15
+sirius,Mi 8 SE,China,Android 10.0,2021-07-12
+sakura,Redmi 6 Pro,China,Android 9.0,2020-08-05
+polaris,Mi MIX 2S,China,Android 10.0,2021-07-16
+platina,Mi 8 Lite,China,Android 10.0,2021-06-25
+perseus,Mi MIX 3,China,Android 10.0,2021-07-15
+nitrogen,Mi Max 3,China,Android 10.0,2021-06-23
+lavender,Redmi Note 7,China,Android 10.0,2021-11-17
+jason,Mi Note 3,China,Android 9.0,2020-08-20
+grus,Mi 9 SE,China,Android 11.0,2021-11-25
+equuleus,Mi 8 Pro,China,Android 10.0,2021-11-26
+dipper,Mi 8,China,Android 10.0,2021-11-05
+chiron,Mi MIX 2,China,Android 9.0,2020-09-07
+cereus,Redmi 6,China,Android 9.0,2021-06-17
+cactus,Redmi 6A,China,Android 9.0,2021-06-18
+wayne,Mi 6X,China,Android 9.0,2021-04-07
+whyred,Redmi Note 5,China,Android 9.0,2021-06-15
+sagit,Mi 6,China,Android 9.0,2020-06-18
+rosy_ru_global,Redmi 5,Russia,Android 8.1,2019-11-07
+whyred_ru_global,Redmi Note 5,Russia,Android 9.0,2019-10-30
+cactus_ru_global,Redmi 6A,Russia,Android 9.0,2020-07-13
+toco_global,Mi Note 10 Lite,Global,Android 12.0,2022-11-03
+onclite,Redmi 7,China,Android 10.0,2021-11-11
+umi_tr_global,Mi 10,Turkey,Android 13.0,2023-05-16
+tissot,Mi A1,Global,Android 9.0,2020-08-23
+lancelot_eea_global,Redmi 9,EEA,Android 12.0,2023-01-31
+lancelot_global,Redmi 9,Global,Android 12.0,2023-01-31
+platina_ru_global,Mi 8 Lite,Russia,Android 10.0,2020-09-12
+toco_tr_global,Mi Note 10 Lite,Turkey,Android 12.0,2022-11-08
+cezanne,Redmi K30 Ultra,China,Android 12.0,2023-07-19
+cereus_ru_global,Redmi 6,Russia,Android 9.0,2020-09-19
+nitrogen_ru_global,Mi Max 3,Russia,Android 10.0,2020-10-16
+joyeuse_tr_global,Redmi Note 9 Pro,Turkey,Android 12.0,2023-04-28
+davinci,Redmi K20,China,Android 11.0,2021-11-25
+angelicain_in_global,POCO C3,India,Android 10.0,2022-09-06
+lmi_tr_global,POCO F2 Pro,Turkey,Android 12.0,2023-03-29
+gauguin_eea_global,Mi 10T Lite,EEA,Android 12.0,2023-06-27
+perseus_ru_global,Mi MIX 3,Russia,Android 10.0,2020-11-27
+ginkgo_ru_global,Redmi Note 8,Russia,Android 11.0,2022-06-01
+ginkgo_global,Redmi Note 8,Global,Android 11.0,2022-02-25
+citrus_eea_global,POCO M3,EEA,Android 12.0,2023-05-19
+umi_in_global,Mi 10,India,Android 13.0,2023-05-29
+ysl_ru_global,Redmi S2,Russia,Android 9.0,2020-12-15
+surya_global,POCO X3 NFC,Global,Android 12.0,2023-07-25
+polaris_ru_global,Mi MIX 2S,Russia,Android 10.0,2020-12-22
+surya_id_global,POCO X3 NFC,Indonesia,Android 12.0,2023-07-21
+andromeda_global,Mi MIX 3 5G,Global,Android 9.0,2021-03-29
+lmi_global,POCO F2 Pro,Global,Android 12.0,2023-03-24
+lmi_eea_global,POCO F2 Pro,EEA,Android 12.0,2023-03-13
+cannon,Redmi Note 9 5G,China,Android 12.0,2023-10-25
+citrus_ru_global,POCO M3,Russia,Android 12.0,2023-05-10
+lotus_global,Mi Play,Global,Android 8.1,2021-01-14
+lotus_ru_global,Mi Play,Russia,Android 8.1,2021-01-20
+curtana_eea_global,Redmi Note 9S,EEA,Android 12.0,2023-04-18
+cmi_eea_global,Mi 10 Pro,EEA,Android 13.0,2024-05-10
+beryllium_ru_global,POCO F1,Russia,Android 10.0,2021-01-29
+tiare_eea_global,Redmi Go,EEA,Android 8.1,2021-02-19
+tiare_global,Redmi Go,Global,Android 8.1,2021-02-18
+lime_ru_global,Redmi 9T,Russia,Android 12.0,2023-05-12
+tiare_in_global,Redmi Go,India,Android 8.1,2021-02-24
+onclite_global,Redmi 7,Global,Android 10.0,2021-03-12
+onclite_ru_global,Redmi 7,Russia,Android 10.0,2021-03-19
+gauguin_in_global,Mi 10i,India,Android 12.0,2023-07-03
+onclite_in_global,Redmi 7,India,Android 10.0,2021-04-07
+surya_eea_global,POCO X3 NFC,EEA,Android 12.0,2023-08-17
+monet_eea_global,Mi 10 Lite,EEA,Android 12.0,2022-11-08
+onc_in_global,Redmi Y3,India,Android 10.0,2021-04-14
+tiare_ru_global,Redmi Go,Russia,Android 8.1,2021-04-16
+joyeuse_ru_global,Redmi Note 9 Pro,Russia,Android 12.0,2023-04-28
+laurus,Mi CC 9e,China,Android 10.0,2021-11-26
+pyxis,Mi CC 9,China,Android 11.0,2021-11-25
+vela,Mi CC 9 Meitu Edition,China,Android 11.0,2021-11-25
+camellian_eea_global,Redmi Note 10 5G,EEA,Android 13.0,2023-10-09
+rosemary_global,Redmi Note 10S,Global,Android 13.0,2023-11-20
+haydn_in_global,Mi 11X Pro,India,Android 14.0,2024-05-10
+mojito_global,Redmi Note 10,Global,Android 12.0,2023-10-27
+andromeda_eea_global,Mi MIX 3 5G,EEA,Android 9.0,2021-05-31
+haydn_eea_global,Mi 11i,EEA,Android 14.0,2024-04-28
+grus_ru_global,Mi 9 SE,Russia,Android 11.0,2021-06-04
+biloba_global,Redmi Note 8 (2021),Global,Android 13.0,2023-09-22
+grus_eea_global,Mi 9 SE,EEA,Android 11.0,2021-06-04
+sweetin_in_global,Redmi Note 10 Pro / Pro Max,India,Android 13.0,2023-04-07
+davinci_global,Mi 9T,Global,Android 11.0,2021-08-06
+gauguin_tr_global,Mi 10T Lite,Turkey,Android 12.0,2023-05-08
+surya_in_global,POCO X3,India,Android 12.0,2022-08-25
+curtana_tr_global,Redmi Note 9S,Turkey,Android 12.0,2023-04-28
+begonia_eea_global,Redmi Note 8 Pro,EEA,Android 11.0,2022-09-16
+raphael_eea_global,Mi 9T Pro,EEA,Android 11.0,2021-07-06
+raphaelin_in_global,Redmi K20 Pro,India,Android 11.0,2021-07-09
+begonia_global,Redmi Note 8 Pro,Global,Android 11.0,2022-06-06
+daisy_global,Mi A2 Lite,Global,Android 10.0,2021-07-13
+sweet_eea_global,Redmi Note 10 Pro,EEA,Android 13.0,2023-12-11
+jasmine_global,Mi A2,Global,Android 10.0,2021-07-15
+raphael_ru_global,Mi 9T Pro,Russia,Android 11.0,2021-07-15
+apollo_global,Mi 10T / Mi 10T Pro,Global,Android 12.0,2023-07-19
+pyxis_global,Mi 9 Lite,Global,Android 11.0,2021-07-20
+davinciin_in_global,Redmi K20,India,Android 11.0,2021-07-17
+cepheus_ru_global,Mi 9,Russia,Android 11.0,2021-07-23
+willow_global,Redmi Note 8T,Global,Android 11.0,2022-07-01
+onclite_eea_global,Redmi 7,EEA,Android 10.0,2021-08-19
+lime_tw_global,Redmi 9T,Taiwan,Android 12.0,2023-05-06
+lime_tr_global,Redmi 9T,Turkey,Android 12.0,2023-05-19
+lime_id_global,Redmi 9T,Indonesia,Android 12.0,2023-05-06
+raphael_global,Mi 9T Pro,Global,Android 11.0,2021-08-13
+apollo,Redmi K30S Ultra,China,Android 12.0,2023-03-08
+pine_eea_global,Redmi 7A,EEA,Android 10.0,2021-10-12
+gram_in_global,POCO M2 Pro,India,Android 12.0,2023-07-20
+dandelion_tr_global,Redmi 9A,Turkey,Android 10.0,2021-09-02
+davinci_ru_global,Mi 9T,Russia,Android 11.0,2021-09-03
+curtana_in_global,Redmi Note 9 Pro,India,Android 12.0,2023-04-28
+courbet_global,Mi 11 Lite 4G,Global,Android 13.0,2023-10-31
+courbet_eea_global,Mi 11 Lite 4G,EEA,Android 13.0,2023-11-07
+alioth_global,POCO F3,Global,Android 13.0,2024-04-22
+lavender_eea_global,Redmi Note 7,EEA,Android 10.0,2021-09-13
+lavender_ru_global,Redmi Note 7,Russia,Android 10.0,2021-09-13
+davinci_eea_global,Mi 9T,EEA,Android 11.0,2021-09-16
+violet_in_global,Redmi Note 7 Pro,India,Android 10.0,2021-10-08
+angelicain_in_rf_global,POCO C31,India,Android 11.0,2023-08-07
+alioth_in_global,Mi 11X,India,Android 13.0,2024-05-10
+agate_global,Xiaomi 11T,Global,Android 14.0,2024-04-01
+agate_eea_global,Xiaomi 11T,EEA,Android 14.0,2024-04-23
+lisa_global,Xiaomi 11 Lite 5G NE,Global,Android 14.0,2024-03-20
+lavender_in_global,Redmi Note 7/7S,India,Android 10.0,2021-09-29
+ginkgo,Redmi Note 8,China,Android 11.0,2022-08-10
+excalibur_in_global,Redmi Note 9 Pro Max,India,Android 12.0,2023-05-06
+mona,Xiaomi Civi,China,Android 13.0,2024-03-04
+haydn_global,Mi 11i,Global,Android 14.0,2024-05-10
+olivelite_ru_global,Redmi 8A,Russia,Android 10.0,2021-10-19
+olivelite_in_global,Redmi 8A,India,Android 10.0,2021-10-20
+olive_in_global,Redmi 8,India,Android 10.0,2021-11-05
+olive_eea_global,Redmi 8,EEA,Android 10.0,2021-10-27
+nabu_eea_global,Xiaomi Pad 5,EEA,Android 13.0,2024-04-07
+nabu_tr_global,Xiaomi Pad 5,Turkey,Android 13.0,2024-04-10
+nabu_ru_global,Xiaomi Pad 5,Russia,Android 13.0,2024-04-10
+begoniain_in_global,Redmi Note 8 Pro,India,Android 11.0,2022-07-07
+ginkgo_id_global,Redmi Note 8,Indonesia,Android 11.0,2022-07-29
+willow_ru_global,Redmi Note 8T,Russia,Android 11.0,2022-01-04
+olive_global,Redmi 8,Global,Android 10.0,2021-11-01
+olivelite_global,Redmi 8A,Global,Android 10.0,2021-11-01
+olivelite_eea_global,Redmi 8A,EEA,Android 10.0,2021-11-01
+olive_ru_global,Redmi 8,Russia,Android 10.0,2021-11-01
+begonia_ru_global,Redmi Note 8 Pro,Russia,Android 11.0,2022-07-20
+nabu,Xiaomi Pad 5,China,Android 13.0,2024-05-28
+lancelot,Redmi 9,China,Android 12.0,2022-09-26
+olivelite,Redmi 8A,China,Android 10.0,2021-12-08
+cepheus_eea_global,Mi 9,EEA,Android 11.0,2021-11-26
+phoenixin_in_global,POCO X2,India,Android 11.0,2022-02-07
+begonia,Redmi Note 8 Pro,China,Android 11.0,2022-06-13
+crux,Mi 9 Pro 5G,China,Android 11.0,2022-04-11
+selenes,Redmi Note 11 4G,China,Android 13.0,2023-05-16
+lavender_global,Redmi Note 7,Global,Android 10.0,2021-12-15
+dipper_ru_global,Mi 8,Russia,Android 10.0,2021-12-21
+pine_global,Redmi 7A,Global,Android 10.0,2021-12-27
+vili_eea_global,Xiaomi 11T Pro,EEA,Android 14.0,2024-04-26
+venus_global,Mi 11,Global,Android 14.0,2024-04-25
+pine_in_global,Redmi 7A,India,Android 10.0,2022-01-20
+pine,Redmi 7A,China,Android 10.0,2022-01-06
+olivewood_in_global,Redmi 8A Dual,India,Android 10.0,2022-02-07
+enuma,Xiaomi Pad 5 Pro 5G,China,Android 13.0,2024-05-17
+olive,Redmi 8,China,Android 10.0,2022-01-10
+equuleus_ru_global,Mi 8 Pro,Russia,Android 10.0,2022-01-14
+venus,Mi 11,China,Android 14.0,2024-04-15
+pine_ru_global,Redmi 7A,Russia,Android 10.0,2022-01-10
+citrus_in_global,POCO M3,India,Android 12.0,2023-05-09
+picasso,Redmi K30 5G,China,Android 12.0,2022-11-04
+tucana,Mi CC 9 Pro,China,Android 11.0,2022-09-03
+vangogh,Mi 10 Lite Zoom,China,Android 12.0,2022-11-10
+star,Mi 11 Pro / Ultra,China,Android 14.0,2024-04-15
+renoir,Mi 11 Lite 5G,China,Android 13.0,2023-12-08
+pissarro,Redmi Note 11 Pro / Pro+,China,Android 13.0,2024-05-29
+phoenix,Redmi K30 4G,China,Android 12.0,2022-10-09
+odin,MIX 4,China,Android 14.0,2024-04-29
+lmi,Redmi K30 Pro,China,Android 12.0,2023-05-12
+haydn,Redmi K40 Pro / Pro+,China,Android 14.0,2024-04-13
+evergo,Redmi Note 11 5G,China,Android 13.0,2024-02-26
+cmi,Mi 10 Pro,China,Android 13.0,2024-04-15
+chopin,Redmi Note 10 Pro 5G,China,Android 13.0,2023-11-14
+camellia,Redmi Note 10 5G / Redmi Note 11SE,China,Android 13.0,2023-03-17
+ares,Redmi K40 Gaming,China,Android 13.0,2024-03-05
+alioth,Redmi K40,China,Android 13.0,2024-04-15
+gauguin,Redmi Note 9 Pro 5G,China,Android 12.0,2023-03-24
+umi,Mi 10,China,Android 13.0,2024-04-15
+thyme,Mi 10S,China,Android 13.0,2024-04-22
+spesn_ru_global,Redmi Note 11 NFC,Russia,Android 13.0,2024-05-17
+venus_eea_global,Mi 11,EEA,Android 14.0,2024-04-18
+spesn_eea_global,Redmi Note 11 NFC,EEA,Android 13.0,2024-03-26
+lisa,Mi 11 LE,China,Android 14.0,2024-05-09
+psyche,Xiaomi 12X,China,Android 13.0,2024-03-05
+cas,Mi 10 Ultra,China,Android 13.0,2024-04-15
+atom,Redmi 10X 5G,China,Android 12.0,2023-07-20
+bomb,Redmi 10X Pro,China,Android 12.0,2023-07-20
+umi_global,Mi 10,Global,Android 13.0,2024-05-08
+viva_global,Redmi Note 11 Pro 4G,Global,Android 13.0,2024-03-25
+elish,Xiaomi Pad 5 Pro Wi-Fi,China,Android 13.0,2024-05-17
+cetus,Mi MIX Fold,China,Android 13.0,2024-02-20
+dandelion_c3l2,Redmi 10A,China,Android 11.0,2023-04-24
+vayu_ru_global,POCO X3 Pro,Russia,Android 13.0,2023-03-09
+umi_eea_global,Mi 10,EEA,Android 13.0,2024-04-23
+vayu_tr_global,POCO X3 Pro,Turkey,Android 13.0,2023-03-13
+picasso_48m,Redmi K30i 5G,China,Android 12.0,2022-10-19
+lime,Redmi Note 9 4G,China,Android 12.0,2023-03-07
+monet_global,Mi 10 Lite,Global,Android 12.0,2022-11-14
+gauguin_tw_global,Mi 10T Lite,Taiwan,Android 12.0,2023-05-08
+camellian_global,Redmi Note 10 5G,Global,Android 13.0,2023-10-10
+munch,Redmi K40S,China,Android 14.0,2024-04-14
+tucana_id_global,Mi Note 10 / Note 10 Pro,Indonesia,Android 11.0,2022-09-19
+merlin_ru_global,Redmi Note 9,Russia,Android 12.0,2023-01-28
+dandelion_global,Redmi 9A,Global,Android 10.0,2023-04-10
+curtana_global,Redmi Note 9S,Global,Android 12.0,2023-06-12
+joyeuse_eea_global,Redmi Note 9 Pro,EEA,Android 12.0,2023-08-09
+willow_eea_global,Redmi Note 8T,EEA,Android 11.0,2022-06-17
+begonia_id_global,Redmi Note 8 Pro,Indonesia,Android 11.0,2022-06-13
+veux,Redmi Note 11E Pro,China,Android 13.0,2024-02-27
+merlin,Redmi 10X 4G,China,Android 12.0,2022-06-17
+apollo_eea_global,Mi 10T / Mi 10T Pro,EEA,Android 12.0,2023-07-18
+ginkgo_in_global,Redmi Note 8,India,Android 11.0,2022-08-30
+pyxis_ru_global,Mi 9 Lite,Russia,Android 11.0,2022-06-28
+xaga_global,Redmi Note 11T Pro / POCO X4 GT / Pro,Global,Android 14.0,2024-05-14
+light_eea_global,Redmi 10 5G / POCO M4 5G,EEA,Android 14.0,2024-05-22
+venus_tr_global,Mi 11,Turkey,Android 14.0,2024-05-15
+vayu_tw_global,POCO X3 Pro,Taiwan,Android 13.0,2023-03-23
+merlin_in_global,Redmi Note 9,India,Android 12.0,2022-12-26
+taoyao_global,Xiaomi 12 Lite,Global,Android 14.0,2024-05-23
+cmi_global,Mi 10 Pro,Global,Android 13.0,2024-04-26
+umi_ru_global,Mi 10,Russia,Android 13.0,2023-06-01
+lancelot_ru_global,Redmi 9,Russia,Android 12.0,2023-02-08
+merlin_tr_global,Redmi Note 9,Turkey,Android 12.0,2023-01-28
+merlin_global,Redmi Note 9,Global,Android 12.0,2022-10-25
+shiva_in_global,POCO M2,India,Android 11.0,2022-08-01
+pyxis_eea_global,Mi 9 Lite,EEA,Android 11.0,2022-08-09
+sweet_id_global,Redmi Note 10 Pro,Indonesia,Android 13.0,2023-03-30
+daumier,Xiaomi 12 Pro Dimensity,China,Android 14.0,2024-02-21
+angelican_ru_global,Redmi 9C NFC,Russia,Android 11.0,2022-08-30
+olivelite_id_global,Redmi 8A,Indonesia,Android 10.0,2022-08-23
+olive_id_global,Redmi 8,Indonesia,Android 10.0,2022-08-23
+laurel_sprout_global,Mi A3,Global,Android 11.0,2022-08-15
+dandelion,Redmi 9A,China,Android 11.0,2023-04-20
+fog_eea_global,Redmi 10C,EEA,Android 13.0,2024-03-06
+cupid_global,Xiaomi 12,Global,Android 14.0,2024-05-15
+laurel_sprout_eea_global,Mi A3,EEA,Android 11.0,2022-08-15
+angelica_eea_global,Redmi 9C,EEA,Android 10.0,2022-08-22
+pissarro_in_global,Xiaomi 11i / Hypercharge,India,Android 13.0,2024-04-01
+angelican_eea_global,Redmi 9C NFC,EEA,Android 10.0,2022-08-25
+angelica_id_global,Redmi 9C,Indonesia,Android 11.0,2022-08-30
+lancelot_tr_global,Redmi 9,Turkey,Android 12.0,2023-02-03
+rock_ru_global,POCO M5,Russia,Android 14.0,2024-04-23
+curtana_in_rf_global,Redmi Note 10 Lite,India,Android 12.0,2023-09-25
+rock_tr_global,POCO M5,Turkey,Android 14.0,2024-02-18
+dandelion_c3l2_id_global,Redmi 10A,Indonesia,Android 11.0,2024-05-08
+agate_tr_global,Xiaomi 11T,Turkey,Android 14.0,2024-05-15
+cattail_in_global,Redmi 9 / 9 Activ,India,Android 10.0,2022-09-02
+olivewood_id_global,Redmi 8A Pro,Indonesia,Android 10.0,2022-09-09
+rock_tw_global,POCO M5,Taiwan,Android 14.0,2024-05-14
+tucana_eea_global,Mi Note 10 / Note 10 Pro,EEA,Android 11.0,2022-09-09
+lime_global,Redmi 9T,Global,Android 12.0,2023-07-24
+opal_tw_global,Redmi Note 11S 5G,Taiwan,Android 13.0,2024-03-18
+tucana_global,Mi Note 10 / Note 10 Pro,Global,Android 11.0,2022-09-15
+rock_in_global,POCO M5 / Redmi 11 Prime 4G,India,Android 14.0,2024-05-20
+angelica_tr_global,Redmi 9C,Turkey,Android 10.0,2022-09-30
+dandelion_ru_global,Redmi 9A,Russia,Android 11.0,2022-10-11
+tucana_ru_global,Mi Note 10 / Note 10 Pro,Russia,Android 11.0,2022-09-22
+fleur_tw_global,Redmi Note 11S 4G / POCO M4 Pro 4G,Taiwan,Android 13.0,2024-04-22
+nabu_in_global,Xiaomi Pad 5,India,Android 13.0,2024-04-07
+nabu_global,Xiaomi Pad 5,Global,Android 13.0,2024-03-20
+frost_tw_global,POCO C40,Taiwan,Android 11.0,2024-01-24
+pissarro_tw_global,Redmi Note 11 Pro+ 5G,Taiwan,Android 13.0,2024-04-16
+umi_id_global,Mi 10,Indonesia,Android 13.0,2023-06-19
+dandelion_c3l2_tw_global,Redmi 10A,Taiwan,Android 11.0,2024-02-27
+angelican_global,Redmi 9C NFC,Global,Android 10.0,2022-10-10
+gauguin_global,Mi 10T Lite,Global,Android 12.0,2023-05-09
+diting_tr_global,Xiaomi 12T Pro,Turkey,Android 14.0,2024-05-31
+opal_ru_global,Redmi Note 11S 5G,Russia,Android 13.0,2024-04-07
+light_in_global,Redmi 11 Prime 5G / POCO M4 5G,India,Android 14.0,2024-05-14
+evergreen_tw_global,POCO M4 Pro 5G,Taiwan,Android 13.0,2024-03-18
+evergreen_tr_global,POCO M4 Pro 5G,Turkey,Android 13.0,2024-04-07
+venus_tw_global,Mi 11,Taiwan,Android 14.0,2024-05-14
+vida_in_global,Redmi Note 11 Pro 4G,India,Android 13.0,2024-03-05
+veux_id_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,Indonesia,Android 13.0,2024-05-06
+toco_ru_global,Mi Note 10 Lite,Russia,Android 12.0,2022-11-09
+ruby,Redmi Note 12 Pro / Pro+ / Discovery 5G,China,Android 14.0,2024-05-11
+sunstone,Redmi Note 12 5G / Note 12R Pro,China,Android 14.0,2024-05-04
+lancelot_id_global,Redmi 9,Indonesia,Android 12.0,2022-11-30
+ice_tw_global,Redmi A1 / POCO C50,Taiwan,Android 12.0,2023-01-17
+monet_tw_global,Mi 10 Lite,Taiwan,Android 12.0,2022-11-14
+vayu_eea_global,POCO X3 Pro,EEA,Android 13.0,2023-04-19
+zeus,Xiaomi 12 Pro,China,Android 14.0,2024-03-18
+vayu_id_global,POCO X3 Pro,Indonesia,Android 13.0,2023-03-09
+ice_eea_global,Redmi A1 / POCO C50,EEA,Android 12.0,2024-04-09
+ice_id_global,Redmi A1 / POCO C50,Indonesia,Android 12.0,2023-06-15
+vili_tr_global,Xiaomi 11T Pro,Turkey,Android 14.0,2024-05-17
+pissarro_in_fk_global,Xiaomi 11i 5G,India,Android 13.0,2023-03-24
+ginkgo_eea_global,Redmi Note 8,EEA,Android 11.0,2022-12-01
+chopin_tr_global,POCO X3 GT,Turkey,Android 13.0,2023-12-28
+merlin_eea_global,Redmi Note 9,EEA,Android 12.0,2022-12-12
+merlin_id_global,Redmi Note 9,Indonesia,Android 12.0,2022-12-12
+cupid_eea_global,Xiaomi 12,EEA,Android 14.0,2024-04-18
+camellian_tw_global,Redmi Note 10 5G,Taiwan,Android 13.0,2023-07-07
+xaga,Redmi Note 11T Pro / Pro+,China,Android 14.0,2024-05-20
+unicorn,Xiaomi 12S Pro,China,Android 14.0,2024-04-08
+rubens,Redmi K50,China,Android 14.0,2024-03-19
+mayfly,Xiaomi 12S,China,Android 14.0,2024-04-02
+matisse,Redmi K50 Pro,China,Android 14.0,2024-02-28
+ingres,Redmi K50G,China,Android 14.0,2024-04-03
+diting,Redmi K50 Ultra,China,Android 14.0,2024-05-16
+cupid,Xiaomi 12,China,Android 14.0,2024-03-01
+zijin,Xiaomi Civi 1S,China,Android 14.0,2024-05-09
+thor,Xiaomi 12S Ultra,China,Android 14.0,2024-04-15
+ice_global,Redmi A1 / POCO C50,Global,Android 12.0,2024-04-09
+diting_jp_global,Xiaomi 12T Pro,Japan,Android 13.0,2023-12-25
+redwood_eea_global,POCO X5 Pro 5G,EEA,Android 14.0,2024-05-20
+viva_tw_global,Redmi Note 11 Pro 4G,Taiwan,Android 13.0,2024-03-05
+zeus_global,Xiaomi 12 Pro,Global,Android 14.0,2024-04-16
+zizhan,Xiaomi MIX Fold 2,China,Android 14.0,2024-05-27
+zeus_eea_global,Xiaomi 12 Pro,EEA,Android 14.0,2024-04-22
+lancelot_in_global,Redmi 9 Prime,India,Android 12.0,2022-12-23
+redwood_tr_global,POCO X5 Pro 5G,Turkey,Android 14.0,2024-05-30
+dagu,Xiaomi Pad 5 Pro 12.4,China,Android 14.0,2024-05-27
+light_id_global,Redmi 10 5G / POCO M4 5G,Indonesia,Android 14.0,2024-05-14
+dandelion_c3l2_in_global,Redmi 10A / 10A Sport,India,Android 11.0,2024-03-21
+redwood,Redmi Note 12 Pro Speed,China,Android 14.0,2024-04-19
+rosemary_p_tr_global,POCO M5S,Turkey,Android 13.0,2024-01-23
+fuxi,Xiaomi 13,China,Android 14.0,2024-03-21
+socrates,Redmi K60 Pro,China,Android 14.0,2024-05-31
+merlin_tw_global,Redmi Note 9,Taiwan,Android 12.0,2023-02-03
+vayu_global,POCO X3 Pro,Global,Android 13.0,2023-05-18
+ruby_in_global,Redmi Note 12 Pro / Pro+ 5G,India,Android 14.0,2024-04-16
+ziyi,Xiaomi Civi 2,China,Android 14.0,2024-05-28
+veux_tr_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,Turkey,Android 13.0,2024-05-09
+toco_eea_global,Mi Note 10 Lite,EEA,Android 12.0,2023-01-21
+redwood_in_global,POCO X5 Pro 5G,India,Android 14.0,2024-05-30
+redwood_ru_global,POCO X5 Pro 5G,Russia,Android 14.0,2024-05-30
+camellian_tr_global,Redmi Note 10 5G,Turkey,Android 13.0,2023-06-28
+biloba_ru_global,Redmi Note 8 (2021),Russia,Android 13.0,2024-04-03
+rosemary_p_id_global,POCO M5S,Indonesia,Android 13.0,2024-01-22
+frost_eea_global,POCO C40,EEA,Android 11.0,2024-03-12
+camellia_in_global,Redmi Note 10T 5G / POCO M3 Pro 5G,India,Android 13.0,2023-10-17
+light,Redmi Note 11E,China,Android 14.0,2024-03-21
+ingres_tw_global,POCO F4 GT,Taiwan,Android 14.0,2024-04-26
+ingres_ru_global,POCO F4 GT,Russia,Android 14.0,2024-03-25
+agate_id_global,Xiaomi 11T,Indonesia,Android 14.0,2024-05-15
+mondrian,Redmi K60,China,Android 14.0,2024-05-24
+courbet_tr_global,Mi 11 Lite 4G,Turkey,Android 13.0,2023-08-16
+redwood_global,POCO X5 Pro 5G,Global,Android 14.0,2024-05-21
+plato_id_global,Xiaomi 12T,Indonesia,Android 14.0,2024-04-29
+fuxi_tr_global,Xiaomi 13,Turkey,Android 13.0,2023-02-27
+nuwa_tr_global,Xiaomi 13 Pro,Turkey,Android 13.0,2023-02-27
+dandelion_in_global,Redmi 9A / 9i / 9A Sport,India,Android 10.0,2023-02-17
+apollo_in_global,Mi 10T / Mi 10T Pro,India,Android 12.0,2023-05-22
+lightcm,Redmi Note 11R,China,Android 14.0,2024-01-15
+plato_tr_global,Xiaomi 12T,Turkey,Android 14.0,2024-01-17
+marble,Redmi Note 12 Turbo,China,Android 14.0,2024-05-06
+vayu_in_global,POCO X3 Pro,India,Android 13.0,2023-06-01
+spes_tr_global,Redmi Note 11,Turkey,Android 13.0,2024-04-11
+zeus_tw_global,Xiaomi 12 Pro,Taiwan,Android 14.0,2024-05-23
+yunluo_ru_global,Redmi Pad,Russia,Android 14.0,2024-03-19
+yunluo_id_global,Redmi Pad,Indonesia,Android 14.0,2024-03-25
+ingres_tr_global,POCO F4 GT,Turkey,Android 14.0,2024-03-25
+courbet_id_global,Mi 11 Lite 4G,Indonesia,Android 13.0,2023-04-28
+alioth_id_global,POCO F3,Indonesia,Android 13.0,2024-05-10
+dandelion_id_global,Redmi 9A,Indonesia,Android 10.0,2023-02-28
+yunluo,Redmi Pad,China,Android 14.0,2024-05-30
+ruby_tw_global,Redmi Note 12 Pro / Pro+ 5G,Taiwan,Android 14.0,2024-05-15
+xaga_tw_global,Redmi Note 11T Pro / POCO X4 GT / Pro,Taiwan,Android 14.0,2024-05-23
+xaga_tr_global,Redmi Note 11T Pro / POCO X4 GT / Pro,Turkey,Android 14.0,2024-05-23
+cupid_tw_global,Xiaomi 12,Taiwan,Android 14.0,2024-04-28
+cupid_id_global,Xiaomi 12,Indonesia,Android 14.0,2024-04-28
+chopin_id_global,POCO X3 GT,Indonesia,Android 13.0,2024-01-04
+zeus_tr_global,Xiaomi 12 Pro,Turkey,Android 14.0,2024-05-23
+zeus_ru_global,Xiaomi 12 Pro,Russia,Android 14.0,2024-05-08
+selene_tw_global,Redmi 10 / Redmi 10 2022,Taiwan,Android 13.0,2023-12-25
+ingres_id_global,POCO F4 GT,Indonesia,Android 14.0,2024-04-25
+cupid_ru_global,Xiaomi 12,Russia,Android 14.0,2024-05-29
+yunluo_tw_global,Redmi Pad,Taiwan,Android 14.0,2024-03-25
+selene_eea_global,Redmi 10 / Redmi 10 2022,EEA,Android 13.0,2024-05-08
+star_id_global,Mi 11 Ultra,Indonesia,Android 14.0,2024-05-30
+sweet_tw_global,Redmi Note 10 Pro,Taiwan,Android 13.0,2023-11-27
+pissarro_tr_global,Redmi Note 11 Pro+ 5G,Turkey,Android 13.0,2024-04-22
+cupid_tr_global,Xiaomi 12,Turkey,Android 14.0,2024-05-29
+pissarro_ru_global,Redmi Note 11 Pro+ 5G,Russia,Android 13.0,2024-04-17
+ruby_ru_global,Redmi Note 12 Pro / Pro+ 5G,Russia,Android 14.0,2024-05-10
+fuxi_global,Xiaomi 13,Global,Android 14.0,2024-04-19
+ingres_eea_global,POCO F4 GT,EEA,Android 14.0,2024-04-26
+yunluo_tr_global,Redmi Pad,Turkey,Android 14.0,2024-03-06
+ziyi_eea_global,Xiaomi Civi 2 / 13 Lite,EEA,Android 14.0,2024-05-17
+dandelion_c3l2_eea_global,Redmi 10A,EEA,Android 11.0,2024-05-09
+dandelion_c3l2_global,Redmi 10A,Global,Android 11.0,2024-03-21
+munch_id_global,POCO F4,Indonesia,Android 14.0,2024-05-14
+selene_id_global,Redmi 10 / Redmi 10 2022,Indonesia,Android 13.0,2024-05-09
+alioth_eea_global,POCO F3,EEA,Android 13.0,2024-04-22
+vili_id_global,Xiaomi 11T Pro,Indonesia,Android 14.0,2024-05-14
+venus_ru_global,Mi 11,Russia,Android 14.0,2024-05-14
+venus_id_global,Mi 11,Indonesia,Android 14.0,2024-05-09
+dandelion_eea_global,Redmi 9A / 9AT,EEA,Android 10.0,2023-03-20
+vili_tw_global,Xiaomi 11T Pro,Taiwan,Android 14.0,2024-05-17
+fleur_ru_global,Redmi Note 11S 4G / POCO M4 Pro 4G,Russia,Android 13.0,2024-04-08
+fleur_tr_global,Redmi Note 11S 4G / POCO M4 Pro 4G,Turkey,Android 13.0,2024-04-08
+joyeuse_global,Redmi Note 9 Pro,Global,Android 12.0,2023-03-27
+dandelion_c3l2_ru_global,Redmi 10A,Russia,Android 11.0,2024-05-15
+joyeuse_tw_global,Redmi Note 9 Pro,Taiwan,Android 12.0,2023-09-27
+rosemary_id_global,Redmi Note 10S,Indonesia,Android 13.0,2024-05-20
+evergreen_ru_global,POCO M4 Pro 5G,Russia,Android 13.0,2024-04-07
+sweet_k6a_id_global,Redmi Note 12 Pro 4G,Indonesia,Android 13.0,2024-05-23
+viva_tr_global,Redmi Note 11 Pro 4G,Turkey,Android 13.0,2024-04-01
+earth_eea_global,Redmi 12C / POCO C55,EEA,Android 14.0,2024-04-26
+selene_ru_global,Redmi 10 / Redmi 10 2022,Russia,Android 13.0,2023-10-13
+selene_global,Redmi 10 / Redmi 10 2022,Global,Android 13.0,2024-05-09
+ruby_id_global,Redmi Note 12 Pro / Pro+ 5G,Indonesia,Android 14.0,2024-04-18
+diting_tw_global,Xiaomi 12T Pro,Taiwan,Android 14.0,2024-05-31
+munch_global,POCO F4,Global,Android 14.0,2024-04-26
+camellian_id_global,Redmi Note 10 5G,Indonesia,Android 13.0,2023-09-12
+frost_ru_global,POCO C40,Russia,Android 11.0,2024-03-15
+rock_eea_global,POCO M5,EEA,Android 14.0,2024-05-20
+rock_id_global,POCO M5,Indonesia,Android 14.0,2024-04-17
+earth_global,Redmi 12C / POCO C55,Global,Android 14.0,2024-05-12
+earth_id_global,Redmi 12C / POCO C55,Indonesia,Android 14.0,2024-05-16
+earth_tr_global,Redmi 12C / POCO C55,Turkey,Android 14.0,2024-05-16
+light_tw_global,Redmi 10 5G / POCO M4 5G,Taiwan,Android 14.0,2024-03-01
+water_global,Redmi A2 / A2+ / POCO C51,Global,Android 13.0,2024-05-30
+joyeuse_id_global,Redmi Note 9 Pro,Indonesia,Android 12.0,2023-03-31
+agate_tw_global,Xiaomi 11T,Taiwan,Android 14.0,2024-05-15
+xaga_in_global,Redmi K50i / Pro,India,Android 14.0,2024-05-22
+lmi_id_global,POCO F2 Pro,Indonesia,Android 12.0,2023-03-29
+selene_tr_global,Redmi 10 / Redmi 10 2022,Turkey,Android 13.0,2023-12-18
+earth_ru_global,Redmi 12C / POCO C55,Russia,Android 14.0,2024-05-16
+light_ru_global,Redmi 10 5G / POCO M4 5G,Russia,Android 14.0,2024-03-25
+munch_eea_global,POCO F4,EEA,Android 14.0,2024-05-13
+light_tr_global,Redmi 10 5G / POCO M4 5G,Turkey,Android 14.0,2024-03-25
+moonstone_ru_global,POCO X5 5G,Russia,Android 14.0,2024-05-13
+rosemary_p_ru_global,POCO M5S,Russia,Android 13.0,2024-04-18
+rosemary_p_tw_global,POCO M5S,Taiwan,Android 13.0,2024-02-29
+ruby_eea_global,Redmi Note 12 Pro / Pro+ 5G,EEA,Android 14.0,2024-05-28
+ruby_global,Redmi Note 12 Pro / Pro+ 5G,Global,Android 14.0,2024-05-28
+veux_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,Global,Android 13.0,2024-03-23
+yunluo_eea_global,Redmi Pad,EEA,Android 14.0,2024-04-08
+angelica_global,Redmi 9C,Global,Android 10.0,2023-04-13
+lmi_ru_global,POCO F2 Pro,Russia,Android 12.0,2023-04-06
+renoir_eea_global,Mi 11 Lite 5G,EEA,Android 13.0,2023-12-26
+renoir_global,Mi 11 Lite 5G,Global,Android 13.0,2024-01-04
+sunstone_in_global,Redmi Note 12 5G,India,Android 14.0,2024-05-09
+fog_in_global,Redmi 10C,India,Android 13.0,2024-05-17
+fog_id_global,Redmi 10C,Indonesia,Android 13.0,2024-04-18
+evergo_in_global,Redmi Note 11T 5G,India,Android 13.0,2024-04-09
+moonstone_eea_global,POCO X5 5G,EEA,Android 14.0,2024-04-18
+plato_global,Xiaomi 12T,Global,Android 14.0,2024-05-15
+rosemary_eea_global,Redmi Note 10S,EEA,Android 13.0,2024-02-23
+rosemary_in_global,Redmi Note 10S / Redmi Note 11 SE,India,Android 13.0,2024-03-18
+diting_global,Xiaomi 12T Pro,Global,Android 14.0,2024-05-16
+earth_tw_global,Redmi 12C / POCO C55,Taiwan,Android 14.0,2024-05-12
+zeus_in_global,Xiaomi 12 Pro,India,Android 14.0,2024-05-08
+cannong_global,Redmi Note 9T,Global,Android 12.0,2023-11-08
+apollo_ru_global,Mi 10T / Mi 10T Pro,Russia,Android 12.0,2023-04-06
+cannong_eea_global,Redmi Note 9T,EEA,Android 12.0,2023-11-09
+moonstone_id_global,POCO X5 5G,Indonesia,Android 14.0,2024-05-09
+ruby_tr_global,Redmi Note 12 Pro / Pro+ 5G,Turkey,Android 14.0,2024-05-15
+spesn_id_global,Redmi Note 11 NFC,Indonesia,Android 13.0,2024-04-11
+sweet_ru_global,Redmi Note 10 Pro,Russia,Android 13.0,2023-08-16
+sweet_tr_global,Redmi Note 10 Pro,Turkey,Android 13.0,2023-08-16
+courbet_ru_global,Mi 11 Lite 4G,Russia,Android 13.0,2023-08-08
+citrus_global,POCO M3,Global,Android 12.0,2023-04-07
+lisa_ru_global,Xiaomi 11 Lite 5G NE,Russia,Android 14.0,2024-04-11
+renoir_ru_global,Mi 11 Lite 5G,Russia,Android 13.0,2024-01-04
+nuwa,Xiaomi 13 Pro,China,Android 14.0,2024-03-21
+taoyao_id_global,Xiaomi 12 Lite,Indonesia,Android 14.0,2024-05-30
+taoyao_ru_global,Xiaomi 12 Lite,Russia,Android 14.0,2024-05-31
+rosemary_p_eea_global,POCO M5S,EEA,Android 13.0,2024-05-24
+sunstone_tw_global,Redmi Note 12 5G,Taiwan,Android 14.0,2024-02-27
+renoir_jp_global,Mi 11 Lite 5G,Japan,Android 13.0,2024-01-26
+biloba_eea_global,Redmi Note 8 (2021),EEA,Android 13.0,2023-11-30
+psyche_eea_global,Xiaomi 12X,EEA,Android 13.0,2024-04-10
+redwood_id_global,POCO X5 Pro 5G,Indonesia,Android 14.0,2024-05-30
+rosemary_ru_global,Redmi Note 10S,Russia,Android 13.0,2023-09-22
+rosemary_tr_global,Redmi Note 10S,Turkey,Android 13.0,2024-05-13
+rosemary_tw_global,Redmi Note 10S,Taiwan,Android 13.0,2023-12-08
+spes_in_global,Redmi Note 11,India,Android 13.0,2024-03-26
+apollo_id_global,Mi 10T / Mi 10T Pro,Indonesia,Android 12.0,2023-04-13
+apollo_tr_global,Mi 10T / Mi 10T Pro,Turkey,Android 12.0,2023-04-11
+apollo_tw_global,Mi 10T / Mi 10T Pro,Taiwan,Android 12.0,2023-04-23
+frost_global,POCO C40,Global,Android 11.0,2024-03-12
+star_global,Mi 11 Ultra,Global,Android 14.0,2024-05-30
+veux_in_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,India,Android 13.0,2024-04-17
+vili_jp_global,Xiaomi 11T Pro,Japan,Android 13.0,2023-10-30
+courbet_in_global,Mi 11 Lite 4G,India,Android 13.0,2023-04-17
+yunluo_global,Redmi Pad,Global,Android 14.0,2024-03-26
+fog_tr_global,Redmi 10C,Turkey,Android 13.0,2024-01-04
+fog_tw_global,Redmi 10C,Taiwan,Android 13.0,2024-04-11
+psyche_global,Xiaomi 12X,Global,Android 13.0,2024-02-29
+selene_in_global,Redmi 10 Prime / Redmi 10 2022,India,Android 13.0,2024-05-09
+tapas_tr_global,Redmi Note 12 4G,Turkey,Android 14.0,2024-05-07
+topaz_id_global,Redmi Note 12 4G NFC,Indonesia,Android 14.0,2024-05-07
+topaz_ru_global,Redmi Note 12 4G NFC,Russia,Android 14.0,2024-04-19
+diting_ru_global,Xiaomi 12T Pro,Russia,Android 14.0,2024-05-17
+zeus_id_global,Xiaomi 12 Pro,Indonesia,Android 14.0,2024-05-23
+veux_ru_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,Russia,Android 13.0,2024-05-06
+light_global,Redmi 10 5G / POCO M4 5G,Global,Android 14.0,2024-05-22
+plato_eea_global,Xiaomi 12T,EEA,Android 14.0,2024-05-17
+ziyi_tw_global,Xiaomi Civi 2 / 13 Lite,Taiwan,Android 14.0,2024-05-30
+ziyi_ru_global,Xiaomi Civi 2 / 13 Lite,Russia,Android 14.0,2024-05-23
+ziyi_tr_global,Xiaomi 13 Lite,Turkey,Android 14.0,2024-05-30
+fuxi_eea_global,Xiaomi 13,EEA,Android 14.0,2024-05-24
+fog_ru_global,Redmi 10C,Russia,Android 13.0,2024-02-06
+curtana_ru_global,Redmi Note 9S,Russia,Android 12.0,2023-04-28
+mondrian_eea_global,POCO F5 Pro,EEA,Android 14.0,2024-04-16
+fuxi_tw_global,Xiaomi 13,Taiwan,Android 14.0,2024-01-24
+yunluo_in_global,Redmi Pad,India,Android 14.0,2024-04-08
+surya_tr_global,POCO X3 NFC,Turkey,Android 12.0,2023-07-21
+surya_ru_global,POCO X3 NFC,Russia,Android 12.0,2023-07-21
+rembrandt,Redmi K60E,China,Android 14.0,2024-05-09
+nuwa_tw_global,Xiaomi 13 Pro,Taiwan,Android 14.0,2024-04-29
+nuwa_global,Xiaomi 13 Pro,Global,Android 14.0,2024-05-12
+nuwa_eea_global,Xiaomi 13 Pro,EEA,Android 14.0,2024-05-24
+moonstone_in_global,POCO X5 5G,India,Android 14.0,2024-04-17
+mojito_ru_global,Redmi Note 10,Russia,Android 12.0,2023-11-28
+diting_eea_global,Xiaomi 12T Pro,EEA,Android 14.0,2024-04-15
+mojito_eea_global,Redmi Note 10,EEA,Android 12.0,2023-12-08
+munch_in_global,POCO F4,India,Android 14.0,2024-05-14
+lilac_jp_global,Redmi Note 10T,Japan,Android 13.0,2024-01-17
+moonstone_tw_global,POCO X5 5G,Taiwan,Android 14.0,2024-03-05
+sweet_global,Redmi Note 10 Pro,Global,Android 13.0,2023-11-01
+mondrian_ru_global,POCO F5 Pro,Russia,Android 14.0,2024-05-11
+psyche_ru_global,Xiaomi 12X,Russia,Android 13.0,2024-05-14
+citrus_tr_global,POCO M3,Turkey,Android 12.0,2023-04-28
+citrus_tw_global,POCO M3,Taiwan,Android 12.0,2023-05-06
+mondrian_tw_global,POCO F5 Pro,Taiwan,Android 14.0,2024-03-26
+ziyi_global,Xiaomi Civi 2 / 13 Lite,Global,Android 14.0,2024-05-23
+munch_ru_global,POCO F4,Russia,Android 14.0,2024-05-23
+munch_tr_global,POCO F4,Turkey,Android 14.0,2024-05-27
+lime_in_global,Redmi 9 Power,India,Android 12.0,2023-05-04
+vili_ru_global,Xiaomi 11T Pro,Russia,Android 14.0,2024-05-14
+vili_global,Xiaomi 11T Pro,Global,Android 14.0,2024-05-06
+psyche_tw_global,Xiaomi 12X,Taiwan,Android 13.0,2024-04-10
+citrus_id_global,POCO M3,Indonesia,Android 12.0,2023-05-09
+nuwa_in_global,Xiaomi 13 Pro,India,Android 14.0,2024-05-22
+marble_eea_global,POCO F5,EEA,Android 14.0,2024-05-13
+marble_global,POCO F5,Global,Android 14.0,2024-05-08
+marble_id_global,POCO F5,Indonesia,Android 14.0,2024-05-14
+marble_in_global,POCO F5,India,Android 14.0,2024-05-08
+marble_ru_global,POCO F5,Russia,Android 14.0,2024-05-13
+marble_tw_global,POCO F5,Taiwan,Android 14.0,2024-05-22
+mondrian_global,POCO F5 Pro,Global,Android 14.0,2024-05-08
+mondrian_tr_global,POCO F5 Pro,Turkey,Android 14.0,2024-05-11
+sweet_k6a_eea_global,Redmi Note 12 Pro 4G,EEA,Android 13.0,2024-05-15
+taoyao_tr_global,Xiaomi 12 Lite,Turkey,Android 14.0,2024-05-31
+taoyao_tw_global,Xiaomi 12 Lite,Taiwan,Android 14.0,2024-05-31
+marble_tr_global,POCO F5,Turkey,Android 14.0,2024-05-22
+viva_eea_global,Redmi Note 11 Pro 4G,EEA,Android 13.0,2024-03-18
+lisa_eea_global,Xiaomi 11 Lite 5G NE,EEA,Android 14.0,2024-03-18
+moonstone_global,POCO X5 5G,Global,Android 14.0,2024-04-15
+renoir_tw_global,Mi 11 Lite 5G,Taiwan,Android 13.0,2024-01-31
+water_in_global,Redmi A2 / A2+ / POCO C51,India,Android 13.0,2023-06-06
+alioth_ru_global,POCO F3,Russia,Android 13.0,2024-05-21
+ares_in_global,POCO F3 GT,India,Android 13.0,2024-04-01
+fleur_in_global,Redmi Note 11S 4G / POCO M4 Pro 4G,India,Android 13.0,2024-03-26
+lisa_tw_global,Xiaomi 11 Lite 5G NE,Taiwan,Android 14.0,2024-04-11
+lisa_in_global,Xiaomi 11 Lite 5G NE,India,Android 14.0,2024-04-15
+viva_id_global,Redmi Note 11 Pro 4G,Indonesia,Android 13.0,2024-03-25
+topaz_global,Redmi Note 12 4G NFC,Global,Android 14.0,2024-05-09
+cannong_tw_global,Redmi Note 9T,Taiwan,Android 12.0,2023-05-17
+cannong_ru_global,Redmi Note 9T,Russia,Android 12.0,2023-05-17
+cannong_tr_global,Redmi Note 9T,Turkey,Android 12.0,2023-05-17
+tapas_global,Redmi Note 12 4G,Global,Android 14.0,2024-04-19
+xaga_eea_global,Redmi Note 11T Pro / POCO X4 GT / Pro,EEA,Android 14.0,2024-05-14
+lisa_tr_global,Xiaomi 11 Lite 5G NE,Turkey,Android 14.0,2024-04-15
+fleur_id_global,Redmi Note 11S 4G / POCO M4 Pro 4G,Indonesia,Android 13.0,2024-04-16
+pipa,Xiaomi Pad 6,China,Android 14.0,2024-04-02
+topaz_eea_global,Redmi Note 12 4G NFC,EEA,Android 14.0,2024-05-27
+munch_tw_global,POCO F4,Taiwan,Android 14.0,2024-05-28
+fuxi_ru_global,Xiaomi 13,Russia,Android 14.0,2024-04-07
+alioth_tr_global,POCO F3,Turkey,Android 13.0,2024-05-21
+nuwa_ru_global,Xiaomi 13 Pro,Russia,Android 14.0,2024-04-30
+pissarro_global,Redmi Note 11 Pro+ 5G,Global,Android 13.0,2024-03-18
+rock_global,POCO M5,Global,Android 14.0,2024-05-13
+lime_eea_global,Redmi 9T,EEA,Android 12.0,2023-07-18
+ishtar,Xiaomi 13 Ultra,China,Android 14.0,2024-05-11
+veux_tw_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,Taiwan,Android 13.0,2024-05-09
+taoyao_eea_global,Xiaomi 12 Lite,EEA,Android 14.0,2024-05-21
+mojito_in_global,Redmi Note 10,India,Android 12.0,2023-11-21
+sea_global,Redmi Note 12S,Global,Android 14.0,2024-04-25
+sea_ru_global,Redmi Note 12S,Russia,Android 14.0,2024-05-22
+nabu_tw_global,Xiaomi Pad 5,Taiwan,Android 13.0,2024-04-10
+fog_global,Redmi 10C,Global,Android 13.0,2024-05-27
+earth_in_global,Redmi 12C / POCO C55,India,Android 14.0,2024-05-16
+plato_ru_global,Xiaomi 12T,Russia,Android 14.0,2024-05-09
+plato_tw_global,Xiaomi 12T,Taiwan,Android 14.0,2024-04-07
+opal_eea_global,Redmi Note 11S 5G,EEA,Android 13.0,2024-04-03
+earth,Redmi 12C,China,Android 14.0,2024-02-02
+agate_ru_global,Xiaomi 11T,Russia,Android 14.0,2024-04-23
+fire_eea_global,Redmi 12,EEA,Android 14.0,2024-04-19
+veux_jp_global,Redmi Note 11 Pro 5G,Japan,Android 13.0,2024-05-29
+pissarro_eea_global,Redmi Note 11 Pro+ 5G,EEA,Android 13.0,2024-03-07
+fire_ru_global,Redmi 12,Russia,Android 14.0,2024-05-13
+rosemary_p_global,POCO M5S,Global,Android 13.0,2024-03-18
+veux_eea_global,Redmi Note 11 Pro 5G / POCO X4 Pro 5G,EEA,Android 13.0,2024-04-17
+alioth_tw_global,POCO F3,Taiwan,Android 13.0,2024-05-20
+chopin_global,POCO X3 GT,Global,Android 13.0,2023-11-29
+mojito_id_global,Redmi Note 10,Indonesia,Android 12.0,2023-11-02
+mojito_tr_global,Redmi Note 10,Turkey,Android 12.0,2023-11-21
+vili_in_global,Xiaomi 11T Pro,India,Android 14.0,2024-05-06
+sea_tr_global,Redmi Note 12S,Turkey,Android 14.0,2024-01-29
+sea_eea_global,Redmi Note 12S,EEA,Android 14.0,2024-05-08
+sea_tw_global,Redmi Note 12S,Taiwan,Android 14.0,2024-04-01
+camellian_ru_global,Redmi Note 10T / POCO M3 Pro,Russia,Android 13.0,2023-07-07
+viva_ru_global,Redmi Note 11 Pro 4G,Russia,Android 13.0,2024-04-12
+tapas_in_global,Redmi Note 12 4G,India,Android 14.0,2024-05-09
+sweet_k6a_ru_global,Redmi Note 12 Pro 4G,Russia,Android 13.0,2024-05-14
+moonstone_tr_global,POCO X5 5G,Turkey,Android 14.0,2024-03-06
+liuqin,Xiaomi Pad 6 Pro,China,Android 14.0,2024-04-05
+ice_in_global,Redmi A1 / A1+ / POCO C50,India,Android 12.0,2024-04-09
+sweet_k6a_tr_global,Redmi Note 12 Pro 4G,Turkey,Android 13.0,2024-03-21
+fleur_eea_global,Redmi Note 11S 4G / POCO M4 Pro 4G,EEA,Android 13.0,2024-03-21
+star_in_global,Mi 11 Ultra,India,Android 14.0,2024-05-16
+star_eea_global,Mi 11 Ultra,EEA,Android 14.0,2024-05-20
+evergreen_eea_global,POCO M4 Pro 5G,EEA,Android 13.0,2024-04-03
+sunstone_eea_global,Redmi Note 12 5G,EEA,Android 14.0,2024-05-22
+sunstone_global,Redmi Note 12 5G,Global,Android 14.0,2024-04-15
+opal_global,Redmi Note 11S 5G,Global,Android 13.0,2024-03-25
+fleur_global,Redmi Note 11S 4G / POCO M4 Pro 4G,Global,Android 13.0,2024-02-29
+pearl,Redmi Note 12T Pro,China,Android 14.0,2024-05-13
+spes_global,Redmi Note 11,Global,Android 13.0,2024-02-26
+spesn_global,Redmi Note 11 NFC,Global,Android 13.0,2024-04-17
+xaga_ru_global,Redmi Note 11T Pro / POCO X4 GT / Pro,Russia,Android 13.0,2024-04-01
+frost_id_global,POCO C40,Indonesia,Android 11.0,2023-08-08
+evergreen_global,POCO M4 Pro 5G,Global,Android 13.0,2024-03-25
+ishtar_eea_global,Xiaomi 13 Ultra,EEA,Android 14.0,2024-04-23
+ishtar_ru_global,Xiaomi 13 Ultra,Russia,Android 14.0,2024-04-28
+pipa_in_global,Xiaomi Pad 6,India,Android 14.0,2024-05-17
+redwood_tw_global,POCO X5 Pro 5G,Taiwan,Android 14.0,2024-05-30
+ice_ru_global,Redmi A1 / POCO C50,Russia,Android 12.0,2023-06-12
+selene,Redmi 10 / Redmi 10 2022,China,Android 13.0,2024-01-05
+fire_global,Redmi 12,Global,Android 14.0,2024-04-23
+sweet_k6a_global,Redmi Note 12 Pro 4G,Global,Android 13.0,2024-03-21
+yuechu,Xiaomi Civi 3,China,Android 14.0,2024-04-02
+ingres_global,POCO F4 GT,Global,Android 14.0,2024-04-10
+ishtar_global,Xiaomi 13 Ultra,Global,Android 14.0,2024-04-19
+ishtar_tw_global,Xiaomi 13 Ultra,Taiwan,Android 14.0,2024-04-28
+water_id_global,Redmi A2 / A2+ / POCO C51,Indonesia,Android 13.0,2024-04-29
+babylon,MIX Fold 3,China,Android 14.0,2024-05-28
+garnet,Redmi Note 13 Pro 5G,China,Android 14.0,2024-04-19
+gold,Redmi Note 13 5G / 13R Pro,China,Android 14.0,2024-05-23
+sky,Redmi Note 12R,China,Android 14.0,2024-01-17
+water_eea_global,Redmi A2 / A2+ / POCO C51,EEA,Android 13.0,2024-05-14
+houji,Xiaomi 14,China,Android 14.0,2024-05-11
+shennong,Xiaomi 14 Pro / Ti,China,Android 14.0,2024-05-11
+aristotle_eea_global,Xiaomi 13T,EEA,Android 14.0,2024-05-14
+pipa_id_global,Xiaomi Pad 6,Indonesia,Android 14.0,2024-05-17
+manet,Redmi K70 Pro,China,Android 14.0,2024-05-28
+duchamp,Redmi K70E,China,Android 14.0,2024-05-31
+corot,Redmi K60 Ultra,China,Android 14.0,2024-05-17
+zircon_eea_global,Redmi Note 13 Pro+ 5G,EEA,Android 14.0,2024-05-23
+water_tw_global,Redmi A2 / A2+ / POCO C51,Taiwan,Android 13.0,2024-01-22
+xun,Redmi Pad SE,China,Android 14.0,2024-05-14
+corot_tr_global,Xiaomi 13T Pro,Turkey,Android 14.0,2024-02-18
+corot_jp_global,Xiaomi 13T Pro,Japan,Android 13.0,2024-01-29
+corot_ru_global,Xiaomi 13T Pro,Russia,Android 14.0,2024-02-26
+frost_tr_global,POCO C40,Turkey,Android 11.0,2024-02-20
+sheng,Xiaomi Pad 6S Pro 12.4,China,Android 14.0,2024-05-27
+blue_ru_global,Redmi A3,Russia,Android 14.0,2024-02-22
+shennong_t,Xiaomi 14 Pro Ti Satellite,China,Android 14.0,2024-03-05
+aurora_eea_global,Xiaomi 14 Ultra,EEA,Android 14.0,2024-05-13
+sky_tw_global,Redmi 12 5G / POCO M6 Pro 5G,Taiwan,Android 14.0,2024-03-05
+blue_eea_global,Redmi A3,EEA,Android 14.0,2024-02-27
+garnet_eea_global,Redmi Note 13 Pro 5G / POCO X6 5G,EEA,Android 14.0,2024-04-26
+houji_tr_global,Xiaomi 14,Turkey,Android 14.0,2024-02-29
+ruby_kr_global,Redmi Note 12 Pro / Pro+ 5G South,Korea,Android 14.0,2024-05-15
+sky_jp_global,Redmi 12 5G,Japan,Android 14.0,2024-03-07
+duchamp_global,POCO X6 Pro 5G,Global,Android 14.0,2024-05-23
+duchamp_eea_global,POCO X6 Pro 5G,EEA,Android 14.0,2024-05-29
+xun_tr_global,Redmi Pad SE,Turkey,Android 14.0,2024-03-15
+water_ru_global,Redmi A2 / A2+ / POCO C51,Russia,Android 13.0,2024-03-07
+corot_tw_global,Xiaomi 13T Pro,Taiwan,Android 14.0,2024-03-28
+duchamp_in_global,POCO X6 Pro 5G,India,Android 14.0,2024-05-23
+corot_global,Xiaomi 13T Pro,Global,Android 14.0,2024-03-21
+blue_id_global,Redmi A3,Indonesia,Android 14.0,2024-03-14
+aurora_global,Xiaomi 14 Ultra,Global,Android 14.0,2024-05-23
+blue_in_global,POCO C61/Redmi A3,India,Android 14.0,2024-03-14
+aurora,Xiaomi 14 Ultra,China,Android 14.0,2024-05-31
+garnet_global,Redmi Note 13 Pro 5G / POCO X6 5G,Global,Android 14.0,2024-03-25
+garnet_id_global,Redmi Note 13 Pro 5G / POCO X6 5G,Indonesia,Android 14.0,2024-04-01
+garnet_tr_global,Redmi Note 13 Pro 5G / POCO X6 5G,Turkey,Android 14.0,2024-04-01
+garnet_ru_global,Redmi Note 13 Pro 5G / POCO X6 5G,Russia,Android 14.0,2024-04-01
+garnet_tw_global,Redmi Note 13 Pro 5G / POCO X6 5G,Taiwan,Android 14.0,2024-04-03
+houji_tw_global,Xiaomi 14,Taiwan,Android 14.0,2024-05-28
+emerald_id_global,Redmi Note 13 Pro 4G / POCO M6 Pro,Indonesia,Android 14.0,2024-04-09
+vermeer_tw_global,POCO F6 Pro,Taiwan,Android 14.0,2024-05-22
+yudi,Xiaomi Pad 6 Max 14,China,Android 14.0,2024-04-03
+vermeer_ru_global,POCO F6 Pro,Russia,Android 14.0,2024-05-14
+fire_id_global,Redmi 12,Indonesia,Android 14.0,2024-04-08
+blue_global,Redmi A3,Global,Android 14.0,2024-03-28
+emerald_ru_global,Redmi Note 13 Pro 4G / POCO M6 Pro,Russia,Android 14.0,2024-04-12
+houji_id_global,Xiaomi 14,Indonesia,Android 14.0,2024-04-11
+houji_in_global,Xiaomi 14,India,Android 14.0,2024-04-11
+air_in_global,Redmi 13R 5G / POCO M6 5G,India,Android 13.0,2024-04-17
+corot_eea_global,Xiaomi 13T Pro,EEA,Android 14.0,2024-04-25
+aristotle_global,Xiaomi 13T,Global,Android 14.0,2024-04-19
+gale_in_global,Redmi 13C / POCO C65,India,Android 14.0,2024-04-30
+gale_eea_global,Redmi 13C / POCO C65,EEA,Android 14.0,2024-04-23
+peridot,Redmi Turbo 3,China,Android 14.0,2024-05-14
+fire_in_global,Redmi 12,India,Android 14.0,2024-05-10
+sky_eea_global,Redmi 12 5G / POCO M6 Pro 5G,EEA,Android 14.0,2024-04-25
+gale_id_global,Redmi 13C / POCO C65,Indonesia,Android 14.0,2024-05-08
+gale_ru_global,Redmi 13C / POCO C65,Russia,Android 14.0,2024-05-08
+houji_global,Xiaomi 14,Global,Android 14.0,2024-04-29
+peridot_in_global,POCO F6,India,Android 14.0,2024-05-23
+duchamp_id_global,POCO X6 Pro 5G,Indonesia,Android 14.0,2024-05-16
+peridot_ru_global,POCO F6,Russia,Android 14.0,2024-05-23
+sky_in_global,Redmi 12 5G / POCO M6 Pro 5G,India,Android 14.0,2024-05-09
+xun_global,Redmi Pad SE,Global,Android 14.0,2024-04-28
+gale_tw_global,Redmi 13C / POCO C65,Taiwan,Android 14.0,2024-05-09
+gale_tr_global,Redmi 13C / POCO C65,Turkey,Android 14.0,2024-05-09
+vermeer_global,POCO F6 Pro,Global,Android 14.0,2024-05-22
+xun_eea_global,Redmi Pad SE,EEA,Android 14.0,2024-05-07
+aristotle_ru_global,Xiaomi 13T,Russia,Android 14.0,2024-05-15
+emerald_global,Redmi Note 13 Pro 4G / POCO M6 Pro,Global,Android 14.0,2024-05-11
+fire_tr_global,Redmi 12,Turkey,Android 14.0,2024-05-13
+air_eea_global,Redmi 13R 5G / 13C 5G,EEA,Android 13.0,2024-05-06
+aurora_in_global,Xiaomi 14 Ultra,India,Android 14.0,2024-05-13
+dizi,Redmi Pad Pro,China,Android 14.0,2024-05-28
+moon_eea_global,Redmi 13 / POCO M6,EEA,Android 14.0,2024-05-07
+xun_ru_global,Redmi Pad SE,Russia,Android 14.0,2024-05-21
+xun_id_global,Redmi Pad SE,Indonesia,Android 14.0,2024-05-11
+sapphiren_tr_global,Redmi Note 13 NFC,Turkey,Android 14.0,2024-05-16
+pipa_tw_global,Xiaomi Pad 6,Taiwan,Android 14.0,2024-05-20
+pipa_tr_global,Xiaomi Pad 6,Turkey,Android 14.0,2024-05-20
+aristotle_id_global,Xiaomi 13T,Indonesia,Android 14.0,2024-05-21
+air,Redmi 13R 5G / 13C 5G,China,Android 14.0,2024-05-16
+gold_id_global,Redmi Note 13 5G / POCO X6 Neo 5G,Indonesia,Android 13.0,2024-05-17
+pipa_ru_global,Xiaomi Pad 6,Russia,Android 14.0,2024-05-20
+zircon_global,Redmi Note 13 Pro+ 5G,Global,Android 14.0,2024-05-17
+zircon_in_global,Redmi Note 13 Pro+ 5G,India,Android 14.0,2024-05-15
+gold_tw_global,Redmi Note 13 5G / POCO X6 Neo 5G,Taiwan,Android 13.0,2024-05-17
+zircon_id_global,Redmi Note 13 Pro+ 5G,Indonesia,Android 14.0,2024-05-22
+aurora_tw_global,Xiaomi 14 Ultra,Taiwan,Android 14.0,2024-05-27
+gold_tr_global,Redmi Note 13 5G / POCO X6 Neo 5G,Turkey,Android 13.0,2024-05-21
+houji_eea_global,Xiaomi 14,EEA,Android 14.0,2024-05-16
+moon_tw_global,Redmi 13 / POCO M6,Taiwan,Android 14.0,2024-05-14
+aristotle_tr_global,Xiaomi 13T,Turkey,Android 14.0,2024-05-22
+aurora_tr_global,Xiaomi 14 Ultra,Turkey,Android 14.0,2024-05-23
+aurora_ru_global,Xiaomi 14 Ultra,Russia,Android 14.0,2024-05-23
+aristotle_tw_global,Xiaomi 13T,Taiwan,Android 14.0,2024-05-22
+dizi_tw_global,Redmi Pad Pro / POCO Pad,Taiwan,Android 14.0,2024-05-14
+vermeer_eea_global,POCO F6 Pro,EEA,Android 14.0,2024-05-23
+xun_in_global,Redmi Pad SE,India,Android 14.0,2024-05-23
+air_global,Redmi 13R 5G / 13C 5G,Global,Android 13.0,2024-05-15
+sapphiren_eea_global,Redmi Note 13 NFC,EEA,Android 14.0,2024-05-22
+duchamp_ru_global,POCO X6 Pro 5G,Russia,Android 14.0,2024-05-27
+emerald_eea_global,Redmi Note 13 Pro 4G / POCO M6 Pro,EEA,Android 14.0,2024-05-16
+zircon_ru_global,Redmi Note 13 Pro+ 5G,Russia,Android 14.0,2024-05-24
+moon_global,Redmi 13 / POCO M6,Global,Android 14.0,2024-05-17
+moon_ru_global,Redmi 13 / POCO M6,Russia,Android 14.0,2024-05-17
+peridot_id_global,POCO F6,Indonesia,Android 14.0,2024-05-27
+sheng_eea_global,Xiaomi Pad 6S Pro 12.4,EEA,Android 14.0,2024-05-28
+zircon_tr_global,Redmi Note 13 Pro+ 5G,Turkey,Android 14.0,2024-05-29
+zircon_tw_global,Redmi Note 13 Pro+ 5G,Taiwan,Android 14.0,2024-05-29
+sapphiren_ru_global,Redmi Note 13 NFC,Russia,Android 14.0,2024-05-28
+vermeer,Redmi K70,China,Android 14.0,2024-05-28
+emerald_tr_global,Redmi Note 13 Pro 4G / POCO M6 Pro,Turkey,Android 14.0,2024-05-22
+gold_global,Redmi Note 13 5G / POCO X6 Neo 5G,Global,Android 14.0,2024-05-27
+klein_global,Redmi A3x,Global,Android 14.0,2024-05-22
+pipa_global,Xiaomi Pad 6,Global,Android 14.0,2024-05-22
+sky_global,Redmi 12 5G / POCO M6 Pro 5G,Global,Android 14.0,2024-05-22
+pipa_eea_global,Xiaomi Pad 6,EEA,Android 14.0,2024-05-22
+gold_in_global,Redmi Note 13 5G / POCO X6 Neo 5G,India,Android 13.0,2024-05-31
+duchamp_tw_global,POCO X6 Pro 5G,Taiwan,Android 14.0,2024-05-23
+peridot_global,POCO F6,Global,Android 14.0,2024-05-23
+breeze,Redmi Note 13R,China,Android 14.0,2024-05-31
+dizi_global,Redmi Pad Pro / POCO Pad,Global,Android 14.0,2024-05-30
+gold_eea_global,Redmi Note 13 5G / POCO X6 Neo 5G,EEA,Android 14.0,2024-05-24
+peridot_tw_global,POCO F6,Taiwan,Android 14.0,2024-05-29
+sapphire_global,Redmi Note 13,Global,Android 13.0,2024-05-24
+sapphiren_id_global,Redmi Note 13 NFC,Indonesia,Android 13.0,2024-05-31
+dizi_id_global,Redmi Pad Pro / POCO Pad,Indonesia,Android 14.0,2024-05-25
+sheng_global,Xiaomi Pad 6S Pro 12.4,Global,Android 14.0,2024-05-27
+sheng_ru_global,Xiaomi Pad 6S Pro 12.4,Russia,Android 14.0,2024-05-27
+xun_tw_global,Redmi Pad SE,Taiwan,Android 14.0,2024-05-27
+gale_global,Redmi 13C / POCO C65,Global,Android 14.0,2024-05-28
+houji_ru_global,Xiaomi 14,Russia,Android 14.0,2024-05-28
+sapphiren_global,Redmi Note 13 NFC,Global,Android 13.0,2024-05-28
+moon_id_global,Redmi 13 / POCO M6,Indonesia,Android 14.0,2024-05-29
+chenfeng,Xiaomi Civi 4 Pro,China,Android 14.0,2024-05-31
+chenfeng_in_global,Xiaomi Civi 4 Pro,India,Android 14.0,2024-05-31
+peridot_eea_global,POCO F6,EEA,Android 14.0,2024-05-31

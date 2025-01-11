@@ -1,0 +1,8 @@
+keyword,cpe_vendor,cpe,cve
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2018-21076
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2017-18690
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2017-18692
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2019-20610
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2019-20607
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2020-10849
+exynos 8895,samsung,cpe:2.3:h:samsung:exynos_8895:-:*:*:*:*:*:*:*,CVE-2019-19273

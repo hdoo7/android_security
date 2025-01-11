@@ -1,0 +1,4 @@
+keyword,cpe_vendor,cpe,cve
+exynos 7570,samsung,cpe:2.3:h:samsung:exynos_7570:-:*:*:*:*:*:*:*,CVE-2020-13831
+exynos 7570,samsung,cpe:2.3:h:samsung:exynos_7570:-:*:*:*:*:*:*:*,CVE-2019-20610
+exynos 7570,samsung,cpe:2.3:h:samsung:exynos_7570:-:*:*:*:*:*:*:*,CVE-2019-20601

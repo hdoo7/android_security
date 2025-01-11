@@ -1,0 +1,160 @@
+timestamp,device,period
+2023-02-07,Galaxy Z Fold2,monthly
+2023-02-07,Galaxy Z Fold2 5G,monthly
+2023-02-07,Galaxy Z Fold3 5G,monthly
+2023-02-07,Galaxy Z Fold4,monthly
+2023-02-07,Galaxy Z Flip,monthly
+2023-02-07,Galaxy Z Flip 5G,monthly
+2023-02-07,Galaxy Z Flip3 5G,monthly
+2023-02-07,Galaxy Z Flip4,monthly
+2023-02-07,W23,monthly
+2023-02-07,W23 flip,monthly
+2023-02-07,Galaxy S10 Lite,monthly
+2023-02-07,Galaxy S20,monthly
+2023-02-07,Galaxy S20 5G,monthly
+2023-02-07,Galaxy S20+,monthly
+2023-02-07,Galaxy S20+ 5G,monthly
+2023-02-07,Galaxy S20 Ultra,monthly
+2023-02-07,Galaxy S20 Ultra 5G,monthly
+2023-02-07,Galaxy S20 FE,monthly
+2023-02-07,Galaxy S20 FE 5G,monthly
+2023-02-07,Galaxy S21 5G,monthly
+2023-02-07,Galaxy S21+ 5G,monthly
+2023-02-07,Galaxy S21 Ultra 5G,monthly
+2023-02-07,Galaxy S21 FE 5G,monthly
+2023-02-07,Galaxy S22,monthly
+2023-02-07,Galaxy S22+,monthly
+2023-02-07,Galaxy S22 Ultra,monthly
+2023-02-07,Galaxy Note10 Lite,monthly
+2023-02-07,Galaxy Note20,monthly
+2023-02-07,Galaxy Note20 5G,monthly
+2023-02-07,Galaxy Note20 Ultra,monthly
+2023-02-07,Galaxy Note20 Ultra 5G,monthly
+2023-02-07,Enterprise Models: Galaxy A52,monthly
+2023-02-07,Galaxy A52 5G,monthly
+2023-02-07,Galaxy A52s 5G,monthly
+2023-02-07,Galaxy A53 5G,monthly
+2023-02-07,Galaxy Xcover Pro,monthly
+2023-02-07,Galaxy Xcover5,monthly
+2023-02-07,Galaxy Xcover6 Pro,monthly
+2023-02-07,Galaxy S10,quarterly
+2023-02-07,Galaxy S10+,quarterly
+2023-02-07,Galaxy S10e,quarterly
+2023-02-07,Galaxy S10 5G,quarterly
+2023-02-07,Galaxy Note10,quarterly
+2023-02-07,Galaxy Note10 5G,quarterly
+2023-02-07,Galaxy Note10+,quarterly
+2023-02-07,Galaxy Note10+ 5G,quarterly
+2023-02-07,Galaxy A40,quarterly
+2023-02-07,Galaxy A02,quarterly
+2023-02-07,Galaxy A22,quarterly
+2023-02-07,Galaxy A22e 5G,quarterly
+2023-02-07,Galaxy A22 5G,quarterly
+2023-02-07,Galaxy A32,quarterly
+2023-02-07,Galaxy A32 5G,quarterly
+2023-02-07,Galaxy A72,quarterly
+2023-02-07,Galaxy A82 5G,quarterly
+2023-02-07,Galaxy A03,quarterly
+2023-02-07,Galaxy A03s,quarterly
+2023-02-07,Galaxy A03 core,quarterly
+2023-02-07,Galaxy A13,quarterly
+2023-02-07,Galaxy A13 5G,quarterly
+2023-02-07,Galaxy A23,quarterly
+2023-02-07,Galaxy A23 5G,quarterly
+2023-02-07,Galaxy A33 5G,quarterly
+2023-02-07,Galaxy A73 5G,quarterly
+2023-02-07,Galaxy A04,quarterly
+2023-02-07,Galaxy A04s,quarterly
+2023-02-07,Galaxy A04e,quarterly
+2023-02-07,Galaxy M21 2021,quarterly
+2023-02-07,Galaxy M12,quarterly
+2023-02-07,Galaxy M22,quarterly
+2023-02-07,Galaxy M32,quarterly
+2023-02-07,Galaxy M32 5G,quarterly
+2023-02-07,Galaxy M42 5G,quarterly
+2023-02-07,Galaxy M52 5G,quarterly
+2023-02-07,Galaxy M62,quarterly
+2023-02-07,Galaxy M13,quarterly
+2023-02-07,Galaxy M23 5G,quarterly
+2023-02-07,Galaxy M33 5G,quarterly
+2023-02-07,Galaxy M53 5G,quarterly
+2023-02-07,Galaxy M04,quarterly
+2023-02-07,Galaxy F12,quarterly
+2023-02-07,Galaxy F22,quarterly
+2023-02-07,Galaxy F42 5G,quarterly
+2023-02-07,Galaxy F52 5G,quarterly
+2023-02-07,Galaxy F62,quarterly
+2023-02-07,Galaxy F13,quarterly
+2023-02-07,Galaxy Tab A7 Lite,quarterly
+2023-02-07,Galaxy Tab A8,quarterly
+2023-02-07,Galaxy Tab Active Pro,quarterly
+2023-02-07,Galaxy Tab Active3,quarterly
+2023-02-07,Galaxy Tab Active4 Pro,quarterly
+2023-02-07,Galaxy Tab S6 Lite,quarterly
+2023-02-07,Galaxy Tab S7,quarterly
+2023-02-07,Galaxy Tab S7 FE,quarterly
+2023-02-07,Galaxy Tab S8,quarterly
+2023-02-07,Galaxy Tab S8+,quarterly
+2023-02-07,Galaxy Tab S8 Ultra,quarterly
+2023-02-07,Galaxy Fold,quarterly
+2023-02-07,Galaxy Fold 5G,quarterly
+2023-02-07,W22 5G,quarterly
+2023-02-07,Enterprise Models: Galaxy A50,quarterly
+2023-02-07,Galaxy XCover4s,quarterly
+2023-02-07,Galaxy Xcover FieldPro,quarterly
+2023-02-07,Galaxy A8s,biannual
+2023-02-07,Galaxy A10,biannual
+2023-02-07,Galaxy A10e,biannual
+2023-02-07,Galaxy A10s,biannual
+2023-02-07,Galaxy A20,biannual
+2023-02-07,Galaxy A20e,biannual
+2023-02-07,Galaxy A20s,biannual
+2023-02-07,Galaxy A30,biannual
+2023-02-07,Galaxy A30s,biannual
+2023-02-07,Galaxy A50s,biannual
+2023-02-07,Galaxy A60,biannual
+2023-02-07,Galaxy A70,biannual
+2023-02-07,Galaxy A70s,biannual
+2023-02-07,Galaxy A80,biannual
+2023-02-07,Galaxy A90 5G,biannual
+2023-02-07,Galaxy A01,biannual
+2023-02-07,Galaxy A01 Core,biannual
+2023-02-07,Galaxy A11,biannual
+2023-02-07,Galaxy A21,biannual
+2023-02-07,Galaxy A21s,biannual
+2023-02-07,Galaxy A31,biannual
+2023-02-07,Galaxy A41,biannual
+2023-02-07,Galaxy A51,biannual
+2023-02-07,Galaxy A51 5G,biannual
+2023-02-07,Galaxy A71,biannual
+2023-02-07,Galaxy A71 5G,biannual
+2023-02-07,Galaxy A02s,biannual
+2023-02-07,Galaxy A12,biannual
+2023-02-07,Galaxy A42 5G,biannual
+2023-02-07,Galaxy M10,biannual
+2023-02-07,Galaxy M10s,biannual
+2023-02-07,Galaxy M20,biannual
+2023-02-07,Galaxy M30,biannual
+2023-02-07,Galaxy M30s,biannual
+2023-02-07,Galaxy M40,biannual
+2023-02-07,Galaxy M01,biannual
+2023-02-07,Galaxy M11,biannual
+2023-02-07,Galaxy M21,biannual
+2023-02-07,Galaxy M31,biannual
+2023-02-07,Galaxy M31s,biannual
+2023-02-07,Galaxy M51,biannual
+2023-02-07,Galaxy Tab A 8 (2019),biannual
+2023-02-07,Galaxy Tab A 10.1 (2019),biannual
+2023-02-07,Galaxy Tab A with S pen,biannual
+2023-02-07,Galaxy Tab A 8.4 (2020),biannual
+2023-02-07,Galaxy Tab A7,biannual
+2023-02-07,Galaxy Tab S5e,biannual
+2023-02-07,Galaxy Tab S6,biannual
+2023-02-07,Galaxy Tab S6 5G,biannual
+2023-02-07,Galaxy Tab S7+,biannual
+2023-02-07,W20 5G,biannual
+2023-02-07,W21 5G,biannual
+2023-02-07,Galaxy Watch4,quarterly
+2023-02-07,Galaxy Watch4 Classic,quarterly
+2023-02-07,Galaxy Watch5,quarterly
+2023-02-07,Galaxy Watch5 Pro,quarterly

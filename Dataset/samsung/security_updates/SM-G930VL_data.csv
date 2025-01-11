@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G930VL,TFN,007281190615,SM-G930VL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,G930VLUDS9DSE1,Oreo(Android 8.0.0),2019-06-14,2019-05-01,Galaxy S7 ,https://doc.samsungmobile.com/SM-G930VL/007281190615/eng.html

@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A7100,CHC,000004170406,SM-A7100/CHC, China (Open China),China,Open China,Asia,Eastern Asia,A7100ZCS1CTI1,Nougat(Android 7.1.1),2020-11-16,2018-11-01,Galaxy A7 ,https://doc.samsungmobile.com/SM-A7100/000004170406/eng.html
+SM-A7100,TGY,000039170406,SM-A7100/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A7100ZHS1CTI1,Nougat(Android 7.1.1),2020-11-16,2018-11-01,Galaxy A7 ,https://doc.samsungmobile.com/SM-A7100/000039170406/eng.html

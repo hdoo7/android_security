@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G935P,SPR,005648190429,SM-G935P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,G935PVPS9CSD1,Oreo(Android 8.0.0),2019-04-29,2019-03-01,Galaxy S7 edge ,https://doc.samsungmobile.com/SM-G935P/005648190429/eng.html

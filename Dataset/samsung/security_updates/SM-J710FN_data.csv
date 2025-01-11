@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J710FN,INS,005502190425,SM-J710FN/INS, India,India,No-carrier,Asia,Southern Asia,J710FNDDU1BSB1,Nougat(Android 7.0),2019-04-25,2019-01-01,Galaxy On8 ,https://doc.samsungmobile.com/SM-J710FN/005502190425/eng.html

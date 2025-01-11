@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-M145F,INS,028550240112,SM-M145F/INS, India,India,No-carrier,Asia,Southern Asia,M145FXXS2BXC3,U(Android 14),2024-04-09,2024-03-01,Galaxy M14 ,https://doc.samsungmobile.com/SM-M145F/028550240112/eng.html
+SM-M145F,INS,028550240112,SM-M145F/INS, India,India,No-carrier,Asia,Southern Asia,M145FXXU2BXB3,U(Android 14),2024-03-04,2024-01-01,Galaxy M14 ,https://doc.samsungmobile.com/SM-M145F/028550240112/eng.html
+SM-M145F,INS,028550240112,SM-M145F/INS, India,India,No-carrier,Asia,Southern Asia,M145FXXU2AWL5,T(Android 13),2024-01-11,2023-11-01,Galaxy M14 ,https://doc.samsungmobile.com/SM-M145F/028550240112/eng.html

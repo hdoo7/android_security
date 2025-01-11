@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T730,INU,018935210531,SM-T730/INU, India,India,No-carrier,Asia,Southern Asia,T730XXU1AUEC,R(Android 11),2021-06-28,2021-06-01,Galaxy Tab S7 FE ,https://doc.samsungmobile.com/SM-T730/018935210531/eng.html
+SM-T730,INU,018935210531,SM-T730/INU, India,India,No-carrier,Asia,Southern Asia,T730XXU1AUE8,R(Android 11),2021-05-31,2021-05-01,Galaxy Tab S7 FE ,https://doc.samsungmobile.com/SM-T730/018935210531/eng.html
+SM-T730,SLK,019173210629,SM-T730/SLK, Sri Lanka,Sri Lanka,No-carrier,Asia,Southern Asia,T730XXU1AUEC,R(Android 11),2021-06-28,2021-06-01,Galaxy Tab S7 FE ,https://doc.samsungmobile.com/SM-T730/019173210629/eng.html
+SM-T730,XAC,019074210620,SM-T730/XAC, Canada (Unbranded),Canada,Unbranded,Americas,Northern America,T730XXU1AUEC,R(Android 11),2021-06-19,2021-06-01,Galaxy Tab S7 FE ,https://doc.samsungmobile.com/SM-T730/019074210620/eng.html
+SM-T730,XAR,019079210620,SM-T730/XAR, USA (Cellular South),USA,Cellular South,Americas,Northern America,T730XXU1AUEC,R(Android 11),2021-06-19,2021-06-01,Galaxy Tab S7 FE ,https://doc.samsungmobile.com/SM-T730/019079210620/eng.html

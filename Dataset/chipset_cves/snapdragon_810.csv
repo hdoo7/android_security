@@ -1,0 +1,23 @@
+keyword,cpe_vendor,cpe,cve
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2018-11982
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2018-11291
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2018-11285
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2018-11277
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2018-11269
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2018-11268
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:sd810:-:*:*:*:*:*:*:*,CVE-2017-18314
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:snapdragon_810:-:*:*:*:*:*:*:*,CVE-2023-28565
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:snapdragon_810_processor:-:*:*:*:*:*:*:*,CVE-2023-43511
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:snapdragon_810_processor:-:*:*:*:*:*:*:*,CVE-2023-28560
+Snapdragon 810,qualcomm,cpe:2.3:h:qualcomm:snapdragon_810_processor:-:*:*:*:*:*:*:*,CVE-2023-21628
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2018-11982
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2018-11291
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2018-11285
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2018-11277
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2018-11269
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2018-11268
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:sd810_firmware:-:*:*:*:*:*:*:*,CVE-2017-18314
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:snapdragon_810_firmware:-:*:*:*:*:*:*:*,CVE-2023-28565
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:snapdragon_810_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-43511
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:snapdragon_810_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-28560
+Snapdragon 810,qualcomm,cpe:2.3:o:qualcomm:snapdragon_810_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-21628

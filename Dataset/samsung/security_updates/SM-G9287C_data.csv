@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G9287C,GLB,024225220830,SM-G9287C/GLB, Philippines (Globe),Philippines,Globe,Asia,South-eastern Asia,G9287CDXU5CVG1,Nougat(Android 7.0),2022-08-30,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287C/024225220830/eng.html
+SM-G9287C,SMA,024220220830,SM-G9287C/SMA, Philippines (Smart),Philippines,Smart,Asia,South-eastern Asia,G9287CDXU5CVG1,Nougat(Android 7.0),2022-08-30,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287C/024220220830/eng.html
+SM-G9287C,XID,024229220830,SM-G9287C/XID, Indonesia,Indonesia,No-carrier,Asia,South-eastern Asia,G9287CDXU5CVG1,Nougat(Android 7.0),2022-08-30,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287C/024229220830/eng.html
+SM-G9287C,XME,024003220820,SM-G9287C/XME, Malaysia,Malaysia,No-carrier,Asia,South-eastern Asia,G9287CDXU5CVG1,Nougat(Android 7.0),2022-08-20,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287C/024003220820/eng.html
+SM-G9287C,XTC,024223220830,SM-G9287C/XTC, Philippines (Open Line),Philippines,Open Line,Asia,South-eastern Asia,G9287CDXU5CVG1,Nougat(Android 7.0),2022-08-30,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287C/024223220830/eng.html

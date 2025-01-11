@@ -1,0 +1,7 @@
+keyword,cpe_vendor,cpe,cve
+mediatek mt8176,mediatek,cpe:2.3:h:mediatek:mt8176:-:*:*:*:*:*:*:*,CVE-2024-20011
+mediatek mt8176,mediatek,cpe:2.3:h:mediatek:mt8176:-:*:*:*:*:*:*:*,CVE-2024-20009
+mediatek mt8176,mediatek,cpe:2.3:h:mediatek:mt8176:-:*:*:*:*:*:*:*,CVE-2022-20076
+mediatek mt8176,mediatek,cpe:2.3:h:mediatek:mt8176:-:*:*:*:*:*:*:*,CVE-2022-20075
+mediatek mt8176,mediatek,cpe:2.3:h:mediatek:mt8176:-:*:*:*:*:*:*:*,CVE-2021-0674
+mediatek mt8176,mediatek,cpe:2.3:h:mediatek:mt8176:-:*:*:*:*:*:*:*,CVE-2021-0675

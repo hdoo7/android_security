@@ -1,0 +1,12 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-M156B,COO,029986240524,SM-M156B/COO, Colombia,Colombia,No-carrier,Americas,Latin America and the Caribbean,M156BXXS2AXE3,U(Android 14),2024-05-23,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/029986240524/eng.html
+SM-M156B,EGY,030034240531,SM-M156B/EGY, Egypt,Egypt,No-carrier,Africa,Northern Africa,M156BXXS2AXE3,U(Android 14),2024-05-31,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030034240531/eng.html
+SM-M156B,INS,029886240423,SM-M156B/INS, India,India,No-carrier,Asia,Southern Asia,M156BXXS2AXE5,U(Android 14),2024-05-30,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/029886240423/eng.html
+SM-M156B,INS,029886240423,SM-M156B/INS, India,India,No-carrier,Asia,Southern Asia,M156BXXS1AXD2,U(Android 14),2024-04-22,2024-04-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/029886240423/eng.html
+SM-M156B,MID,029943240522,SM-M156B/MID, Iraq,Iraq,No-carrier,Asia,Western Asia,M156BXXS2AXE3,U(Android 14),2024-05-22,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/029943240522/eng.html
+SM-M156B,SKZ,030067240605,SM-M156B/SKZ, Kazakhstan,Kazakhstan,No-carrier,Asia,Central Asia,M156BXXS2AXE4,U(Android 14),2024-06-04,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030067240605/eng.html
+SM-M156B,SLK,030042240531,SM-M156B/SLK, Sri Lanka,Sri Lanka,No-carrier,Asia,Southern Asia,M156BXXS2AXE3,U(Android 14),2024-05-30,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030042240531/eng.html
+SM-M156B,TUR,030044240531,SM-M156B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,M156BXXS2AXE3,U(Android 14),2024-05-31,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030044240531/eng.html
+SM-M156B,XID,030059240603,SM-M156B/XID, Indonesia,Indonesia,No-carrier,Asia,South-eastern Asia,M156BXXS2AXE3,U(Android 14),2024-06-03,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030059240603/eng.html
+SM-M156B,XXV,030060240603,SM-M156B/XXV, Vietnam,Vietnam,No-carrier,Asia,South-eastern Asia,M156BXXS2AXE3,U(Android 14),2024-06-03,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030060240603/eng.html
+SM-M156B,ZTO,030004240524,SM-M156B/ZTO, Brazil,Brazil,No-carrier,Americas,Latin America and the Caribbean,M156BXXS2AXE3,U(Android 14),2024-05-23,2024-05-01,Galaxy M15 5G ,https://doc.samsungmobile.com/SM-M156B/030004240524/eng.html

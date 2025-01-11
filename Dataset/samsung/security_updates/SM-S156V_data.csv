@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-S156V,TFN,029048240221,SM-S156V/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S156VUDS2BXE5,U(Android 14),2024-06-05,2024-05-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-S156V/029048240221/eng.html
+SM-S156V,TFN,029048240221,SM-S156V/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S156VUDU1BXDA,U(Android 14),2024-05-21,2024-04-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-S156V/029048240221/eng.html
+SM-S156V,TFN,029048240221,SM-S156V/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S156VUDS1AXA7,U(Android 14),2024-02-21,2024-02-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-S156V/029048240221/eng.html

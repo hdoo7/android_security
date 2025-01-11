@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G9287,BRI,000013161127,SM-G9287/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,G9287ZHS4CRH1,Nougat(Android 7.0),2018-09-21,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287/000013161127/eng.html
+SM-G9287,TGY,000014161127,SM-G9287/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,G9287ZHS4CRH1,Nougat(Android 7.0),2018-09-21,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9287/000014161127/eng.html

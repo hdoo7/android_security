@@ -1,0 +1,2999 @@
+timestamp,device,series,period,EMUI,Android
+6/4/19,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+6/4/19,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+6/4/19,"P30 lite,P20 Pro",HUAWEI P series,monthly,nan,nan
+6/4/19,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+6/4/19,P20 lite,HUAWEI P series,monthly,nan,nan
+6/4/19,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/19,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+6/4/19,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/19,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/19,Mate 20 Lite,HUAWEI Mate series,monthly,nan,nan
+6/4/19,Mate 10 Pro,HUAWEI Mate series,monthly,,Android 10.0 Q
+6/4/19,Mate 10,HUAWEI Mate series,monthly,,Android 10.0 Q
+6/4/19,Mate 10 Lite,HUAWEI Mate series,monthly,,Android 10.0 Q
+6/4/19,PORSCHE DESIGN HUAWEI Mate RS,HUAWEI Mate series,monthly,nan,nan
+6/4/19,Honor View20,HONOR series,monthly,nan,nan
+6/4/19,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+6/4/19,Honor 10 Lite,HONOR series,monthly,nan,nan
+6/4/19,Honor View10,HONOR series,monthly,nan,nan
+6/4/19,Honor Play,HONOR series,monthly,nan,nan
+6/4/19,Honor 9N,HONOR series,monthly,nan,nan
+6/4/19,Honor 9,HONOR series,monthly,,"Android 9 ""Pie"""
+6/4/19,Honor 9 Lite,HONOR series,monthly,,"Android 9 ""Pie"""
+6/4/19,Honor 8A,HONOR series,monthly,nan,nan
+6/4/19,Honor 8X,HONOR series,monthly,,
+6/4/19,Honor 7X,HONOR series,monthly,nan,nan
+6/4/19,nova 4,HUAWEI nova series,monthly,nan,nan
+6/4/19,nova 3,HUAWEI nova series,monthly,nan,nan
+6/4/19,nova 3e,HUAWEI nova series,monthly,nan,nan
+6/4/19,nova 3i,HUAWEI nova series,monthly,,"9.0 ""Pie"""
+6/4/19,nova Lite 3,HUAWEI nova series,monthly,nan,nan
+6/4/19,nova 2 Plus,HUAWEI nova series,monthly,nan,nan
+6/4/19,nova 2i,HUAWEI nova series,monthly,,Android 10.0 Q
+6/4/19,Y5 Lite,HUAWEI Y series,monthly,nan,nan
+6/4/19,"Y5 Lite 2018,Y3 2018",HUAWEI Y series,monthly,nan,nan
+6/4/19,Y3 2018,HUAWEI Y series,monthly,nan,nan
+6/4/19,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+6/4/19,"Y9 2018,Y7 2019,Y7 prime 2018,Y7 2018,Y7,Y6 prime 2018,Y6 2019,Y6 2018",HUAWEI Y series,quarterly,nan,nan
+6/4/19,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/19,Honor 7A,HONOR series,quarterly,nan,nan
+6/4/19,Honor 7S,HONOR series,quarterly,nan,nan
+6/4/19,nova 2 Plus,HUAWEI nova series,quarterly,nan,nan
+6/4/19,nova 2i,HUAWEI nova series,quarterly,,Android 10.0 Q
+6/4/19,nova 2,HUAWEI nova series,quarterly,nan,nan
+6/4/19,nova 2 lite,HUAWEI nova series,quarterly,nan,nan
+6/4/19,nova lite 2,HUAWEI nova series,quarterly,nan,nan
+6/4/19,P Smart,Others,quarterly,,
+6/4/19,P9 Lite mini,Others,quarterly,nan,nan
+6/4/19,G Elite Plus,Others,quarterly,nan,nan
+6/4/19,M5,Tablets,quarterly,nan,nan
+6/4/19,M5 Pro,Tablets,quarterly,nan,nan
+6/4/19,MediaPad T5 10,Tablets,quarterly,nan,nan
+6/4/19,MediaPad M5 lite 10,Tablets,quarterly,nan,nan
+7/24/19,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+7/24/19,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+7/24/19,P30 lite,HUAWEI P series,monthly,nan,nan
+7/24/19,P20 Pro,HUAWEI P series,monthly,EMUI 12,Android 9
+7/24/19,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+7/24/19,P20 lite,HUAWEI P series,monthly,nan,nan
+7/24/19,P Smart 2019,HUAWEI P series,monthly,nan,nan
+7/24/19,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+7/24/19,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+7/24/19,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+7/24/19,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+7/24/19,Mate 10 Pro,HUAWEI Mate series,monthly,,Android 10.0 Q
+7/24/19,Mate 10,HUAWEI Mate series,monthly,,Android 10.0 Q
+7/24/19,PORSCHE DESIGN HUAWEI Mate RS,HUAWEI Mate series,monthly,nan,nan
+7/24/19,Mate 20 Lite,HUAWEI Mate series,monthly,nan,nan
+7/24/19,Mate 10 Lite,HUAWEI Mate series,monthly,,Android 10.0 Q
+7/24/19,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+7/24/19,Honor View10,HONOR series,monthly,nan,nan
+7/24/19,Honor 9N,HONOR series,monthly,nan,nan
+7/24/19,Honor 9i,HONOR series,monthly,,Android 10.0 Q
+7/24/19,Honor 9 Lite,HONOR series,monthly,,"Android 9 ""Pie"""
+7/24/19,Honor 7X,HONOR series,monthly,nan,nan
+7/24/19,nova 3e,HUAWEI nova series,monthly,nan,nan
+7/24/19,nova Lite 3,HUAWEI nova series,monthly,nan,nan
+7/24/19,nova 2i,HUAWEI nova series,monthly,,Android 10.0 Q
+7/24/19,P 9 lite mini,HUAWEI P series,quarterly,nan,nan
+7/24/19,P Smart,HUAWEI P series,quarterly,,
+7/24/19,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+7/24/19,Honor View20,HONOR series,quarterly,nan,nan
+7/24/19,Honor 10,HONOR series,quarterly,Emotion UI,Android 8.1 Oreo
+7/24/19,Honor 10i,HONOR series,quarterly,nan,nan
+7/24/19,Honor 10 Lite,HONOR series,quarterly,nan,nan
+7/24/19,Honor Play,HONOR series,quarterly,nan,nan
+7/24/19,Honor 8A,HONOR series,quarterly,nan,nan
+7/24/19,Honor 8X,HONOR series,quarterly,,
+7/24/19,Honor 8S,HONOR series,quarterly,nan,nan
+7/24/19,Honor 7S,HONOR series,quarterly,nan,nan
+7/24/19,nova 4,HUAWEI nova series,quarterly,nan,nan
+7/24/19,nova 3,HUAWEI nova series,quarterly,nan,nan
+7/24/19,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+7/24/19,nova 2i,HUAWEI nova series,quarterly,,Android 10.0 Q
+7/24/19,M5,Tablets,quarterly,nan,nan
+7/24/19,M5 Pro,Tablets,quarterly,nan,nan
+7/24/19,MediaPad T5 10,Tablets,quarterly,nan,nan
+7/24/19,MediaPad M5 lite 10,Tablets,quarterly,nan,nan
+10/12/19,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+10/12/19,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+10/12/19,P20 Pro,HUAWEI P series,monthly,EMUI 12,Android 9
+10/12/19,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+10/12/19,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/12/19,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/12/19,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/12/19,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+10/12/19,Mate 10 Pro,HUAWEI Mate series,monthly,,Android 10.0 Q
+10/12/19,Mate 10,HUAWEI Mate series,monthly,,Android 10.0 Q
+10/12/19,PORSCHE DESIGN HUAWEI Mate RS,HUAWEI Mate series,monthly,nan,nan
+10/12/19,HONOR 20,HONOR series,monthly,,Pie 9.0
+10/12/19,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+10/12/19,Honor View20,HONOR series,monthly,nan,nan
+10/12/19,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+10/12/19,Honor View10,HONOR series,monthly,nan,nan
+10/12/19,P30 lite,HUAWEI P series,quarterly,nan,nan
+10/12/19,P20 lite,HUAWEI P series,quarterly,nan,nan
+10/12/19,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+10/12/19,P 9 lite mini,HUAWEI P series,quarterly,nan,nan
+10/12/19,P Smart,HUAWEI P series,quarterly,,
+10/12/19,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+10/12/19,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+10/12/19,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Y MAX,HUAWEI Y series,quarterly,nan,nan
+10/12/19,Honor 20i,HONOR series,quarterly,nan,nan
+10/12/19,Honor 10i,HONOR series,quarterly,nan,nan
+10/12/19,Honor 10 Lite,HONOR series,quarterly,nan,nan
+10/12/19,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+10/12/19,Honor 9N,HONOR series,quarterly,nan,nan
+10/12/19,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+10/12/19,Honor Play,HONOR series,quarterly,nan,nan
+10/12/19,Honor 8A,HONOR series,quarterly,nan,nan
+10/12/19,Honor 8X,HONOR series,quarterly,,
+10/12/19,Honor 8S,HONOR series,quarterly,nan,nan
+10/12/19,Honor 8C,HONOR series,quarterly,nan,nan
+10/12/19,Honor 7X,HONOR series,quarterly,nan,nan
+10/12/19,Honor 7S,HONOR series,quarterly,nan,nan
+10/12/19,nova 5T,HUAWEI nova series,quarterly,nan,nan
+10/12/19,nova 4,HUAWEI nova series,quarterly,nan,nan
+10/12/19,nova 3,HUAWEI nova series,quarterly,nan,nan
+10/12/19,nova 3e,HUAWEI nova series,quarterly,nan,nan
+10/12/19,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+10/12/19,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+10/12/19,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+10/12/19,M5 Pro,Tablets,quarterly,nan,nan
+10/12/19,"T5 (10.1"")",Tablets,quarterly,nan,nan
+10/12/19,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+11/14/19,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+11/14/19,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+11/14/19,P20 Pro,HUAWEI P series,monthly,EMUI 12,Android 9
+11/14/19,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+11/14/19,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/14/19,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/14/19,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/14/19,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+11/14/19,Mate 10 Pro,HUAWEI Mate series,monthly,,Android 10.0 Q
+11/14/19,Mate 10,HUAWEI Mate series,monthly,,Android 10.0 Q
+11/14/19,PORSCHE DESIGN HUAWEI Mate RS,HUAWEI Mate series,monthly,nan,nan
+11/14/19,HONOR 20,HONOR series,monthly,,Pie 9.0
+11/14/19,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+11/14/19,Honor View20,HONOR series,monthly,nan,nan
+11/14/19,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+11/14/19,Honor View10,HONOR series,monthly,nan,nan
+11/14/19,P30 lite,HUAWEI P series,quarterly,nan,nan
+11/14/19,P20 lite,HUAWEI P series,quarterly,nan,nan
+11/14/19,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+11/14/19,P 9 lite mini,HUAWEI P series,quarterly,nan,nan
+11/14/19,P Smart,HUAWEI P series,quarterly,,
+11/14/19,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+11/14/19,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+11/14/19,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Y MAX,HUAWEI Y series,quarterly,nan,nan
+11/14/19,Honor 20i,HONOR series,quarterly,nan,nan
+11/14/19,Honor 10i,HONOR series,quarterly,nan,nan
+11/14/19,Honor 10 Lite,HONOR series,quarterly,nan,nan
+11/14/19,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+11/14/19,Honor 9N,HONOR series,quarterly,nan,nan
+11/14/19,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+11/14/19,Honor Play,HONOR series,quarterly,nan,nan
+11/14/19,Honor 8A,HONOR series,quarterly,nan,nan
+11/14/19,Honor 8X,HONOR series,quarterly,,
+11/14/19,Honor 8S,HONOR series,quarterly,nan,nan
+11/14/19,Honor 8C,HONOR series,quarterly,nan,nan
+11/14/19,Honor 7X,HONOR series,quarterly,nan,nan
+11/14/19,Honor 7S,HONOR series,quarterly,nan,nan
+11/14/19,nova 5T,HUAWEI nova series,quarterly,nan,nan
+11/14/19,nova 4,HUAWEI nova series,quarterly,nan,nan
+11/14/19,nova 3,HUAWEI nova series,quarterly,nan,nan
+11/14/19,nova 3e,HUAWEI nova series,quarterly,nan,nan
+11/14/19,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+11/14/19,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+11/14/19,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+11/14/19,M5 Pro,Tablets,quarterly,nan,nan
+11/14/19,"T5 (10.1"")",Tablets,quarterly,nan,nan
+11/14/19,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+12/11/19,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+12/11/19,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+12/11/19,P20 Pro,HUAWEI P series,monthly,EMUI 12,Android 9
+12/11/19,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+12/11/19,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+12/11/19,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+12/11/19,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+12/11/19,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+12/11/19,Mate 10 Pro,HUAWEI Mate series,monthly,,Android 10.0 Q
+12/11/19,Mate 10,HUAWEI Mate series,monthly,,Android 10.0 Q
+12/11/19,PORSCHE DESIGN HUAWEI Mate RS,HUAWEI Mate series,monthly,nan,nan
+12/11/19,HONOR 20,HONOR series,monthly,,Pie 9.0
+12/11/19,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+12/11/19,Honor View20,HONOR series,monthly,nan,nan
+12/11/19,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+12/11/19,Honor View10,HONOR series,monthly,nan,nan
+12/11/19,P30 lite,HUAWEI P series,quarterly,nan,nan
+12/11/19,P20 lite,HUAWEI P series,quarterly,nan,nan
+12/11/19,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+12/11/19,P 9 lite mini,HUAWEI P series,quarterly,nan,nan
+12/11/19,P Smart,HUAWEI P series,quarterly,,
+12/11/19,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+12/11/19,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+12/11/19,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Y MAX,HUAWEI Y series,quarterly,nan,nan
+12/11/19,Honor 20i,HONOR series,quarterly,nan,nan
+12/11/19,Honor 10i,HONOR series,quarterly,nan,nan
+12/11/19,Honor 10 Lite,HONOR series,quarterly,nan,nan
+12/11/19,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+12/11/19,Honor 9N,HONOR series,quarterly,nan,nan
+12/11/19,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+12/11/19,Honor Play,HONOR series,quarterly,nan,nan
+12/11/19,Honor 8A,HONOR series,quarterly,nan,nan
+12/11/19,Honor 8X,HONOR series,quarterly,,
+12/11/19,Honor 8S,HONOR series,quarterly,nan,nan
+12/11/19,Honor 8C,HONOR series,quarterly,nan,nan
+12/11/19,Honor 7X,HONOR series,quarterly,nan,nan
+12/11/19,Honor 7S,HONOR series,quarterly,nan,nan
+12/11/19,nova 5T,HUAWEI nova series,quarterly,nan,nan
+12/11/19,nova 4,HUAWEI nova series,quarterly,nan,nan
+12/11/19,nova 3,HUAWEI nova series,quarterly,nan,nan
+12/11/19,nova 3e,HUAWEI nova series,quarterly,nan,nan
+12/11/19,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+12/11/19,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+12/11/19,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+12/11/19,M5 Pro,Tablets,quarterly,nan,nan
+12/11/19,"T5 (10.1"")",Tablets,quarterly,nan,nan
+12/11/19,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+2/24/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+2/24/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+2/24/20,P20 Pro,HUAWEI P series,monthly,EMUI 12,Android 9
+2/24/20,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+2/24/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+2/24/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+2/24/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+2/24/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+2/24/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+2/24/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+2/24/20,Honor View20,HONOR series,monthly,nan,nan
+2/24/20,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+2/24/20,Honor View10,HONOR series,monthly,nan,nan
+2/24/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+2/24/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+2/24/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+2/24/20,P 9 lite mini,HUAWEI P series,quarterly,nan,nan
+2/24/20,P Smart,HUAWEI P series,quarterly,,
+2/24/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+2/24/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+2/24/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+2/24/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+2/24/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+2/24/20,Honor 20i,HONOR series,quarterly,nan,nan
+2/24/20,Honor 10i,HONOR series,quarterly,nan,nan
+2/24/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+2/24/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+2/24/20,Honor 9N,HONOR series,quarterly,nan,nan
+2/24/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+2/24/20,Honor Play,HONOR series,quarterly,nan,nan
+2/24/20,Honor 8A,HONOR series,quarterly,nan,nan
+2/24/20,Honor 8X,HONOR series,quarterly,,
+2/24/20,Honor 8S,HONOR series,quarterly,nan,nan
+2/24/20,Honor 8C,HONOR series,quarterly,nan,nan
+2/24/20,Honor 9X,HONOR series,quarterly,nan,nan
+2/24/20,Honor 7S,HONOR series,quarterly,nan,nan
+2/24/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+2/24/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+2/24/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+2/24/20,nova 3e,HUAWEI nova series,quarterly,nan,nan
+2/24/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+2/24/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+2/24/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+2/24/20,M5 Pro,Tablets,quarterly,nan,nan
+2/24/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+2/24/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+4/13/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+4/13/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+4/13/20,P20 Pro,HUAWEI P series,monthly,EMUI 12,Android 9
+4/13/20,P20,HUAWEI P series,monthly,EMUI 12,Android 9
+4/13/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/13/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/13/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/13/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+4/13/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+4/13/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+4/13/20,Honor View20,HONOR series,monthly,nan,nan
+4/13/20,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+4/13/20,Honor View10,HONOR series,monthly,nan,nan
+4/13/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+4/13/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+4/13/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+4/13/20,P 9 lite mini,HUAWEI P series,quarterly,nan,nan
+4/13/20,P Smart,HUAWEI P series,quarterly,,
+4/13/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+4/13/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+4/13/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+4/13/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+4/13/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+4/13/20,Honor 20i,HONOR series,quarterly,nan,nan
+4/13/20,Honor 10i,HONOR series,quarterly,nan,nan
+4/13/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+4/13/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+4/13/20,Honor 9N,HONOR series,quarterly,nan,nan
+4/13/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+4/13/20,Honor Play,HONOR series,quarterly,nan,nan
+4/13/20,Honor 8A,HONOR series,quarterly,nan,nan
+4/13/20,Honor 8X,HONOR series,quarterly,,
+4/13/20,Honor 8S,HONOR series,quarterly,nan,nan
+4/13/20,Honor 8C,HONOR series,quarterly,nan,nan
+4/13/20,Honor 9X,HONOR series,quarterly,nan,nan
+4/13/20,Honor 7S,HONOR series,quarterly,nan,nan
+4/13/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+4/13/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+4/13/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+4/13/20,nova 3e,HUAWEI nova series,quarterly,nan,nan
+4/13/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+4/13/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+4/13/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+4/13/20,M5 Pro,Tablets,quarterly,nan,nan
+4/13/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+4/13/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+5/5/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+5/5/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+5/5/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/5/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/5/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/5/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/5/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/5/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+5/5/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+5/5/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+5/5/20,Honor View20,HONOR series,monthly,nan,nan
+5/5/20,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+5/5/20,Honor 10 lite,HONOR series,monthly,nan,nan
+5/5/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+5/5/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+5/5/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+5/5/20,P9 lite mini,HUAWEI P series,quarterly,nan,nan
+5/5/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+5/5/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+5/5/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+5/5/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+5/5/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+5/5/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+5/5/20,Honor 20i,HONOR series,quarterly,nan,nan
+5/5/20,Honor 10i,HONOR series,quarterly,nan,nan
+5/5/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+5/5/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+5/5/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+5/5/20,Honor Play,HONOR series,quarterly,nan,nan
+5/5/20,Honor 8A,HONOR series,quarterly,nan,nan
+5/5/20,Honor 8X,HONOR series,quarterly,,
+5/5/20,Honor 8S,HONOR series,quarterly,nan,nan
+5/5/20,Honor 8C,HONOR series,quarterly,nan,nan
+5/5/20,Honor 9X,HONOR series,quarterly,nan,nan
+5/5/20,Honor 7S,HONOR series,quarterly,nan,nan
+5/5/20,Honor 7A,HONOR series,quarterly,nan,nan
+5/5/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+5/5/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+5/5/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+5/5/20,nova 3e,HUAWEI nova series,quarterly,nan,nan
+5/5/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+5/5/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+5/5/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+5/5/20,M5 Pro,Tablets,quarterly,nan,nan
+5/5/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+5/5/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+6/4/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+6/4/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+6/4/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/4/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+6/4/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+6/4/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+6/4/20,Honor View20,HONOR series,monthly,nan,nan
+6/4/20,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+6/4/20,Honor 10 lite,HONOR series,monthly,nan,nan
+6/4/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+6/4/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+6/4/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+6/4/20,P9 lite mini,HUAWEI P series,quarterly,nan,nan
+6/4/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+6/4/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+6/4/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+6/4/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+6/4/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+6/4/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+6/4/20,Honor 20i,HONOR series,quarterly,nan,nan
+6/4/20,Honor 10i,HONOR series,quarterly,nan,nan
+6/4/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+6/4/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+6/4/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+6/4/20,Honor Play,HONOR series,quarterly,nan,nan
+6/4/20,Honor 8A,HONOR series,quarterly,nan,nan
+6/4/20,Honor 8X,HONOR series,quarterly,,
+6/4/20,Honor 8S,HONOR series,quarterly,nan,nan
+6/4/20,Honor 8C,HONOR series,quarterly,nan,nan
+6/4/20,Honor 9X,HONOR series,quarterly,nan,nan
+6/4/20,Honor 7S,HONOR series,quarterly,nan,nan
+6/4/20,Honor 7A,HONOR series,quarterly,nan,nan
+6/4/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+6/4/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+6/4/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+6/4/20,nova 3e,HUAWEI nova series,quarterly,nan,nan
+6/4/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+6/4/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+6/4/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+6/4/20,M5 Pro,Tablets,quarterly,nan,nan
+6/4/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+6/4/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+6/9/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+6/9/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+6/9/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/9/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/9/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/9/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/9/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/9/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+6/9/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+6/9/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+6/9/20,Honor View20,HONOR series,monthly,nan,nan
+6/9/20,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+6/9/20,Honor 10 lite,HONOR series,monthly,nan,nan
+6/9/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+6/9/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+6/9/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+6/9/20,P9 lite mini,HUAWEI P series,quarterly,nan,nan
+6/9/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+6/9/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+6/9/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+6/9/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+6/9/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+6/9/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+6/9/20,Honor 20i,HONOR series,quarterly,nan,nan
+6/9/20,Honor 10i,HONOR series,quarterly,nan,nan
+6/9/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+6/9/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+6/9/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+6/9/20,Honor Play,HONOR series,quarterly,nan,nan
+6/9/20,Honor 8A,HONOR series,quarterly,nan,nan
+6/9/20,Honor 8X,HONOR series,quarterly,,
+6/9/20,Honor 8S,HONOR series,quarterly,nan,nan
+6/9/20,Honor 8C,HONOR series,quarterly,nan,nan
+6/9/20,Honor 9X,HONOR series,quarterly,nan,nan
+6/9/20,Honor 7S,HONOR series,quarterly,nan,nan
+6/9/20,Honor 7A,HONOR series,quarterly,nan,nan
+6/9/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+6/9/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+6/9/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+6/9/20,nova 3e,HUAWEI nova series,quarterly,nan,nan
+6/9/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+6/9/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+6/9/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+6/9/20,M5 Pro,Tablets,quarterly,nan,nan
+6/9/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+6/9/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+6/18/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+6/18/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+6/18/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/18/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/18/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/18/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/18/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/18/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+6/18/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+6/18/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+6/18/20,Honor View20,HONOR series,monthly,nan,nan
+6/18/20,Honor 10,HONOR series,monthly,Emotion UI,Android 8.1 Oreo
+6/18/20,Honor 10 lite,HONOR series,monthly,nan,nan
+6/18/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+6/18/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+6/18/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+6/18/20,P9 lite mini,HUAWEI P series,quarterly,nan,nan
+6/18/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+6/18/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+6/18/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+6/18/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y9 2018,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y6 2018,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y5 2018,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y5 Prime 2018,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y5 Lite,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y5 Lite 2018,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y3 2018,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+6/18/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+6/18/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+6/18/20,Honor 20i,HONOR series,quarterly,nan,nan
+6/18/20,Honor 10i,HONOR series,quarterly,nan,nan
+6/18/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+6/18/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+6/18/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+6/18/20,Honor Play,HONOR series,quarterly,nan,nan
+6/18/20,Honor 8A,HONOR series,quarterly,nan,nan
+6/18/20,Honor 8X,HONOR series,quarterly,,
+6/18/20,Honor 8S,HONOR series,quarterly,nan,nan
+6/18/20,Honor 8C,HONOR series,quarterly,nan,nan
+6/18/20,Honor 9X,HONOR series,quarterly,nan,nan
+6/18/20,Honor 7S,HONOR series,quarterly,nan,nan
+6/18/20,Honor 7A,HONOR series,quarterly,nan,nan
+6/18/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+6/18/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+6/18/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+6/18/20,nova 3e,HUAWEI nova series,quarterly,nan,nan
+6/18/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+6/18/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+6/18/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+6/18/20,M5 Pro,Tablets,quarterly,nan,nan
+6/18/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+6/18/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+8/12/20,P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/12/20,P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/12/20,P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/12/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+8/12/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+8/12/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/12/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/12/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/12/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/12/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/12/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+8/12/20,Mate Xs,HUAWEI Mate series,monthly,,
+8/12/20,Honor 30,HONOR series,monthly,,Android 10
+8/12/20,Honor 30 Pro,HONOR series,monthly,,Android 10
+8/12/20,Honor View30,HONOR series,monthly,nan,nan
+8/12/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+8/12/20,HONOR 20 PRO,HONOR series,monthly,,Pie 9.0
+8/12/20,Honor View20,HONOR series,monthly,nan,nan
+8/12/20,Honor 10 lite,HONOR series,monthly,nan,nan
+8/12/20,P40 lite,HUAWEI P series,quarterly,nan,nan
+8/12/20,P smart Z,HUAWEI P series,quarterly,nan,nan
+8/12/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+8/12/20,P20 lite,HUAWEI P series,quarterly,nan,nan
+8/12/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+8/12/20,P9 lite mini,HUAWEI P series,quarterly,nan,nan
+8/12/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+8/12/20,Mate 20 Lite,HUAWEI Mate series,quarterly,nan,nan
+8/12/20,Mate 10 Lite,HUAWEI Mate series,quarterly,,Android 10.0 Q
+8/12/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Y7 2019,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y8P,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y7P,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y6P,HUAWEI Y series,quarterly,nan,nan
+8/12/20,HUAWEI Y5P,HUAWEI Y series,quarterly,nan,nan
+8/12/20,Honor 30S,HONOR series,quarterly,nan,nan
+8/12/20,Honor 20S,HONOR series,quarterly,nan,nan
+8/12/20,Honor 20i,HONOR series,quarterly,nan,nan
+8/12/20,Honor 10i,HONOR series,quarterly,nan,nan
+8/12/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+8/12/20,Honor 9X,HONOR series,quarterly,nan,nan
+8/12/20,Honor 9X Pro,HONOR series,quarterly,nan,nan
+8/12/20,Honor 9 Lite,HONOR series,quarterly,,"Android 9 ""Pie"""
+8/12/20,Honor 9i,HONOR series,quarterly,,Android 10.0 Q
+8/12/20,Honor Play,HONOR series,quarterly,nan,nan
+8/12/20,Honor 8A,HONOR series,quarterly,nan,nan
+8/12/20,Honor 8X,HONOR series,quarterly,,
+8/12/20,Honor 8S,HONOR series,quarterly,nan,nan
+8/12/20,Honor 8C,HONOR series,quarterly,nan,nan
+8/12/20,Honor 7S,HONOR series,quarterly,nan,nan
+8/12/20,Honor 9A,HONOR series,quarterly,nan,nan
+8/12/20,Honor 9S,HONOR series,quarterly,nan,nan
+8/12/20,nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+8/12/20,nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+8/12/20,nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+8/12/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+8/12/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+8/12/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+8/12/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+8/12/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+8/12/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+8/12/20,"M5 (8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+8/12/20,M5 Pro,Tablets,quarterly,nan,nan
+8/12/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+8/12/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+9/8/20,P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/8/20,P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/8/20,P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/8/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+9/8/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+9/8/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/8/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/8/20,Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+9/8/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/8/20,Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+9/8/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/8/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/8/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+9/8/20,Mate Xs,HUAWEI Mate series,monthly,,
+9/8/20,Honor 30,HONOR series,monthly,,Android 10
+9/8/20,Honor 30 Pro,HONOR series,monthly,,Android 10
+9/8/20,Honor View30,HONOR series,monthly,nan,nan
+9/8/20,Honor View30 Pro,HONOR series,monthly,nan,nan
+9/8/20,Honor 20,HONOR series,monthly,,Pie 9.0
+9/8/20,Honor 20 Pro,HONOR series,monthly,,Pie 9.0
+9/8/20,Honor View20,HONOR series,monthly,nan,nan
+9/8/20,P40 lite,HUAWEI P series,quarterly,nan,nan
+9/8/20,P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+9/8/20,P40 lite E,HUAWEI P series,quarterly,nan,nan
+9/8/20,P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+9/8/20,P smart 2020,HUAWEI P series,quarterly,nan,nan
+9/8/20,P smart Z,HUAWEI P series,quarterly,nan,nan
+9/8/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+9/8/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+9/8/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+9/8/20,P smart S,HUAWEI P series,quarterly,nan,nan
+9/8/20,Mate 20 lite,HUAWEI Mate series,quarterly,nan,nan
+9/8/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Y7 2019,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y8P,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y7P,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y6P,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y5P,HUAWEI Y series,quarterly,nan,nan
+9/8/20,HUAWEI Y5 lite,HUAWEI Y series,quarterly,nan,nan
+9/8/20,Honor 30S,HONOR series,quarterly,nan,nan
+9/8/20,Honor 20i,HONOR series,quarterly,nan,nan
+9/8/20,Honor 20e,HONOR series,quarterly,nan,nan
+9/8/20,Honor 10i,HONOR series,quarterly,nan,nan
+9/8/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+9/8/20,Honor 9X,HONOR series,quarterly,nan,nan
+9/8/20,Honor 9X Pro,HONOR series,quarterly,nan,nan
+9/8/20,Honor 9X Lite,HONOR series,quarterly,nan,nan
+9/8/20,Honor 9A,HONOR series,quarterly,nan,nan
+9/8/20,Honor 9C,HONOR series,quarterly,nan,nan
+9/8/20,Honor 9S,HONOR series,quarterly,nan,nan
+9/8/20,Honor 8A,HONOR series,quarterly,nan,nan
+9/8/20,Honor 8X,HONOR series,quarterly,,
+9/8/20,Honor 8X Max,HONOR series,quarterly,nan,nan
+9/8/20,Honor 8S,HONOR series,quarterly,nan,nan
+9/8/20,Honor 8C,HONOR series,quarterly,nan,nan
+9/8/20,Honor 7S,HONOR series,quarterly,nan,nan
+9/8/20,nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+9/8/20,nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+9/8/20,nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+9/8/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+9/8/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+9/8/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+9/8/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+9/8/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+9/8/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+9/8/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+9/8/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+9/8/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+9/17/20,P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/17/20,P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/17/20,P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/17/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+9/17/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+9/17/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/17/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/17/20,Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+9/17/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/17/20,Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+9/17/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/17/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/17/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+9/17/20,Mate Xs,HUAWEI Mate series,monthly,,
+9/17/20,Honor 30,HONOR series,monthly,,Android 10
+9/17/20,Honor 30 Pro,HONOR series,monthly,,Android 10
+9/17/20,Honor View30,HONOR series,monthly,nan,nan
+9/17/20,Honor View30 Pro,HONOR series,monthly,nan,nan
+9/17/20,Honor 20,HONOR series,monthly,,Pie 9.0
+9/17/20,Honor 20 Pro,HONOR series,monthly,,Pie 9.0
+9/17/20,Honor View20,HONOR series,monthly,nan,nan
+9/17/20,P40 lite,HUAWEI P series,quarterly,nan,nan
+9/17/20,P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+9/17/20,P40 lite E,HUAWEI P series,quarterly,nan,nan
+9/17/20,P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+9/17/20,P smart 2020,HUAWEI P series,quarterly,nan,nan
+9/17/20,P smart Z,HUAWEI P series,quarterly,nan,nan
+9/17/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+9/17/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+9/17/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+9/17/20,P smart S,HUAWEI P series,quarterly,nan,nan
+9/17/20,Mate 20 lite,HUAWEI Mate series,quarterly,nan,nan
+9/17/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Y7 2019,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y8P,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y7P,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y6P,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y5P,HUAWEI Y series,quarterly,nan,nan
+9/17/20,HUAWEI Y5 lite,HUAWEI Y series,quarterly,nan,nan
+9/17/20,Honor 30S,HONOR series,quarterly,nan,nan
+9/17/20,Honor 20i,HONOR series,quarterly,nan,nan
+9/17/20,Honor 20e,HONOR series,quarterly,nan,nan
+9/17/20,Honor 10i,HONOR series,quarterly,nan,nan
+9/17/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+9/17/20,Honor 9X,HONOR series,quarterly,nan,nan
+9/17/20,Honor 9X Pro,HONOR series,quarterly,nan,nan
+9/17/20,Honor 9X Lite,HONOR series,quarterly,nan,nan
+9/17/20,Honor 9A,HONOR series,quarterly,nan,nan
+9/17/20,Honor 9C,HONOR series,quarterly,nan,nan
+9/17/20,Honor 9S,HONOR series,quarterly,nan,nan
+9/17/20,Honor 8A,HONOR series,quarterly,nan,nan
+9/17/20,Honor 8X,HONOR series,quarterly,,
+9/17/20,Honor 8X Max,HONOR series,quarterly,nan,nan
+9/17/20,Honor 8S,HONOR series,quarterly,nan,nan
+9/17/20,Honor 8C,HONOR series,quarterly,nan,nan
+9/17/20,Honor 7S,HONOR series,quarterly,nan,nan
+9/17/20,nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+9/17/20,nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+9/17/20,nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+9/17/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+9/17/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+9/17/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+9/17/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+9/17/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+9/17/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+9/17/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+9/17/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+9/17/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+9/25/20,P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/25/20,P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/25/20,P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/25/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+9/25/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+9/25/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/25/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/25/20,Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+9/25/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/25/20,Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+9/25/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/25/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/25/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+9/25/20,Mate Xs,HUAWEI Mate series,monthly,,
+9/25/20,Honor 30,HONOR series,monthly,,Android 10
+9/25/20,Honor 30 Pro,HONOR series,monthly,,Android 10
+9/25/20,Honor View30,HONOR series,monthly,nan,nan
+9/25/20,Honor View30 Pro,HONOR series,monthly,nan,nan
+9/25/20,Honor 20,HONOR series,monthly,,Pie 9.0
+9/25/20,Honor 20 Pro,HONOR series,monthly,,Pie 9.0
+9/25/20,Honor View20,HONOR series,monthly,nan,nan
+9/25/20,P40 lite,HUAWEI P series,quarterly,nan,nan
+9/25/20,P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+9/25/20,P40 lite E,HUAWEI P series,quarterly,nan,nan
+9/25/20,P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+9/25/20,P smart 2020,HUAWEI P series,quarterly,nan,nan
+9/25/20,P smart Z,HUAWEI P series,quarterly,nan,nan
+9/25/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+9/25/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+9/25/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+9/25/20,P smart S,HUAWEI P series,quarterly,nan,nan
+9/25/20,Mate 20 lite,HUAWEI Mate series,quarterly,nan,nan
+9/25/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Y7 2019,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y8P,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y7P,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y6P,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y5P,HUAWEI Y series,quarterly,nan,nan
+9/25/20,HUAWEI Y5 lite,HUAWEI Y series,quarterly,nan,nan
+9/25/20,Honor 30S,HONOR series,quarterly,nan,nan
+9/25/20,Honor 20i,HONOR series,quarterly,nan,nan
+9/25/20,Honor 20e,HONOR series,quarterly,nan,nan
+9/25/20,Honor 10i,HONOR series,quarterly,nan,nan
+9/25/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+9/25/20,Honor 9X,HONOR series,quarterly,nan,nan
+9/25/20,Honor 9X Pro,HONOR series,quarterly,nan,nan
+9/25/20,Honor 9X Lite,HONOR series,quarterly,nan,nan
+9/25/20,Honor 9A,HONOR series,quarterly,nan,nan
+9/25/20,Honor 9C,HONOR series,quarterly,nan,nan
+9/25/20,Honor 9S,HONOR series,quarterly,nan,nan
+9/25/20,Honor 8A,HONOR series,quarterly,nan,nan
+9/25/20,Honor 8X,HONOR series,quarterly,,
+9/25/20,Honor 8X Max,HONOR series,quarterly,nan,nan
+9/25/20,Honor 8S,HONOR series,quarterly,nan,nan
+9/25/20,Honor 8C,HONOR series,quarterly,nan,nan
+9/25/20,Honor 7S,HONOR series,quarterly,nan,nan
+9/25/20,nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+9/25/20,nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+9/25/20,nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+9/25/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+9/25/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+9/25/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+9/25/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+9/25/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+9/25/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+9/25/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+9/25/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+9/25/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+9/29/20,P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/29/20,P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/29/20,P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/29/20,P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+9/29/20,P30,HUAWEI P series,monthly,EMUI 12,Android 10
+9/29/20,Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/29/20,Mate 30 pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/29/20,Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+9/29/20,Mate 20 X,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/29/20,Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+9/29/20,Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/29/20,Mate 20,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/29/20,Mate 20 RS,HUAWEI Mate series,monthly,nan,nan
+9/29/20,Mate Xs,HUAWEI Mate series,monthly,,
+9/29/20,Honor 30,HONOR series,monthly,,Android 10
+9/29/20,Honor 30 Pro,HONOR series,monthly,,Android 10
+9/29/20,Honor View30,HONOR series,monthly,nan,nan
+9/29/20,Honor View30 Pro,HONOR series,monthly,nan,nan
+9/29/20,Honor 20,HONOR series,monthly,,Pie 9.0
+9/29/20,Honor 20 Pro,HONOR series,monthly,,Pie 9.0
+9/29/20,Honor View20,HONOR series,monthly,nan,nan
+9/29/20,P40 lite,HUAWEI P series,quarterly,nan,nan
+9/29/20,P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+9/29/20,P40 lite E,HUAWEI P series,quarterly,nan,nan
+9/29/20,P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+9/29/20,P smart 2020,HUAWEI P series,quarterly,nan,nan
+9/29/20,P smart Z,HUAWEI P series,quarterly,nan,nan
+9/29/20,P30 lite,HUAWEI P series,quarterly,nan,nan
+9/29/20,P Smart 2019,HUAWEI P series,quarterly,nan,nan
+9/29/20,P smart Pro,HUAWEI P series,quarterly,nan,nan
+9/29/20,P smart S,HUAWEI P series,quarterly,nan,nan
+9/29/20,Mate 20 lite,HUAWEI Mate series,quarterly,nan,nan
+9/29/20,Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Y9 2019,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Y7 2019,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Y6 2019,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Y5 2019,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Y MAX,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y8P,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y7P,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y6P,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y5P,HUAWEI Y series,quarterly,nan,nan
+9/29/20,HUAWEI Y5 lite,HUAWEI Y series,quarterly,nan,nan
+9/29/20,Honor 30S,HONOR series,quarterly,nan,nan
+9/29/20,Honor 20i,HONOR series,quarterly,nan,nan
+9/29/20,Honor 20e,HONOR series,quarterly,nan,nan
+9/29/20,Honor 10i,HONOR series,quarterly,nan,nan
+9/29/20,Honor 10 Lite,HONOR series,quarterly,nan,nan
+9/29/20,Honor 9X,HONOR series,quarterly,nan,nan
+9/29/20,Honor 9X Pro,HONOR series,quarterly,nan,nan
+9/29/20,Honor 9X Lite,HONOR series,quarterly,nan,nan
+9/29/20,Honor 9A,HONOR series,quarterly,nan,nan
+9/29/20,Honor 9C,HONOR series,quarterly,nan,nan
+9/29/20,Honor 9S,HONOR series,quarterly,nan,nan
+9/29/20,Honor 8A,HONOR series,quarterly,nan,nan
+9/29/20,Honor 8X,HONOR series,quarterly,,
+9/29/20,Honor 8X Max,HONOR series,quarterly,nan,nan
+9/29/20,Honor 8S,HONOR series,quarterly,nan,nan
+9/29/20,Honor 8C,HONOR series,quarterly,nan,nan
+9/29/20,Honor 7S,HONOR series,quarterly,nan,nan
+9/29/20,nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+9/29/20,nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+9/29/20,nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+9/29/20,nova 5T,HUAWEI nova series,quarterly,nan,nan
+9/29/20,nova 4,HUAWEI nova series,quarterly,nan,nan
+9/29/20,nova 3,HUAWEI nova series,quarterly,nan,nan
+9/29/20,nova Lite 3,HUAWEI nova series,quarterly,nan,nan
+9/29/20,nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+9/29/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+9/29/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+9/29/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+9/29/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+10/23/20,HUAWEI Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+10/23/20,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/23/20,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/23/20,HUAWEI Mate 30 Pro (5G),HUAWEI Mate series,monthly,nan,nan
+10/23/20,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+10/23/20,HUAWEI Mate 30 5G,HUAWEI Mate series,monthly,nan,nan
+10/23/20,PORSCHE DESIGN HUAWEI Mate 30 RS,HUAWEI Mate series,monthly,nan,nan
+10/23/20,HUAWEI nova 5T,HUAWEI nova series,monthly,nan,nan
+10/23/20,HUAWEI nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+10/23/20,HUAWEI nova 4,HUAWEI nova series,quarterly,nan,nan
+10/23/20,HUAWEI  nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+10/23/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+10/23/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+10/23/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+10/23/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+11/9/20,HUAWEI Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+11/9/20,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/9/20,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/9/20,HUAWEI Mate 30 Pro (5G),HUAWEI Mate series,monthly,nan,nan
+11/9/20,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/9/20,HUAWEI Mate 30 5G,HUAWEI Mate series,monthly,nan,nan
+11/9/20,PORSCHE DESIGN HUAWEI Mate 30 RS,HUAWEI Mate series,monthly,nan,nan
+11/9/20,HUAWEI nova 5T,HUAWEI nova series,monthly,nan,nan
+11/9/20,HUAWEI nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+11/9/20,HUAWEI nova 4,HUAWEI nova series,quarterly,nan,nan
+11/9/20,HUAWEI  nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+11/9/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/9/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+11/9/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+11/9/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+11/23/20,HUAWEI Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+11/23/20,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/23/20,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/23/20,HUAWEI Mate 30 Pro (5G),HUAWEI Mate series,monthly,nan,nan
+11/23/20,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/23/20,HUAWEI Mate 30 5G,HUAWEI Mate series,monthly,nan,nan
+11/23/20,PORSCHE DESIGN HUAWEI Mate 30 RS,HUAWEI Mate series,monthly,nan,nan
+11/23/20,HUAWEI nova 5T,HUAWEI nova series,monthly,nan,nan
+11/23/20,HUAWEI nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+11/23/20,HUAWEI nova 4,HUAWEI nova series,quarterly,nan,nan
+11/23/20,HUAWEI  nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+11/23/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/23/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+11/23/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+11/23/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+11/23/20,HUAWEI Mate 20 X 5G,HUAWEI Mate series,monthly,nan,nan
+11/23/20,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/23/20,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/23/20,HUAWEI Mate 30 Pro (5G),HUAWEI Mate series,monthly,nan,nan
+11/23/20,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/23/20,HUAWEI Mate 30 5G,HUAWEI Mate series,monthly,nan,nan
+11/23/20,PORSCHE DESIGN HUAWEI Mate 30 RS,HUAWEI Mate series,monthly,nan,nan
+11/23/20,HUAWEI nova 5T,HUAWEI nova series,monthly,nan,nan
+11/23/20,HUAWEI nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+11/23/20,HUAWEI nova 4,HUAWEI nova series,quarterly,nan,nan
+11/23/20,HUAWEI  nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+11/23/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/23/20,"M6(8.4"" & 10.8"")",Tablets,quarterly,nan,nan
+11/23/20,"T5 (10.1"")",Tablets,quarterly,nan,nan
+11/23/20,"M5 lite (10.1"" & 8.0"")",Tablets,quarterly,nan,nan
+11/29/20,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+11/29/20,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/29/20,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/29/20,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+11/29/20,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+11/29/20,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/29/20,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/29/20,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/29/20,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/29/20,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+11/29/20,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+11/29/20,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+11/29/20,HONOR 20,HONOR series,monthly,,Pie 9.0
+11/29/20,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+11/29/20,HONOR View 20,HONOR series,monthly,,
+11/29/20,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+11/29/20,HUAWEI nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+11/29/20,HUAWEI nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+11/29/20,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+11/29/20,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+11/29/20,HUAWEI nova 4,HUAWEI nova series,quarterly,nan,nan
+11/29/20,HUAWEI nova lite 3,HUAWEI nova series,quarterly,nan,nan
+11/29/20,HUAWEI nova lite 3,HUAWEI nova series,quarterly,nan,nan
+11/29/20,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+11/29/20,HUAWEI nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+11/29/20,HUAWEI Mate 20 lite,HUAWEI Mate series,quarterly,nan,nan
+11/29/20,HONOR 30,HONOR series,quarterly,,Android 10
+11/29/20,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+11/29/20,HONOR 30i,HONOR series,quarterly,nan,nan
+11/29/20,Honor 30S,HONOR series,quarterly,nan,nan
+11/29/20,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 20e,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 20i,HONOR series,quarterly,nan,nan
+11/29/20,Honor 20S,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 20 lite,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 10 lite,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 10i,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 9A,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 9C,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 9S,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 9X,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 9X lite,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 8A,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 8S,HONOR series,quarterly,nan,nan
+11/29/20,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+11/29/20,HUAWEI Y5 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y6 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y7 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y7 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y7 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+11/29/20,HUAWEI MediaPad T3,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MediaPad T5,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MediaPad M5 lite 10,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MatePad,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+11/29/20,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+11/29/20,HONOR Pad V6,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+1/26/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+1/26/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+1/26/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+1/26/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+1/26/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+1/26/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/26/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/26/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/26/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+1/26/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+1/26/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+1/26/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+1/26/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+1/26/21,HONOR View 20,HONOR series,monthly,,
+1/26/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+1/26/21,HUAWEI nova 7,HUAWEI nova series,quarterly,EMUI,Android 10
+1/26/21,HUAWEI nova 7 SE,HUAWEI nova series,quarterly,nan,nan
+1/26/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+1/26/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+1/26/21,HUAWEI nova 4,HUAWEI nova series,quarterly,nan,nan
+1/26/21,HUAWEI nova lite 3,HUAWEI nova series,quarterly,nan,nan
+1/26/21,HUAWEI nova lite 3,HUAWEI nova series,quarterly,nan,nan
+1/26/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+1/26/21,HUAWEI nova 3i,HUAWEI nova series,quarterly,,"9.0 ""Pie"""
+1/26/21,HUAWEI Mate 20 lite,HUAWEI Mate series,quarterly,nan,nan
+1/26/21,HONOR 30,HONOR series,quarterly,,Android 10
+1/26/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+1/26/21,HONOR 30i,HONOR series,quarterly,nan,nan
+1/26/21,Honor 30S,HONOR series,quarterly,nan,nan
+1/26/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 20e,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 20i,HONOR series,quarterly,nan,nan
+1/26/21,Honor 20S,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 10 lite,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 10i,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 9A,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 9C,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 9S,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 9X,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 8A,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 8S,HONOR series,quarterly,nan,nan
+1/26/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+1/26/21,HUAWEI Y5 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y6 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y7 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y7 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y7 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+1/26/21,HUAWEI MediaPad T3,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MediaPad T5,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MediaPad M5 lite 10,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+1/26/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+1/26/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+4/23/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/23/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/23/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+4/23/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+4/23/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+4/23/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/23/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/23/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/23/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+4/23/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+4/23/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+4/23/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+4/23/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+4/23/21,HONOR View 20,HONOR series,monthly,,
+4/23/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+4/23/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+4/23/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+4/23/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+4/23/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+4/23/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+4/23/21,HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+4/23/21,HONOR 30,HONOR series,quarterly,,Android 10
+4/23/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+4/23/21,HONOR 30i,HONOR series,quarterly,nan,nan
+4/23/21,Honor 30S,HONOR series,quarterly,nan,nan
+4/23/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 20e,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 20i,HONOR series,quarterly,nan,nan
+4/23/21,Honor 20S,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 10i,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 9A,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 9C,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 9S,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 9X,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 10X,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 8A,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 8S,HONOR series,quarterly,nan,nan
+4/23/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+4/23/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+4/23/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+4/23/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/6/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/6/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/6/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+5/6/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+5/6/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/6/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/6/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/6/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/6/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+5/6/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+5/6/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+5/6/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+5/6/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+5/6/21,HONOR View 20,HONOR series,monthly,,
+5/6/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+5/6/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+5/6/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+5/6/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+5/6/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+5/6/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+5/6/21,HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+5/6/21,HONOR 30,HONOR series,quarterly,,Android 10
+5/6/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+5/6/21,HONOR 30i,HONOR series,quarterly,nan,nan
+5/6/21,Honor 30S,HONOR series,quarterly,nan,nan
+5/6/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 20e,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 20i,HONOR series,quarterly,nan,nan
+5/6/21,Honor 20S,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 10i,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 9A,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 9C,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 9S,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 9X,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 10X,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 8A,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 8S,HONOR series,quarterly,nan,nan
+5/6/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+5/6/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+5/6/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+5/6/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/7/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/7/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/7/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+5/7/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+5/7/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/7/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/7/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/7/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/7/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+5/7/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+5/7/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+5/7/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+5/7/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+5/7/21,HONOR View 20,HONOR series,monthly,,
+5/7/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI P smart+ 2019,HUAWEI P series,quarterly,nan,nan
+5/7/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+5/7/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+5/7/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+5/7/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+5/7/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+5/7/21,HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+5/7/21,HONOR 30,HONOR series,quarterly,,Android 10
+5/7/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+5/7/21,HONOR 30i,HONOR series,quarterly,nan,nan
+5/7/21,Honor 30S,HONOR series,quarterly,nan,nan
+5/7/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 20e,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 20i,HONOR series,quarterly,nan,nan
+5/7/21,Honor 20S,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 10i,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 9A,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 9C,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 9S,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 9X,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 10X,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 8A,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 8S,HONOR series,quarterly,nan,nan
+5/7/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+5/7/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+5/7/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+5/7/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/30/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/30/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/30/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+5/30/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+5/30/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/30/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/30/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/30/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/30/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/30/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+5/30/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+5/30/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+5/30/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+5/30/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+5/30/21,HONOR View 20,HONOR series,monthly,,
+5/30/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+5/30/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+5/30/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+5/30/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+5/30/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+5/30/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+5/30/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+5/30/21,HONOR 30,HONOR series,quarterly,,Android 10
+5/30/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+5/30/21,HONOR 30i,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 30S,HONOR series,quarterly,nan,nan
+5/30/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 20e,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 20i,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 20S,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 10i,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 9A,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 9C,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 9S,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 9X,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 10X,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 8A,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 8S,HONOR series,quarterly,nan,nan
+5/30/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+5/30/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+5/30/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+5/30/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+6/10/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/10/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/10/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+6/10/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+6/10/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/10/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+6/10/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/10/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/10/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/10/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+6/10/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+6/10/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+6/10/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+6/10/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+6/10/21,HONOR View 20,HONOR series,monthly,,
+6/10/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+6/10/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+6/10/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+6/10/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+6/10/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+6/10/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+6/10/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+6/10/21,HONOR 30,HONOR series,quarterly,,Android 10
+6/10/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+6/10/21,HONOR 30i,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 30S,HONOR series,quarterly,nan,nan
+6/10/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 20e,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 20i,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 20S,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 10i,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 9A,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 9C,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 9S,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 9X,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 10X,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 8A,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 8S,HONOR series,quarterly,nan,nan
+6/10/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+6/10/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+6/10/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+6/10/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+8/6/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/6/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/6/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+8/6/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+8/6/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/6/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+8/6/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/6/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/6/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/6/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+8/6/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+8/6/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+8/6/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+8/6/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+8/6/21,HONOR View 20,HONOR series,monthly,,
+8/6/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+8/6/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+8/6/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+8/6/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+8/6/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+8/6/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+8/6/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+8/6/21,HONOR 30,HONOR series,quarterly,,Android 10
+8/6/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+8/6/21,HONOR 30i,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 30S,HONOR series,quarterly,nan,nan
+8/6/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 20e,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 20i,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 20S,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 10i,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 9A,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 9C,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 9S,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 9X,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 10X,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 8A,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 8S,HONOR series,quarterly,nan,nan
+8/6/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+8/6/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+8/6/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+8/6/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+8/17/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/17/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/17/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+8/17/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+8/17/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/17/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+8/17/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/17/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/17/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/17/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+8/17/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+8/17/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+8/17/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+8/17/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+8/17/21,HONOR View 20,HONOR series,monthly,,
+8/17/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+8/17/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+8/17/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+8/17/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+8/17/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+8/17/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HONOR 30,HONOR series,quarterly,,Android 10
+8/17/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+8/17/21,HONOR 30i,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 30S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20e,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20i,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 10i,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9A,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9C,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9X,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 10X,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 8A,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 8S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+8/17/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+8/17/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+8/17/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/17/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/17/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+8/17/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+8/17/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+8/17/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+8/17/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/17/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/17/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+8/17/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+8/17/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+8/17/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+8/17/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+8/17/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+8/17/21,HONOR View 20,HONOR series,monthly,,
+8/17/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+8/17/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+8/17/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+8/17/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+8/17/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+8/17/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+8/17/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+8/17/21,HONOR 30,HONOR series,quarterly,,Android 10
+8/17/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+8/17/21,HONOR 30i,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 30S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20e,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20i,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 10i,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9A,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9C,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9X,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 10X,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 8A,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 8S,HONOR series,quarterly,nan,nan
+8/17/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+8/17/21,HUAWEI MediaPad M5 lite 8,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+8/17/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+8/17/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+10/4/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+10/4/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/4/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/4/21,HUAWEI Mate 30 Pro (5G),HUAWEI Mate series,monthly,nan,nan
+10/4/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+10/4/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+10/4/21,HUAWEI Mate X,HUAWEI Mate series,monthly,,
+10/4/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+10/4/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+10/4/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+10/4/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+10/4/21,HONOR View 20,HONOR series,monthly,,
+10/4/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,quarterly,EMUI 10.1,Android 10
+10/4/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+10/4/21,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+10/4/21,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+10/4/21,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+10/4/21,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+10/4/21,HUAWEI nova 5T,HUAWEI nova series,quarterly,nan,nan
+10/4/21,HUAWEI nova lite 3+,HUAWEI nova series,quarterly,nan,nan
+10/4/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y5 2019,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+10/4/21,HONOR 30,HONOR series,quarterly,,Android 10
+10/4/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+10/4/21,HONOR 30i,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 30S,HONOR series,quarterly,nan,nan
+10/4/21,HONOR View 30 Pro,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 20e,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 20S,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 9A,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 9C,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 9S,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 9X,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 10X,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 8A,HONOR series,quarterly,nan,nan
+10/4/21,HONOR 8S,HONOR series,quarterly,nan,nan
+10/4/21, HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+10/4/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+10/4/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+10/4/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+10/4/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+10/4/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+10/4/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+11/5/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+11/5/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/5/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/5/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+11/5/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+11/5/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/5/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/5/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/5/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/5/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+11/5/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+11/5/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+11/5/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+11/5/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+11/5/21,HONOR View 20,HONOR series,monthly,,
+11/5/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,quarterly,EMUI 10.1,Android 10
+11/5/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+11/5/21,HUAWEI nova series:HUAWEI nova Y60,,quarterly,nan,nan
+11/5/21,HUAWEI nova 8i,,quarterly,nan,nan
+11/5/21,HUAWEI nova 8,,quarterly,EMUI,Android 11
+11/5/21,HUAWEI nova 7 5G,,quarterly,nan,nan
+11/5/21,HUAWEI nova 7 SE 5G,,quarterly,nan,nan
+11/5/21,HUAWEI nova 7i,,quarterly,EMUI 12,"10.0 ""Pie"""
+11/5/21,HUAWEI nova 5T,,quarterly,nan,nan
+11/5/21,HUAWEI nova lite 3+,,quarterly,nan,nan
+11/5/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+11/5/21,HONOR 30,HONOR series,quarterly,,Android 10
+11/5/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+11/5/21,HONOR 30i,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 30S,HONOR series,quarterly,nan,nan
+11/5/21,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 20e,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 20i,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 20S,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 10i,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 9A,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 9C,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 9S,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 9X,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 10X,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 8A,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 8S,HONOR series,quarterly,nan,nan
+11/5/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+11/5/21, HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/5/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+11/5/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+11/5/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+11/5/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+11/5/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+11/5/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+11/26/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+11/26/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/26/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/26/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+11/26/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+11/26/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/26/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/26/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/26/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/26/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+11/26/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+11/26/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+11/26/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+11/26/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+11/26/21,HONOR View 20,HONOR series,monthly,,
+11/26/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,quarterly,EMUI 10.1,Android 10
+11/26/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+11/26/21,HUAWEI nova series:HUAWEI nova Y60,,quarterly,nan,nan
+11/26/21,HUAWEI nova 8i,,quarterly,nan,nan
+11/26/21,HUAWEI nova 8,,quarterly,EMUI,Android 11
+11/26/21,HUAWEI nova 7 5G,,quarterly,nan,nan
+11/26/21,HUAWEI nova 7 SE 5G,,quarterly,nan,nan
+11/26/21,HUAWEI nova 7i,,quarterly,EMUI 12,"10.0 ""Pie"""
+11/26/21,HUAWEI nova 5T,,quarterly,nan,nan
+11/26/21,HUAWEI nova lite 3+,,quarterly,nan,nan
+11/26/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+11/26/21,HONOR 30,HONOR series,quarterly,,Android 10
+11/26/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+11/26/21,HONOR 30i,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 30S,HONOR series,quarterly,nan,nan
+11/26/21,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 20e,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 20i,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 20S,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 10i,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 9A,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 9C,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 9S,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 9X,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 10X,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 8A,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 8S,HONOR series,quarterly,nan,nan
+11/26/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+11/26/21, HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/26/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+11/26/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+11/26/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+11/26/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+11/26/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+11/26/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+11/30/21,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+11/30/21,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/30/21,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+11/30/21,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+11/30/21,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+11/30/21,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+11/30/21,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/30/21,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/30/21,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+11/30/21,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+11/30/21,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+11/30/21,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+11/30/21,HONOR 20,HONOR series,monthly,,Pie 9.0
+11/30/21,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+11/30/21,HONOR View 20,HONOR series,monthly,,
+11/30/21,HUAWEI Mate 20 Pro,HUAWEI Mate series,quarterly,EMUI 10.1,Android 10
+11/30/21,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+11/30/21,HUAWEI nova series:HUAWEI nova Y60,,quarterly,nan,nan
+11/30/21,HUAWEI nova 8i,,quarterly,nan,nan
+11/30/21,HUAWEI nova 8,,quarterly,EMUI,Android 11
+11/30/21,HUAWEI nova 7 5G,,quarterly,nan,nan
+11/30/21,HUAWEI nova 7 SE 5G,,quarterly,nan,nan
+11/30/21,HUAWEI nova 7i,,quarterly,EMUI 12,"10.0 ""Pie"""
+11/30/21,HUAWEI nova 5T,,quarterly,nan,nan
+11/30/21,HUAWEI nova lite 3+,,quarterly,nan,nan
+11/30/21, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+11/30/21,HONOR 30,HONOR series,quarterly,,Android 10
+11/30/21,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+11/30/21,HONOR 30i,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 30S,HONOR series,quarterly,nan,nan
+11/30/21,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 20e,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 20i,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 20S,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 20 lite,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 10i,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 9A,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 9C,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 9S,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 9X,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 10X,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 9X lite,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 10X lite,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 8A,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 8S,HONOR series,quarterly,nan,nan
+11/30/21,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+11/30/21, HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+11/30/21,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+11/30/21,HUAWEI MatePad,Tablets,quarterly,nan,nan
+11/30/21,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+11/30/21,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+11/30/21,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+11/30/21,HONOR Pad V6,Tablets,quarterly,nan,nan
+1/21/22,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+1/21/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+1/21/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+1/21/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+1/21/22,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+1/21/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+1/21/22,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/21/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/21/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/21/22,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+1/21/22,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+1/21/22,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+1/21/22,HONOR 20,HONOR series,monthly,,Pie 9.0
+1/21/22,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+1/21/22,HONOR View 20,HONOR series,monthly,,
+1/21/22,HUAWEI Mate 20 Pro,HUAWEI Mate series,quarterly,EMUI 10.1,Android 10
+1/21/22,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+1/21/22,HUAWEI nova series:HUAWEI nova Y60,,quarterly,nan,nan
+1/21/22,HUAWEI nova 8i,,quarterly,nan,nan
+1/21/22,HUAWEI nova 8,,quarterly,EMUI,Android 11
+1/21/22,HUAWEI nova 7 5G,,quarterly,nan,nan
+1/21/22,HUAWEI nova 7 SE 5G,,quarterly,nan,nan
+1/21/22,HUAWEI nova 7i,,quarterly,EMUI 12,"10.0 ""Pie"""
+1/21/22,HUAWEI nova 5T,,quarterly,nan,nan
+1/21/22,HUAWEI nova lite 3+,,quarterly,nan,nan
+1/21/22, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+1/21/22,HONOR 30,HONOR series,quarterly,,Android 10
+1/21/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+1/21/22,HONOR 30i,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 30S,HONOR series,quarterly,nan,nan
+1/21/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 20e,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 20i,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 20S,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 10i,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 9A,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 9C,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 9S,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 9X,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 10X,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 8A,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 8S,HONOR series,quarterly,nan,nan
+1/21/22,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+1/21/22, HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+1/21/22,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+1/21/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+1/21/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+1/21/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+1/21/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+1/21/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+2/1/22,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+2/1/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+2/1/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+2/1/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+2/1/22,HUAWEI Mate 20 X (5G),HUAWEI Mate series,monthly,nan,nan
+2/1/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+2/1/22,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+2/1/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+2/1/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+2/1/22,HUAWEI P30,HUAWEI P series,monthly,EMUI 12,Android 10
+2/1/22,HUAWEI P30 lite New Edition,HUAWEI P series,monthly,nan,nan
+2/1/22,HUAWEI P30 Pro,HUAWEI P series,monthly,EMUI 12,Android 10
+2/1/22,HONOR 20,HONOR series,monthly,,Pie 9.0
+2/1/22,HONOR 20 Pro,HONOR series,monthly,,Pie 9.0
+2/1/22,HONOR View 20,HONOR series,monthly,,
+2/1/22,HUAWEI Mate 20 Pro,HUAWEI Mate series,quarterly,EMUI 10.1,Android 10
+2/1/22,HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P smart 2019,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+2/1/22,HUAWEI nova series:HUAWEI nova Y60,,quarterly,nan,nan
+2/1/22,HUAWEI nova 8i,,quarterly,nan,nan
+2/1/22,HUAWEI nova 8,,quarterly,EMUI,Android 11
+2/1/22,HUAWEI nova 7 5G,,quarterly,nan,nan
+2/1/22,HUAWEI nova 7 SE 5G,,quarterly,nan,nan
+2/1/22,HUAWEI nova 7i,,quarterly,EMUI 12,"10.0 ""Pie"""
+2/1/22,HUAWEI nova 5T,,quarterly,nan,nan
+2/1/22,HUAWEI nova lite 3+,,quarterly,nan,nan
+2/1/22, HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y6s,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y6 2019,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+2/1/22,HONOR 30,HONOR series,quarterly,,Android 10
+2/1/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+2/1/22,HONOR 30i,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 30S,HONOR series,quarterly,nan,nan
+2/1/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 20e,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 20i,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 20S,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 10i,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 9A,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 9C,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 9S,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 9X,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 10X,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 9X Pro,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 8A,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 8S,HONOR series,quarterly,nan,nan
+2/1/22,HONOR 8A Pro,HONOR series,quarterly,nan,nan
+2/1/22, HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+2/1/22,HUAWEI MediaPad M6,Tablets,quarterly,nan,nan
+2/1/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+2/1/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+2/1/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+2/1/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+2/1/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+3/22/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+3/22/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+3/22/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+3/22/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+3/22/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+3/22/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+3/22/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+3/22/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+3/22/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+3/22/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+3/22/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+3/22/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+3/22/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+3/22/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+3/22/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+3/22/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+3/22/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+3/22/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+3/22/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+3/22/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+3/22/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+3/22/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+3/22/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+3/22/22, HONOR 30,HONOR series,quarterly,,Android 10
+3/22/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+3/22/22,HONOR 30i,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 30S,HONOR series,quarterly,nan,nan
+3/22/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 20e,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 20i,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 20S,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 9A,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 9C,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 9S,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 10X,HONOR series,quarterly,nan,nan
+3/22/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+3/22/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+3/22/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+3/22/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+3/22/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+3/22/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+3/22/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+4/13/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+4/13/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/13/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/13/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+4/13/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+4/13/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/13/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/13/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/13/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+4/13/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+4/13/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+4/13/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+4/13/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+4/13/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+4/13/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+4/13/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+4/13/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+4/13/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+4/13/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+4/13/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+4/13/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+4/13/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+4/13/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+4/13/22, HONOR 30,HONOR series,quarterly,,Android 10
+4/13/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+4/13/22,HONOR 30i,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 30S,HONOR series,quarterly,nan,nan
+4/13/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 20e,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 20i,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 20S,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 9A,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 9C,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 9S,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 10X,HONOR series,quarterly,nan,nan
+4/13/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+4/13/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+4/13/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+4/13/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+4/13/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+4/13/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+4/13/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+4/16/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+4/16/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/16/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+4/16/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+4/16/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+4/16/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/16/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/16/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+4/16/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+4/16/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+4/16/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+4/16/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+4/16/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+4/16/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+4/16/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+4/16/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+4/16/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+4/16/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+4/16/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+4/16/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+4/16/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+4/16/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+4/16/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+4/16/22, HONOR 30,HONOR series,quarterly,,Android 10
+4/16/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+4/16/22,HONOR 30i,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 30S,HONOR series,quarterly,nan,nan
+4/16/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 20e,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 20i,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 20S,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 9A,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 9C,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 9S,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 10X,HONOR series,quarterly,nan,nan
+4/16/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+4/16/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+4/16/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+4/16/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+4/16/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+4/16/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+4/16/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+5/16/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/16/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/16/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/16/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+5/16/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/16/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/16/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/16/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/16/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+5/16/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+5/16/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+5/16/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+5/16/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+5/16/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+5/16/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+5/16/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+5/16/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+5/16/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+5/16/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+5/16/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+5/16/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+5/16/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+5/16/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+5/16/22, HONOR 30,HONOR series,quarterly,,Android 10
+5/16/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+5/16/22,HONOR 30i,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 30S,HONOR series,quarterly,nan,nan
+5/16/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 20e,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 20i,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 20S,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 9A,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 9C,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 9S,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 10X,HONOR series,quarterly,nan,nan
+5/16/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+5/16/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+5/16/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+5/16/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+5/16/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+5/16/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+5/16/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+5/20/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/20/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/20/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+5/20/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+5/20/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/20/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/20/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/20/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/20/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+5/20/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+5/20/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+5/20/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+5/20/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+5/20/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+5/20/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+5/20/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+5/20/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+5/20/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+5/20/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+5/20/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+5/20/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+5/20/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+5/20/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+5/20/22, HONOR 30,HONOR series,quarterly,,Android 10
+5/20/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+5/20/22,HONOR 30i,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 30S,HONOR series,quarterly,nan,nan
+5/20/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 20e,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 20i,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 20S,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 9A,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 9C,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 9S,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 10X,HONOR series,quarterly,nan,nan
+5/20/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+5/20/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+5/20/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+5/20/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+5/20/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+5/20/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+5/20/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+6/6/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+6/6/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/6/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+6/6/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+6/6/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+6/6/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/6/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/6/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/6/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+6/6/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+6/6/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+6/6/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+6/6/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+6/6/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+6/6/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+6/6/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+6/6/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+6/6/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+6/6/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+6/6/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+6/6/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+6/6/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+6/6/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+6/6/22, HONOR 30,HONOR series,quarterly,,Android 10
+6/6/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+6/6/22,HONOR 30i,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 30S,HONOR series,quarterly,nan,nan
+6/6/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 20e,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 20i,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 20S,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 9A,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 9C,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 9S,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 10X,HONOR series,quarterly,nan,nan
+6/6/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+6/6/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+6/6/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+6/6/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+6/6/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+6/6/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+6/6/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+10/7/22, HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+10/7/22,HUAWEI Mate 30,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/7/22,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+10/7/22,HUAWEI Mate 30 Pro 5G,HUAWEI Mate series,monthly,nan,nan
+10/7/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+10/7/22, HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+10/7/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+10/7/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+10/7/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+10/7/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+10/7/22, HUAWEI Mate 20 X (5G),HUAWEI Mate series,quarterly,nan,nan
+10/7/22, HUAWEI P40 lite,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI P40 lite 5G,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI P40 lite E,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI P30,HUAWEI P series,quarterly,EMUI 12,Android 10
+10/7/22,HUAWEI P30 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10
+10/7/22,HUAWEI P30 lite,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI P smart 2021,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI P smart 2020,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI P smart S,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUWEI P smart Pro,HUAWEI P series,quarterly,nan,nan
+10/7/22,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,
+10/7/22,HUAWEI nova Y60,HUAWEI nova series,quarterly,nan,nan
+10/7/22,HUAWEI nova 8i,HUAWEI nova series,quarterly,nan,nan
+10/7/22,HUAWEI nova 8,HUAWEI nova series,quarterly,EMUI,Android 11
+10/7/22,HUAWEI nova 7 5G,HUAWEI nova series,quarterly,nan,nan
+10/7/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,quarterly,nan,nan
+10/7/22,HUAWEI nova 7i,HUAWEI nova series,quarterly,EMUI 12,"10.0 ""Pie"""
+10/7/22,  HUAWEI Y5p,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y6p,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y6 Pro 2019,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y7a,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y7p,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y8p,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y8s,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y9 Prime 2019,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y9a,HUAWEI Y series,quarterly,nan,nan
+10/7/22,HUAWEI Y9s,HUAWEI Y series,quarterly,nan,nan
+10/7/22, HONOR 30,HONOR series,quarterly,,Android 10
+10/7/22,HONOR 30 Pro+,HONOR series,quarterly,,Android 10
+10/7/22,HONOR 30i,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 30S,HONOR series,quarterly,nan,nan
+10/7/22,HONOR view 30 Pro,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 20e,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 20i,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 20S,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 20 lite,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 9A,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 9C,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 9S,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 9X lite,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 10X,HONOR series,quarterly,nan,nan
+10/7/22,HONOR 10X lite,HONOR series,quarterly,nan,nan
+10/7/22,  HUAWEI MatePad Pro,Tablets,quarterly,nan,nan
+10/7/22,HUAWEI MatePad,Tablets,quarterly,nan,nan
+10/7/22,HUAWEI MatePad T,Tablets,quarterly,nan,nan
+10/7/22,HUAWEI MatePad T 10s,Tablets,quarterly,nan,nan
+10/7/22,HUAWEI MatePad T 10,Tablets,quarterly,nan,nan
+10/7/22,HONOR Pad V6,Tablets,quarterly,nan,nan
+12/27/22,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+12/27/22,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+12/27/22,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+12/27/22,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+12/27/22,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+12/27/22,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+12/27/22,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+12/27/22,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+12/27/22,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+12/27/22,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+12/27/22,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+12/27/22,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+12/27/22,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+12/27/22,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+12/27/22,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+12/27/22,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+12/27/22,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+12/27/22,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+12/27/22,HONOR View30 Pro,HONOR series,monthly,nan,nan
+12/27/22,HONOR 30,HONOR series,monthly,,Android 10
+12/27/22,Honor 30S,HONOR series,monthly,nan,nan
+12/27/22, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+12/27/22,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+12/27/22,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+12/27/22,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+1/8/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+1/8/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+1/8/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+1/8/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+1/8/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+1/8/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/8/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/8/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/8/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+1/8/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+1/8/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+1/8/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+1/8/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+1/8/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+1/8/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+1/8/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+1/8/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+1/8/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+1/8/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+1/8/23,HONOR 30,HONOR series,monthly,,Android 10
+1/8/23,Honor 30S,HONOR series,monthly,nan,nan
+1/8/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+1/8/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+1/8/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+1/8/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+1/29/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+1/29/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+1/29/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+1/29/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+1/29/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+1/29/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/29/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/29/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/29/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+1/29/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+1/29/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+1/29/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+1/29/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+1/29/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+1/29/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+1/29/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+1/29/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+1/29/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+1/29/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+1/29/23,HONOR 30,HONOR series,monthly,,Android 10
+1/29/23,Honor 30S,HONOR series,monthly,nan,nan
+1/29/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+1/29/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+1/29/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+1/29/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+3/7/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+3/7/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+3/7/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+3/7/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+3/7/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+3/7/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+3/7/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+3/7/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+3/7/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+3/7/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+3/7/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+3/7/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+3/7/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+3/7/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+3/7/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+3/7/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+3/7/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+3/7/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+3/7/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+3/7/23,HONOR 30,HONOR series,monthly,,Android 10
+3/7/23,Honor 30S,HONOR series,monthly,nan,nan
+3/7/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+3/7/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+3/7/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+3/7/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/21/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+5/21/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+5/21/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+5/21/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/21/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/21/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/21/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/21/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+5/21/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+5/21/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+5/21/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+5/21/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+5/21/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+5/21/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+5/21/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+5/21/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+5/21/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+5/21/23,HONOR 30,HONOR series,monthly,,Android 10
+5/21/23,Honor 30S,HONOR series,monthly,nan,nan
+5/21/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/21/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+5/21/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+5/21/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+5/21/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/21/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/21/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/21/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/21/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+5/21/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+5/21/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+5/21/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+5/21/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+5/21/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+5/21/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+5/21/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+5/21/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+5/21/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+5/21/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+5/21/23,HONOR 30,HONOR series,monthly,,Android 10
+5/21/23,Honor 30S,HONOR series,monthly,nan,nan
+5/21/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+5/21/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+5/26/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+5/26/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+5/26/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+5/26/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+5/26/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+5/26/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/26/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/26/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+5/26/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+5/26/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+5/26/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+5/26/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+5/26/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+5/26/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+5/26/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+5/26/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+5/26/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+5/26/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+5/26/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+5/26/23,HONOR 30,HONOR series,monthly,,Android 10
+5/26/23,Honor 30S,HONOR series,monthly,nan,nan
+5/26/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+5/26/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+5/26/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+5/26/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+6/5/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+6/5/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+6/5/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+6/5/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+6/5/23,HUAWEI Mate Xs,HUAWEI Mate series,monthly,,
+6/5/23,HUAWEI P40,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/5/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/5/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+6/5/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+6/5/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+6/5/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+6/5/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+6/5/23,HUAWEI P40 lite 5G,HUAWEI P series,monthly,nan,nan
+6/5/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+6/5/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+6/5/23,HUAWEI nova 7 5G,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 7 SE 5G,HUAWEI nova series,monthly,nan,nan
+6/5/23,HUAWEI nova 7i,HUAWEI nova series,monthly,EMUI 12,"10.0 ""Pie"""
+6/5/23,HONOR 30 Pro+,HONOR series,monthly,,Android 10
+6/5/23,HONOR View30 Pro,HONOR series,monthly,nan,nan
+6/5/23,HONOR 30,HONOR series,monthly,,Android 10
+6/5/23,Honor 30S,HONOR series,monthly,nan,nan
+6/5/23, HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+6/5/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+6/5/23,HUAWEI nova Y70 Plus,HUAWEI Y series,quarterly,nan,nan
+6/5/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+9/16/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+9/16/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+9/16/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+9/16/23,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/16/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+9/16/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+9/16/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+9/16/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+9/16/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+9/16/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/16/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/16/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+9/16/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+9/16/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+9/16/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+9/16/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+9/16/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+9/16/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+9/16/23,HUAWEI nova 7,HUAWEI nova series,monthly,EMUI,Android 10
+9/16/23,HUAWEI nova 7 SE,HUAWEI nova series,monthly,nan,nan
+9/16/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+9/16/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+9/16/23,HUAWEI nova Y61,HUAWEI Y series,quarterly,nan,nan
+9/16/23,HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+9/23/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+9/23/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+9/23/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+9/23/23,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+9/23/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+9/23/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+9/23/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+9/23/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+9/23/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+9/23/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/23/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+9/23/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+9/23/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+9/23/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+9/23/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+9/23/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+9/23/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+9/23/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+9/23/23,HUAWEI nova 7,HUAWEI nova series,monthly,EMUI,Android 10
+9/23/23,HUAWEI nova 7 SE,HUAWEI nova series,monthly,nan,nan
+9/23/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+9/23/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+9/23/23,HUAWEI nova Y61,HUAWEI Y series,quarterly,nan,nan
+9/23/23,HUAWEI nova Y60,HUAWEI Y series,quarterly,nan,nan
+12/2/23,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+12/2/23,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+12/2/23,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+12/2/23,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+12/2/23,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+12/2/23,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+12/2/23,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+12/2/23,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+12/2/23,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+12/2/23,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+12/2/23,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+12/2/23,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+12/2/23,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+12/2/23,HUAWEI nova 11 Pro,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova 11,HUAWEI nova series,monthly,nan,nan
+12/2/23,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+12/2/23,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+12/2/23,HUAWEI nova Y61,HUAWEI Y series,quarterly,nan,nan
+1/12/24,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+1/12/24,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+1/12/24,HUAWEI Mate 40 Pro,HUAWEI Mate series,monthly,EMUI 13,Android 12
+1/12/24,HUAWEI Mate 30 Pro,HUAWEI Mate series,monthly,EMUI 10.1,Android 10
+1/12/24,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+1/12/24,HUAWEI P50,HUAWEI P series,monthly,EMUI 13,
+1/12/24,HUAWEI P50 Pro,HUAWEI P series,monthly,EMUI 13,
+1/12/24,HUAWEI P50 Pocket,HUAWEI P series,monthly,nan,nan
+1/12/24,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,monthly,nan,nan
+1/12/24,HUAWEI P40 Pro+,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/12/24,HUAWEI P40 Pro,HUAWEI P series,monthly,EMUI 12,Android 10 (SDK Rom)
+1/12/24,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova 9,HUAWEI nova series,monthly,EMUI,
+1/12/24,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova 8i,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova 8,HUAWEI nova series,monthly,EMUI,Android 11
+1/12/24,HUAWEI nova 11 Pro,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova 11,HUAWEI nova series,monthly,nan,nan
+1/12/24,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+1/12/24,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+1/12/24,HUAWEI nova Y61,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI Mate 50 Pro,HUAWEI Mate series,monthly,EMUI,
+3/1/24,HUAWEI Mate 50,HUAWEI Mate series,monthly,EMUI,
+3/1/24,HUAWEI Mate Xs 2,HUAWEI Mate series,monthly,nan,nan
+3/1/24,HUAWEI Mate X3,HUAWEI Mate series,monthly,nan,nan
+3/1/24,HUAWEI P60 Pro,HUAWEI P series,monthly,,
+3/1/24,HUAWEI P60,HUAWEI P series,monthly,nan,nan
+3/1/24,HUAWEI nova 10 Pro,HUAWEI nova series,monthly,nan,nan
+3/1/24,HUAWEI nova 10,HUAWEI nova series,monthly,nan,nan
+3/1/24,HUAWEI nova 10 SE,HUAWEI nova series,monthly,nan,nan
+3/1/24,HUAWEI nova 9 SE,HUAWEI nova series,monthly,nan,nan
+3/1/24,HUAWEI nova 11 Pro,HUAWEI nova series,monthly,nan,nan
+3/1/24,HUAWEI nova 11,HUAWEI nova series,monthly,nan,nan
+3/1/24,HUAWEI Mate 40 Pro,HUAWEI Mate series,quarterly,EMUI 13,Android 12
+3/1/24,HUAWEI P50 Pocket,HUAWEI P series,quarterly,nan,nan
+3/1/24,HUAWEI P50 Pocket Premium Edition,HUAWEI P series,quarterly,nan,nan
+3/1/24,HUAWEI P50 Pro,HUAWEI P series,quarterly,EMUI 13,
+3/1/24,HUAWEI P40 Pro+,HUAWEI P series,quarterly,EMUI 12,Android 10 (SDK Rom)
+3/1/24,HUAWEI P40 Pro,HUAWEI P series,quarterly,EMUI 12,Android 10 (SDK Rom)
+3/1/24,HUAWEI nova Y91,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI nova Y90,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI nova Y70,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI nova Y71,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI nova Y61,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI nova 11i,HUAWEI Y series,quarterly,nan,nan
+3/1/24,HUAWEI nova 9,HUAWEI nova series,quarterly,EMUI,

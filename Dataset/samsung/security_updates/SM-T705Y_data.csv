@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T705Y,BRI,023919220819,SM-T705Y/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,T705YZTU1CVG1,Marshmallow(Android 6.0.1),2022-08-19,2017-02-01,GALAXY TabS ,https://doc.samsungmobile.com/SM-T705Y/023919220819/eng.html
+SM-T705Y,TNZ,023912220819,SM-T705Y/TNZ, New Zealand,New Zealand,No-carrier,Oceania,Australia and New Zealand,T705YDOU1CVG1,Marshmallow(Android 6.0.1),2022-08-19,2016-09-01,GALAXY TabS ,https://doc.samsungmobile.com/SM-T705Y/023912220819/eng.html
+SM-T705Y,XSA,023820220819,SM-T705Y/XSA, Australia,Australia,No-carrier,Oceania,Australia and New Zealand,T705YDOU1CVG1,Marshmallow(Android 6.0.1),2022-08-18,2016-09-01,GALAXY TabS ,https://doc.samsungmobile.com/SM-T705Y/023820220819/eng.html

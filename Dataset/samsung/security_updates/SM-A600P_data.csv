@@ -1,0 +1,14 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS9CVC1,Q(Android 10),2022-04-20,2022-03-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS9CUI1,Q(Android 10),2021-09-23,2021-09-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS8CUC1,Q(Android 10),2021-04-05,2021-03-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPU7CTI2,Q(Android 10),2020-09-28,2020-09-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS7CTH4,Q(Android 10),2020-08-21,2020-08-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPU6CTD1,Q(Android 10),2020-05-11,2020-04-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS6BTB2,Pie(Android 9),2020-02-25,2020-02-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPU5BSK1,Pie(Android 9),2019-12-02,2019-11-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS4BSI3,Pie(Android 9),2019-09-26,2019-09-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPS3BSF2,Pie(Android 9),2019-07-01,2019-06-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPU2BSC8,Pie(Android 9),2019-04-15,2019-03-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPU2ARL5,Oreo(Android 8.0.0),2019-01-28,2019-01-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html
+SM-A600P,SPR,001990181017,SM-A600P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,A600PVPU1ARI1,Oreo(Android 8.0.0),2018-10-17,2018-10-01,Galaxy A6 ,https://doc.samsungmobile.com/SM-A600P/001990181017/eng.html

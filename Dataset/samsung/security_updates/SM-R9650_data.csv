@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-R9650,CHC,027776230912,SM-R9650/CHC, China (Open China),China,Open China,Asia,Eastern Asia,R9650ZCU1AXC2,T(AndroidWear 5),2024-04-17,2024-03-01,Galaxy Watch6 Classic ,https://doc.samsungmobile.com/SM-R9650/027776230912/eng.html
+SM-R9650,CHC,027776230912,SM-R9650/CHC, China (Open China),China,Open China,Asia,Eastern Asia,R9650ZCU1AXB7,T(AndroidWear 5),2024-03-19,2024-03-01,Galaxy Watch6 Classic ,https://doc.samsungmobile.com/SM-R9650/027776230912/eng.html
+SM-R9650,CHC,027776230912,SM-R9650/CHC, China (Open China),China,Open China,Asia,Eastern Asia,R9650ZCU1AWK4,T(AndroidWear 5),2023-11-30,2023-11-01,Galaxy Watch6 Classic ,https://doc.samsungmobile.com/SM-R9650/027776230912/eng.html
+SM-R9650,CHC,027776230912,SM-R9650/CHC, China (Open China),China,Open China,Asia,Eastern Asia,R9650ZCU1AWI1,T(AndroidWear 5),2023-09-11,2023-06-01,Galaxy Watch6 Classic ,https://doc.samsungmobile.com/SM-R9650/027776230912/eng.html

@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J730FM,CAC,005569190426,SM-J730FM/CAC, Uzbekistan,Uzbekistan,No-carrier,Asia,Central Asia,J730FMXXS5BSD1,Oreo(Android 8.1.0),2019-04-26,2019-04-01,Galaxy J7 ,https://doc.samsungmobile.com/SM-J730FM/005569190426/eng.html
+SM-J730FM,SEK,005570190426,SM-J730FM/SEK, Ukraine (Kyivstar),Ukraine,Kyivstar,Europe,Eastern Europe,J730FMXXS5BSD1,Oreo(Android 8.1.0),2019-04-26,2019-04-01,Galaxy J7 ,https://doc.samsungmobile.com/SM-J730FM/005570190426/eng.html
+SM-J730FM,SER,005134190414,SM-J730FM/SER, Russia,Russia,No-carrier,Europe,Eastern Europe,J730FMXXS5BSD1,Oreo(Android 8.1.0),2019-04-14,2019-04-01,Galaxy J7 ,https://doc.samsungmobile.com/SM-J730FM/005134190414/eng.html
+SM-J730FM,SKZ,005542190426,SM-J730FM/SKZ, Kazakhstan,Kazakhstan,No-carrier,Asia,Central Asia,J730FMXXS5BSD1,Oreo(Android 8.1.0),2019-04-26,2019-04-01,Galaxy J7 ,https://doc.samsungmobile.com/SM-J730FM/005542190426/eng.html

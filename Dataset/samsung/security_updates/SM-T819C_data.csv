@@ -1,0 +1,9 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T819C,CHC,000035170406,SM-T819C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,T819CZCS3BTH1,Nougat(Android 7.0),2020-12-18,2019-08-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000035170406/eng.html
+SM-T819C,CHC,000035170406,SM-T819C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,T819CZCU3BSK1,Nougat(Android 7.0),2020-01-02,2019-08-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000035170406/eng.html
+SM-T819C,CHC,000035170406,SM-T819C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,T819CZCU2BSB1,Nougat(Android 7.0),2019-04-23,2019-02-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000035170406/eng.html
+SM-T819C,CHC,000035170406,SM-T819C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,T819CZCU2BRG1,Nougat(Android 7.0),2018-08-07,2018-07-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000035170406/eng.html
+SM-T819C,TGY,000060170406,SM-T819C/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,T819CZHS3BTJ1,Nougat(Android 7.0),2020-12-18,2019-08-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000060170406/eng.html
+SM-T819C,TGY,000060170406,SM-T819C/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,T819CZHU3BSK2,Nougat(Android 7.0),2020-01-13,2019-08-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000060170406/eng.html
+SM-T819C,TGY,000060170406,SM-T819C/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,T819CZHU3BSE1,Nougat(Android 7.0),2019-07-15,2019-05-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000060170406/eng.html
+SM-T819C,TGY,000060170406,SM-T819C/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,T819CZHU1BRG1,Nougat(Android 7.0),2018-08-07,2018-06-01,Galaxy Tab S2 ,https://doc.samsungmobile.com/SM-T819C/000060170406/eng.html

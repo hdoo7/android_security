@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G9208,BRI,000006161127,SM-G9208/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,G9208ZTU2ERK2,Nougat(Android 7.0),2018-11-12,2018-11-01,Galaxy S6 ,https://doc.samsungmobile.com/SM-G9208/000006161127/eng.html
+SM-G9208,BRI,000006161127,SM-G9208/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,G9208ZTU2ERI1,Nougat(Android 7.0),2018-10-29,2018-08-01,Galaxy S6 ,https://doc.samsungmobile.com/SM-G9208/000006161127/eng.html
+SM-G9208,CHM,000007161127,SM-G9208/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,G9208ZMU2ERJ1,Nougat(Android 7.0),2018-10-29,2018-08-01,Galaxy S6 ,https://doc.samsungmobile.com/SM-G9208/000007161127/eng.html

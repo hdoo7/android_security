@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-S135DL,TFN,027991230928,SM-S135DL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S135DLUDS4AXC4,T(Android 13),2024-03-26,2024-01-01,Galaxy A03s ,https://doc.samsungmobile.com/SM-S135DL/027991230928/eng.html
+SM-S135DL,TFN,027991230928,SM-S135DL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S135DLUDU3AWJ3,T(Android 13),2023-11-02,2023-09-01,Galaxy A03s ,https://doc.samsungmobile.com/SM-S135DL/027991230928/eng.html
+SM-S135DL,TFN,027991230928,SM-S135DL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S135DLUDS2AWI1,T(Android 13),2023-09-27,2023-07-01,Galaxy A03s ,https://doc.samsungmobile.com/SM-S135DL/027991230928/eng.html

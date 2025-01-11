@@ -1,0 +1,10 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVS8AWC3,Q(Android 10),2023-04-03,2023-02-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVS7AVI2,Q(Android 10),2022-10-18,2022-09-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVS6AVC2,Q(Android 10),2022-04-09,2022-03-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVS5AUK1,Q(Android 10),2021-12-10,2021-10-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVU4AUH1,Q(Android 10),2021-09-08,2021-08-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVU3AUD2,Q(Android 10),2021-07-07,2021-04-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVS2ATJ1,Q(Android 10),2020-11-25,2020-11-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVU2ATG3,Q(Android 10),2020-09-04,2020-08-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html
+SM-A015T1,TMK,013090200713,SM-A015T1/TMK, USA (MetroPCS),USA,MetroPCS,Americas,Northern America,A015T1UVS1ATF1,Q(Android 10),2020-07-13,2020-06-01,Galaxy A01 ,https://doc.samsungmobile.com/SM-A015T1/013090200713/eng.html

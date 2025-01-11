@@ -1,0 +1,8 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C900F,CAM,015921201201,SM-C900F/CAM, Cambodia,Cambodia,No-carrier,Asia,South-eastern Asia,C900FDDS1CTJ1,Oreo(Android 8.0.0),2020-12-01,2018-08-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/015921201201/eng.html
+SM-C900F,INS,009428191004,SM-C900F/INS, India,India,No-carrier,Asia,Southern Asia,C900FDDU1CSF2,Oreo(Android 8.0.0),2019-10-04,2019-07-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/009428191004/eng.html
+SM-C900F,THL,015928201201,SM-C900F/THL, Thailand,Thailand,No-carrier,Asia,South-eastern Asia,C900FDDS1CTJ1,Oreo(Android 8.0.0),2020-12-01,2018-08-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/015928201201/eng.html
+SM-C900F,XID,015919201201,SM-C900F/XID, Indonesia,Indonesia,No-carrier,Asia,South-eastern Asia,C900FDDS1CTJ1,Oreo(Android 8.0.0),2020-12-01,2018-08-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/015919201201/eng.html
+SM-C900F,XME,015913201201,SM-C900F/XME, Malaysia,Malaysia,No-carrier,Asia,South-eastern Asia,C900FDDS1CTJ1,Oreo(Android 8.0.0),2020-12-01,2018-08-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/015913201201/eng.html
+SM-C900F,XTC,015910201201,SM-C900F/XTC, Philippines (Open Line),Philippines,Open Line,Asia,South-eastern Asia,C900FDDS1CTJ1,Oreo(Android 8.0.0),2020-12-01,2018-08-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/015910201201/eng.html
+SM-C900F,XXV,015904201201,SM-C900F/XXV, Vietnam,Vietnam,No-carrier,Asia,South-eastern Asia,C900FDDS1CTJ1,Oreo(Android 8.0.0),2020-12-01,2018-08-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C900F/015904201201/eng.html

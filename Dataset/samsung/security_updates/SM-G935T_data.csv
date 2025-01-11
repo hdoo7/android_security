@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G935T,TMB,004524190403,SM-G935T/TMB, USA (T-Mobile),USA,T-Mobile,Americas,Northern America,G935TUVS9CSC1,Oreo(Android 8.0.0),2019-04-03,2019-03-01,Galaxy S7 edge ,https://doc.samsungmobile.com/SM-G935T/004524190403/eng.html

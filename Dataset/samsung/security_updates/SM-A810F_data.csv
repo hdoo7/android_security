@@ -1,0 +1,8 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A810F,BTC,016065201210,SM-A810F/BTC, Libya,Libya,No-carrier,Africa,Northern Africa,A810FXXS2CTJ1,Oreo(Android 8.0.0),2020-12-10,2018-12-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016065201210/eng.html
+SM-A810F,KSA,016068201210,SM-A810F/KSA, Saudi Arabia,Saudi Arabia,No-carrier,Asia,Western Asia,A810FXXS2CTJ1,Oreo(Android 8.0.0),2020-12-10,2018-12-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016068201210/eng.html
+SM-A810F,LYS,016066201210,SM-A810F/LYS, Libya,Libya,No-carrier,Africa,Northern Africa,A810FXXS2CTJ1,Oreo(Android 8.0.0),2020-12-10,2018-12-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016066201210/eng.html
+SM-A810F,MID,016062201210,SM-A810F/MID, Iraq,Iraq,No-carrier,Asia,Western Asia,A810FXXS2CTJ1,Oreo(Android 8.0.0),2020-12-10,2018-12-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016062201210/eng.html
+SM-A810F,MWD,016061201210,SM-A810F/MWD, Morocco (MWD),Morocco,MWD,Africa,Northern Africa,A810FXXS2CTJ1,Oreo(Android 8.0.0),2020-12-10,2018-12-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016061201210/eng.html
+SM-A810F,TUR,016059201210,SM-A810F/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,A810FXXS2CTJ1,Oreo(Android 8.0.0),2020-12-10,2018-12-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016059201210/eng.html
+SM-A810F,XSG,016277201226,SM-A810F/XSG, United Arab Emirates,United Arab Emirates,No-carrier,Asia,Western Asia,A810FXXS2CTJ2,Oreo(Android 8.0.0),2020-12-25,2018-09-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810F/016277201226/eng.html

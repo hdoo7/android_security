@@ -1,0 +1,5 @@
+keyword,cpe_vendor,cpe,cve
+exynos 9825,samsung,cpe:2.3:h:samsung:exynos_9825:-:*:*:*:*:*:*:*,CVE-2023-50804
+exynos 9825,samsung,cpe:2.3:h:samsung:exynos_9825:-:*:*:*:*:*:*:*,CVE-2023-50803
+exynos 9825,samsung,cpe:2.3:h:samsung:exynos_9825:-:*:*:*:*:*:*:*,CVE-2023-49928
+exynos 9825,samsung,cpe:2.3:h:samsung:exynos_9825:-:*:*:*:*:*:*:*,CVE-2023-49927

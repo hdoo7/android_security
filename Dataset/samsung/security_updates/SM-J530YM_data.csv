@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J530YM,THL,006025190510,SM-J530YM/THL, Thailand,Thailand,No-carrier,Asia,South-eastern Asia,J530YMDXU4BSD1,Oreo(Android 8.1.0),2019-05-10,2019-04-01,Galaxy J5 Pro ,https://doc.samsungmobile.com/SM-J530YM/006025190510/eng.html

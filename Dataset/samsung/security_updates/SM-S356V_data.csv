@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-S356V,TFN,029941240521,SM-S356V/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S356VUDS2AXE2,U(Android 14),2024-05-31,2024-05-01,Galaxy A35 5G,https://doc.samsungmobile.com/SM-S356V/029941240521/eng.html
+SM-S356V,TFN,029941240521,SM-S356V/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S356VUDU1AXD3,U(Android 14),2024-05-20,2024-04-01,Galaxy A35 5G,https://doc.samsungmobile.com/SM-S356V/029941240521/eng.html

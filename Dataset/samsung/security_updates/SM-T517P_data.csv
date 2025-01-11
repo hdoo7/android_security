@@ -1,0 +1,13 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS8CWA3,R(Android 11),2023-02-03,2023-01-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS7CVG1,R(Android 11),2022-07-27,2022-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS6CVA3,R(Android 11),2022-02-23,2022-01-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPU6CUG2,R(Android 11),2021-07-26,2021-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS6BUD1,Q(Android 10),2021-04-24,2021-04-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS5BTL1,Q(Android 10),2021-01-23,2021-01-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS4BTI1,Q(Android 10),2020-10-23,2020-10-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPU3BTG3,Q(Android 10),2020-08-10,2020-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS3ATG1,Pie(Android 9),2020-07-17,2020-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPS2ATC2,Pie(Android 9),2020-04-02,2020-04-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPU1ATA2,Pie(Android 9),2020-02-03,2020-01-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html
+SM-T517P,SPR,009883191028,SM-T517P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T517PVPU1ASI2,Pie(Android 9),2019-10-28,2019-10-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517P/009883191028/eng.html

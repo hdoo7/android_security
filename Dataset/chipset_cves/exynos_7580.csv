@@ -1,0 +1,3 @@
+keyword,cpe_vendor,cpe,cve
+exynos 7580,samsung,cpe:2.3:h:samsung:exynos_7580:-:*:*:*:*:*:*:*,CVE-2017-18692
+exynos 7580,samsung,cpe:2.3:h:samsung:exynos_7580:-:*:*:*:*:*:*:*,CVE-2019-20601

@@ -1,0 +1,4 @@
+keyword,cpe_vendor,cpe,cve
+Exynos 5420,samsung,cpe:2.3:h:samsung:exynos_5420:-:*:*:*:*:*:*:*,CVE-2018-21054
+Exynos 5420,samsung,cpe:2.3:h:samsung:exynos_5420:-:*:*:*:*:*:*:*,CVE-2017-18690
+Exynos 5420,samsung,cpe:2.3:h:samsung:exynos_5420:-:*:*:*:*:*:*:*,CVE-2017-18694

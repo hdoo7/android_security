@@ -1,0 +1,406 @@
+series,model,date
+G series,G5,13-Dec-21
+G series,G6,13-Dec-21
+G series,G7,13-Dec-21
+G series,G8,13-Dec-21
+V series,V10,13-Dec-21
+V series,V20,13-Dec-21
+V series,V30,13-Dec-21
+V series,V35,13-Dec-21
+V series,V40,13-Dec-21
+V series,V50,13-Dec-21
+Q Series,Q6,13-Dec-21
+Q Series,Q8,13-Dec-21
+X Series,X300,13-Dec-21
+X Series,X400,13-Dec-21
+X Series,X500,13-Dec-21
+X Series,X cam,13-Dec-21
+CV Series,CV1,13-Dec-21
+CV Series,CV3,13-Dec-21
+CV Series,CV5,13-Dec-21
+CV Series,CV7,13-Dec-21
+CV Series,CV1S,13-Dec-21
+CV Series,CV7AS,13-Dec-21
+MH,K40,13-Dec-21
+MH,K50,13-Dec-21
+MH,Q60,13-Dec-21
+MH,Q70,13-Dec-21
+DH,DH10,13-Dec-21
+DH,DH15,13-Dec-21
+DH,DH30,13-Dec-21
+DH,DH35,13-Dec-21
+DH,DH40,13-Dec-21
+DH,DH5,13-Dec-21
+DH,DH50,13-Dec-21
+Velvet,Velvet,13-Dec-21
+TF10,TF10,13-Dec-21
+Wing,Wing,13-Dec-21
+G series,G5,6-Jan-22
+G series,G6,6-Jan-22
+G series,G7,6-Jan-22
+G series,G8,6-Jan-22
+V series,V10,6-Jan-22
+V series,V20,6-Jan-22
+V series,V30,6-Jan-22
+V series,V35,6-Jan-22
+V series,V40,6-Jan-22
+V series,V50,6-Jan-22
+Q Series,Q6,6-Jan-22
+Q Series,Q8,6-Jan-22
+X Series,X300,6-Jan-22
+X Series,X400,6-Jan-22
+X Series,X500,6-Jan-22
+X Series,X cam,6-Jan-22
+CV Series,CV1,6-Jan-22
+CV Series,CV3,6-Jan-22
+CV Series,CV5,6-Jan-22
+CV Series,CV7,6-Jan-22
+CV Series,CV1S,6-Jan-22
+CV Series,CV7AS,6-Jan-22
+MH,K40,6-Jan-22
+MH,K50,6-Jan-22
+MH,Q60,6-Jan-22
+MH,Q70,6-Jan-22
+DH,DH10,6-Jan-22
+DH,DH15,6-Jan-22
+DH,DH30,6-Jan-22
+DH,DH35,6-Jan-22
+DH,DH40,6-Jan-22
+DH,DH5,6-Jan-22
+DH,DH50,6-Jan-22
+Velvet,Velvet,6-Jan-22
+TF10,TF10,6-Jan-22
+Wing,Wing,6-Jan-22
+G series,G5  ,23-Jan-22
+G series,G6  ,23-Jan-22
+G series,G7  ,23-Jan-22
+G series,G8  ,23-Jan-22
+V series,V10  ,23-Jan-22
+V series,V20  ,23-Jan-22
+V series,V30  ,23-Jan-22
+V series,V35  ,23-Jan-22
+V series,V40  ,23-Jan-22
+V series,V50  ,23-Jan-22
+V series,Q6  ,23-Jan-22
+Q Series,Q8  ,23-Jan-22
+Q Series,X300  ,23-Jan-22
+X Series,X400  ,23-Jan-22
+X Series,X500  ,23-Jan-22
+X Series,X cam  ,23-Jan-22
+X Series,CV1  ,23-Jan-22
+CV Series,CV3  ,23-Jan-22
+CV Series,CV5  ,23-Jan-22
+CV Series,CV7  ,23-Jan-22
+CV Series,CV1S  ,23-Jan-22
+CV Series,CV7AS  ,23-Jan-22
+CV Series,K40  ,23-Jan-22
+MH,K50  ,23-Jan-22
+MH,Q60  ,23-Jan-22
+DH,Q70  ,23-Jan-22
+DH,DH10  ,23-Jan-22
+DH,DH15  ,23-Jan-22
+DH,DH30  ,23-Jan-22
+DH,DH35  ,23-Jan-22
+DH,DH40  ,23-Jan-22
+Velvet,DH5  ,23-Jan-22
+TF10,DH50,23-Jan-22
+Wing,Wing,23-Jan-22
+G series,G5,25-Jan-22
+G series,G6,25-Jan-22
+G series,G7,25-Jan-22
+G series,G8,25-Jan-22
+V series,V10,25-Jan-22
+V series,V20,25-Jan-22
+V series,V30,25-Jan-22
+V series,V35,25-Jan-22
+V series,V40,25-Jan-22
+V series,V50,25-Jan-22
+Q Series,Q6,25-Jan-22
+Q Series,Q8,25-Jan-22
+X Series,X300,25-Jan-22
+X Series,X400,25-Jan-22
+X Series,X500,25-Jan-22
+X Series,X cam,25-Jan-22
+CV Series,CV1,25-Jan-22
+CV Series,CV3,25-Jan-22
+CV Series,CV5,25-Jan-22
+CV Series,CV7,25-Jan-22
+CV Series,CV1S,25-Jan-22
+CV Series,CV7AS,25-Jan-22
+MH,K40,25-Jan-22
+MH,K50,25-Jan-22
+MH,Q60,25-Jan-22
+MH,Q70,25-Jan-22
+DH,DH10,25-Jan-22
+DH,DH15,25-Jan-22
+DH,DH30,25-Jan-22
+DH,DH35,25-Jan-22
+DH,DH40,25-Jan-22
+DH,DH5,25-Jan-22
+DH,DH50,25-Jan-22
+Velvet,Velvet,25-Jan-22
+TF10,TF10,25-Jan-22
+Wing,Wing,25-Jan-22
+G series,G5,29-Jan-22
+G series,G6,29-Jan-22
+G series,G7,29-Jan-22
+G series,G8,29-Jan-22
+V series,V10,29-Jan-22
+V series,V20,29-Jan-22
+V series,V30,29-Jan-22
+V series,V35,29-Jan-22
+V series,V40,29-Jan-22
+V series,V50,29-Jan-22
+Q Series,Q6,29-Jan-22
+Q Series,Q8,29-Jan-22
+X Series,X300,29-Jan-22
+X Series,X400,29-Jan-22
+X Series,X500,29-Jan-22
+X Series,X cam,29-Jan-22
+CV Series,CV1,29-Jan-22
+CV Series,CV3,29-Jan-22
+CV Series,CV5,29-Jan-22
+CV Series,CV7,29-Jan-22
+CV Series,CV1S,29-Jan-22
+CV Series,CV7AS,29-Jan-22
+MH,K40,29-Jan-22
+MH,K50,29-Jan-22
+MH,Q60,29-Jan-22
+MH,Q70,29-Jan-22
+MH,DH10,29-Jan-22
+DH,DH15,29-Jan-22
+DH,DH30,29-Jan-22
+DH,DH35,29-Jan-22
+DH,DH40,29-Jan-22
+DH,DH5,29-Jan-22
+DH,DH50,29-Jan-22
+Velvet,Velvet,29-Jan-22
+TF10,TF10,29-Jan-22
+Wing,Wing,29-Jan-22
+G series,G5,26-Mar-22
+G series,G6,26-Mar-22
+G series,G7,26-Mar-22
+G series,G8,26-Mar-22
+V series,V10,26-Mar-22
+V series,V20,26-Mar-22
+V series,V30,26-Mar-22
+V series,V35,26-Mar-22
+V series,V40,26-Mar-22
+V series,V50,26-Mar-22
+Q Series,Q6,26-Mar-22
+Q Series,Q8,26-Mar-22
+X Series,X300,26-Mar-22
+X Series,X400,26-Mar-22
+X Series,X500,26-Mar-22
+CV Series,X cam,26-Mar-22
+CV Series,CV1,26-Mar-22
+CV Series,CV3,26-Mar-22
+CV Series,CV5,26-Mar-22
+CV Series,CV7,26-Mar-22
+CV Series,CV1S,26-Mar-22
+MH,CV7AS,26-Mar-22
+MH,K40,26-Mar-22
+MH,K50,26-Mar-22
+MH,Q60,26-Mar-22
+MH,Q70,26-Mar-22
+DH,DH10,26-Mar-22
+DH,DH15,26-Mar-22
+DH,DH30,26-Mar-22
+DH,DH35,26-Mar-22
+DH,DH40,26-Mar-22
+DH,DH5,26-Mar-22
+Velvet,DH50,26-Mar-22
+TF10,TF10,26-Mar-22
+Wing,Wing,26-Mar-22
+G series,G5,3-May-22
+G series,G6,3-May-22
+G series,G7,3-May-22
+G series,G8,3-May-22
+V series,V10,3-May-22
+V series,V20,3-May-22
+V series,V30,3-May-22
+V series,V35,3-May-22
+V series,V40,3-May-22
+V series,V50,3-May-22
+Q Series,Q6,3-May-22
+Q Series,Q8,3-May-22
+X Series,X300,3-May-22
+X Series,X400,3-May-22
+X Series,X500,3-May-22
+X Series,X cam,3-May-22
+CV Series,CV1,3-May-22
+CV Series,CV3,3-May-22
+CV Series,CV5,3-May-22
+CV Series,CV7,3-May-22
+CV Series,CV1S,3-May-22
+CV Series,CV7AS,3-May-22
+MH,K40,3-May-22
+MH,K50,3-May-22
+MH,Q60,3-May-22
+MH,Q70,3-May-22
+MH,DH10,3-May-22
+DH,DH15,3-May-22
+DH,DH30,3-May-22
+DH,DH35,3-May-22
+DH,DH40,3-May-22
+DH,DH5,3-May-22
+DH,DH50,3-May-22
+Velvet,Velvet,3-May-22
+TF10,TF10,3-May-22
+Wing,Wing,3-May-22
+G series,G5,29-Jun-22
+G series,G6,29-Jun-22
+G series,G7,29-Jun-22
+G series,G8,29-Jun-22
+V series,V10,29-Jun-22
+V series,V20,29-Jun-22
+V series,V30,29-Jun-22
+V series,V35,29-Jun-22
+V series,V40,29-Jun-22
+V series,V50,29-Jun-22
+Q Series,Q6,29-Jun-22
+Q Series,Q8,29-Jun-22
+X Series,X300,29-Jun-22
+X Series,X400,29-Jun-22
+X Series,X500,29-Jun-22
+X Series,X cam,29-Jun-22
+CV Series,CV1,29-Jun-22
+CV Series,CV3,29-Jun-22
+CV Series,CV5,29-Jun-22
+CV Series,CV7,29-Jun-22
+CV Series,CV1S,29-Jun-22
+CV Series,CV7AS,29-Jun-22
+MH,K40,29-Jun-22
+MH,K50,29-Jun-22
+MH,Q60,29-Jun-22
+MH,Q70,29-Jun-22
+MH,DH10,29-Jun-22
+DH,DH15,29-Jun-22
+DH,DH30,29-Jun-22
+DH,DH35,29-Jun-22
+DH,DH40,29-Jun-22
+DH,DH5,29-Jun-22
+DH,DH50,29-Jun-22
+Velvet,Velvet,29-Jun-22
+TF10,TF10,29-Jun-22
+Wing,Wing,29-Jun-22
+G series,G5,30-Sep-22
+G series,G6,30-Sep-22
+G series,G7,30-Sep-22
+G series,G8,30-Sep-22
+V series,V10,30-Sep-22
+V series,V20,30-Sep-22
+V series,V30,30-Sep-22
+V series,V35,30-Sep-22
+V series,V40,30-Sep-22
+V series,V50,30-Sep-22
+Q Series,Q6,30-Sep-22
+Q Series,Q8,30-Sep-22
+X Series,X300,30-Sep-22
+X Series,X400,30-Sep-22
+X Series,X500,30-Sep-22
+X Series,X cam,30-Sep-22
+CV Series,CV1,30-Sep-22
+CV Series,CV3,30-Sep-22
+CV Series,CV5,30-Sep-22
+CV Series,CV7,30-Sep-22
+CV Series,CV1S,30-Sep-22
+CV Series,CV7AS,30-Sep-22
+MH,K40,30-Sep-22
+MH,K50,30-Sep-22
+MH,Q60,30-Sep-22
+MH,Q70,30-Sep-22
+MH,DH10,30-Sep-22
+DH,DH15,30-Sep-22
+DH,DH30,30-Sep-22
+DH,DH35,30-Sep-22
+DH,DH40,30-Sep-22
+DH,DH5,30-Sep-22
+DH,DH50,30-Sep-22
+Velvet,Velvet,30-Sep-22
+TF10,TF10,30-Sep-22
+Wing,Wing,30-Sep-22
+V series,V60,21-May-23
+MH series,Q70,21-May-23
+DH series,DH10,21-May-23
+DH series,DH15,21-May-23
+DH series,DH30,21-May-23
+DH series,DH35,21-May-23
+DH series,DH40,21-May-23
+DH series,DH50,21-May-23
+EH series,EH13,21-May-23
+EH series,EH35,21-May-23
+Velvet,Velvet,21-May-23
+Wing,Wing,21-May-23
+Style3,Style3,21-May-23
+Ace,Ace,21-May-23
+V series,V60,4-Jun-23
+MH series,Q70,4-Jun-23
+DH series,DH10,4-Jun-23
+DH series,DH15,4-Jun-23
+DH series,DH30,4-Jun-23
+DH series,DH35,4-Jun-23
+DH series,DH40,4-Jun-23
+DH series,DH50,4-Jun-23
+EH series,EH13,4-Jun-23
+EH series,EH35,4-Jun-23
+Velvet,Velvet,4-Jun-23
+Wing,Wing,4-Jun-23
+Style3,Style3,4-Jun-23
+Ace,Ace,4-Jun-23
+V series,V60,15-Jul-23
+MH series,Q70,15-Jul-23
+DH series,DH10,15-Jul-23
+DH series,DH15,15-Jul-23
+DH series,DH30,15-Jul-23
+DH series,DH35,15-Jul-23
+DH series,DH40,15-Jul-23
+DH series,DH50,15-Jul-23
+EH series,EH13,15-Jul-23
+EH series,EH35,15-Jul-23
+Velvet,Velvet,15-Jul-23
+Wing,Wing,15-Jul-23
+Style3,Style3,15-Jul-23
+Ace,Ace,15-Jul-23
+V series,V60,28-Sep-23
+MH series,Q70,28-Sep-23
+DH series,DH10,28-Sep-23
+DH series,DH15,28-Sep-23
+DH series,DH30,28-Sep-23
+DH series,DH35,28-Sep-23
+DH series,DH40,28-Sep-23
+DH series,DH50,28-Sep-23
+EH series,EH13,28-Sep-23
+EH series,EH35,28-Sep-23
+Velvet,Velvet,28-Sep-23
+Wing,Wing,28-Sep-23
+Style3,Style3,28-Sep-23
+Ace,Ace,28-Sep-23
+V series,V60,27-Nov-23
+MH series,Q70,27-Nov-23
+DH series,DH10,27-Nov-23
+DH series,DH15,27-Nov-23
+DH series,DH30,27-Nov-23
+DH series,DH35,27-Nov-23
+DH series,DH40,27-Nov-23
+DH series,DH50,27-Nov-23
+EH series,EH13,27-Nov-23
+EH series,EH35,27-Nov-23
+Velvet,Velvet,27-Nov-23
+Wing,Wing,27-Nov-23
+Style3,Style3,27-Nov-23
+Ace,Ace,27-Nov-23
+V series,V60,2-Mar-24
+MH series,Q70,2-Mar-24
+DH series,DH10,2-Mar-24
+DH series,DH15,2-Mar-24
+DH series,DH30,2-Mar-24
+DH series,DH35,2-Mar-24
+DH series,DH40,2-Mar-24
+DH series,DH50,2-Mar-24
+EH series,EH13,2-Mar-24
+EH series,EH35,2-Mar-24
+Velvet,Velvet,2-Mar-24
+Wing,Wing,2-Mar-24
+Style3,Style3,2-Mar-24
+Ace,Ace,2-Mar-24

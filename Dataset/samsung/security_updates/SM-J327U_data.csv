@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J327U,XAA,008234190813,SM-J327U/XAA, USA (Unbranded/Unlocked),USA,Unbranded/Unlocked,Americas,Northern America,J327UUES3BSG2,Oreo(Android 8.1.0),2019-08-13,2019-07-01,Galaxy J3 ,https://doc.samsungmobile.com/SM-J327U/008234190813/eng.html
+SM-J327U,XAR,008224190813,SM-J327U/XAR, USA (Cellular South),USA,Cellular South,Americas,Northern America,J327UUES3BSG2,Oreo(Android 8.1.0),2019-08-13,2019-07-01,Galaxy J3 ,https://doc.samsungmobile.com/SM-J327U/008224190813/eng.html

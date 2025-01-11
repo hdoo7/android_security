@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J710GN,GLB,015743201123,SM-J710GN/GLB, Philippines (Globe),Philippines,Globe,Asia,South-eastern Asia,J710GNDXS4CTJ1,Oreo(Android 8.1.0),2020-11-23,2018-09-01,Galaxy J7 ⑥ ,https://doc.samsungmobile.com/SM-J710GN/015743201123/eng.html
+SM-J710GN,SMA,015740201123,SM-J710GN/SMA, Philippines (Smart),Philippines,Smart,Asia,South-eastern Asia,J710GNDXS4CTJ1,Oreo(Android 8.1.0),2020-11-23,2018-09-01,Galaxy J7 ⑥ ,https://doc.samsungmobile.com/SM-J710GN/015740201123/eng.html
+SM-J710GN,XME,015742201123,SM-J710GN/XME, Malaysia,Malaysia,No-carrier,Asia,South-eastern Asia,J710GNDXS4CTJ1,Oreo(Android 8.1.0),2020-11-23,2018-09-01,Galaxy J7 ⑥ ,https://doc.samsungmobile.com/SM-J710GN/015742201123/eng.html
+SM-J710GN,XTC,015741201123,SM-J710GN/XTC, Philippines (Open Line),Philippines,Open Line,Asia,South-eastern Asia,J710GNDXS4CTJ1,Oreo(Android 8.1.0),2020-11-23,2018-09-01,Galaxy J7 ⑥ ,https://doc.samsungmobile.com/SM-J710GN/015741201123/eng.html

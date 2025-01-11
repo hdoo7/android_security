@@ -1,0 +1,25 @@
+keyword,cpe_vendor,cpe,cve
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2023-39957
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2023-22473
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2022-41926
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2022-39212
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2022-35932
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2022-24890
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2022-24887
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2021-41181
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2021-41180
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2021-39222
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2021-32689
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:-:*:*:*:android:*:*,CVE-2021-32676
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2023-39957
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2023-22473
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2022-41926
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2022-39212
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2022-35932
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2022-24890
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2022-24887
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2021-41181
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2021-41180
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2021-39222
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2021-32689
+android 8.1.0,nextcloud,cpe:2.3:a:nextcloud:talk:8.1.0:rc1:*:*:*:android:*:*,CVE-2021-32676

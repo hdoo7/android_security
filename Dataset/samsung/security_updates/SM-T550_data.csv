@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T550,ATO,004651190404,SM-T550/ATO, Austria (Open),Austria,Open,Europe,Western Europe,T550XXU1CRG1,Nougat(Android 7.1.1),2019-04-04,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T550/004651190404/eng.html
+SM-T550,BTU,004588190404,SM-T550/BTU, United Kingdom,United Kingdom,No-carrier,Europe,Northern Europe,T550XXU1CRG1,Nougat(Android 7.1.1),2019-04-04,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T550/004588190404/eng.html
+SM-T550,EUR,004689190404,SM-T550/EUR, Greece,Greece,No-carrier,Europe,Southern Europe,T550XXU1CRG1,Nougat(Android 7.1.1),2019-04-04,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T550/004689190404/eng.html
+SM-T550,XSA,015019201009,SM-T550/XSA, Australia,Australia,No-carrier,Oceania,Australia and New Zealand,T550XXS1CTI7,Nougat(Android 7.1.1),2020-10-08,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T550/015019201009/eng.html

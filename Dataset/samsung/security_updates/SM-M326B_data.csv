@@ -1,0 +1,23 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDSACXE1,T(Android 13),2024-06-12,2024-05-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU9CXA1,T(Android 13),2024-02-02,2023-12-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDS9CWL2,T(Android 13),2024-01-02,2023-12-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDS8CWK2,T(Android 13),2023-11-30,2023-10-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDS7CWI4,T(Android 13),2023-09-28,2023-08-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU6CWF5,T(Android 13),2023-07-18,2023-06-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU5CWD8,T(Android 13),2023-05-29,2023-04-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDS5CWD5,T(Android 13),2023-04-25,2023-04-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU5CWB7,T(Android 13),2023-04-06,2023-02-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDS5CWB6,T(Android 13),2023-03-10,2023-02-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4CVK1,T(Android 13),2023-01-20,2022-11-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4CVK1,T(Android 13),2022-11-15,2022-11-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVJ1,S(Android 12),2022-10-28,2022-10-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDS4BVI2,S(Android 12),2022-10-15,2022-09-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVH2,S(Android 12),2022-09-05,2022-08-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVG3,S(Android 12),2022-08-23,2022-08-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVF3,S(Android 12),2022-07-12,2022-06-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVF1,S(Android 12),2022-06-23,2022-06-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVE7,S(Android 12),2022-05-30,2022-03-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4BVC8,S(Android 12),2022-04-28,2022-03-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4AVB7,R(Android 11),2022-03-25,2022-02-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html
+SM-M326B,INS,021027211112,SM-M326B/INS, India,India,No-carrier,Asia,Southern Asia,M326BDDU4AUJ6,R(Android 11),2021-11-11,2021-11-01,Galaxy M32 5G ,https://doc.samsungmobile.com/SM-M326B/021027211112/eng.html

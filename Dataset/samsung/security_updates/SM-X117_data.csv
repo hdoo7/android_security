@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-X117,TUR,029589240314,SM-X117/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X117JXS1BXCC,U(Android 14),2024-04-03,2024-02-01,Galaxy Tab A9,https://doc.samsungmobile.com/SM-X117/029589240314/eng.html
+SM-X117,TUR,029589240314,SM-X117/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X117JXU1BXB7,U(Android 14),2024-03-14,2023-12-01,Galaxy Tab A9,https://doc.samsungmobile.com/SM-X117/029589240314/eng.html

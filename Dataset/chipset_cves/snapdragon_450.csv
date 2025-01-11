@@ -1,0 +1,23 @@
+keyword,cpe_vendor,cpe,cve
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450:-:*:*:*:*:*:*:*,CVE-2023-33021
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450:-:*:*:*:*:*:*:*,CVE-2023-33020
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450:-:*:*:*:*:*:*:*,CVE-2023-33019
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450:-:*:*:*:*:*:*:*,CVE-2023-22667
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450:-:*:*:*:*:*:*:*,CVE-2023-21629
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450_mobile_platform:-:*:*:*:*:*:*:*,CVE-2024-21461
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33110
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33033
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33030
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-28546
+snapdragon 450,qualcomm,cpe:2.3:h:qualcomm:snapdragon_450_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-24850
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_firmware:-:*:*:*:*:*:*:*,CVE-2023-33021
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_firmware:-:*:*:*:*:*:*:*,CVE-2023-33020
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_firmware:-:*:*:*:*:*:*:*,CVE-2023-33019
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_firmware:-:*:*:*:*:*:*:*,CVE-2023-22667
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_firmware:-:*:*:*:*:*:*:*,CVE-2023-21629
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2024-21461
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33110
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33033
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33030
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-28546
+snapdragon 450,qualcomm,cpe:2.3:o:qualcomm:snapdragon_450_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-24850

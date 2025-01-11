@@ -1,0 +1,5 @@
+keyword,cpe_vendor,cpe,cve
+qualcomm msm8974,qualcomm,cpe:2.3:h:qualcomm:msm8974:-:*:*:*:*:*:*:*,CVE-2020-11268
+qualcomm msm8974,qualcomm,cpe:2.3:h:qualcomm:msm8974:-:*:*:*:*:*:*:*,CVE-2015-9179
+qualcomm msm8974,qualcomm,cpe:2.3:h:qualcomm:msm8974p:-:*:*:*:*:*:*:*,CVE-2020-11268
+qualcomm msm8974,qualcomm,cpe:2.3:o:qualcomm:msm8974_firmware:-:*:*:*:*:*:*:*,CVE-2015-9179

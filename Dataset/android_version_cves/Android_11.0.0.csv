@@ -1,0 +1,27 @@
+keyword,cpe_vendor,cpe,cve
+Android 11.0.0,mobileiron,cpe:2.3:a:mobileiron:mobile\@work:11.0.0.0.115r:*:*:*:*:android:*:*,CVE-2021-3391
+Android 11.0.0,mobileiron,cpe:2.3:a:mobileiron:mobile\@work:11.0.0.0.115r:*:*:*:*:android:*:*,CVE-2020-35138
+Android 11.0.0,mobileiron,cpe:2.3:a:mobileiron:mobile\@work:11.0.0.0.115r:*:*:*:*:android:*:*,CVE-2020-35137
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2023-39957
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2023-22473
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2022-41926
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2022-39212
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2022-35932
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2022-24890
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2022-24887
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2021-41181
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2021-41180
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2021-39222
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:-:*:*:*:android:*:*,CVE-2021-32689
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2023-39957
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2023-22473
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2022-41926
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2022-39212
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2022-35932
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2022-24890
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2022-24887
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2021-41181
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2021-41180
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2021-39222
+Android 11.0.0,nextcloud,cpe:2.3:a:nextcloud:talk:11.0.0:rc1:*:*:*:android:*:*,CVE-2021-32689
+Android 11.0.0,yellowbook,cpe:2.3:a:yellowbook:yellow_pages_local_search:11.0.0:*:*:*:*:*:*:*,CVE-2014-5758

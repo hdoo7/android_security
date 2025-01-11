@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T715C,CHC,000042170711,SM-T715C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,T715CZCS2CTK1,Nougat(Android 7.0),2020-12-14,2017-08-01,GALAXY Tab S2 ,https://doc.samsungmobile.com/SM-T715C/000042170711/eng.html

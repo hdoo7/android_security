@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A5108,CHM,000003170406,SM-A5108/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,A5108ZMS4CTI1,Nougat(Android 7.1.1),2020-11-18,2019-08-01,Galaxy A5 ⑥ ,https://doc.samsungmobile.com/SM-A5108/000003170406/eng.html
+SM-A5108,CHM,000003170406,SM-A5108/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,A5108ZMS4CSI1,Nougat(Android 7.1.1),2019-09-30,2019-08-01,Galaxy A5 ⑥ ,https://doc.samsungmobile.com/SM-A5108/000003170406/eng.html
+SM-A5108,CHM,000003170406,SM-A5108/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,A5108ZMU4CSG1,Nougat(Android 7.1.1),2019-08-28,2019-05-01,Galaxy A5 ⑥ ,https://doc.samsungmobile.com/SM-A5108/000003170406/eng.html
+SM-A5108,CHM,000003170406,SM-A5108/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,A5108ZMU4CSB1,Nougat(Android 7.1.1),2019-05-31,2019-02-01,Galaxy A5 ⑥ ,https://doc.samsungmobile.com/SM-A5108/000003170406/eng.html

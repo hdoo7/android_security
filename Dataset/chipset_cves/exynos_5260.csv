@@ -1,0 +1,18 @@
+keyword,cpe_vendor,cpe,cve
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2023-41112
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2023-41111
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2023-37368
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2023-36481
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2021-25416
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2021-25415
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2021-25411
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2018-21043
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2018-21040
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2019-20610
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2019-20582
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2020-10849
+Exynos 9810,samsung,cpe:2.3:h:samsung:exynos_9810:-:*:*:*:*:*:*:*,CVE-2020-10848
+Exynos 9810,samsung,cpe:2.3:o:samsung:exynos_9810_firmware:-:*:*:*:*:*:*:*,CVE-2023-41112
+Exynos 9810,samsung,cpe:2.3:o:samsung:exynos_9810_firmware:-:*:*:*:*:*:*:*,CVE-2023-41111
+Exynos 9810,samsung,cpe:2.3:o:samsung:exynos_9810_firmware:-:*:*:*:*:*:*:*,CVE-2023-37368
+Exynos 9810,samsung,cpe:2.3:o:samsung:exynos_9810_firmware:-:*:*:*:*:*:*:*,CVE-2023-36481

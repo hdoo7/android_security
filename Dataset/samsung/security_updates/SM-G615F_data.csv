@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G615F,BNG,005166190415,SM-G615F/BNG, Bangladesh,Bangladesh,No-carrier,Asia,Southern Asia,G615FXXU2BSC1,Oreo(Android 8.1.0),2019-04-15,2019-03-01,Galaxy J7 Max ,https://doc.samsungmobile.com/SM-G615F/005166190415/eng.html
+SM-G615F,INS,004702190405,SM-G615F/INS, India,India,No-carrier,Asia,Southern Asia,G615FXXU2BSC1,Oreo(Android 8.1.0),2019-04-04,2019-03-01,Galaxy J7 Max ,https://doc.samsungmobile.com/SM-G615F/004702190405/eng.html
+SM-G615F,NPL,005160190415,SM-G615F/NPL, Nepal,Nepal,No-carrier,Asia,Southern Asia,G615FXXU2BSC1,Oreo(Android 8.1.0),2019-04-15,2019-03-01,Galaxy J7 Max ,https://doc.samsungmobile.com/SM-G615F/005160190415/eng.html
+SM-G615F,PAK,005159190415,SM-G615F/PAK, Pakistan (PAK),Pakistan,PAK,Asia,Southern Asia,G615FXXU2BSC1,Oreo(Android 8.1.0),2019-04-15,2019-03-01,Galaxy J7 Max ,https://doc.samsungmobile.com/SM-G615F/005159190415/eng.html
+SM-G615F,SLK,005170190415,SM-G615F/SLK, Sri Lanka,Sri Lanka,No-carrier,Asia,Southern Asia,G615FXXU2BSC1,Oreo(Android 8.1.0),2019-04-15,2019-03-01,Galaxy J7 Max ,https://doc.samsungmobile.com/SM-G615F/005170190415/eng.html

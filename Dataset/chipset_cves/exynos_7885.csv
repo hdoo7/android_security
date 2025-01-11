@@ -1,0 +1,6 @@
+keyword,cpe_vendor,cpe,cve
+exynos 7885,samsung,cpe:2.3:h:samsung:exynos_7885:-:*:*:*:*:*:*:*,CVE-2020-15582
+exynos 7885,samsung,cpe:2.3:h:samsung:exynos_7885:-:*:*:*:*:*:*:*,CVE-2019-20610
+exynos 7885,samsung,cpe:2.3:h:samsung:exynos_7885:-:*:*:*:*:*:*:*,CVE-2019-20556
+exynos 7885,samsung,cpe:2.3:h:samsung:exynos_7885:-:*:*:*:*:*:*:*,CVE-2019-20553
+exynos 7885,samsung,cpe:2.3:h:samsung:exynos_7885:-:*:*:*:*:*:*:*,CVE-2020-10849

@@ -1,0 +1,10 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J510H,AFG,015306201031,SM-J510H/AFG, Afghanistan,Afghanistan,No-carrier,Asia,Southern Asia,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-10-30,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015306201031/eng.html
+SM-J510H,BTC,015330201103,SM-J510H/BTC, Libya,Libya,No-carrier,Africa,Northern Africa,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-11-03,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015330201103/eng.html
+SM-J510H,EGY,015310201101,SM-J510H/EGY, Egypt,Egypt,No-carrier,Africa,Northern Africa,J510HXXS2BTI4,Nougat(Android 7.1.1),2020-10-31,2017-08-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015310201101/eng.html
+SM-J510H,LYS,015311201101,SM-J510H/LYS, Libya,Libya,No-carrier,Africa,Northern Africa,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-10-31,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015311201101/eng.html
+SM-J510H,MID,015299201031,SM-J510H/MID, Iraq,Iraq,No-carrier,Asia,Western Asia,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-10-30,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015299201031/eng.html
+SM-J510H,SEK,007169190612,SM-J510H/SEK, Ukraine (Kyivstar),Ukraine,Kyivstar,Europe,Eastern Europe,J510HXXU3BSD1,Nougat(Android 7.1.1),2019-06-11,2019-04-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/007169190612/eng.html
+SM-J510H,TMC,015313201101,SM-J510H/TMC, Algeria,Algeria,No-carrier,Africa,Northern Africa,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-10-31,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015313201101/eng.html
+SM-J510H,TUN,015314201101,SM-J510H/TUN, Tunisia,Tunisia,No-carrier,Africa,Northern Africa,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-10-31,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015314201101/eng.html
+SM-J510H,WTL,015312201101,SM-J510H/WTL, Saudi Arabia,Saudi Arabia,No-carrier,Asia,Western Asia,J510HXXS2BTI2,Nougat(Android 7.1.1),2020-10-31,2018-07-01,Galaxy J5 ⑥ ,https://doc.samsungmobile.com/SM-J510H/015312201101/eng.html

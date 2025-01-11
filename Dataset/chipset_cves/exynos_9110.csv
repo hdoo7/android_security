@@ -1,0 +1,25 @@
+keyword,cpe_vendor,cpe,cve
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2024-29152
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-41112
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-41111
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-37368
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-36481
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29091
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29090
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29089
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29088
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29087
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29086
+exynos 9110,samsung,cpe:2.3:h:samsung:exynos_9110:-:*:*:*:*:*:*:*,CVE-2023-29085
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2024-29152
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-41112
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-41111
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-37368
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-36481
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29091
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29090
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29089
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29088
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29087
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29086
+exynos 9110,samsung,cpe:2.3:o:samsung:exynos_9110_firmware:-:*:*:*:*:*:*:*,CVE-2023-29085

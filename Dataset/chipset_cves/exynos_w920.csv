@@ -1,0 +1,23 @@
+keyword,cpe_vendor,cpe,cve
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2024-29152
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-43122
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-41112
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-41111
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-37377
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-37368
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-36481
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-26073
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-26074
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-26072
+exynos w920,samsung,cpe:2.3:h:samsung:exynos_w920:-:*:*:*:*:*:*:*,CVE-2023-26075
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2024-29152
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-43122
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-41112
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-41111
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-37377
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-37368
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-36481
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-26073
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-26074
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-26072
+exynos w920,samsung,cpe:2.3:o:samsung:exynos_w920_firmware:-:*:*:*:*:*:*:*,CVE-2023-26075

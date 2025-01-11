@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-P588C,CHC,000028170406,SM-P588C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,P588CZCS3CTJ1,Oreo(Android 8.1.0),2020-12-08,2020-09-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P588C/000028170406/eng.html
+SM-P588C,CHC,000028170406,SM-P588C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,P588CZCU3CSI1,Oreo(Android 8.1.0),2019-10-31,2019-07-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P588C/000028170406/eng.html
+SM-P588C,CHC,000028170406,SM-P588C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,P588CZCU2CRK6,Oreo(Android 8.1.0),2018-12-07,2018-11-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P588C/000028170406/eng.html
+SM-P588C,CHC,000028170406,SM-P588C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,P588CZCU2BRJ1,Nougat(Android 7.0),2018-11-27,2018-09-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P588C/000028170406/eng.html

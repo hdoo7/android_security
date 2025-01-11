@@ -1,0 +1,3 @@
+keyword,cpe_vendor,cpe,cve
+nvidia tegra x1,nvidia,cpe:2.3:h:nvidia:tegra_x1:-:*:*:*:*:*:*:*,CVE-2017-0866
+nvidia tegra x1,nvidia,cpe:2.3:o:nvidia:tegra_x1_firmware:-:*:*:*:*:*:*:*,CVE-2017-0866

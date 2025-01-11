@@ -1,0 +1,11 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU5CVI1,Q(Android 10),2022-12-20,2022-06-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXS5CVE1,Q(Android 10),2022-07-05,2022-03-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU5CUL2,Q(Android 10),2022-06-08,2021-11-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXS5CUC1,Q(Android 10),2021-06-02,2021-02-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU4CTH2,Q(Android 10),2020-10-21,2020-07-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU4CTF7,Q(Android 10),2020-07-14,2020-06-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU4BSK1,Pie(Android 9),2020-01-14,2019-11-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU3BSH1,Pie(Android 9),2019-09-21,2019-08-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU2BSD1,Pie(Android 9),2019-04-19,2019-03-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html
+SM-T837,TUR,002313181121,SM-T837/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T837JXU2ARJ3,Oreo(Android 8.1.0),2018-11-21,2018-10-01,Galaxy Tab S4 ,https://doc.samsungmobile.com/SM-T837/002313181121/eng.html

@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C7100,CHC,000095170918,SM-C7100/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7100ZCU1BSA3,Oreo(Android 8.1.0),2019-02-11,2018-12-01,Galaxy C8 ,https://doc.samsungmobile.com/SM-C7100/000095170918/eng.html
+SM-C7100,TGY,000102171007,SM-C7100/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7100ZHU1BSB2,Oreo(Android 8.1.0),2019-04-18,2018-12-01,Galaxy C8 ,https://doc.samsungmobile.com/SM-C7100/000102171007/eng.html
+SM-C7100,TGY,000102171007,SM-C7100/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7100ZHU1ARG2,Nougat(Android 7.1.1),2018-08-08,2018-06-01,Galaxy C8 ,https://doc.samsungmobile.com/SM-C7100/000102171007/eng.html

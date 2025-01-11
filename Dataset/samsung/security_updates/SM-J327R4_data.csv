@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J327R4,USC,005563190426,SM-J327R4/USC, USA (US Cellular),USA,US Cellular,Americas,Northern America,J327R4TYS2BSD1,Oreo(Android 8.1.0),2019-04-26,2019-04-01,Galaxy J3 ,https://doc.samsungmobile.com/SM-J327R4/005563190426/eng.html

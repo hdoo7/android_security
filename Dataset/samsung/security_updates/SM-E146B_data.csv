@@ -1,0 +1,9 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXU4CXE1,U(Android 14),2024-05-30,2024-05-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXS3BXB1,U(Android 14),2024-03-14,2024-02-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXS3BWL3,U(Android 14),2023-12-28,2023-12-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXU2BWL1,U(Android 14),2023-12-14,2023-11-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXS2AWK1,T(Android 13),2023-11-29,2023-11-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXS2AWH2,T(Android 13),2023-08-28,2023-08-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXU2AWF7,T(Android 13),2023-07-11,2023-05-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html
+SM-E146B,INS,026610230407,SM-E146B/INS, India,India,No-carrier,Asia,Southern Asia,E146BXXU1AWC5,T(Android 13),2023-04-06,2023-03-01,Galaxy F14 5G ,https://doc.samsungmobile.com/SM-E146B/026610230407/eng.html

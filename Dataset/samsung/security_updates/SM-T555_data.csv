@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T555,ATO,004652190404,SM-T555/ATO, Austria (Open),Austria,Open,Europe,Western Europe,T555XXU1CRG1,Nougat(Android 7.1.1),2019-04-04,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T555/004652190404/eng.html
+SM-T555,BTU,004502190403,SM-T555/BTU, United Kingdom,United Kingdom,No-carrier,Europe,Northern Europe,T555XXU1CRG1,Nougat(Android 7.1.1),2019-04-03,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T555/004502190403/eng.html
+SM-T555,XEU,004541190403,SM-T555/XEU,Ireland,Ireland,No-carrier,,,T555XXU1CRG1,Nougat(Android 7.1.1),2019-04-03,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T555/004541190403/eng.html

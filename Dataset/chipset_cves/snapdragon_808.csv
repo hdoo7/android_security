@@ -1,0 +1,9 @@
+keyword,cpe_vendor,cpe,cve
+Snapdragon 808,qualcomm,cpe:2.3:h:qualcomm:snapdragon_808:-:*:*:*:*:*:*:*,CVE-2023-28565
+Snapdragon 808,qualcomm,cpe:2.3:h:qualcomm:snapdragon_808_processor:-:*:*:*:*:*:*:*,CVE-2023-43511
+Snapdragon 808,qualcomm,cpe:2.3:h:qualcomm:snapdragon_808_processor:-:*:*:*:*:*:*:*,CVE-2023-28560
+Snapdragon 808,qualcomm,cpe:2.3:h:qualcomm:snapdragon_808_processor:-:*:*:*:*:*:*:*,CVE-2023-21628
+Snapdragon 808,qualcomm,cpe:2.3:o:qualcomm:snapdragon_808_firmware:-:*:*:*:*:*:*:*,CVE-2023-28565
+Snapdragon 808,qualcomm,cpe:2.3:o:qualcomm:snapdragon_808_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-43511
+Snapdragon 808,qualcomm,cpe:2.3:o:qualcomm:snapdragon_808_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-28560
+Snapdragon 808,qualcomm,cpe:2.3:o:qualcomm:snapdragon_808_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-21628

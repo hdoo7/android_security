@@ -1,0 +1,3 @@
+keyword,cpe_vendor,cpe,cve
+exynos 5430,samsung,cpe:2.3:h:samsung:exynos_5430:-:*:*:*:*:*:*:*,CVE-2017-18690
+exynos 5430,samsung,cpe:2.3:h:samsung:exynos_5430:-:*:*:*:*:*:*:*,CVE-2017-18694

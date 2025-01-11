@@ -1,0 +1,7 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C9000,CHC,000012170406,SM-C9000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C9000ZCU1CSC2,Oreo(Android 8.0.0),2019-03-18,2019-01-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C9000/000012170406/eng.html
+SM-C9000,CHC,000012170406,SM-C9000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C9000ZCU1CRL1,Oreo(Android 8.0.0),2019-03-08,2018-12-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C9000/000012170406/eng.html
+SM-C9000,CHC,000012170406,SM-C9000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C9000ZCU1CRI1,Oreo(Android 8.0.0),2018-10-26,2018-07-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C9000/000012170406/eng.html
+SM-C9000,CHC,000012170406,SM-C9000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C9000ZCU1CRG6,Oreo(Android 8.0.0),2018-08-02,2018-07-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C9000/000012170406/eng.html
+SM-C9000,TGY,000044170406,SM-C9000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C9000ZHU1CSC1,Oreo(Android 8.0.0),2019-07-03,2019-01-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C9000/000044170406/eng.html
+SM-C9000,TGY,000044170406,SM-C9000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C9000ZHU1CRG9,Oreo(Android 8.0.0),2018-08-13,2018-07-01,GALAXY C9 Pro ,https://doc.samsungmobile.com/SM-C9000/000044170406/eng.html

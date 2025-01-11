@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-X216C,CHC,028449231215,SM-X216C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X216CZCU1BXB1,U(Android 14),2024-02-19,2023-12-01,Galaxy Tab A9+ 5G ,https://doc.samsungmobile.com/SM-X216C/028449231215/eng.html
+SM-X216C,CHC,028449231215,SM-X216C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X216CZCU1AWL1,T(Android 13),2024-01-02,2023-07-01,Galaxy Tab A9+ 5G ,https://doc.samsungmobile.com/SM-X216C/028449231215/eng.html
+SM-X216C,CHC,028449231215,SM-X216C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X216CZCU1AWK2,T(Android 13),2023-12-15,2023-07-01,Galaxy Tab A9+ 5G ,https://doc.samsungmobile.com/SM-X216C/028449231215/eng.html

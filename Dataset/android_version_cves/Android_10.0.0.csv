@@ -1,0 +1,26 @@
+keyword,cpe_vendor,cpe,cve
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:-:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta12:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta13:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta14:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta15:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta16:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta17:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta18:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta19:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta19.1:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta20:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:beta21:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc1:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc2:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc3:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc4:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc5:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc6:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc7:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc8:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mapbox,cpe:2.3:a:mapbox:maps_software_development_kit:10.0.0:rc9:*:*:*:android:*:*,CVE-2022-38216
+Android 10.0.0,mobileiron,cpe:2.3:a:mobileiron:mobile\@work:10.0.0.0.91r:*:*:*:*:android:*:*,CVE-2021-3391
+Android 10.0.0,mobileiron,cpe:2.3:a:mobileiron:mobile\@work:10.0.0.0.91r:*:*:*:*:android:*:*,CVE-2020-35138
+Android 10.0.0,mobileiron,cpe:2.3:a:mobileiron:mobile\@work:10.0.0.0.91r:*:*:*:*:android:*:*,CVE-2020-35137
+Android 10.0.0,swisscom,cpe:2.3:a:swisscom:swisscom_home_app:10.0.0:*:*:*:*:android:*:*,CVE-2018-16225

@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C9008,CHM,000046170717,SM-C9008/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,C9008ZMU1CRG8,Oreo(Android 8.0.0),2018-08-13,2018-07-01,GALAXY C9 ,https://doc.samsungmobile.com/SM-C9008/000046170717/eng.html

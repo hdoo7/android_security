@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G930R4,USC,005742190501,SM-G930R4/USC, USA (US Cellular),USA,US Cellular,Americas,Northern America,G930R4TYS9CSD1,Oreo(Android 8.0.0),2019-04-30,2019-03-01,Galaxy S7 ,https://doc.samsungmobile.com/SM-G930R4/005742190501/eng.html

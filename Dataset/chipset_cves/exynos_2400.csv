@@ -1,0 +1,3 @@
+keyword,cpe_vendor,cpe,cve
+exynos 2400,samsung,cpe:2.3:h:samsung:exynos_2400:-:*:*:*:*:*:*:*,CVE-2024-28818
+exynos 2400,samsung,cpe:2.3:h:samsung:exynos_2400:-:*:*:*:*:*:*:*,CVE-2024-29152

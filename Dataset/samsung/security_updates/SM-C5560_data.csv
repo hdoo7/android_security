@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C5560,CHC,029857240412,SM-C5560/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5560ZCU2AXE8,U(Android 14),2024-06-11,2024-04-01,Galaxy C55 5G,https://doc.samsungmobile.com/SM-C5560/029857240412/eng.html
+SM-C5560,CHC,029857240412,SM-C5560/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5560ZCU2AXE5,U(Android 14),2024-05-23,2024-04-01,Galaxy C55 5G,https://doc.samsungmobile.com/SM-C5560/029857240412/eng.html
+SM-C5560,CHC,029857240412,SM-C5560/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5560ZCU1AXD7,U(Android 14),2024-04-26,2024-04-01,Galaxy C55 5G,https://doc.samsungmobile.com/SM-C5560/029857240412/eng.html
+SM-C5560,CHC,029857240412,SM-C5560/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5560ZCS1AXD2,U(Android 14),2024-04-11,2024-04-01,Galaxy C55 5G,https://doc.samsungmobile.com/SM-C5560/029857240412/eng.html

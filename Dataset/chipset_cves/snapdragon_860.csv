@@ -1,0 +1,19 @@
+keyword,cpe_vendor,cpe,cve
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860:-:*:*:*:*:*:*:*,CVE-2023-33021
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860:-:*:*:*:*:*:*:*,CVE-2023-28584
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860:-:*:*:*:*:*:*:*,CVE-2023-28567
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860:-:*:*:*:*:*:*:*,CVE-2023-28565
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860:-:*:*:*:*:*:*:*,CVE-2023-28564
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860:-:*:*:*:*:*:*:*,CVE-2023-28562
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-28559
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-28558
+snapdragon 860,qualcomm,cpe:2.3:h:qualcomm:snapdragon_860_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-28557
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_firmware:-:*:*:*:*:*:*:*,CVE-2023-33021
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_firmware:-:*:*:*:*:*:*:*,CVE-2023-28584
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_firmware:-:*:*:*:*:*:*:*,CVE-2023-28567
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_firmware:-:*:*:*:*:*:*:*,CVE-2023-28565
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_firmware:-:*:*:*:*:*:*:*,CVE-2023-28564
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_firmware:-:*:*:*:*:*:*:*,CVE-2023-28562
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-28559
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-28558
+snapdragon 860,qualcomm,cpe:2.3:o:qualcomm:snapdragon_860_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-28557

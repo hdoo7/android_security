@@ -1,0 +1,11 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T355,AFR,016447210106,SM-T355/AFR, Kenya,Kenya,No-carrier,Africa,Sub-Saharan Africa,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016447210106/eng.html
+SM-T355,KSA,016471210106,SM-T355/KSA, Saudi Arabia,Saudi Arabia,No-carrier,Asia,Western Asia,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016471210106/eng.html
+SM-T355,MWD,016452210106,SM-T355/MWD, Morocco (MWD),Morocco,MWD,Africa,Northern Africa,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016452210106/eng.html
+SM-T355,PAK,016468210106,SM-T355/PAK, Pakistan (PAK),Pakistan,PAK,Asia,Southern Asia,T355XXS1CTL2,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016468210106/eng.html
+SM-T355,SEK,016491210107,SM-T355/SEK, Ukraine (Kyivstar),Ukraine,Kyivstar,Europe,Eastern Europe,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016491210107/eng.html
+SM-T355,SER,016482210107,SM-T355/SER, Russia,Russia,No-carrier,Europe,Eastern Europe,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016482210107/eng.html
+SM-T355,THR,016460210106,SM-T355/THR, Iran,Iran,No-carrier,Asia,Southern Asia,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016460210106/eng.html
+SM-T355,TMC,016476210106,SM-T355/TMC, Algeria,Algeria,No-carrier,Africa,Northern Africa,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016476210106/eng.html
+SM-T355,WTL,016464210106,SM-T355/WTL, Saudi Arabia,Saudi Arabia,No-carrier,Asia,Western Asia,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016464210106/eng.html
+SM-T355,XSG,016456210106,SM-T355/XSG, United Arab Emirates,United Arab Emirates,No-carrier,Asia,Western Asia,T355XXS1CTL3,Nougat(Android 7.1.1),2021-01-06,2017-08-01,GALAXY Tab A ,https://doc.samsungmobile.com/SM-T355/016456210106/eng.html

@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-X516C,CHC,028372231211,SM-X516C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X516CZCS4BXE2,U(Android 14),2024-06-10,2024-04-01,Galaxy Tab S9 FE 5G,https://doc.samsungmobile.com/SM-X516C/028372231211/eng.html
+SM-X516C,CHC,028372231211,SM-X516C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X516CZCU3BXDG,U(Android 14),2024-05-20,2024-04-01,Galaxy Tab S9 FE 5G,https://doc.samsungmobile.com/SM-X516C/028372231211/eng.html
+SM-X516C,CHC,028372231211,SM-X516C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X516CZCS2BXD1,U(Android 14),2024-04-17,2024-03-01,Galaxy Tab S9 FE 5G,https://doc.samsungmobile.com/SM-X516C/028372231211/eng.html
+SM-X516C,CHC,028372231211,SM-X516C/CHC, China (Open China),China,Open China,Asia,Eastern Asia,X516CZCU1BWK9,U(Android 14),2023-12-11,2023-09-01,Galaxy Tab S9 FE 5G,https://doc.samsungmobile.com/SM-X516C/028372231211/eng.html

@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J701MT,ICE,007901190721,SM-J701MT/ICE, Costa Rica,Costa Rica,No-carrier,Americas,Latin America and the Caribbean,J701MTVJU6CSF2,Pie(Android 9),2019-07-20,2019-05-01,Galaxy J7 Neo ,https://doc.samsungmobile.com/SM-J701MT/007901190721/eng.html
+SM-J701MT,PNT,004213190328,SM-J701MT/PNT, Peru (Nextel),Peru,Nextel,Americas,Latin America and the Caribbean,J701MTVJS6BSB2,Oreo(Android 8.1.0),2019-03-27,2019-02-01,Galaxy J7 Neo ,https://doc.samsungmobile.com/SM-J701MT/004213190328/eng.html
+SM-J701MT,TPA,006501190525,SM-J701MT/TPA, Panama,Panama,No-carrier,Americas,Latin America and the Caribbean,J701MTVJU6BSD2,Oreo(Android 8.1.0),2019-05-25,2019-04-01,Galaxy J7 Neo ,https://doc.samsungmobile.com/SM-J701MT/006501190525/eng.html
+SM-J701MT,ZTO,006276190518,SM-J701MT/ZTO, Brazil,Brazil,No-carrier,Americas,Latin America and the Caribbean,J701MTVJU6BSD2,Oreo(Android 8.1.0),2019-05-17,2019-04-01,Galaxy J7 Neo ,https://doc.samsungmobile.com/SM-J701MT/006276190518/eng.html

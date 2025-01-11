@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G935R4,USC,005743190501,SM-G935R4/USC, USA (US Cellular),USA,US Cellular,Americas,Northern America,G935R4TYS9CSD1,Oreo(Android 8.0.0),2019-04-30,2019-03-01,Galaxy S7 edge ,https://doc.samsungmobile.com/SM-G935R4/005743190501/eng.html

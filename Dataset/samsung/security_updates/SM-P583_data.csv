@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-P583,CHN,000027170406,SM-P583/CHN, China,China,No-carrier,Asia,Eastern Asia,P583ZCS3CTJ1,Oreo(Android 8.1.0),2020-12-08,2020-09-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P583/000027170406/eng.html
+SM-P583,CHN,000027170406,SM-P583/CHN, China,China,No-carrier,Asia,Eastern Asia,P583ZCU3CSI1,Oreo(Android 8.1.0),2019-10-31,2019-07-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P583/000027170406/eng.html
+SM-P583,CHN,000027170406,SM-P583/CHN, China,China,No-carrier,Asia,Eastern Asia,P583ZCU2CRK9,Oreo(Android 8.1.0),2018-12-10,2018-11-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P583/000027170406/eng.html
+SM-P583,CHN,000027170406,SM-P583/CHN, China,China,No-carrier,Asia,Eastern Asia,P583ZCU2BRJ1,Nougat(Android 7.0),2018-11-16,2018-09-01,Galaxy Tab A⑥ with S Pen ,https://doc.samsungmobile.com/SM-P583/000027170406/eng.html

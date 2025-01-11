@@ -1,0 +1,143 @@
+timestamp,device,period
+2022-03-02,Galaxy Fold,monthly
+2022-03-02,Galaxy Fold 5G,monthly
+2022-03-02,Galaxy Z Fold2,monthly
+2022-03-02,Galaxy Z Fold2 5G,monthly
+2022-03-02,Galaxy Z Fold3 5G,monthly
+2022-03-02,Galaxy Z Flip,monthly
+2022-03-02,Galaxy Z Flip 5G,monthly
+2022-03-02,Galaxy Z Flip3 5G,monthly
+2022-03-02,Galaxy S10,monthly
+2022-03-02,Galaxy S10+,monthly
+2022-03-02,Galaxy S10e,monthly
+2022-03-02,Galaxy S10 5G,monthly
+2022-03-02,Galaxy S10 Lite,monthly
+2022-03-02,Galaxy S20,monthly
+2022-03-02,Galaxy S20 5G,monthly
+2022-03-02,Galaxy S20+,monthly
+2022-03-02,Galaxy S20+ 5G,monthly
+2022-03-02,Galaxy S20 Ultra,monthly
+2022-03-02,Galaxy S20 Ultra 5G,monthly
+2022-03-02,Galaxy S20 FE,monthly
+2022-03-02,Galaxy S20 FE 5G,monthly
+2022-03-02,Galaxy S21 5G,monthly
+2022-03-02,Galaxy S21+ 5G,monthly
+2022-03-02,Galaxy S21 Ultra 5G,monthly
+2022-03-02,Galaxy S21 FE 5G,monthly
+2022-03-02,Galaxy Note10,monthly
+2022-03-02,Galaxy Note10 5G,monthly
+2022-03-02,Galaxy Note10+,monthly
+2022-03-02,Galaxy Note10+ 5G,monthly
+2022-03-02,Galaxy Note10 Lite,monthly
+2022-03-02,Galaxy Note20,monthly
+2022-03-02,Galaxy Note20 5G,monthly
+2022-03-02,Galaxy Note20 Ultra,monthly
+2022-03-02,Galaxy Note20 Ultra 5G,monthly
+2022-03-02,Enterprise Models: Galaxy A50,monthly
+2022-03-02,Galaxy A52,monthly
+2022-03-02,Galaxy A52 5G,monthly
+2022-03-02,Galaxy A52s 5G,monthly
+2022-03-02,Galaxy XCover4s,monthly
+2022-03-02,Galaxy Xcover FieldPro,monthly
+2022-03-02,Galaxy Xcover Pro,monthly
+2022-03-02,Galaxy Xcover5,monthly
+2022-03-02,Galaxy S9,quarterly
+2022-03-02,Galaxy S9+,quarterly
+2022-03-02,Galaxy Note9,quarterly
+2022-03-02,Galaxy A40,quarterly
+2022-03-02,Galaxy A01 Core,quarterly
+2022-03-02,Galaxy A11,quarterly
+2022-03-02,Galaxy A21,quarterly
+2022-03-02,Galaxy A21s,quarterly
+2022-03-02,Galaxy A31,quarterly
+2022-03-02,Galaxy A41,quarterly
+2022-03-02,Galaxy A51 5G,quarterly
+2022-03-02,Galaxy A71,quarterly
+2022-03-02,Galaxy A71 5G,quarterly
+2022-03-02,Galaxy A02,quarterly
+2022-03-02,Galaxy A02s,quarterly
+2022-03-02,Galaxy A12,quarterly
+2022-03-02,Galaxy A22,quarterly
+2022-03-02,Galaxy A22 5G,quarterly
+2022-03-02,Galaxy A22e 5G,quarterly
+2022-03-02,Galaxy A32,quarterly
+2022-03-02,Galaxy A32 5G,quarterly
+2022-03-02,Galaxy A42 5G,quarterly
+2022-03-02,Galaxy A72,quarterly
+2022-03-02,Galaxy A82 5G,quarterly
+2022-03-02,Galaxy A03,quarterly
+2022-03-02,Galaxy A03s,quarterly
+2022-03-02,Galaxy A03 core,quarterly
+2022-03-02,Galaxy A13 5G,quarterly
+2022-03-02,Galaxy M01,quarterly
+2022-03-02,Galaxy M11,quarterly
+2022-03-02,Galaxy M21,quarterly
+2022-03-02,Galaxy M21 2021,quarterly
+2022-03-02,Galaxy M31,quarterly
+2022-03-02,Galaxy M31s,quarterly
+2022-03-02,Galaxy M51,quarterly
+2022-03-02,Galaxy M12,quarterly
+2022-03-02,Galaxy M22,quarterly
+2022-03-02,Galaxy M32,quarterly
+2022-03-02,Galaxy M42 5G,quarterly
+2022-03-02,Galaxy M52 5G,quarterly
+2022-03-02,Galaxy M62,quarterly
+2022-03-02,Galaxy F12,quarterly
+2022-03-02,Galaxy F22,quarterly
+2022-03-02,Galaxy F42 5G,quarterly
+2022-03-02,Galaxy F52 5G,quarterly
+2022-03-02,Galaxy F62,quarterly
+2022-03-02,Galaxy Tab A 8.4 (2020),quarterly
+2022-03-02,Galaxy Tab A7,quarterly
+2022-03-02,Galaxy Tab A7 Lite,quarterly
+2022-03-02,Galaxy Tab A8,quarterly
+2022-03-02,Galaxy Tab Active Pro,quarterly
+2022-03-02,Galaxy Tab Active3,quarterly
+2022-03-02,Galaxy Tab S6 Lite,quarterly
+2022-03-02,Galaxy Tab S7,quarterly
+2022-03-02,Galaxy Tab S7+,quarterly
+2022-03-02,Galaxy Tab S7 FE,quarterly
+2022-03-02,W21 5G,quarterly
+2022-03-02,Galaxy S8 Lite,biannual
+2022-03-02,Galaxy A6,biannual
+2022-03-02,Galaxy A6+,biannual
+2022-03-02,Galaxy A7 (2018),biannual
+2022-03-02,Galaxy A8 Star,biannual
+2022-03-02,Galaxy A8s,biannual
+2022-03-02,Galaxy A9 (2018),biannual
+2022-03-02,Galaxy A10,biannual
+2022-03-02,Galaxy A10e,biannual
+2022-03-02,Galaxy A10s,biannual
+2022-03-02,Galaxy A20e,biannual
+2022-03-02,Galaxy A20,biannual
+2022-03-02,Galaxy A30,biannual
+2022-03-02,Galaxy A60,biannual
+2022-03-02,Galaxy A70,biannual
+2022-03-02,Galaxy A80,biannual
+2022-03-02,Galaxy A90 5G,biannual
+2022-03-02,Galaxy A20s,biannual
+2022-03-02,Galaxy A30s,biannual
+2022-03-02,Galaxy A50s,biannual
+2022-03-02,Galaxy A70s,biannual
+2022-03-02,Galaxy A01,biannual
+2022-03-02,Galaxy A51,biannual
+2022-03-02,Galaxy J4,biannual
+2022-03-02,Galaxy J6,biannual
+2022-03-02,Galaxy J6+,biannual
+2022-03-02,Galaxy J7 Duo,biannual
+2022-03-02,Galaxy J8,biannual
+2022-03-02,Galaxy M10,biannual
+2022-03-02,Galaxy M10s,biannual
+2022-03-02,Galaxy M20,biannual
+2022-03-02,Galaxy M30,biannual
+2022-03-02,Galaxy M30s,biannual
+2022-03-02,Galaxy M40,biannual
+2022-03-02,Galaxy Tab A 10.5 (2018),biannual
+2022-03-02,Galaxy Tab A 8 (2019),biannual
+2022-03-02,Galaxy Tab A 10.1 (2019),biannual
+2022-03-02,Galaxy Tab A with S pen,biannual
+2022-03-02,Galaxy Tab S4,biannual
+2022-03-02,Galaxy Tab S5e,biannual
+2022-03-02,Galaxy Tab S6,biannual
+2022-03-02,Galaxy Tab S6 5G,biannual
+2022-03-02,W20 5G,biannual

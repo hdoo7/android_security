@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-E346B,INS,027829230922,SM-E346B/INS, India,India,No-carrier,Asia,Southern Asia,E346BXXU4CXE1,U(Android 14),2024-06-03,2024-05-01,SM-E346B,https://doc.samsungmobile.com/SM-E346B/027829230922/eng.html
+SM-E346B,INS,027829230922,SM-E346B/INS, India,India,No-carrier,Asia,Southern Asia,E346BXXS3BXB1,U(Android 14),2024-02-13,2024-02-01,SM-E346B,https://doc.samsungmobile.com/SM-E346B/027829230922/eng.html
+SM-E346B,INS,027829230922,SM-E346B/INS, India,India,No-carrier,Asia,Southern Asia,E346BXXS3BXA1,U(Android 14),2024-02-01,2023-12-01,SM-E346B,https://doc.samsungmobile.com/SM-E346B/027829230922/eng.html
+SM-E346B,INS,027829230922,SM-E346B/INS, India,India,No-carrier,Asia,Southern Asia,E346BXXU2BWL1,U(Android 14),2023-12-12,2023-11-01,SM-E346B,https://doc.samsungmobile.com/SM-E346B/027829230922/eng.html
+SM-E346B,INS,027829230922,SM-E346B/INS, India,India,No-carrier,Asia,Southern Asia,E346BXXU2AWI2,T(Android 13),2023-09-22,2023-08-01,SM-E346B,https://doc.samsungmobile.com/SM-E346B/027829230922/eng.html

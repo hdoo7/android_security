@@ -1,0 +1,8 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C7010,CHC,000011170406,SM-C7010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7010ZCS3CSC1,Oreo(Android 8.0.0),2019-05-10,2019-03-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000011170406/eng.html
+SM-C7010,CHC,000011170406,SM-C7010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7010ZCU2CRJ1,Oreo(Android 8.0.0),2018-11-26,2018-10-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000011170406/eng.html
+SM-C7010,CHC,000011170406,SM-C7010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7010ZCU2CRH2,Oreo(Android 8.0.0),2018-09-11,2018-08-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000011170406/eng.html
+SM-C7010,CHC,000011170406,SM-C7010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7010ZCU1CRG8,Oreo(Android 8.0.0),2018-08-07,2018-08-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000011170406/eng.html
+SM-C7010,TGY,000095170406,SM-C7010/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7010ZHS3CSC1,Oreo(Android 8.0.0),2019-05-10,2019-03-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000095170406/eng.html
+SM-C7010,TGY,000095170406,SM-C7010/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7010ZHU2CRL1,Oreo(Android 8.0.0),2019-02-19,2018-11-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000095170406/eng.html
+SM-C7010,TGY,000095170406,SM-C7010/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7010ZHU1CRG8,Oreo(Android 8.0.0),2018-08-22,2018-08-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C7010/000095170406/eng.html

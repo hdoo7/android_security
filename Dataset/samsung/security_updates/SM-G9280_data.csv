@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G9280,CHC,000012161127,SM-G9280/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G9280ZCU2CRI1,Nougat(Android 7.0),2018-10-15,2018-09-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9280/000012161127/eng.html
+SM-G9280,CHC,000012161127,SM-G9280/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G9280ZCS2CRH1,Nougat(Android 7.0),2018-08-22,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G9280/000012161127/eng.html

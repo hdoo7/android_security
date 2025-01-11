@@ -1,0 +1,6 @@
+keyword,cpe_vendor,cpe,cve
+intel atom x5-z8500,intel,cpe:2.3:h:intel:atom_x5-z8500:-:*:*:*:*:*:*:*,CVE-2022-24436
+intel atom x5-z8500,intel,cpe:2.3:h:intel:atom_x5-z8500:-:*:*:*:*:*:*:*,CVE-2022-0002
+intel atom x5-z8500,intel,cpe:2.3:h:intel:atom_x5-z8500:-:*:*:*:*:*:*:*,CVE-2020-0551
+intel atom x5-z8500,intel,cpe:2.3:h:intel:atom_x5-z8500:-:*:*:*:*:*:*:*,CVE-2019-14615
+intel atom x5-z8500,intel,cpe:2.3:o:intel:atom_x5-z8500_firmware:-:*:*:*:*:*:*:*,CVE-2019-14615

@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C701F,INS,007021190607,SM-C701F/INS, India,India,No-carrier,Asia,Southern Asia,C701FDDU1CSD2,Oreo(Android 8.0.0),2019-06-07,2019-05-01,Galaxy C7 Pro ,https://doc.samsungmobile.com/SM-C701F/007021190607/eng.html

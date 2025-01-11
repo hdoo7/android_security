@@ -1,0 +1,21 @@
+keyword,cpe_vendor,cpe,cve
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435:-:*:*:*:*:*:*:*,CVE-2023-21629
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2024-21461
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33110
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33033
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33030
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-28546
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-24850
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2022-40521
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2022-33264
+Snapdragon 435,qualcomm,cpe:2.3:h:qualcomm:snapdragon_435_mobile_platform:-:*:*:*:*:*:*:*,CVE-2022-22076
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_firmware:-:*:*:*:*:*:*:*,CVE-2023-21629
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2024-21461
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33110
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33033
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33030
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-28546
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-24850
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2022-40521
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2022-33264
+Snapdragon 435,qualcomm,cpe:2.3:o:qualcomm:snapdragon_435_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2022-22076

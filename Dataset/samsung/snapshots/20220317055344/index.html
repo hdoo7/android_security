@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <script charset="utf-8" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=TYoruszc" type="text/javascript">
+  </script>
+  <script charset="utf-8" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" type="text/javascript">
+  </script>
+  <script>
+   window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};
+  </script>
+  <script src="https://web-static.archive.org/_static/js/ruffle/ruffle.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   __wm.pc(0.001);
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("https://security.samsungmobile.com/workScope.smsb","20220317055344","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1647496424");
+  </script>
+  <link href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" rel="stylesheet" type="text/css"/>
+  <link href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" rel="stylesheet" type="text/css"/>
+  <!-- End Wayback Rewrite JS Include -->
+  <!--HTTP 1.1-->
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <link href="/web/20220317055344cs_/https://security.samsungmobile.com/jquery/css/basic.css" rel="stylesheet" type="text/css"/>
+  <link href="/web/20220317055344cs_/https://security.samsungmobile.com/external/attach/css/attachment.css" rel="stylesheet"/>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/jquery/jquery-1.12.2.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/jquery/jquery-ui/jquery-ui.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/jquery/validation/sdp.validate.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/jquery/jquery.simplemodal.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/js/portalCommon.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/js/numberFormat.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/js/menu.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/js/common.js" type="text/javascript">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/js/commonCalendar.js" type="text/javascript">
+  </script>
+  <script charset="utf-8" src="/web/20220317055344js_/https://security.samsungmobile.com/js/billboard/d3.min.js">
+  </script>
+  <script src="/web/20220317055344js_/https://security.samsungmobile.com/js/billboard/billboard.min.js">
+  </script>
+  <link href="/web/20220317055344cs_/https://security.samsungmobile.com/js/billboard/billboard.min.css" rel="stylesheet"/>
+  <link href="/web/20220317055344cs_/https://security.samsungmobile.com/css/style.css" rel="stylesheet" type="text/css">
+   <!-- <link rel="stylesheet" href="/css/error.css" type="text/css"  /> -->
+   <!--[if IE]> <script src="/./js/html5.js"></script> <![endif]-->
+   <title>
+    Samsung Mobile Security
+   </title>
+   <link href="/web/20220317055344im_/https://security.samsungmobile.com/images/common/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+   <link href="/web/20220317055344im_/https://security.samsungmobile.com/images/common/favicon.ico" rel="icon" type="image/x-icon"/>
+   <script type="text/javascript">
+    var contextPath="/.";
+	var language = 'en_US';
+	
+	document.cookie = 'LANGUAGE=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+	
+
+ 	
+ 	var cookieAccept = 'null';
+ 	
+ 	$(document).ready(function() {
+ 		$(".menu > li").on("click", function(){
+ 			 $(this).children("a").addClass("on");
+ 		}); 		
+ 		
+ 		//개인화 메뉴 펼치기
+        $(".personal_menu").click(function(){
+          $(".personal_box").slideToggle("fast");
+          $('.close_search').hide();
+          $('.wrap_search .wrap_input').hide();
+          $('.open_search').css('visibility','visible');
+        });
+
+        //mobile_ 메뉴 펼치기
+        $(".m_btn_menu").click(function(){
+          $(this).hide();
+          $('.m_btn_menu_close').show();
+          $('.wrap_m_menu').slideDown('fast');
+          $('.back_bg').fadeIn('fast');
+        });
+
+        $(".m_btn_menu_close").click(function(){
+          $(this).hide();
+          $('.m_btn_menu').show();
+          $('.wrap_m_menu').slideUp('fast');
+          $('.back_bg').fadeOut('fast');
+        });
+        
+        //상단 검색
+        $('.open_search').click(function(){
+          $(".personal_box").slideUp("fast");
+          $('.wrap_search .wrap_input').show();
+          $(this).css('visibility','hidden');
+          $('.close_search').show();
+          $('.wrap_search .wrap_input').focus();
+        });
+      
+        $('.close_search').click(function(){
+          $(this).hide();
+          $('.wrap_search .wrap_input').hide();
+          $('.open_search').css('visibility','visible');
+        });
+        
+        $("#androidUpdatesMobileKey,#androidUpdatesWebKey").keydown(function (key) {
+        	if(key.keyCode == 13){//키가 13이면 실행 (엔터는 13)
+    		    androidUpdatesSearch(this.id);
+            }
+    	});
+    	
+    	// 20210511 - 메뉴 슬라이드
+    		$(".menu").hover(function(){
+    			$(".submenu").show();
+    			$(".submenu_bar").show();
+    			/*
+    			if ($("#header").hasClass("menu_fix")){
+    			} else {
+    				$(".submenu").show();
+    				$(".submenu_bar").show();
+    			}
+    			*/
+    		}).mouseleave(function(){
+    			$(".submenu").hide();
+    			$(".submenu_bar").hide();
+    		})
+    	
+
+        //menu fixed
+        function eventMenuFix(){
+          var menu = $('.mh');
+          var menu_offset = $('.mh').offset();
+          var submenu = $('.submenu');
+
+          $(window).scroll(function(){
+            if ($(this).scrollTop() >= menu.height() && $(window).width() > 1023){
+              menu.addClass('menu_fix');
+            }else {
+              menu.removeClass('menu_fix');              
+            };
+          });
+        };
+
+        if($(window).width() > 1023){
+          $('#header').addClass('mh');           
+          eventMenuFix();
+        }else if($(window).width() < 1023){
+          $('#header').removeClass('mh');
+          eventMenuFix();
+        };
+
+        eventMenuFix();
+
+        //top btn
+        $(".mtop_wrap button.mtop").click(function(){
+		      $("html, body").animate({scrollTop:0}, 400);
+      	});
+
+      	$("button.wtop").click(function(){
+      		$("html, body").animate({scrollTop:0}, 400);
+      	});
+      	
+    	// 쿠키 설정 확인
+    	
+    	if( cookieAccept != 'Y' ) {
+    		//alert('aa');
+    		//$(".fullscreen").removeClass('none');
+    		setTimeout("createCookie()", 1000); 
+    	}
+    	
+    	// 20210504 - Cookies Layer
+    	$(".txt_link_cookies, .btn_footer_cookie").on("click",function(){
+    		$("#cookies_layer").fadeIn();
+    	})
+    	$("a.btn_cookies_close").on("click",function(){
+    		$("#cookies_layer").fadeOut();
+    	})
+    	
+    	// 20210504 - Cookie-banner close
+    	$("a.btn_cookie_banner_close").on("click",function(){
+    		$(".fullscreen").fadeOut();
+    	})
+    	
+    	
+    
+    	
+    	
+    	
+    	
+    	
+    	
+    });
+ 	
+ 	function createCookie(){
+ 		$(".fullscreen").fadeIn();
+ 		//$(".fullscreen").slideUp();
+ 	}
+
+ 	function movePage(pageUrl) {
+ 		var d = new Date();
+ 		var timeZoneHour = d.getTimezoneOffset() / 60;
+
+ 		timeZoneHour = -1 * timeZoneHour; 
+ 		
+ 		$("input[name='timeZoneHour']").val(timeZoneHour);
+ 		document.menuMoveForm.action=pageUrl;
+		document.menuMoveForm.submit();
+ 	}
+ 	
+ 	function androidUpdatesSearch(searchObj) {
+ 		var androidSearchText = $("#"+searchObj).val();
+ 		
+ 		var pattern = /^[a-zA-Z0-9|-]*$/; 
+ 		
+ 		if(androidSearchText=="") {
+ 			alert('Please enter the search word.');
+ 		} else if(pattern.test(androidSearchText)) {
+ 			$("#androidSearchText").val(androidSearchText);
+ 	 		document.androidUpdatesSearchForm.submit();
+ 		} else {
+ 			alert('You can not enter characters other than uppercase and lowercase letters, numbers, "-".');
+ 		}
+ 	}
+ 	
+ 	function goCookieAccept() {
+
+ 		var params = {};
+
+ 		$.ajax({
+ 			type:'POST',
+ 			url:'/./cookieAccept.smsb',
+ 			data:params,
+ 			dataType:'json',
+ 			async:false,
+ 			success:function(ret) {
+ 				hideLoading();
+ 		        if( ret.success == true ) {
+ 					$(".fullscreen").fadeOut();
+ 					cookieAccept = 'Y';
+ 		        } else {
+ 		        	alert("Please contact administrator!");
+ 		        }
+ 			},
+ 			error : function(request, err, ex) {
+ 				hideLoading();
+ 				//alert('Please contact administrator');
+ 				alert("Please contact administrator" + "\n" + "code : " + request.status + "\n" + "message : " + request.responseText + "\n" + "error : " + err + "\n" + "ex : " + ex);
+ 			}
+ 		});
+ 	}
+ 	
+ 	
+ 	function goLogin(){
+ 		
+ 		/*
+ 		if( cookieAccept != 'Y' ) {
+ 			$(".fullscreen").fadeIn();
+ 			alert('If you continue to submit report, please accept cookies form this site.'); 				
+ 			return; 			
+ 		}
+ 		*/
+ 		
+ 		var url = '/sa/anonymous/loginPage.do';
+ 		openPage(url);
+ 	}
+ 	
+ 	function myFunction() {
+		document.getElementById("myDropdown").classList.toggle("show");
+ 	}
+ 	window.onclick = function(event) {
+ 		var matches = event.target.matches ? event.target.matches('.dropbtn') : event.target.msMatchesSelector('.dropbtn');
+ 		if (!matches) {
+ 			var dropdowns = document.getElementsByClassName("dropdown-content");
+ 		    var i;
+ 		    for (i = 0; i < dropdowns.length; i++) {
+ 		    	var openDropdown = dropdowns[i];
+ 		      	if (openDropdown.classList.contains('show')) {
+ 		        	openDropdown.classList.remove('show');
+ 		   		}
+ 		  	}
+		}
+	}
+   </script>
+  </link>
+ </head>
+ <body>
+  <!-- Cookie 설정 -->
+  <div class="fullscreen visible">
+   <div class="leica-overlay content-container">
+    <div class="cookie-banner">
+     <a class="btn_cookie_banner_close" data-role="accept-all-cookies" href="javascript:goCookieAccept();">
+      close
+     </a>
+     <div class="contentlayercontent">
+      <div class="cookie-banner__body row">
+       <div class="col">
+        <p class="cookie_banner_tit">
+         Samsung Mobile Security and Cookies
+        </p>
+        <p>
+         Our site uses essential cookies only. You can read our
+         <a class="txt_link2" href="./privacy/global/privacy_notice.html" target="_blank" title="Privacy Policy">
+          Privacy Policy
+         </a>
+         and
+         <a class="txt_link2 txt_link_cookies" href="javascript:void(0)" title="Cookie Policy">
+          Cookie Policy
+         </a>
+         for more information.
+        </p>
+        <!--<p>This site uses cookies to provide you the best user experience possible with optimized functionality. By continuing to use this site, you accept our <a href="./etc/cookiePreferences.html" class="txt_link2" title="Cookie Preferences">use of cookies</a>//-->
+       </div>
+       <!--
+				<div class="col span12">
+					<a href="javascript:goCookieAccept();" class="button" data-role="accept-all-cookies">Accept</a>
+				</div>
+				//-->
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- 210504 - Cookies Layer Popup -->
+  <div id="cookies_layer">
+   <a class="btn_cookies_close" href="javascript:void(0);">
+    close
+   </a>
+   <div class="cookies_layer_inner">
+    <h2>
+     Samsung Mobile Security
+     <br/>
+     Cookie Policy
+    </h2>
+    <p class="cookies_dates">
+     Updated on Jan 17, 2022
+    </p>
+    <div class="cookies_cont">
+     <p class="cookies_cont_txt">
+      This Cookie Policy describes the different types of cookies that may be used in connection with Samsung Mobile Security website which is owned and controlled by Samsung Electronics Co., Ltd (“Samsung Electronics”). This Cookie Policy also describes how you can manage cookies.
+      <br/>
+      <br/>
+      It’s important that you check back often for updates to the Policy as we may change it from time to time to reflect changes to our use of cookies. Please check the date at the top of this page to see when this Policy was last revised. Any changes to this Policy will become effective when we make the revised Policy available on our website.
+      <br/>
+      <br/>
+      Samsung Electronics has offices across Europe, so we can ensure that your request or query will be handled by the data protection team based in your region. If you have any questions, the easiest way to contact us is through our Privacy Support Page at
+      <a class="txt_link2" href="http://web.archive.org/web/20220317055344/https://www.samsung.com/request-desk" target="_blank">
+       https://www.samsung.com/request-desk
+      </a>
+      .
+     </p>
+     <p class="cookies_cont_txt c_center">
+      You can also contact us at:
+     </p>
+     <p class="cookies_cont_txt_box c_center">
+      European Data Protection Officer
+      <br/>
+      Samsung Electronics (UK) Limited
+      <br/>
+      Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS
+     </p>
+     <h4>
+      Cookies
+     </h4>
+     <p class="cookies_cont_txt">
+      Cookies are small files that store information on your computer, TV, mobile phone, or other device. They enable the entity that put the cookie on your device to recognize you across different websites, services, devices, and/or browsing sessions.
+      <br/>
+      <br/>
+      We use the following types of cookies on this website:
+      <br/>
+      <br/>
+      <b>
+       Essential Cookies
+      </b>
+      : enable you to receive the services you request via our website. Without these cookies, services that you have asked for cannot be provided. For example, these enable to identify users and provide proper service for each user. These cookies are automatically enabled and cannot be turned off because they are essential to enable you to browse our website. Without these cookies this Samsung Mobile Security website could not be provided.
+     </p>
+     <div class="cookies_cont_tb">
+      <table>
+       <thead>
+        <tr>
+         <th>
+          Cookie
+         </th>
+         <th>
+          Domain
+         </th>
+         <th>
+          Purpose
+         </th>
+        </tr>
+       </thead>
+       <tbody>
+        <tr>
+         <td>
+          JSESSIONID
+         </td>
+         <td>
+          security.samsungmobile.com
+         </td>
+         <td>
+          to keep login session
+         </td>
+        </tr>
+        <tr>
+         <td>
+          lastActivityTime
+         </td>
+         <td>
+          security.samsungmobile.com
+         </td>
+         <td>
+          to save the user's last activity time to automatically logout after 30 minutes of inactivity
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </div>
+     <h4>
+      Managing Cookies and Other Technologies
+     </h4>
+     <p class="cookies_cont_txt">
+      You can also update your browser settings at any time, if you want to remove or block cookies from your device (consult your browser's "help" menu to learn how to remove or block cookies). Samsung Electronics is not responsible for your browser settings. You can find good and simple instructions on how to manage cookies on the different types of web browsers at
+      <a class="txt_link2" href="http://web.archive.org/web/20220317055344/http://www.allaboutcookies.org/" target="_blank">
+       http://www.allaboutcookies.org
+      </a>
+      .
+     </p>
+    </div>
+   </div>
+  </div>
+  <!-- //210504 - Cookies Layer Popup -->
+  <!-- skipnav -->
+  <div id="skipnav">
+   <a href="#gnb">
+    Go straight to the menu
+   </a>
+   <a href="#home">
+    Go straight to the text
+   </a>
+  </div>
+  <!-- //skipnav -->
+  <!-- wrap -->
+  <div id="wrap">
+   <!-- header -->
+   <header class="main_header" id="header">
+    <div class="header_inner">
+     <div class="wrap_top">
+      <h1 class="logo">
+       <a href="./main.smsb">
+        Samsung Mobile Security
+       </a>
+      </h1>
+      <!-- web -->
+      <div class="gnb" id="gnb">
+       <!-- menu -->
+       <ul class="menu">
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/workScope.smsb">
+          Security Updates
+         </a>
+         <ul class="submenu">
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/workScope.smsb">
+            Scope
+           </a>
+          </li>
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/securityUpdate.smsb">
+            Firmware Updates
+           </a>
+          </li>
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/serviceWeb.smsb">
+            Other Updates
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/securityReporting.smsb">
+          Security Reporting
+         </a>
+         <ul class="submenu">
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/securityReporting.smsb">
+            Reporting
+           </a>
+          </li>
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/securityReportingProcess.smsb">
+            Process
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/rewardsProgram.smsb">
+          Rewards Program
+         </a>
+         <ul class="submenu">
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/rewardsProgram.smsb">
+            How it works
+           </a>
+          </li>
+          <li>
+           <a href="/web/20220317055344/https://security.samsungmobile.com/hallOfFameInfo.smsb">
+            Hall of Fame
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/securityPost.smsb">
+          Security Post
+         </a>
+        </li>
+       </ul>
+       <!-- //menu -->
+       <div class="toplink">
+        <span class="t_btn_login">
+         <a href="javascript:goLogin();" title="Go to login">
+          Login
+         </a>
+        </span>
+        <!-- Search -->
+        <div class="wrap_search">
+         <a class="open_search" href="javascript:;">
+          Search
+         </a>
+         <a class="close_search" href="javascript:;" style="display:none">
+          Search Close
+         </a>
+         <div class="wrap_input" style="display:none">
+          <input id="androidUpdatesWebKey" name="androidUpdatesWebKey" placeholder="Enter the search word(ex. CVE, SVE.. )" style="height:100%;border:0px;" title="search" type="text"/>
+          <a class="btn_search" href="javascript:androidUpdatesSearch('androidUpdatesWebKey')">
+           Search
+          </a>
+         </div>
+        </div>
+        <!-- //Search -->
+        <!-- [D]login 후 개인화 메뉴 -->
+       </div>
+      </div>
+      <!-- //web -->
+     </div>
+     <!-- mobile -->
+     <div class="wrap_mobile_menu">
+      <div class="m_toplink">
+       <button class="m_btn_menu" title="Total Menu" type="button">
+        Total Menu
+       </button>
+       <button class="m_btn_menu_close" title="Close the entire menu" type="button">
+        Close the entire menu
+       </button>
+      </div>
+      <div class="wrap_m_menu">
+       <!-- Search -->
+       <div class="wrap_m_search">
+        <div class="wrap_input">
+         <input id="androidUpdatesMobileKey" name="androidUpdatesMobileKey" placeholder="Enter the search word(ex. CVE, SVE.. )" style="height:100%;border:0px;" title="search" type="text"/>
+         <a class="btn_search" href="javascript:androidUpdatesSearch('androidUpdatesMobileKey')">
+          Search
+         </a>
+        </div>
+       </div>
+       <!-- //Search -->
+       <ul class="m_main_menu">
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/workScope.smsb">
+          Security Updates
+         </a>
+        </li>
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/securityReporting.smsb">
+          Security Reporting
+         </a>
+        </li>
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/rewardsProgram.smsb">
+          Rewards Program
+         </a>
+        </li>
+        <li>
+         <a href="/web/20220317055344/https://security.samsungmobile.com/securityPost.smsb">
+          Security Post
+         </a>
+        </li>
+       </ul>
+       <ul class="m_personal_menu">
+        <li>
+         <a href="javascript:goLogin();" title="Go to login">
+          Login
+         </a>
+        </li>
+        <!-- [D]login 후 개인화 메뉴 -->
+       </ul>
+      </div>
+      <div class="back_bg">
+      </div>
+     </div>
+     <!-- //mobile -->
+    </div>
+    <div class="submenu_bar">
+    </div>
+   </header>
+   <!-- //header -->
+   <!-- 각 개발된 화면 UI 입력되는 Part -->
+   <script type="text/javascript">
+    document.title = 'Security Updates Scope | Samsung Mobile Security';
+$(document).ready(function() {
+	$(".menu").find("li:eq(0)").find("a").addClass("on");
+
+});
+   </script>
+   <!-- container -->
+   <div id="container">
+    <div class="sub_visual_rn">
+     <span class="svrn1">
+     </span>
+     <div class="breadcrumb_rn">
+      <div>
+       <a class="ico_home" href="/web/20220317055344/https://security.samsungmobile.com/main.smsb" id="home" title="Go to Home">
+        Home
+       </a>
+       <span class="ico_arw">
+        &gt;
+       </span>
+       <a href="/web/20220317055344/https://security.samsungmobile.com/workScope.smsb">
+        Security Updates
+       </a>
+       <span class="ico_arw">
+        &gt;
+       </span>
+       <em>
+        Scope
+       </em>
+      </div>
+     </div>
+    </div>
+    <div class="page_tit">
+     <h2 class="page_tit_wht">
+      Security Updates
+     </h2>
+    </div>
+    <div class="wrap_sub_menu">
+     <ul class="sub_menu">
+      <li class="on">
+       <span>
+        Scope
+       </span>
+      </li>
+      <li>
+       <a href="/web/20220317055344/https://security.samsungmobile.com/securityUpdate.smsb">
+        <span>
+         Firmware Updates
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/web/20220317055344/https://security.samsungmobile.com/serviceWeb.smsb">
+        <span>
+         Other Updates
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!-- contents -->
+    <div id="contents">
+     <div class="list_basic">
+      <div class="top_section">
+       <strong>
+        Introduction to Samsung Security Updates
+       </strong>
+       <p>
+        At Samsung, we take security and privacy issues very seriously and we are doing our best to respond as quickly as possible.
+        <br/>
+        Securing your device and maintaining the trust you place in us is our top priority.
+       </p>
+       <p>
+        Samsung releases monthly, quarterly and biannual firmware security updates on selected Samsung devices listed below.
+        <br/>
+        And select devices launched in 2019 or later will be supported with firmware security updates for a minimum of four (4) years following their global launch, while select newer devices will receive up to five (5) years of security updates.
+        <sup>
+         1
+        </sup>
+        <br/>
+        Monthly, quarterly and biannual firmware security updates will include patches for Android OS related security issues released by Google, as well as, patches for Samsung-specific security issues.
+       </p>
+       <p>
+        For wearable devices listed below, Samsung releases regular security updates that include patches for WearOS related security issues released by Google and patches for Samsung-specific security issues.
+       </p>
+       <p>
+        Samsung also releases security updates for mobile applications and personal computers as needed.
+        <br/>
+        And mobile application security updates are released through official Apps Marketplaces including Galaxy Store or Google Play Store.
+       </p>
+      </div>
+      <!-- Current Models for Monthly Security Updates¹  -->
+      <div class="txt_section">
+       <strong>
+        Current Models for Monthly Security Updates
+        <sup>
+         2
+        </sup>
+       </strong>
+       <ul class="list_circle">
+        <li>
+         Galaxy Fold, Galaxy Fold 5G, Galaxy Z Fold2, Galaxy Z Fold2 5G, Galaxy Z Fold3 5G, Galaxy Z Flip, Galaxy Z Flip 5G, Galaxy Z Flip3 5G
+        </li>
+        <li>
+         Galaxy S10, Galaxy S10+, Galaxy S10e, Galaxy S10 5G, Galaxy S10 Lite
+        </li>
+        <li>
+         Galaxy S20, Galaxy S20 5G, Galaxy S20+, Galaxy S20+ 5G, Galaxy S20 Ultra, Galaxy S20 Ultra 5G, Galaxy S20 FE, Galaxy S20 FE 5G, Galaxy S21 5G, Galaxy S21+ 5G,  Galaxy S21 Ultra 5G, Galaxy S21 FE 5G, Galaxy S22, Galaxy S22+, Galaxy S22 Ultra
+        </li>
+        <li>
+         Galaxy Note10, Galaxy Note10 5G, Galaxy Note10+, Galaxy Note10+ 5G, Galaxy Note10 Lite, Galaxy Note20, Galaxy Note20 5G, Galaxy Note20 Ultra, Galaxy Note20 Ultra 5G
+        </li>
+        <li>
+         Enterprise Models: Galaxy A50, Galaxy A52, Galaxy A52 5G, Galaxy A52s 5G, Galaxy XCover4s, Galaxy Xcover FieldPro, Galaxy Xcover Pro, Galaxy Xcover5
+        </li>
+       </ul>
+      </div>
+      <!-- Current Models for Quarterly Security Updates²  -->
+      <div class="txt_section">
+       <strong>
+        Current Models for Quarterly Security Updates
+        <sup>
+         3
+        </sup>
+       </strong>
+       <ul class="list_circle">
+        <li>
+         Galaxy S9, Galaxy S9+
+        </li>
+        <li>
+         Galaxy Note9
+        </li>
+        <li>
+         Galaxy A40
+        </li>
+        <li>
+         Galaxy A01 Core, Galaxy A11, Galaxy A21, Galaxy A21s, Galaxy A31, Galaxy A41, Galaxy A51 5G, Galaxy A71 5G
+        </li>
+        <li>
+         Galaxy A02, Galaxy A02s, Galaxy A12, Galaxy A22, Galaxy A22 5G, Galaxy A22e 5G, Galaxy A32, Galaxy A32 5G, Galaxy A42 5G, Galaxy A72, Galaxy A82 5G
+        </li>
+        <li>
+         Galaxy A03, Galaxy A03s, Galaxy A03 core, Galaxy A13 5G
+        </li>
+        <li>
+         Galaxy M01, Galaxy M11, Galaxy M21, Galaxy M21 2021, Galaxy M31, Galaxy M31s, Galaxy M51, Galaxy M12, Galaxy M22, Galaxy M32, Galaxy M42 5G, Galaxy M52 5G, Galaxy M62, Galaxy M23 5G
+        </li>
+        <li>
+         Galaxy F12, Galaxy F22, Galaxy F42 5G, Galaxy F52 5G, Galaxy F62
+        </li>
+        <li>
+         Galaxy Tab A 8.4 (2020), Galaxy Tab A7, Galaxy Tab A7 Lite, Galaxy Tab A8, Galaxy Tab Active Pro, Galaxy Tab Active3
+        </li>
+        <li>
+         Galaxy Tab S6 Lite, Galaxy Tab S7, Galaxy Tab S7+, Galaxy Tab S7 FE, Galaxy Tab S8, Galaxy Tab S8+, Galaxy Tab S8 Ultra
+        </li>
+        <li>
+         W21 5G
+        </li>
+       </ul>
+      </div>
+      <!-- Current Models for Other Regular Security Updates  -->
+      <div class="txt_section">
+       <strong>
+        Current Models for Biannual Security Updates
+        <sup>
+         3
+        </sup>
+       </strong>
+       <ul class="list_circle">
+        <li>
+         Galaxy S8 Lite
+        </li>
+        <li>
+         Galaxy A6, Galaxy A6+, Galaxy A7 (2018), Galaxy A8 Star, Galaxy A8s, Galaxy A9 (2018)
+        </li>
+        <li>
+         Galaxy A10, Galaxy A10e, Galaxy A10s, Galaxy A20e, Galaxy A20, Galaxy A30, Galaxy A60, Galaxy A70, Galaxy A80, Galaxy A90 5G
+        </li>
+        <li>
+         Galaxy A20s, Galaxy A30s, Galaxy A50s, Galaxy A70s, Galaxy A01, Galaxy A51, Galaxy A71
+        </li>
+        <li>
+         Galaxy J4, Galaxy J6, Galaxy J6+, Galaxy J7 Duo, Galaxy J8
+        </li>
+        <li>
+         Galaxy M10, Galaxy M10s, Galaxy M20, Galaxy M30, Galaxy M30s, Galaxy M40
+        </li>
+        <li>
+         Galaxy Tab A 10.5 (2018), Galaxy Tab A 8 (2019), Galaxy Tab A 10.1 (2019), Galaxy Tab A with S pen
+        </li>
+        <li>
+         Galaxy Tab S4, Galaxy Tab S5e, Galaxy Tab S6, Galaxy Tab S6 5G
+        </li>
+        <li>
+         W20 5G
+        </li>
+       </ul>
+      </div>
+      <!--  2021-10-25 Wearable update start -->
+      <div class="txt_section">
+       <strong>
+        Current Wearable Models for Security Updates
+        <sup>
+         4
+        </sup>
+       </strong>
+       <ul class="list_circle">
+        <li>
+         Galaxy Watch4, Galaxy Watch4 Classic
+        </li>
+       </ul>
+      </div>
+      <!--  2021-10-25 Wearable update end -->
+      <div class="txt_section">
+       <p>
+        <sup>
+         1
+        </sup>
+        Availability of security update support may vary by device and market.
+        <br/>
+        For more information visit:
+        <a href="http://web.archive.org/web/20220317055344/https://security.samsungmobile.com/securityPost.smsb" style="color: blue" target="_blank">
+         https://security.samsungmobile.com/securityPost.smsb
+        </a>
+       </p>
+       <p class="mt20">
+        <sup>
+         2
+        </sup>
+        The list of monthly security update models are subject to change as the regular support period expires.
+        <br/>
+        Also, some carriers may only support quarterly updates for all applicable current models listed above.
+       </p>
+       <p class="mt20">
+        <sup>
+         3
+        </sup>
+        The list of security update models are subject to change and it will be reviewed on a periodic basis.
+       </p>
+       <p class="mt20">
+        <sup>
+         4
+        </sup>
+        The list of wearable models is subject to change as the internal support period or WearOS support period expires. And the security updates for wearable devices are released regularly on an as-needed basis.
+       </p>
+      </div>
+      <div class="txt_section">
+       <strong>
+        Disclaimer
+       </strong>
+       <ul class="list_circle">
+        <li>
+         Please note that in some cases regular OS upgrades may cause delays to planned security updates.
+                 However, users can be rest assured the OS upgrades will include up-to-date security patches when delivered.
+        </li>
+        <li>
+         While we are doing our best to deliver the security patches as soon as possible to all applicable models, delivery time of security patches may vary depending on the regions and models.
+        </li>
+        <li>
+         Some patches to be received from chipset vendors (also known as Device Specific patches) may not be included in the security update package of the month. They will be included in upcoming security update packages as soon as the patches are ready to deliver.
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <!-- //contents -->
+   </div>
+   <!-- //container -->
+   <!-- footer -->
+   <footer id="footer">
+    <div class="in">
+     <div class="sitemap">
+      <p>
+       SITE MAP
+      </p>
+      <ul>
+       <li>
+        <a href="/web/20220317055344/https://security.samsungmobile.com/workScope.smsb">
+         Security Updates
+        </a>
+       </li>
+       <li>
+        <a href="/web/20220317055344/https://security.samsungmobile.com/securityReporting.smsb">
+         Security Reporting
+        </a>
+       </li>
+       <li>
+        <a href="/web/20220317055344/https://security.samsungmobile.com/rewardsProgram.smsb">
+         Rewards Program
+        </a>
+       </li>
+       <li>
+        <a href="/web/20220317055344/https://security.samsungmobile.com/securityPost.smsb">
+         Security Post
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="site_link">
+      <div class="dropdown">
+       <button class="dropbtn_none btn_footer_cookie" title="Cookie Policy" type="button">
+        Cookie Policy
+       </button>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn" onclick="myFunction()" title="Privacy Policy">
+        Privacy Policy
+       </button>
+       <div class="dropdown-content" id="myDropdown">
+        <a href="./privacy/global/privacy_notice.html" target="_blank" title="Global">
+         Global
+        </a>
+        <a href="./privacy/us/privacy_notice_us.html" target="_blank" title="US">
+         US
+        </a>
+        <a href="./privacy/eu/privacy_notice_eu.html" target="_blank" title="EU">
+         EU
+        </a>
+        <a href="./privacy/korea/privacy_notice_korea.html" target="_blank" title="Korea">
+         Korea
+        </a>
+        <a href="./privacy/brazil/privacy_notice_brazil.html" target="_blank" title="Brazil">
+         Brazil
+        </a>
+        <a href="./privacy/turkey/privacy_notice_turkey.html" target="_blank" title="Turkey">
+         Turkey
+        </a>
+       </div>
+      </div>
+      <div class="dropdown">
+       <button class="dropbtn_none" onclick="location.href='http://web.archive.org/web/20220317055344/http://www.samsung.com'" title="Samsung.com site new window" type="button">
+        Samsung.com
+       </button>
+      </div>
+     </div>
+     <button class="wtop" title="Move the screen to the top" type="button">
+      Top
+     </button>
+     <span class="copy">
+      Copyright© 2017 SAMSUNG All Rights Reserved.
+     </span>
+    </div>
+   </footer>
+   <!-- //footer -->
+  </div>
+  <!-- //wrap -->
+  <form action="/web/20220317055344/https://security.samsungmobile.com/myRequest.smsr" id="menuMoveForm" method="post" name="menuMoveForm">
+   <input id="timeZoneHour" name="timeZoneHour" title="timeZoneHour" type="hidden" value="0"/>
+   <input id="portalIssue" name="portalIssue" title="portalIssue" type="hidden" value="0"/>
+   <input id="draftId" name="draftId" title="draftId" type="hidden" value="0"/>
+  </form>
+  <form action="/web/20220317055344/https://security.samsungmobile.com/androidUpdatesSearch.smsb" id="androidUpdatesSearchForm" method="post" name="androidUpdatesSearchForm">
+   <input id="androidSearchText" name="androidSearchText" title="timeZoneHour" type="hidden" value=""/>
+  </form>
+  <script async="" src="/web/20220317055344js_/https://security.samsungmobile.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=3&amp;cb=895035450" type="text/javascript">
+  </script>
+ </body>
+</html>
+<!--
+     FILE ARCHIVED ON 05:53:44 Mar 17, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:23:23 Jun 01, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.592
+  exclusion.robots: 0.133
+  exclusion.robots.policy: 0.122
+  esindex: 0.012
+  cdx.remote: 8.591
+  LoadShardBlock: 50.013 (3)
+  PetaboxLoader3.datanode: 38.921 (4)
+  PetaboxLoader3.resolve: 274.394 (2)
+  load_resource: 283.689
+-->

@@ -1,0 +1,200 @@
+{
+    "Australia": {
+        "20230510": "https://web.archive.org/web/20230510/https://en-au.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230612": "https://web.archive.org/web/20230612/https://en-au.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231223": "https://web.archive.org/web/20231223/https://en-au.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240115": "https://web.archive.org/web/20240115/https://en-au.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240415": "https://web.archive.org/web/20240415/https://en-au.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240513": "https://web.archive.org/web/20240513/https://en-au.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240616": "https://web.archive.org/web/20240616/https://en-au.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Hong Kong (\u7e41\u9ad4\u4e2d\u6587)": {
+        "20240516": "https://web.archive.org/web/20240516/https://zh-asia.support.motorola.com/app/software-security-update/"
+    },
+    "India": {
+        "20240102": "https://web.archive.org/web/20240102/https://en-in.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240206": "https://web.archive.org/web/20240206/https://en-in.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240409": "https://web.archive.org/web/20240409/https://en-in.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240506": "https://web.archive.org/web/20240506/https://en-in.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240602": "https://web.archive.org/web/20240602/https://en-in.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240705": "https://web.archive.org/web/20240705/https://en-in.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Japan (\u65e5\u672c\u8a9e)": {
+        "20230517": "https://web.archive.org/web/20230517/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230616": "https://web.archive.org/web/20230616/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230618": "https://web.archive.org/web/20230618/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230702": "https://web.archive.org/web/20230702/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240309": "https://web.archive.org/web/20240309/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240325": "https://web.archive.org/web/20240325/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240416": "https://web.archive.org/web/20240416/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240502": "https://web.archive.org/web/20240502/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240621": "https://web.archive.org/web/20240621/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240702": "https://web.archive.org/web/20240702/https://jp-jp.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Taiwan Region (\u7e41\u9ad4\u4e2d\u6587)": {
+        "20240516": "https://web.archive.org/web/20240516/https://zh-asia.support.motorola.com/app/software-security-update/"
+    },
+    "South Korea (\ud55c\uad6d\uc5b4)": {
+        "20230602": "https://web.archive.org/web/20230602/https://ko-kr.support.motorola.com/app/software-security-update/g_id/7112/"
+    },
+    "Rest of Asia Pacific": {
+        "20230522": "https://web.archive.org/web/20230522/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230601": "https://web.archive.org/web/20230601/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230725": "https://web.archive.org/web/20230725/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230927": "https://web.archive.org/web/20230927/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231215": "https://web.archive.org/web/20231215/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240509": "https://web.archive.org/web/20240509/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240601": "https://web.archive.org/web/20240601/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240712": "https://web.archive.org/web/20240712/https://en-apac.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "France (Fran\u00e7ais)": {
+        "20230609": "https://web.archive.org/web/20230609/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230723": "https://web.archive.org/web/20230723/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230813": "https://web.archive.org/web/20230813/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240317": "https://web.archive.org/web/20240317/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240325": "https://web.archive.org/web/20240325/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240516": "https://web.archive.org/web/20240516/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240616": "https://web.archive.org/web/20240616/https://fr-fr.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Germany (Deutsch)": {
+        "20230406": "https://web.archive.org/web/20230406/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230507": "https://web.archive.org/web/20230507/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230724": "https://web.archive.org/web/20230724/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240101": "https://web.archive.org/web/20240101/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240411": "https://web.archive.org/web/20240411/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240504": "https://web.archive.org/web/20240504/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240607": "https://web.archive.org/web/20240607/https://de-de.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240701": "https://web.archive.org/web/20240701/https://de-de.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Italy (Italiano)": {
+        "20230524": "https://web.archive.org/web/20230524/https://it-it.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230721": "https://web.archive.org/web/20230721/https://it-it.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231214": "https://web.archive.org/web/20231214/https://it-it.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231225": "https://web.archive.org/web/20231225/https://it-it.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Poland (Polski)": {
+        "20240411": "https://web.archive.org/web/20240411/https://pl-pl.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Rest of Europe": {
+        "20230507": "https://web.archive.org/web/20230507/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230522": "https://web.archive.org/web/20230522/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230605": "https://web.archive.org/web/20230605/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230703": "https://web.archive.org/web/20230703/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231116": "https://web.archive.org/web/20231116/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231224": "https://web.archive.org/web/20231224/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240309": "https://web.archive.org/web/20240309/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240316": "https://web.archive.org/web/20240316/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240411": "https://web.archive.org/web/20240411/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240513": "https://web.archive.org/web/20240513/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240605": "https://web.archive.org/web/20240605/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240703": "https://web.archive.org/web/20240703/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Romania (Rom\u00e2n\u0103)": {
+        "20240512": "https://web.archive.org/web/20240512/https://ro-ro.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Russia (\u0420\u0443\u0441\u0441\u043a\u0438\u0439)": {
+        "20240102": "https://web.archive.org/web/20240102/https://ru-ru.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Spain (Espa\u00f1ol)": {
+        "20240101": "https://web.archive.org/web/20240101/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240116": "https://web.archive.org/web/20240116/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240309": "https://web.archive.org/web/20240309/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240321": "https://web.archive.org/web/20240321/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240407": "https://web.archive.org/web/20240407/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240514": "https://web.archive.org/web/20240514/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240616": "https://web.archive.org/web/20240616/https://es-es.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240702": "https://web.archive.org/web/20240702/https://es-es.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "United Kingdom": {
+        "20230402": "https://web.archive.org/web/20230402/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230405": "https://web.archive.org/web/20230405/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230501": "https://web.archive.org/web/20230501/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230612": "https://web.archive.org/web/20230612/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230702": "https://web.archive.org/web/20230702/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230811": "https://web.archive.org/web/20230811/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230822": "https://web.archive.org/web/20230822/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231011": "https://web.archive.org/web/20231011/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231116": "https://web.archive.org/web/20231116/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231128": "https://web.archive.org/web/20231128/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231224": "https://web.archive.org/web/20231224/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240101": "https://web.archive.org/web/20240101/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240213": "https://web.archive.org/web/20240213/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240411": "https://web.archive.org/web/20240411/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240509": "https://web.archive.org/web/20240509/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240521": "https://web.archive.org/web/20240521/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240604": "https://web.archive.org/web/20240604/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240705": "https://web.archive.org/web/20240705/https://en-gb.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Middle East and Africa (English)": {
+        "20240411": "https://web.archive.org/web/20240411/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240513": "https://web.archive.org/web/20240513/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240605": "https://web.archive.org/web/20240605/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240703": "https://web.archive.org/web/20240703/https://en-emea.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Brasil": {
+        "20230424": "https://web.archive.org/web/20230424/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230506": "https://web.archive.org/web/20230506/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230601": "https://web.archive.org/web/20230601/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230701": "https://web.archive.org/web/20230701/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240101": "https://web.archive.org/web/20240101/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240304": "https://web.archive.org/web/20240304/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240407": "https://web.archive.org/web/20240407/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240411": "https://web.archive.org/web/20240411/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240503": "https://web.archive.org/web/20240503/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240601": "https://web.archive.org/web/20240601/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240603": "https://web.archive.org/web/20240603/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240605": "https://web.archive.org/web/20240605/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240607": "https://web.archive.org/web/20240607/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240711": "https://web.archive.org/web/20240711/https://pt-br.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Am\u00e9rica Latina": {
+        "20230408": "https://web.archive.org/web/20230408/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230520": "https://web.archive.org/web/20230520/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230721": "https://web.archive.org/web/20230721/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230815": "https://web.archive.org/web/20230815/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240101": "https://web.archive.org/web/20240101/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240201": "https://web.archive.org/web/20240201/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240409": "https://web.archive.org/web/20240409/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240527": "https://web.archive.org/web/20240527/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240602": "https://web.archive.org/web/20240602/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240702": "https://web.archive.org/web/20240702/https://es-latam.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Canada (English)": {
+        "20230308": "https://web.archive.org/web/20230308/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230408": "https://web.archive.org/web/20230408/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230510": "https://web.archive.org/web/20230510/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230627": "https://web.archive.org/web/20230627/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230724": "https://web.archive.org/web/20230724/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231115": "https://web.archive.org/web/20231115/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240309": "https://web.archive.org/web/20240309/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240528": "https://web.archive.org/web/20240528/https://en-ca.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "Canada (Fran\u00e7ais)": {
+        "20240617": "https://web.archive.org/web/20240617/https://fr-ca.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "United States": {
+        "20230308": "https://web.archive.org/web/20230308/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230403": "https://web.archive.org/web/20230403/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230404": "https://web.archive.org/web/20230404/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230502": "https://web.archive.org/web/20230502/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230518": "https://web.archive.org/web/20230518/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230601": "https://web.archive.org/web/20230601/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230701": "https://web.archive.org/web/20230701/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20230802": "https://web.archive.org/web/20230802/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231011": "https://web.archive.org/web/20231011/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231104": "https://web.archive.org/web/20231104/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231106": "https://web.archive.org/web/20231106/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231126": "https://web.archive.org/web/20231126/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231202": "https://web.archive.org/web/20231202/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20231229": "https://web.archive.org/web/20231229/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240101": "https://web.archive.org/web/20240101/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240106": "https://web.archive.org/web/20240106/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240204": "https://web.archive.org/web/20240204/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240307": "https://web.archive.org/web/20240307/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240407": "https://web.archive.org/web/20240407/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240508": "https://web.archive.org/web/20240508/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240602": "https://web.archive.org/web/20240602/https://en-us.support.motorola.com/app/software-security-update/g_id/7112",
+        "20240703": "https://web.archive.org/web/20240703/https://en-us.support.motorola.com/app/software-security-update/g_id/7112"
+    },
+    "total": 153
+}

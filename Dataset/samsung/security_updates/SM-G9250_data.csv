@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G9250,CHC,000009161127,SM-G9250/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G9250ZCU2ERI1,Nougat(Android 7.0),2018-09-28,2018-09-01,Galaxy S6 edge ,https://doc.samsungmobile.com/SM-G9250/000009161127/eng.html
+SM-G9250,CHC,000009161127,SM-G9250/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G9250ZCU2ERG2,Nougat(Android 7.0),2018-08-22,2018-06-01,Galaxy S6 edge ,https://doc.samsungmobile.com/SM-G9250/000009161127/eng.html

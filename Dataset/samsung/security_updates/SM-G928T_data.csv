@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G928T,TMB,024055220820,SM-G928T/TMB, USA (T-Mobile),USA,T-Mobile,Americas,Northern America,G928TUVU6EVG2,Nougat(Android 7.0),2022-08-20,2018-08-01,Galaxy S6 edge+ ,https://doc.samsungmobile.com/SM-G928T/024055220820/eng.html

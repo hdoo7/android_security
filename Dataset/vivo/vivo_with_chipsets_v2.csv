@@ -1,0 +1,951 @@
+device,firmware_name,release_date,android_version,link,region,country,spl,chipset,keyword
+y35,PD2225F_EX_A_13.1.1.6.W30.V000L1,4/3/23,13,https://www.vivo.com/gr/support/system-update,gr,Greece,12/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y22s,PD2228F_EX_A_12.0.7.20.W30.V000L1,10/20/22,12,https://www.vivo.com/gr/support/system-update,gr,Greece,9/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y01,PD2140F_EX_A_36.25.1,12/9/22,Android 12,https://www.vivo.com/gr/support/system-update,gr,Greece,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y21s,PD2138F_EX_A_36.19.1,12/9/22,Android 11,https://www.vivo.com/gr/support/system-update,gr,Greece,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y33s,PD2147F_EX_A_36.19.1,11/28/23,Android 12,https://www.vivo.com/gr/support/system-update,gr,Greece,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,11/28/23,Android 11,https://www.vivo.com/gr/support/system-update,gr,Greece,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y76 5g,PD2156F_EX_A_36.10.48,11/28/23,Android 12,https://www.vivo.com/gr/support/system-update,gr,Greece,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,3/9/23,13,https://www.vivo.com/gr/support/system-update,gr,Greece,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,12/16/22,12,https://www.vivo.com/gr/support/system-update,gr,Greece,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,12/9/22,12,https://www.vivo.com/gr/support/system-update,gr,Greece,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+y52,PD2069F_EX_A_36.9.36,,Android 11,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,9/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y72 5g,PD2069F_EX_A_36.9.46,,Android 11,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y11s,PD2042F_EX_A_38.16.8,,Android 11,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,,Android 11,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.8,,Android 10,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,,12,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.21,,Android 12,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,11/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,,12,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.12,,Android 11,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,9/1/22,Qualcomm SM8250,qualcomm sm8250
+x51 5g,PD2005F_EX_A_38.13.7,,Android 11,https://www.vivo.com/uk/support/system-update,uk,United Kingdom,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+v23e,PD2150F_EX_A_1.13.8,,Android 12,https://www.vivo.com/mm/support/system-update,mm,Myanmar,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v23 5g,PD2167BF_EX_A_12.0.14.2.W20.V000L1,,12,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21e,PD2107F_EX_A_6.6.22,,Android 12,https://www.vivo.com/mm/support/system-update,mm,Myanmar,5/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.8.14,,Android 12,https://www.vivo.com/mm/support/system-update,mm,Myanmar,5/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.18.1,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,3/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 se,PD2038F_EX_A_6.9.8,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v19,PD1969F_EX_A_6.9.15,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,5/1/22,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_8.10.0,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v15 pro(6+128),PD1832F_EX_A_8.8.1,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v15,PD1831F_EX_A_8.1.35,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v11,PD1814F_EX_A_8.8.4,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11i,PD1813F_EX_A_8.8.19,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6771 Helio P60 (12 nm),mediatek mt6771 helio p60
+v9,PD1730F_EX_A_6.13.11,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Qualcomm MSM8953,qualcomm msm8953
+v7+,PD1708F_EX_A_3.12.4,,3,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7,PD1718F_EX_A_3.13.2,,3,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v5,PD1612F_EX_A_3.14.9,,3,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6750 (28 nm),mediatek mt6750
+s1 pro,PD1945F_EX_A_8.13.11,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_9.9.20,,9,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y21 (v2111),PD2139F_EX_A_1.6.3,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,6/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_1.12.3,,Android 12,https://www.vivo.com/mm/support/system-update,mm,Myanmar,2/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y12a,PD2060F_EX_A_1.7.15,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,5/1/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y53s,PD2103F_EX_A_1.9.6,,Android 11,https://www.vivo.com/mm/support/system-update,mm,Myanmar,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y31（v2036）,PD2050F_EX_A_6.7.20,,Android 11,https://www.vivo.com/mm/support/system-update,mm,Myanmar,3/1/22,Qualcomm SM6115 Snapdragon 662 (11 nm),"qualcomm sm6115,snapdragon 662"
+y51（v2035）,PD2050F_EX_A_6.7.20,,Android 11,https://www.vivo.com/mm/support/system-update,mm,Myanmar,3/1/22,Qualcomm SDM665 Snapdragon 665 (11 nm),"qualcomm sdm665,snapdragon 665"
+y12s,PD2036F_EX_A_6.13.0,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y1s 3g,PD2014F_EX_A_1.13.12,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y1s,PD2014F_EX_A_1.13.31,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20s,PD2034F_EX_A_1.9.25,,Android 10,https://www.vivo.com/mm/support/system-update,mm,Myanmar,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034F_EX_A_1.9.25,,Android 10,https://www.vivo.com/mm/support/system-update,mm,Myanmar,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y11(3gb),PD1930F_EX_A_6.8.55,,Android 10,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439,snapdragon 439"
+y50,PD1965F_EX_A_1.13.14,,Android 10,https://www.vivo.com/mm/support/system-update,mm,Myanmar,4/1/22,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y30,PD1987F_EX_A_1.14.32,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y19,PD1934F_EX_A_8.9.21,,8,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y11（2gb）,PD1930F_EX_A_6.8.55,,Android 10,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439,snapdragon 439"
+y12,PD1901BF_EX_A_6.12.21,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y90,PD1917F_EX_A_1.25.10,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y15,PD1901BF_EX_A_6.12.21,,6,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17,PD1901F_EX_A_1.57.3,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y91c,PD1818HF_EX_A_1.21.21,,Android 8.1 Oreo,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y71 (2g),PD1731F_EX_A_1.19.2,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y81i,PD1732CF_EX_A_1.26.1,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y91i,PD1818GF_EX_A_1.21.21,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91,PD1818CF_EX_A_1.12.1,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y95,PD1818F_EX_A_1.21.1,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y85,PD1803BF_EX_A_1.23.3,,Android 8.1 Oreo,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Qualcomm MSM8953-Pro Snapdragon 626 (14 nm),"qualcomm msm8953,snapdragon 626"
+y81,PD1732F_EX_A_2.6.3,,2,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y71,PD1731F_EX_A_1.19.2,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y65,PD1621BF_EX_A_1.18.2,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y53,PD1628F_EX_A_3.2.2,,3,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y55s,PD1613BF_EX_A_1.19.2,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y55,PD1613F_EX_A_1.21.4,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y52,PD1510W_EX_A_1.10.4,,Android 11,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y51,PD1510F_EX_A_1.19.0,,Android 11,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y31,PD1505BW_EX_A_1.13.3,,1,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y21,PD1309CW_EX_A_1.16.5,,Android 11,https://www.vivo.com/mm/support/system-update,mm,Myanmar,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y15s,PD2140F_EX_A_6.20.4,,Android 11,https://www.vivo.com/np/support/system-update,np,Nepal,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21,PD2139F_EX_A_1.6.3,,Android 11,https://www.vivo.com/np/support/system-update,np,Nepal,6/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_1.9.6,,Android 11,https://www.vivo.com/np/support/system-update,np,Nepal,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y12s 2021,PD2060F_EX_A_1.7.15,,1,https://www.vivo.com/np/support/system-update,np,Nepal,5/1/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y12s,PD2036F_EX_A_6.13.0,,6,https://www.vivo.com/np/support/system-update,np,Nepal,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y51,PD2050F_EX_A_6.7.20,,Android 11,https://www.vivo.com/np/support/system-update,np,Nepal,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034F_EX_A_1.9.25,,Android 10,https://www.vivo.com/np/support/system-update,np,Nepal,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y1s,PD2014F_EX_A_1.13.31,,1,https://www.vivo.com/np/support/system-update,np,Nepal,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20,PD2034F_EX_A_1.9.8,,Android 10,https://www.vivo.com/np/support/system-update,np,Nepal,8/1/21,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y11(3gb),PD1930F_EX_A_6.8.55,,Android 10,https://www.vivo.com/np/support/system-update,np,Nepal,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439,snapdragon 439"
+y30,PD1987F_EX_A_1.14.32,,1,https://www.vivo.com/np/support/system-update,np,Nepal,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y19,PD1934F_EX_A_8.9.21,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y11(2gb),PD1930DF_EX_A_1.6.9,,Android 10,https://www.vivo.com/np/support/system-update,np,Nepal,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439, snapdragon 439"
+y15,PD1901BF_EX_A_6.12.21,,6,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y12,PD1901BF_EX_A_6.12.21,,6,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y90,PD1917F_EX_A_1.25.10,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y17,PD1901F_EX_A_1.57.3,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y93,PD1818CF_EX_A_1.12.1,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91c,PD1818HF_EX_A_1.21.21,,Android 8.1 Oreo,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y85,PD1803F_EX_A_1.23.3,,Android 8.1 Oreo,https://www.vivo.com/np/support/system-update,np,Nepal,,Qualcomm MSM8953-Pro Snapdragon 626 (14 nm),"qualcomm msm8953,snapdragon 626"
+y95,PD1818F_EX_A_1.21.1,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91i,PD1818GF_EX_A_1.21.21,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91,PD1818CF_EX_A_1.12.2,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y81i,PD1732CF_EX_A_1.26.1,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y81,PD1732F_EX_A_2.6.3,,2,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y71,PD1731F_EX_A_1.19.2,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y65,PD1621BF_EX_A_1.18.2,,1,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y53,PD1628F_EX_A_3.2.2,,3,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+s1 pro,PD1945F_EX_A_8.13.11,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_9.9.20,,9,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+v23 5g,PD2167BF_EX_A_12.0.14.2.W20.V000L1,,12,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23e,PD2150F_EX_A_1.13.8,,Android 12,https://www.vivo.com/np/support/system-update,np,Nepal,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v21e,PD2107F_EX_A_6.6.22,,Android 12,https://www.vivo.com/np/support/system-update,np,Nepal,5/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.8.14,,Android 12,https://www.vivo.com/np/support/system-update,np,Nepal,5/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.18.1,,6,https://www.vivo.com/np/support/system-update,np,Nepal,3/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 se,PD2038F_EX_A_6.9.8,,6,https://www.vivo.com/np/support/system-update,np,Nepal,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v17 pro,PD1931F_EX_A_8.10.0,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v19,PD1969F_EX_A_6.9.15,,6,https://www.vivo.com/np/support/system-update,np,Nepal,5/1/22,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v15,PD1831F_EX_A_8.1.35,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v15 pro（6+128）,PD1832F_EX_A_8.8.1,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v11 pro,PD1814F_EX_A_8.8.4,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11,PD1813F_EX_A_8.8.19,,8,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v9,PD1730F_EX_A_6.13.11,,6,https://www.vivo.com/np/support/system-update,np,Nepal,,Qualcomm MSM8953,qualcomm msm8953
+v9 youth,PD1730BF_EX_A_6.12.13,,6,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7,PD1718F_EX_A_3.13.7,,3,https://www.vivo.com/np/support/system-update,np,Nepal,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,5/29/23,12,https://www.vivo.com/tr/support/system-update,tr,Turkey,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y15s,PD2140F_EX_A_36.25.1,1/2/24,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_36.19.1,1/2/24,Android 12,https://www.vivo.com/tr/support/system-update,tr,Turkey,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,5/29/23,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21s,PD2138F_EX_A_36.19.1,1/2/24,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_3.7.16,1/2/24,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y51,PD2050F_EX_A_36.6.3,12/16/22,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y11s,PD2042F_EX_A_38.16.8,5/29/23,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20s,PD2034EF_EX_A_38.16.8,12/16/22,Android 10,https://www.vivo.com/tr/support/system-update,tr,Turkey,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034EF_EX_A_38.16.8,12/16/22,Android 10,https://www.vivo.com/tr/support/system-update,tr,Turkey,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,5/29/23,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,1/2/24,12,https://www.vivo.com/tr/support/system-update,tr,Turkey,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21e,PD2107F_EX_A_36.7.11,5/29/23,Android 12,https://www.vivo.com/tr/support/system-update,tr,Turkey,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_36.9.21,5/29/23,Android 12,https://www.vivo.com/tr/support/system-update,tr,Turkey,11/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+x51 5g,PD2005F_EX_A_38.13.7,5/24/22,Android 11,https://www.vivo.com/tr/support/system-update,tr,Turkey,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x50 lite,PD1982F_EX_A_3.9.4,2/25/22,3,https://www.vivo.com/tr/support/system-update,tr,Turkey,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y01,PD2140F_EX_A_36.25.1,,Android 12,https://www.vivo.com/au/support/system-update,au,Australia,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y21s,PD2138F_EX_A_36.19.1,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y22s,PD2228F_EX_A_12.0.7.20.W30.V000L1,,12,https://www.vivo.com/au/support/system-update,au,Australia,9/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y55 5g,PD2166F_EX_A_3.19.0,,3,https://www.vivo.com/au/support/system-update,au,Australia,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y50,PD1965EF_EX_A_46.7.32,,Android 10,https://www.vivo.com/au/support/system-update,au,Australia,,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y51,PD2050F_EX_A_3.11.8,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y33s,PD2147F_EX_A_36.19.1,,Android 12,https://www.vivo.com/au/support/system-update,au,Australia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y52 5g,PD2069F_EX_A_36.9.46,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y3s,PD2074F_EX_A_3.16.4,,3,https://www.vivo.com/au/support/system-update,au,Australia,12/1/21,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y11s,PD2042F_EX_A_38.16.8,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20s,PD2034EF_EX_A_38.16.8,,Android 10,https://www.vivo.com/au/support/system-update,au,Australia,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y30,PD1987F_EX_A_2.13.11,,2,https://www.vivo.com/au/support/system-update,au,Australia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y17,PD1901DF_EX_A_2.11.20,,2,https://www.vivo.com/au/support/system-update,au,Australia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+x60 pro,PD2059F_EX_A_36.7.14,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,11/1/22,Qualcomm SM8250,qualcomm sm8250
+x50 pro,PD2005F_EX_A_38.13.7,,Android 11,https://www.vivo.com/au/support/system-update,au,Australia,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x50 lite,PD1982F_EX_A_3.9.4,,3,https://www.vivo.com/au/support/system-update,au,Australia,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_2.1.14,,2,https://www.vivo.com/au/support/system-update,au,Australia,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+x80 lite,PD2215F_EX_A_13.1.13.5.W30.V000L1,1/16/23,13,https://www.vivo.com/es/support/system-update,es,Spain,12/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_13.1.11.1.W30.V000L1,6/17/24,13,https://www.vivo.com/es/support/system-update,es,Spain,12/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.15,1/16/23,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,,Qualcomm SM8250,qualcomm sm8250
+x51 5g,PD2005F_EX_A_38.13.7,5/19/22,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,6/17/24,13,https://www.vivo.com/es/support/system-update,es,Spain,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.22,4/3/23,Android 12,https://www.vivo.com/es/support/system-update,es,Spain,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y35,PD2225F_EX_A_12.0.9.0.W30.V000L1,1/16/23,12,https://www.vivo.com/es/support/system-update,es,Spain,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y76 5g,PD2156F_EX_A_36.10.55,1/16/23,Android 12,https://www.vivo.com/es/support/system-update,es,Spain,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y16,PD2216F_EX_A_12.0.8.29.W30.V000L1,7/12/23,12,https://www.vivo.com/es/support/system-update,es,Spain,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_13.1.1.4.W30.V000L1,6/17/24,13,https://www.vivo.com/es/support/system-update,es,Spain,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y55 5g,PD2166F_EX_A_3.19.7,8/23/23,3,https://www.vivo.com/es/support/system-update,es,Spain,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y01,PD2140F_EX_A_36.25.1,8/23/23,Android 12,https://www.vivo.com/es/support/system-update,es,Spain,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y33s,PD2147F_EX_A_36.21.3,8/23/23,Android 12,https://www.vivo.com/es/support/system-update,es,Spain,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,6/16/23,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21s,PD2138F_EX_A_36.21.1,6/16/23,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y52 5g,PD2069F_EX_A_36.9.48,1/16/23,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y72 5g,PD2069F_EX_A_36.9.46,12/16/22,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y11s,PD2042F_EX_A_38.16.9,1/16/23,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,11/7/22,Android 11,https://www.vivo.com/es/support/system-update,es,Spain,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.9,1/16/23,Android 10,https://www.vivo.com/es/support/system-update,es,Spain,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v17,PD1945F_EX_A_8.13.11,5/7/22,8,https://www.vivo.com/by/support/system-update,by,Belarus,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v21,PD2083F_EX_A_6.8.6,4/6/22,Android 12,https://www.vivo.com/by/support/system-update,by,Belarus,2/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v23e,PD2150F_EX_A_1.14.1,4/6/22,Android 12,https://www.vivo.com/by/support/system-update,by,Belarus,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v23 5g,PD2167F_EX_A_12.0.13.17.W20.V000L1,6/15/22,12,https://www.vivo.com/by/support/system-update,by,Belarus,5/1/22,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+y91c,PD1818HF_EX_A_1.21.21,4/6/22,Android 8.1 Oreo,https://www.vivo.com/by/support/system-update,by,Belarus,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y19,PD1934F_EX_A_8.9.21,6/15/22,8,https://www.vivo.com/by/support/system-update,by,Belarus,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y1s,PD2014F_EX_A_1.13.27,4/6/22,1,https://www.vivo.com/by/support/system-update,by,Belarus,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y31,PD2050F_EX_A_1.12.13,4/6/22,1,https://www.vivo.com/by/support/system-update,by,Belarus,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y53s,PD2103F_EX_A_1.9.3,4/6/22,Android 11,https://www.vivo.com/by/support/system-update,by,Belarus,3/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y21,PD2139F_EX_A_1.3.8,4/6/22,Android 11,https://www.vivo.com/by/support/system-update,by,Belarus,1/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y11,PD1930F_EX_A_6.8.55,5/7/22,6,https://www.vivo.com/by/support/system-update,by,Belarus,,Mediatek MT6582–ú,mediatek mt6582–ú
+x60 pro,PD2059F_EX_A_6.8.19,4/6/22,Android 11,https://www.vivo.com/by/support/system-update,by,Belarus,1/1/22,Qualcomm SM8250,qualcomm sm8250
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,3/23/23,13,https://www.vivo.com/at/support/system-update,at,Austria,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 lite,PD2215F_EX_A_12.0.8.5.W30.V000L1,2/4/24,12,https://www.vivo.com/at/support/system-update,at,Austria,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,6/17/24,12,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.14,12/16/22,Android 11,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,Qualcomm SM8250,qualcomm sm8250
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,8/14/23,12,https://www.vivo.com/at/support/system-update,at,Austria,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.21,12/16/22,Android 12,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y35,PD2225F_EX_A_13.1.1.6.W30.V000L1,6/17/24,13,https://www.vivo.com/at/support/system-update,at,Austria,12/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y16,PD2216F_EX_A_12.0.8.29.W30.V000L1,2/4/24,12,https://www.vivo.com/at/support/system-update,at,Austria,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,2/4/24,12,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y01,PD2140F_EX_A_36.25.1,8/14/23,Android 12,https://www.vivo.com/at/support/system-update,at,Austria,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y76 5g,PD2156F_EX_A_36.10.50,8/14/23,Android 12,https://www.vivo.com/at/support/system-update,at,Austria,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y21s,PD2138F_EX_A_36.19.1,3/13/23,Android 11,https://www.vivo.com/at/support/system-update,at,Austria,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,3/13/23,Android 11,https://www.vivo.com/at/support/system-update,at,Austria,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_36.19.1,6/16/23,Android 12,https://www.vivo.com/at/support/system-update,at,Austria,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y52 5g,PD2069F_EX_A_36.9.46,12/16/22,Android 11,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y72 5g,PD2069F_EX_A_36.9.46,12/16/22,Android 11,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y20s,PD2034EF_EX_A_38.16.8,12/16/22,Android 10,https://www.vivo.com/at/support/system-update,at,Austria,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y35,PD2225F_EX_A_13.1.1.6.W30.V000L1,3/13/23,13,https://www.vivo.com/it/support/system-update,it,Italy,12/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y22s,PD2228F_EX_A_13.1.1.9.W30,3/13/23,13,https://www.vivo.com/it/support/system-update,it,Italy,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y76 5g,PD2156F_EX_A_36.10.55,1/16/23,Android 12,https://www.vivo.com/it/support/system-update,it,Italy,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33s,PD2147F_EX_A_36.21.3,1/16/23,Android 12,https://www.vivo.com/it/support/system-update,it,Italy,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.20.1,3/20/23,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,12/9/22,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y72 5g,PD2069F_EX_A_36.9.48,3/13/23,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y11s,PD2042F_EX_A_38.16.9,1/16/23,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,11/7/22,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.9,1/16/23,Android 10,https://www.vivo.com/it/support/system-update,it,Italy,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,1/16/23,13,https://www.vivo.com/it/support/system-update,it,Italy,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.22,3/13/23,Android 12,https://www.vivo.com/it/support/system-update,it,Italy,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,3/23/23,13,https://www.vivo.com/it/support/system-update,it,Italy,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 lite,PD2215F_EX_A_13.1.13.5.W30.V000L1,3/13/23,13,https://www.vivo.com/it/support/system-update,it,Italy,12/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_13.1.11.1.W30.V000L1,1/16/23,13,https://www.vivo.com/it/support/system-update,it,Italy,12/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.15,3/13/23,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,,Qualcomm SM8250,qualcomm sm8250
+x51 5g,PD2005F_EX_A_38.13.7,5/19/22,Android 11,https://www.vivo.com/it/support/system-update,it,Italy,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x90 pro,PD2242F_EX_A_13.1.15.1.W30.V000L1,11/20/23,13,https://www.vivo.com/de/support/system-update,de,Germany,8/1/23,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 pro,PD2185F_EX_A_13.1.11.7.W30.V000L1,2/21/23,13,https://www.vivo.com/de/support/system-update,de,Germany,1/1/23,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.15,8/14/23,Android 11,https://www.vivo.com/de/support/system-update,de,Germany,,Qualcomm SM8250,qualcomm sm8250
+x51 5g,PD2005F_EX_A_38.13.7,5/19/22,Android 11,https://www.vivo.com/de/support/system-update,de,Germany,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,1/16/23,13,https://www.vivo.com/de/support/system-update,de,Germany,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.22,8/14/23,Android 12,https://www.vivo.com/de/support/system-update,de,Germany,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y76 5g,PD2156F_EX_A_36.10.55,1/16/23,Android 12,https://www.vivo.com/de/support/system-update,de,Germany,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33s,PD2147F_EX_A_36.21.3,1/16/23,Android 12,https://www.vivo.com/de/support/system-update,de,Germany,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.22.2,2/21/23,Android 11,https://www.vivo.com/de/support/system-update,de,Germany,1/1/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,12/9/22,Android 11,https://www.vivo.com/de/support/system-update,de,Germany,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y72 5g,PD2069F_EX_A_36.9.48,8/14/23,Android 11,https://www.vivo.com/de/support/system-update,de,Germany,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y70,PD2038F_EX_A_38.9.22,11/7/22,Android 11,https://www.vivo.com/de/support/system-update,de,Germany,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.12,2/21/23,Android 10,https://www.vivo.com/de/support/system-update,de,Germany,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v25 pro,PD2204F_EX_A_12.0.8.14.W30.V000L1,11/29/22,12,https://www.vivo.com/cl/support/system-update,cl,Chile,10/1/22,Mediatek Dimensity 1300 (6 nm),mediatek dimensity 1300
+v25,PD2215F_EX_A_12.0.6.8.W30.V000L1,11/29/22,12,https://www.vivo.com/cl/support/system-update,cl,Chile,8/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v21 5g,PD2083F_EX_A_3.9.41,2/11/22,Android 12,https://www.vivo.com/cl/support/system-update,cl,Chile,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_3.19.3,11/29/22,3,https://www.vivo.com/cl/support/system-update,cl,Chile,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+x80 pro,PD2185F_EX_A_12.0.14.0.W30.V000L1,11/29/22,12,https://www.vivo.com/cl/support/system-update,cl,Chile,10/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+y15s,PD2140IF_EX_A_36.22.1,11/8/22,Android 11,https://www.vivo.com/cl/support/system-update,cl,Chile,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_12.0.7.20.W30.V000L1,11/29/22,12,https://www.vivo.com/cl/support/system-update,cl,Chile,9/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21s,PD2138F_EX_A_36.19.1,12/16/22,Android 11,https://www.vivo.com/cl/support/system-update,cl,Chile,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_3.7.16,6/17/22,Android 11,https://www.vivo.com/cl/support/system-update,cl,Chile,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y51,PD2050F_EX_A_3.6.12,1/29/22,Android 11,https://www.vivo.com/cl/support/system-update,cl,Chile,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20,PD2034EF_EX_A_38.16.8,12/16/22,Android 10,https://www.vivo.com/cl/support/system-update,cl,Chile,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y11s,PD2042F_EX_A_38.16.8,12/16/22,Android 11,https://www.vivo.com/cl/support/system-update,cl,Chile,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v21e,PD2107F_EX_A_6.6.16,4/6/22,Android 12,https://www.vivo.com/tj/support/system-update,tj,Tajikistan,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+y53s,PD2103F_EX_A_1.9.3,4/6/22,Android 11,https://www.vivo.com/tj/support/system-update,tj,Tajikistan,3/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y21,PD2139F_EX_A_1.3.8,4/6/22,Android 11,https://www.vivo.com/tj/support/system-update,tj,Tajikistan,1/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y15s,PD2140F_EX_A_1.15.0,4/6/22,Android 11,https://www.vivo.com/tj/support/system-update,tj,Tajikistan,2/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+v21 5g,PD2083F_EX_A_36.9.25,3/1/23,Android 12,https://www.vivo.com/rs/support/system-update,rs,Serbia,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+x90 pro,PD2242BF_EX_A_13.1.11.3.W30.V000L1,3/2/23,13,https://www.vivo.com/rs/support/system-update,rs,Serbia,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 lite,PD2215F_EX_A_13.1.13.10.W30.V000L1,3/1/23,13,https://www.vivo.com/rs/support/system-update,rs,Serbia,1/1/23,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_13.1.11.7.W30.V000L1,3/1/23,13,https://www.vivo.com/rs/support/system-update,rs,Serbia,1/1/23,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+y35,PD2225F_EX_A_13.1.1.6.W30.V000L1.W30.V000L1,3/1/23,13,https://www.vivo.com/rs/support/system-update,rs,Serbia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y76 5g,PD2156F_EX_A_38.12.2,3/1/23,Android 12,https://www.vivo.com/rs/support/system-update,rs,Serbia,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y16,PD2216F_EX_A_12.0.8.29.W30.V000L1,7/12/23,12,https://www.vivo.com/rs/support/system-update,rs,Serbia,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_13.1.1.9.W30,3/1/23,13,https://www.vivo.com/rs/support/system-update,rs,Serbia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y01,PD2140F_EX_A_36.25.1,12/9/22,Android 12,https://www.vivo.com/rs/support/system-update,rs,Serbia,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y33s,PD2147F_EX_A_36.21.3,8/14/23,Android 12,https://www.vivo.com/rs/support/system-update,rs,Serbia,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.22.2,8/14/23,Android 11,https://www.vivo.com/rs/support/system-update,rs,Serbia,1/1/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,8/14/23,Android 11,https://www.vivo.com/rs/support/system-update,rs,Serbia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y72 5g,PD2069F_EX_A_38.12.1,3/1/23,Android 11,https://www.vivo.com/rs/support/system-update,rs,Serbia,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y70,PD2038F_EX_A_36.8.20,12/23/22,Android 11,https://www.vivo.com/rs/support/system-update,rs,Serbia,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.12,3/1/23,Android 10,https://www.vivo.com/rs/support/system-update,rs,Serbia,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+x80 lite,PD2215F_EX_A_12.0.8.5.W30.V000L1,12/13/22,12,https://www.vivo.com/hr/support/system-update,hr,Croatia,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,12/16/22,12,https://www.vivo.com/hr/support/system-update,hr,Croatia,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+y16,PD2216F_EX_A_12.0.10.7.W30.V000L1,7/12/23,12,https://www.vivo.com/hr/support/system-update,hr,Croatia,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,3/13/23,12,https://www.vivo.com/hr/support/system-update,hr,Croatia,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,3/13/23,12,https://www.vivo.com/hr/support/system-update,hr,Croatia,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21,PD2139F_EX_A_36.19.7,12/9/22,Android 11,https://www.vivo.com/hr/support/system-update,hr,Croatia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y01,PD2140F_EX_A_36.25.1,12/9/22,Android 12,https://www.vivo.com/hr/support/system-update,hr,Croatia,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y33s,PD2147F_EX_A_36.19.1,12/9/22,Android 12,https://www.vivo.com/hr/support/system-update,hr,Croatia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.19.1,12/9/22,Android 11,https://www.vivo.com/hr/support/system-update,hr,Croatia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y76 5g,PD2156F_EX_A_36.10.50,12/9/22,Android 12,https://www.vivo.com/hr/support/system-update,hr,Croatia,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y21,PD2139F_EX_A_1.7.1,7/20/22,Android 11,https://www.vivo.com/az/support/system-update,az,Azerbaijan,7/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_1.13.7,7/20/22,Android 12,https://www.vivo.com/az/support/system-update,az,Azerbaijan,6/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_1.9.6,7/20/22,Android 11,https://www.vivo.com/az/support/system-update,az,Azerbaijan,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+v23e,PD2150F_EX_A_1.14.1,7/20/22,Android 12,https://www.vivo.com/az/support/system-update,az,Azerbaijan,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v23,PD2167BF_EX_A_12.0.14.2.W20.V000L1,7/20/22,Android 12,https://www.vivo.com/az/support/system-update,az,Azerbaijan,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+y33s,PD2147F_EX_A_1.12.3,4/2/22,Android 12,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,2/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_1.3.8,3/15/22,Android 11,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,1/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y15s,PD2140F_EX_A_6.20.4,6/15/22,Android 11,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_1.9.6,5/7/22,Android 11,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y31,PD2050F_EX_A_6.7.20,6/2/22,6,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,3/1/22,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y1s,PD2014F_EX_A_1.13.31,6/2/22,1,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y12s,PD2036F_EX_A_6.13.0,5/7/22,6,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20,PD2034F_EX_A_1.9.25,6/15/22,Android 10,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y30,PD1987F_EX_A_1.14.32,6/2/22,1,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y91c,PD1818HF_EX_A_1.21.21,1/7/22,Android 8.1 Oreo,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+x60 pro,PD2059F_EX_A_6.9.3,6/15/22,Android 11,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,5/1/22,Qualcomm SM8250,qualcomm sm8250
+x50 pro,PD2005F_EX_A_6.11.13,3/15/22,Android 11,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x50,PD2006F_EX_A_8.18.0,6/2/22,8,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+v23 5g,PD2167F_EX_A_12.0.13.17.W20.V000L1,6/15/22,12,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,5/1/22,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23e,PD2150F_EX_A_1.13.8,4/2/22,Android 12,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v21e,PD2107F_EX_A_6.6.22,6/15/22,Android 12,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,5/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.8.14,6/15/22,Android 12,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,5/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.18.1,5/7/22,6,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,3/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 se,PD2038F_EX_A_6.9.8,5/7/22,6,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v17,PD1945F_EX_A_8.13.11,5/7/22,8,https://www.vivo.com/uz/support/system-update,uz,Uzbekistan,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v23 5g,PD2167F_EX_A_13.1.14.0.W20.V000L1,1/12/23,13,https://www.vivo.com/tn/support/system-update,tn,Tunisia,12/1/22,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+y02,PD2236F_EX_A_12.0.6.8.W20.V000L1,1/12/23,Android 10,https://www.vivo.com/tn/support/system-update,tn,Tunisia,12/1/22,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y22,PD2226F_EX_A_12.0.15.2.W20.V000L1,1/12/23,12,https://www.vivo.com/tn/support/system-update,tn,Tunisia,12/1/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y35,PD2225F_EX_A_12.0.10.4.W20.V000L1,1/12/23,12,https://www.vivo.com/tn/support/system-update,tn,Tunisia,12/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y01,PD2140F_EX_A_6.20.4,10/14/22,Android 12,https://www.vivo.com/tn/support/system-update,tn,Tunisia,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y15s,PD2140F_EX_A_6.20.4,10/14/22,Android 11,https://www.vivo.com/tn/support/system-update,tn,Tunisia,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y02s,PD2216F_EX_A_12.0.10.6.W20.V000L1,1/12/23,12,https://www.vivo.com/tn/support/system-update,tn,Tunisia,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_6.16.1,10/14/22,Android 12,https://www.vivo.com/tn/support/system-update,tn,Tunisia,7/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y1s,PD2014F_EX_A_1.13.12,1/12/23,1,https://www.vivo.com/tn/support/system-update,tn,Tunisia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y12s,PD2036F_EX_A_6.11.0,1/12/23,6,https://www.vivo.com/tn/support/system-update,tn,Tunisia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21,PD2139F_EX_A_6.19.7,10/14/22,Android 11,https://www.vivo.com/tn/support/system-update,tn,Tunisia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_3.13.12,8/9/22,Android 12,https://www.vivo.com/nl/support/system-update,nl,Netherlands,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y76 5g,PD2156F_EX_A_36.10.30,8/9/22,Android 12,https://www.vivo.com/nl/support/system-update,nl,Netherlands,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+x80 pro,PD2185F_EX_A_12.0.12.5.W30.V000L1,8/9/22,12,https://www.vivo.com/nl/support/system-update,nl,Netherlands,,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+s1 pro,PD1945F_EX_A_6.10.0,3/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_6.13.0,3/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,12/1/20,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+x70,PD2133F_EX_A_1.19.4,1/25/22,1,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+x60 pro,PD2059F_EX_A_1.18.5,10/14/21,Android 11,https://www.vivo.com/la/support/system-update,la,Laos,,Qualcomm SM8250,qualcomm sm8250
+x70 pro,PD2135F_EX_A_1.19.6,1/25/22,Android 13,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+x21,PD1728F_EX_A_6.10.8,3/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+y15 2020,PD1901BF_EX_A_6.11.15,5/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y19,PD1934F_EX_A_1.10.11,3/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y12,PD1901BF_EX_A_6.11.15,5/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y11,PD1930F_EX_A_1.18.1,3/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,2/1/21,Mediatek MT6582–ú,mediatek mt6582–ú
+y17,PD1901F_EX_A_1.56.25,5/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,3/1/21,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y93,PD1818CF_EX_A_1.12.1,5/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91i,PD1818GF_EX_A_1.21.8,5/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91,PD1818CF_EX_A_1.12.1,5/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y95,PD1818F_EX_A_1.20.12,5/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y85,PD1803BF_EX_A_1.22.6,11/7/20,Android 8.1 Oreo,https://www.vivo.com/la/support/system-update,la,Laos,,Qualcomm MSM8953-Pro Snapdragon 626 (14 nm),"qualcomm msm8953,snapdragon 626"
+y81,PD1732F_EX_A_2.6.3,8/7/20,2,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y81i,PD1732CF_EX_A_1.25.4,5/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y71,PD1731F_EX_A_1.19.2,3/8/21,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y65,PD1621BF_EX_A_1.18.2,5/31/19,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y55s,PD1613BF_EX_A_1.19.2,5/10/19,1,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y53c,PD1628F_EX_A_3.2.2,1/24/19,Android 8.1 Oreo,https://www.vivo.com/la/support/system-update,la,Laos,,Qualcomm MSM8917 Snapdragon 425 (28 nm),"qualcomm msm8917,snapdragon 425"
+y53,PD1628F_EX_A_3.2.2,1/24/19,3,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y55,PD1613F_EX_A_1.21.4,5/10/19,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y31l,PD1505F_EX_A_1.12.15,5/11/19,Android 11,https://www.vivo.com/la/support/system-update,la,Laos,,Qualcomm MSM8916 Snapdragon 410 (28 nm),"qualcomm msm8916,snapdragon 410"
+nex 3,File size,,Android 10,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SM8150,Snapdragon 855+ (7 nm)","qualcomm sm8150,snapdragon 855+"
+v15 pro,PD1832F_EX_A_6.20.6,5/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,3/1/21,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v15,PD1831F_EX_A_6.10.12,3/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,1/1/21,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v11,PD1813F_EX_A_8.8.8,3/8/21,8,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11i,PD1813F_EX_A_8.8.8,3/8/21,8,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek MT6771 Helio P60 (12 nm),mediatek mt6771 helio p60
+v9,PD1730F_EX_A_6.13.11,5/8/21,6,https://www.vivo.com/la/support/system-update,la,Laos,,Qualcomm MSM8953,qualcomm msm8953
+v7,PD1718F_EX_A_3.13.7,11/7/20,3,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7+,PD1708F_EX_A_3.12.4,9/18/20,3,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v5s,PD1612DF_EX_A_3.14.2,7/19/19,3,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek MT6750 (28 nm),mediatek mt6750
+v5,PD1612F_EX_A_3.14.5,5/10/19,3,https://www.vivo.com/la/support/system-update,la,Laos,,Mediatek MT6750 (28 nm),mediatek mt6750
+v5 plus,PD1624F_EX_A_3.11.0,8/28/19,3,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+v5lite,PD1612BF_EX_A_2.11.2,5/10/19,Android 6.0 Marshmallow,https://www.vivo.com/la/support/system-update,la,Laos,,Qualcomm MSM8937 Snapdragon 430 (28 nm),"qualcomm msm8937,snapdragon 430"
+v3max,PD1523F_EX_A_2.8.17,3/20/19,2,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm MSM8976,Snapdragon 652 (28 nm)","qualcomm msm8976,snapdragon 652"
+v3,PD1524F_EX_A_1.17.2,1/7/19,1,https://www.vivo.com/la/support/system-update,la,Laos,,"Qualcomm MSM8939v2,Snapdragon 616 (28 nm)","qualcomm msm8939v2,snapdragon 616"
+v25e,PD2214F_EX_A_12.0.7.5.W20.V000L1,,12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,10/1/22,Mediatek Helio G99 (6 nm),mediatek helio g99
+v25,PD2215F_EX_A_12.0.8.5.W20.V000L1,,12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,11/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v23 5g,PD2167BF_EX_A_12.0.14.3.W20.V000L1,,12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23e,PD2150F_EX_A_1.13.8,,Android 12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v21e,PD2107F_EX_A_6.7.9,,Android 12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.8.22,,Android 12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.21.9,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v19,PD1969F_EX_A_6.9.16,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_9.2.9,,9,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+y16,PD2216F_EX_A_12.0.8.28.W20.V000L1,,12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22,PD2226F_EX_A_12.0.14.2.W20.V000L1,,12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,10/1/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y15s,PD2140F_EX_A_6.20.4,,Android 11,https://www.vivo.com/ng/support/system-update,ng,Nigeria,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21,PD2139F_EX_A_6.19.7,,Android 11,https://www.vivo.com/ng/support/system-update,ng,Nigeria,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_6.16.1,,Android 12,https://www.vivo.com/ng/support/system-update,ng,Nigeria,7/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_6.18.1,,Android 11,https://www.vivo.com/ng/support/system-update,ng,Nigeria,7/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y51,PD2050F_EX_A_6.7.20,,Android 11,https://www.vivo.com/ng/support/system-update,ng,Nigeria,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y12s,PD2036F_EX_A_6.13.0,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y1s,PD2014F_EX_A_1.13.36,,1,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20s,PD2034F_EX_A_1.9.27,,Android 10,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034F_EX_A_1.9.25,,Android 10,https://www.vivo.com/ng/support/system-update,ng,Nigeria,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y30,PD1987F_EX_A_6.17.2,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y50,PD1965F_EX_A_1.13.19,,Android 10,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y19,PD1934F_EX_A_8.9.22,,8,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y11,PD1930F_EX_A_6.8.55,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek MT6582–ú,mediatek mt6582–ú
+y12,PD1901BF_EX_A_6.11.15,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y15,PD1901BF_EX_A_6.11.15,,6,https://www.vivo.com/ng/support/system-update,ng,Nigeria,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17,PD1901F_EX_A_1.58.4,,1,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y90,PD1917F_EX_A_1.26.9,,1,https://www.vivo.com/ng/support/system-update,ng,Nigeria,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,2/24/23,13,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 lite,PD2215F_EX_A_12.0.8.5.W30.V000L1,12/9/22,12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,6/17/24,12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.14,12/16/22,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,Qualcomm SM8250,qualcomm sm8250
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,6/17/24,12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.21,2/24/23,Android 12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,11/10/22,12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,12/9/22,12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y55 5g,PD2166F_EX_A_3.19.0,2/4/24,3,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y76 5g,PD2156F_EX_A_36.10.50,2/4/24,Android 12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y01,PD2140F_EX_A_36.25.1,2/4/24,Android 12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y33s,PD2147F_EX_A_36.19.1,8/14/23,Android 12,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.19.1,6/16/23,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,6/16/23,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y52 5g,PD2069F_EX_A_36.9.46,12/16/22,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y72 5g,PD2069F_EX_A_36.9.46,12/16/22,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y11s,PD2042F_EX_A_38.16.8,12/16/22,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_36.8.20,2/11/22,Android 11,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.8,12/16/22,Android 10,https://www.vivo.com/cz/support/system-update,cz,Czech Republic,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+s1 pro,PD1945F_EX_A_9.8.14,10/11/22,9,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_9.9.21,10/11/22,9,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+z1 pro,PD1911F_EX_A_7.5.4,1/21/22,7,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+x80,PD2183F_EX_A_13.1.3.8.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,9/1/23,Mediatek Dimensity 9000 (4 nm),mediatek dimensity 9000
+x80 pro,PD2185F_EX_A_13.1.11.21.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,8/1/23,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x70 pro,PD2135F_EX_A_8.21.1,11/13/23,Android 13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+x60 pro,PD2059F_EX_A_8.1.2,11/13/23,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm SM8250,qualcomm sm8250
+x60,PD2046F_EX_A_6.8.15,10/11/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm SM8250,qualcomm sm8250
+x50 pro,PD2005F_EX_A_8.13.7,5/20/22,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x50,PD2006F_EX_A_8.18.9,10/11/22,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+x5 max,PD1408F_EX_B_2.3.5,5/11/19,Android 14,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm MSM8939,Snapdragon 615 (28 nm)","qualcomm msm8939,snapdragon 615"
+x5 pro,PD1421F_EX_B_3.8.26,5/11/19,Android 14,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm MSM8939,Snapdragon 615 (28 nm)","qualcomm msm8939,snapdragon 615"
+y03,PD2327F_EX_A_14.0.10.3.W20.V000L1,4/18/24,14,https://www.vivo.com/id/support/system-update,id,Indonesia,3/1/24,Mediatek Helio G85 (12 nm),mediatek helio g85
+y100 5g,PD2341F_EX_A_14.0.8.12.W20.V000L1,4/18/24,14,https://www.vivo.com/id/support/system-update,id,Indonesia,3/1/24,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+y100,PD2358F_EX_A_14.0.9.4.W20.V000L1,4/18/24,14,https://www.vivo.com/id/support/system-update,id,Indonesia,3/1/24,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+y27s,PD2280F_EX_A_13.0.9.3.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y17s,PD2317F_EX_A_13.0.10.5.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6769 Helio G85 (12 nm),mediatek mt6769 helio g85
+y27 5g,PD2279F_EX_A_13.0.11.0.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 6020 (7 nm),mediatek dimensity 6020
+y27,PD2281F_EX_A_13.0.5.19.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6769 Helio G85 (12 nm),mediatek mt6769 helio g85
+y36 5g,PD2279F_EX_A_13.0.11.0.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 6020 (7 nm),mediatek dimensity 6020
+y36,PD2280F_EX_A_13.0.9.3.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y02t,PD2236IF_EX_A_13.0.11.2.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22,PD2226F_EX_A_12.0.17.1.W20.V000L1,4/18/24,12,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y16,PD2216F_EX_A_12.0.13.2.W20.V000L1,4/18/24,12,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33t,PD2142F_EX_A_13.1.12.4.W20.V000L1,4/18/24,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y75 5g,PD2166F_EX_A_6.16.29,4/18/24,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y21t,PD2158F_EX_A_13.1.3.6.W20.V000L1,11/14/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y51a,PD2050F_EX_A_6.8.0,10/11/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y15s,PD2140F_EX_A_6.20.4,10/11/22,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_6.16.1,10/11/22,Android 12,https://www.vivo.com/id/support/system-update,id,Indonesia,7/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_6.16.1,10/11/22,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21 (2021),PD2139F_EX_A_6.19.7,11/21/23,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_6.18.1,10/11/22,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,7/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y20a,PD2060F_EX_A_1.7.17,10/11/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y12s 2021,PD2060F_EX_A_1.7.17,10/11/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y51,PD1510F_EX_A_1.19.0,1/7/19,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20 2021,PD2036F_EX_A_1.12.17,4/21/21,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20s【g】,PD2066F_EX_A_6.17.2,10/11/22,Android 10,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Helio G80 (12 nm),mediatek helio g80
+y1s,PD2014F_EX_A_1.13.36,10/11/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y51（8+128g）,PD2044F_EX_A_1.7.21,1/21/22,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm SDM665 Snapdragon 665 (11 nm),"qualcomm sdm665,snapdragon 665"
+y20s,PD2034F_EX_A_1.9.27,10/11/22,Android 10,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y12s,PD2036F_EX_A_6.13.0,4/22/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20,PD2034F_EX_A_1.9.27,10/11/22,Android 10,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y12i,PD1930F_EX_A_1.18.1,5/8/21,1,https://www.vivo.com/id/support/system-update,id,Indonesia,2/1/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y30i,PD1987F_EX_A_6.17.2,10/12/22,Android 10,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y50,PD1965F_EX_A_1.13.19,10/11/22,Android 10,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y30,PD1987F_EX_A_6.17.2,10/12/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y11,PD1930F_EX_A_6.8.55,4/22/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6582–ú,mediatek mt6582–ú
+y19,PD1934F_EX_A_8.9.22,10/11/22,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y15,PD1901BF_EX_A_6.12.21,4/2/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y12,PD1901BF_EX_A_6.12.24,10/11/22,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y91c,PD1818HF_EX_A_1.22.2,10/12/22,Android 8.1 Oreo,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y17,PD1901F_EX_A_1.59.3,5/24/24,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y91 2019,PD1818GF_EX_A_1.22.2,10/12/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y93,PD1818CF_EX_A_1.13.0,10/12/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y95,PD1818F_EX_A_1.21.6,10/12/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91,PD1818EF_EX_A_1.10.12,7/20/21,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y83,PD1803BF_EX_A_1.23.3,5/21/21,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y81,PD1732CF_EX_A_1.26.2,10/12/22,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y81d,PD1732F_EX_A_2.6.3,8/6/20,Android 8.1 Oreo,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y71,PD1731F_EX_A_1.17.3,6/13/20,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y65,PD1621BF_EX_A_1.18.2,5/29/19,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y69,PD1705F_EX_A_1.17.0,7/18/19,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6750 (28 nm),mediatek mt6750
+y53,PD1628F_EX_A_3.2.2,1/24/19,3,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y55s,PD1613BF_EX_A_1.19.2,5/6/19,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y55,PD1613F_EX_A_1.21.4,5/10/19,1,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y35,PD1502F_EX_A_2.6.1,4/24/20,2,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21,PD1309CW_EX_A_1.15.1,5/10/19,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+t1pro 5g,PD2193F_EX_A_13.1.23.2.W20.V000L1,4/18/24,Android 11,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm SM7325 Snapdragon 778G 5G (6 nm),"qualcomm sm7325,snapdragon 778g 5g"
+t1 5g,PD2166F_EX_A_6.16.29,11/13/23,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 810 (6 nm),mediatek dimensity 810
+v30 pro,PD2332F_EX_A_14.0.8.31.W20.V000L1,4/18/24,14,https://www.vivo.com/id/support/system-update,id,Indonesia,2/1/24,Mediatek Dimensity 8200 (4 nm),mediatek dimensity 8200
+v30,PD2323F_EX_A_14.0.5.5.W20.V000L1,4/18/24,14,https://www.vivo.com/id/support/system-update,id,Indonesia,1/1/24,Qualcomm SM7550,qualcomm sm7550
+v27,PD2269F_EX_A_13.0.9.51.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 7200 (4 nm),mediatek dimensity 7200
+v29e,PD2325F_EX_A_13.0.8.2.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+v29,PD2283F_EX_A_13.0.13.2.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+v27e,PD2268F_EX_A_13.0.10.8.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Helio G99 (6 nm),mediatek helio g99
+v25 pro,PD2204F_EX_A_12.0.9.0.W20.V000L1,11/13/23,12,https://www.vivo.com/id/support/system-update,id,Indonesia,10/1/22,Mediatek Dimensity 1300 (6 nm),mediatek dimensity 1300
+v25,PD2215F_EX_A_12.0.8.5.W20.V000L1,11/13/23,12,https://www.vivo.com/id/support/system-update,id,Indonesia,11/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v25e,PD2214F_EX_A_12.0.7.10.W20.V000L1,11/13/23,12,https://www.vivo.com/id/support/system-update,id,Indonesia,11/1/22,Mediatek Helio G99 (6 nm),mediatek helio g99
+v23 5g,PD2167F_EX_A_13.1.15.21.W20.V000L1,11/13/23,13,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23e,PD2150F_EX_A_8.17.5,11/13/23,Android 12,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v21 5g,PD2083F_EX_A_8.7.7,11/13/23,Android 12,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v21,PD2107F_EX_A_6.9.0,11/13/23,Android 12,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20 se,PD2038F_EX_A_8.9.18,10/11/22,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v20,PD2039F_EX_A_8.2.19,11/13/23,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v19,PD1948F_EX_A_6.12.4,3/5/21,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_9.2.9,10/11/22,9,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v15 pro（6+128）,PD1832F_EX_A_8.8.1,9/17/21,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v15,PD1831F_EX_A_8.1.35,9/17/21,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v11 pro,PD1814F_EX_A_8.8.4,5/22/21,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11,PD1813F_EX_A_8.8.20,10/12/22,8,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v9 6gb,PD1730CF_EX_A_6.13.7,5/22/21,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v9,PD1730BF_EX_A_6.12.13,5/8/21,6,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm MSM8953,qualcomm msm8953
+v7,PD1718F_EX_A_3.13.7,11/6/20,3,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7+,PD1708F_EX_A_3.12.3,6/13/20,3,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v5plus,PD1624F_EX_A_3.11.0,8/28/19,Android 7.1 Nougat,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm MSM8953 Snapdragon 625 (14 nm),"qualcomm msm8953,snapdragon 625"
+v5s,PD1612DF_EX_A_3.14.2,7/18/19,3,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6750 (28 nm),mediatek mt6750
+v5,PD1612F_EX_A_3.14.9,1/16/20,3,https://www.vivo.com/id/support/system-update,id,Indonesia,,Mediatek MT6750 (28 nm),mediatek mt6750
+v5 lite,PD1612BF_EX_A_2.11.2,5/6/19,Android 6.0 Marshmallow,https://www.vivo.com/id/support/system-update,id,Indonesia,,Qualcomm MSM8937 Snapdragon 430 (28 nm),"qualcomm msm8937,snapdragon 430"
+v3 max,PD1523F_EX_A_2.8.17,3/20/19,2,https://www.vivo.com/id/support/system-update,id,Indonesia,,"Qualcomm MSM8939v2,Snapdragon 616 (28 nm)","qualcomm msm8939v2,snapdragon 616"
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,11/10/22,12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21,PD2139F_EX_A_36.19.7,12/9/22,Android 11,https://www.vivo.com/sk/support/system-update,sk,Slovakia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y01,PD2140F_EX_A_36.25.1,12/9/22,Android 12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y76 5g,PD2156F_EX_A_36.10.50,12/9/22,Android 12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y55 5g,PD2166F_EX_A_3.19.0,11/8/22,3,https://www.vivo.com/sk/support/system-update,sk,Slovakia,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33s,PD2147F_EX_A_36.19.1,8/14/23,Android 12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.19.1,6/16/23,Android 11,https://www.vivo.com/sk/support/system-update,sk,Slovakia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+x80 lite,PD2215F_EX_A_12.0.8.5.W30.V000L1,12/9/22,12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,12/16/22,12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,12/9/22,12,https://www.vivo.com/sk/support/system-update,sk,Slovakia,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v25e,PD2214F_EX_A_12.0.7.10.W20.V000L1,,12,https://www.vivo.com/ke/support/system-update,ke,Kenya,11/1/22,Mediatek Helio G99 (6 nm),mediatek helio g99
+v25,PD2215F_EX_A_13.1.13.5.W20.V000L1,,13,https://www.vivo.com/ke/support/system-update,ke,Kenya,12/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v23 5g,PD2167F_EX_A_13.1.14.0.W20.V000L1,,13,https://www.vivo.com/ke/support/system-update,ke,Kenya,12/1/22,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23e,PD2150F_EX_A_6.18.0,,Android 12,https://www.vivo.com/ke/support/system-update,ke,Kenya,10/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v21,PD2083F_EX_A_6.8.22,,Android 12,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.21.9,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v19,PD1969F_EX_A_6.9.16,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_9.2.9,,9,https://www.vivo.com/ke/support/system-update,ke,Kenya,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+y16,PD2216F_EX_A_12.0.10.6.W20.V000L1,,12,https://www.vivo.com/ke/support/system-update,ke,Kenya,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22,PD2226F_EX_A_12.0.15.2.W20.V000L1,,12,https://www.vivo.com/ke/support/system-update,ke,Kenya,12/1/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y35,PD2225F_EX_A_12.0.10.4.W20.V000L1,,12,https://www.vivo.com/ke/support/system-update,ke,Kenya,12/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y02,PD2236F_EX_A_12.0.6.8.W20.V000L1,,Android 10,https://www.vivo.com/ke/support/system-update,ke,Kenya,12/1/22,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y15s,PD2140F_EX_A_6.20.4,,Android 11,https://www.vivo.com/ke/support/system-update,ke,Kenya,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_6.16.1,,Android 12,https://www.vivo.com/ke/support/system-update,ke,Kenya,7/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_6.19.7,,Android 11,https://www.vivo.com/ke/support/system-update,ke,Kenya,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_6.18.1,,Android 11,https://www.vivo.com/ke/support/system-update,ke,Kenya,7/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y20s,PD2034F_EX_A_1.9.27,,Android 10,https://www.vivo.com/ke/support/system-update,ke,Kenya,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y12s,PD2036F_EX_A_6.13.0,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20,PD2034F_EX_A_1.9.27,,Android 10,https://www.vivo.com/ke/support/system-update,ke,Kenya,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y30,PD1987F_EX_A_6.17.2,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y1s,PD2014F_EX_A_1.13.36,,1,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y11,PD1930F_EX_A_6.8.55,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek MT6582–ú,mediatek mt6582–ú
+y19,PD1934F_EX_A_8.9.22,,8,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y12,PD1901BF_EX_A_6.11.15,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y90,PD1917F_EX_A_1.26.9,,1,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y15,PD1901BF_EX_A_6.11.15,,6,https://www.vivo.com/ke/support/system-update,ke,Kenya,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17,PD1901F_EX_A_1.58.4,,1,https://www.vivo.com/ke/support/system-update,ke,Kenya,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+v25,PD2215F_EX_A_12.0.8.5.W30.V000L1,12/16/22,12,https://www.vivo.com/pe/support/system-update,pe,Peru,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v21 5g,PD2083F_EX_A_36.9.21,12/16/22,Android 12,https://www.vivo.com/pe/support/system-update,pe,Peru,11/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,2/2/23,12,https://www.vivo.com/pe/support/system-update,pe,Peru,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+y33,PD2104F_EX_A_38.12.0,2/3/23,Android 12,https://www.vivo.com/pe/support/system-update,pe,Peru,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,12/16/22,12,https://www.vivo.com/pe/support/system-update,pe,Peru,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,12/16/22,12,https://www.vivo.com/pe/support/system-update,pe,Peru,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y55 5g,PD2166F_EX_A_3.18.3,2/2/23,3,https://www.vivo.com/pe/support/system-update,pe,Peru,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y15s,PD2140IF_EX_A_36.22.1,2/2/23,Android 11,https://www.vivo.com/pe/support/system-update,pe,Peru,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y51,PD2050F_EX_A_36.6.3,2/2/23,Android 11,https://www.vivo.com/pe/support/system-update,pe,Peru,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y21s,D2138F_EX_A_36.19.1,12/16/22,Android 11,https://www.vivo.com/pe/support/system-update,pe,Peru,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_3.7.16,2/2/23,Android 11,https://www.vivo.com/pe/support/system-update,pe,Peru,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y11s,PD2042F_EX_A_38.16.8,12/16/22,Android 11,https://www.vivo.com/pe/support/system-update,pe,Peru,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034EF_EX_A_38.16.8,12/16/22,Android 10,https://www.vivo.com/pe/support/system-update,pe,Peru,11/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v23 5g,PD2167F_EX_A_12.0.14.8.W30.V000L1,12/9/22,12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,3/13/23,13,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 lite,PD2215F_EX_A_12.0.8.5.W30.V000L1,3/13/23,12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,12/16/22,12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+y16,PD2216F_EX_A_12.0.10.7.W30.V000L1,7/12/23,12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_13.1.1.9.W30.V000L1,3/13/23,13,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,1/1/23,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,3/13/23,12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y33s,PD2147F_EX_A_36.19.1,12/9/22,Android 12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y76 5g,PD2156F_EX_A_36.10.50,12/9/22,Android 12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y01,PD2140F_EX_A_36.25.1,12/9/22,Android 12,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y21,PD2139F_EX_A_36.19.7,3/13/23,Android 11,https://www.vivo.com/bg/support/system-update,bg,Bulgaria,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y01,PD2140F_EX_A_36.21.5,6/17/22,Android 12,https://www.vivo.com/mx/support/system-update,mx,Mexico,5/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y15s,PD2140IF_EX_A_36.20.1,6/17/22,Android 11,https://www.vivo.com/mx/support/system-update,mx,Mexico,5/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33,PD2103F_EX_A_3.7.16,6/17/22,Android 12,https://www.vivo.com/mx/support/system-update,mx,Mexico,4/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_3.7.16,6/17/22,Android 11,https://www.vivo.com/mx/support/system-update,mx,Mexico,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y11s,PD2042F_EX_A_38.15.13,6/17/22,Android 11,https://www.vivo.com/mx/support/system-update,mx,Mexico,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034EF_EX_A_38.15.13,6/17/22,Android 10,https://www.vivo.com/mx/support/system-update,mx,Mexico,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v21,PD2083F_EX_A_3.9.21,9/22/21,Android 12,https://www.vivo.com/mx/support/system-update,mx,Mexico,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+u20,PD1941F_EX_A_1.70.11,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+u10,PD1928F_EX_A_1.70.12,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1 pro,PD1945F_EX_A_9.78.14,,9,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_9.72.26,,9,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+v29 pro,PD2284F_EX_A_13.0.4.8.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 8200 (4 nm),mediatek dimensity 8200
+v29,PD2283F_EX_A_13.0.14.2.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+v27,PD2269F_EX_A_13.0.9.56.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 7200 (4 nm),mediatek dimensity 7200
+v27 pro,PD2245F_EX_A_13.0.13.2.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 8200 (4 nm),mediatek dimensity 8200
+v25,PD2215F_EX_A_13.1.13.5.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,12/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v25 pro,PD2204F_EX_A_12.0.8.22.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,11/1/22,Mediatek Dimensity 1300 (6 nm),mediatek dimensity 1300
+v23e 5g,PD2159F_EX_A_3.13.3,,3,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 810 (6 nm),mediatek dimensity 810
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23 pro,PD2163F_EX_A_3.15.4,,3,https://www.vivo.com/in/support/system-update,in,India,11/1/22,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+v21e,PD2102F_EX_A_12.1.8.46.W40.V000L1,,Android 12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.73.28,,Android 12,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20 2021,PD2067F_EX_A_6.71.10,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+v20,PD2039F_EX_A_6.71.2,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 pro,PD2020F_EX_A_8.72.0,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+v20 se,PD2038F_EX_A_8.79.22,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v19,PD1969F_EX_A_6.72.8,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17,PD1948F_EX_A_8.75.20,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v17 pro,PD1931F_EX_A_9.70.39,,9,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v15,PD1831F_EX_A_8.70.29,,8,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v15 pro,PD1832F_EX_A_8.71.16,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v11 pro,PD1814F_EX_A_8.70.5,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11,PD1813F_EX_A_8.70.21,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v9 pro,PD1730CF_EX_A_6.70.10,,6,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8953,qualcomm msm8953
+v9 youth,PD1730BF_EX_A_6.70.8,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v9,PD1730F_EX_A_6.70.5,,6,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8953,qualcomm msm8953
+v7,PD1718F_EX_A_3.13.2,,3,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7+,PD1708F_EX_A_3.12.4,,3,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v5s,PD1612DF_EX_A_3.14.2,,3,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6750 (28 nm),mediatek mt6750
+v5plus,PD1624F_EX_A_3.11.0,,Android 7.1 Nougat,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8953 Snapdragon 625 (14 nm),"qualcomm msm8953,snapdragon 625"
+v5,PD1612F_EX_A_3.14.9,,3,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6750 (28 nm),mediatek mt6750
+v3 max,PD1523F_EX_A_2.8.17,,2,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8939v2,Snapdragon 616 (28 nm)","qualcomm msm8939v2,snapdragon 616"
+v3,PD1524F_EX_A_1.17.2,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8939v2,Snapdragon 616 (28 nm)","qualcomm msm8939v2,snapdragon 616"
+v1max,PD1503F_EX_A_2.6.0,,Android 5.0 Lollipop,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8939v2 Snapdragon 615 (28 nm),"qualcomm msm8939v2,snapdragon 615"
+v1,PD1502F_EX_A_2.6.1,,2,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+x fold3 pro,PD2337F_EX_A_14.0.7.10.W30.V000L1,,14,https://www.vivo.com/in/support/system-update,in,India,5/1/24,Qualcomm SM8650,qualcomm sm8650
+x100 pro,PD2324F_EX_A_14.0.13.4.W30.V000L1,,14,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 9300 (4 nm),mediatek dimensity 9300
+x100,PD2309F_EX_A_14.0.13.4.W30.V000L1,,14,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 9300 (4 nm),mediatek dimensity 9300
+x90 pro,PD2242F_EX_A_13.1.15.1.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,8/1/23,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x90,PD2241F_EX_A_13.0.14.23.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 pro,PD2185F_EX_A_13.1.11.1.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,12/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x80,PD2183F_EX_A_12.0.13.12.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 9000 (4 nm),mediatek dimensity 9000
+x70 pro +,PD2145F_EX_A_38.4.2,,Android 13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+x70 pro,PD2135F_EX_A_36.13.14,,Android 13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+x60,PD2046F_EX_A_6.74.17,,6,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm SM8250,qualcomm sm8250
+x60 pro+,PD2056F_EX_A_8.71.0,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+x60 pro,PD2059F_EX_A_6.73.16,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm SM8250,qualcomm sm8250
+x50 pro,PD2005F_EX_A_8.84.9,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x50,PD2006F_EX_A_8.71.24,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+x21,PD1728F_EX_A_6.70.8,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+x5pro,PD1421F_EX_B_3.8.26,,Android 9 Pie,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8939,Snapdragon 615 (28 nm)","qualcomm msm8939,snapdragon 615"
+x5max,PD1408F_EX_B_2.3.5,,Android 7.1 Nougat,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8939,Snapdragon 615 (28 nm)","qualcomm msm8939,snapdragon 615"
+y28 5g,PD2318F_EX_A_13.0.6.20.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 6020 (7 nm),mediatek dimensity 6020
+y200,PD2326F_EX_A_13.0.6.20.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+y27,PD2281F_EX_A_13.0.5.19.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6769 Helio G85 (12 nm),mediatek mt6769 helio g85
+y36,PD2280F_EX_A_13.0.11.12.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y02t,PD2236IF_EX_A_13.0.11.4.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y100a,PD2251F_EX_A_13.0.13.2.W30.V000L1,,Android 9 Pie,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8916 Snapdragon 410 (28 nm),"qualcomm msm8916,snapdragon 410"
+y100,PD2257F_EX_A_13.0.6.6.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+y56,PD2230F_EX_A_13.0.15.0.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y02,PD2236F_EX_A_12.0.6.8.W30.V000L1,,Android 10,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y35,PD2225F_EX_A_12.0.9.0.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y01,PD2140NF_EX_A_3.5.7,,Android 12,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y22,PD2226F_EX_A_12.0.14.11.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y75,PD2150F_EX_A_36.18.0,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+y15c,PD2140JF_EX_A_3.10.5,,Android 9 Pie,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y21g,PD2138F_EX_A_36.21.1,,Android 10,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6769 Helio G70 (12 nm),mediatek mt6769 helio g70
+y72 5g,PD2112F_EX_A_6.73.20,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y15s,PD2140F_EX_A_36.25.1,,Android 11,https://www.vivo.com/in/support/system-update,in,India,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21e,PD2158F_EX_A_12.0.7.11.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y75 5g,PD2166F_EX_A_3.18.3,,3,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33t,PD2142F_EX_A_12.0.10.1.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21t,PD2142F_EX_A_12.0.10.1.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21a,PD2139JF_EX_A_11.0.3.9.W30.V000L1,,11,https://www.vivo.com/in/support/system-update,in,India,,"Mediatek MT6762 Helio P22 (12 nm), Mediatek MT6765 Helio P35 (12 nm)","mediatek mt6762 helio p22,mediatek mt6765 helio p35"
+y20t,PD2093F_EX_A_36.8.17,,Android 10,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y21 (2021),PD2139F_EX_A_36.22.2,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_36.21.3,,Android 12,https://www.vivo.com/in/support/system-update,in,India,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,PD2103F_EX_A_1.78.3,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y3s,PD2074F_EX_A_6.70.80,,6,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y73,PD2078F_EX_A_6.73.3,,6,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+y31 (2021),PD2050F_EX_A_6.72.0,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y20g,PD2066F_EX_A_6.71.10,,6,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y51a,PD2050F_EX_A_6.72.1,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y12s,PD2036F_EX_A_8.71.22,,8,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20a,PD2060F_EX_A_1.73.24,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y1s,PD2014F_EX_A_1.70.32,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y51,PD2044F_EX_A_6.78.15,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20i,PD2034F_EX_A_1.71.9,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034F_EX_A_1.71.9,,Android 10,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y30,PD1987F_EX_A_6.70.72,,6,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y50,PD1965F_EX_A_1.70.26,,Android 10,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y11 (2019),PD1930F_EX_A_6.71.3,,6,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y19,PD1934F_EX_A_8.71.22,,8,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y90,PD1917F_EX_A_1.71.10,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y12,PD1901BF_EX_A_6.72.23,,6,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y15 (2015),PD1901BF_EX_A_6.72.23,,6,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17(4+128),PD1901F_EX_A_1.70.15,,Android 9 Pie,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y91i,PD1818HF_EX_A_1.72.1,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91,PD1818GF_EX_A_1.72.1,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y93,PD1818CF_EX_A_1.72.0,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y95,PD1818F_EX_A_1.70.11,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y81i,PD1732CF_EX_A_1.71.4,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y83 pro,PD1803F_EX_A_1.71.1,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y83,PD1803BF_EX_A_1.71.1,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y81,PD1732F_EX_A_2.70.12,,2,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y71,PD1731F_EX_A_1.17.3,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y69,PD1705F_EX_A_1.17.0,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek MT6750 (28 nm),mediatek mt6750
+y53,PD1628F_EX_A_3.2.2,,3,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y55s,PD1613BF_EX_A_1.19.2,,1,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y66,PD1612BF_EX_A_2.11.2,,Android 6.0 Marshmallow,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8937 Snapdragon 430 (28 nm),"qualcomm msm8937,snapdragon 430"
+y55l,PD1613F_EX_A_1.21.4,,1,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm MSM8937,Snapdragon 430 (28 nm)","qualcomm msm8937,snapdragon 430"
+y21l,PD1309F_EX_A_1.17.2,,Android 5.1 Lollipop,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8909 Snapdragon 210 (28 nm),"qualcomm msm8909,snapdragon 210"
+y31l,PD1505F_EX_A_1.12.15,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8916 Snapdragon 410 (28 nm),"qualcomm msm8916,snapdragon 410"
+y51l,PD1510F_EX_C_2.7.2,,Android 11,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8916 Snapdragon 410 (28 nm),"qualcomm msm8916,snapdragon 410"
+y21(2016),PD1309CW_EX_A_1.16.5,,Android 5.1 Lollipop,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8909 Snapdragon 210 (28 nm),"qualcomm msm8909,snapdragon 210"
+z1x,PD1921F_EX_A_8.72.1,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+z1pro,PD1911F_EX_A_7.70.35,,7,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+z10,PD1708CF_EX_A_3.7.5,,Android 6.0 Marshmallow,https://www.vivo.com/in/support/system-update,in,India,,Qualcomm MSM8953 Snapdragon 625 (14 nm),"qualcomm msm8953,snapdragon 625"
+t2 pro,PD2285F_EX_A_13.0.10.6.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 7200 (4 nm),mediatek dimensity 7200
+t2x,PD2230F_EX_A_13.0.15.0.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 1300 (6 nm),mediatek dimensity 1300
+t2 5g,PD2251F_EX_A_13.0.13.2.W30.V000L1,,13,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Helio G99 (6 nm),mediatek helio g99
+t1x,PD2142F_EX_A_12.0.9.4.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+t1 pro 5g,PD2193F_EX_A_12.0.6.4.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+t1 44w,PD2201F_EX_A_12.0.11.0.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+t1 5g,PD2165F_EX_A_12.0.11.8.W30.V000L1,,12,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM6375,Snapdragon 695 5G (6 nm), Mediatek Dimensity 810 (6 nm)","qualcomm sm6375,snapdragon 695 5g,mediatek dimensity 810"
+nex,PD1805F_EX_A_8.70.9,,8,https://www.vivo.com/in/support/system-update,in,India,,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+s1 pro,PD1945F_EX_A_8.13.11,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_9.9.20,,9,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+v27 5g,PD2269F_EX_A_13.0.9.32.W20.V000L1,,13,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek Dimensity 7200 (4 nm),mediatek dimensity 7200
+v27e,PD2268F_EX_A_13.0.10.3.W20.V000L1,,13,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,7/1/23,Mediatek Helio G99 (6 nm),mediatek helio g99
+v23e,PD2150F_EX_A_1.13.8,,Android 12,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v23 5g,PD2167BF_EX_A_12.0.14.2.W20.V000L1,,12,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21e,PD2107F_EX_A_6.6.22,,Android 12,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,5/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.8.14,,Android 12,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,5/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.18.1,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,3/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 se,PD2038F_EX_A_6.9.8,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v19,PD1969F_EX_A_6.9.15,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,5/1/22,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_8.10.0,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v15,PD1831F_EX_A_8.1.35,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v15 pro(6+128）,PD1832F_EX_A_8.8.1,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v11 pro,PD1814F_EX_A_8.8.4,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11,PD1813F_EX_A_8.8.19,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v9,PD1730F_EX_A_6.13.11,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Qualcomm MSM8953,qualcomm msm8953
+v9 youth,PD1730BF_EX_A_6.12.13,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7,PD1718F_EX_A_3.13.7,,3,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v7+,PD1708F_EX_A_3.12.4,,3,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+x80,PD2183F_EX_A_12.0.13.10.W20.V000L1,,12,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,11/1/22,Mediatek Dimensity 9000 (4 nm),mediatek dimensity 9000
+x70 pro 5g,PD2135F_EX_A_1.21.0,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,2/1/22,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+x60 pro,PD2059F_EX_A_6.9.3,,Android 11,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,5/1/22,Qualcomm SM8250,qualcomm sm8250
+y33s,PD2147F_EX_A_1.12.3,,Android 12,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,2/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21t,PD2158F_EX_A_11.0.7.43.W20.V000L1,,11,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y15s,PD2140F_EX_A_6.20.4,,Android 11,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y12a,PD2060F_EX_A_1.7.15,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,5/1/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y21,PD2139F_EX_A_1.6.3,,Android 11,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,6/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_1.9.6,,Android 11,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y1s,PD2014F_EX_A_1.13.31,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20g,PD2066F_EX_A_6.15.0,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y20 2021,PD2036F_EX_A_1.12.17,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y51,PD2050F_EX_A_6.7.20,,Android 11,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y12s,PD2036F_EX_A_6.13.0,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20,PD2034F_EX_A_1.9.25,,Android 10,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y30,PD1987F_EX_A_1.14.32,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y50,PD1965F_EX_A_1.13.14,,Android 10,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,4/1/22,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y19,PD1934F_EX_A_8.9.21,,8,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y11,PD1930F_EX_A_6.8.55,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6582–ú,mediatek mt6582–ú
+y12,PD1901BF_EX_A_6.12.21,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y90,PD1917F_EX_A_1.25.10,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y15,PD1901BF_EX_A_6.12.12,,6,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17,PD1901F_EX_A_1.57.3,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y93,PD1818CF_EX_A_1.12.0,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91c,PD1818HF_EX_A_1.21.21,,Android 8.1 Oreo,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y91i,PD1818GF_EX_A_1.21.21,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y91,PD1818CF_EX_A_1.11.0,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y95,PD1818F_EX_A_1.21.1,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y81i,PD1732CF_EX_A_1.26.1,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y85,PD1803BF_EX_A_1.23.3,,Android 8.1 Oreo,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Qualcomm MSM8953-Pro Snapdragon 626 (14 nm),"qualcomm msm8953,snapdragon 626"
+y81,PD1732F_EX_A_2.6.3,,2,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y65,PD1621BF_EX_A_1.18.2,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y71,PD1731F_EX_A_1.19.2,,1,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y53,PD1628F_EX_A_3.2.2,,3,https://www.vivo.com/bd/support/system-update,bd,Bangladesh,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+x80 lite,PD2215F_EX_A_13.1.13.5.W30.V000L1,,13,https://www.vivo.com/si/support/system-update,si,Slovenia,12/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L,,12,https://www.vivo.com/si/support/system-update,si,Slovenia,,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+y16,PD2216F_EX_A_12.0.10.7.W30.V000L1,,12,https://www.vivo.com/si/support/system-update,si,Slovenia,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,,12,https://www.vivo.com/si/support/system-update,si,Slovenia,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,,12,https://www.vivo.com/si/support/system-update,si,Slovenia,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21,PD2139F_EX_A_36.19.7,,Android 11,https://www.vivo.com/si/support/system-update,si,Slovenia,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y01,PD2140F_EX_A_36.25.1,,Android 12,https://www.vivo.com/si/support/system-update,si,Slovenia,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y76 5g,PD2156F_EX_A_36.10.50,,Android 12,https://www.vivo.com/si/support/system-update,si,Slovenia,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33s,PD2147F_EX_A_36.19.1,,Android 12,https://www.vivo.com/si/support/system-update,si,Slovenia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.19.1,,Android 11,https://www.vivo.com/si/support/system-update,si,Slovenia,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+v21e,PD2107F_EX_A_6.6.16,4/6/22,Android 12,https://www.vivo.com/kg/support/system-update,kg,Kyrgyzstan,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+y15s,PD2140F_EX_A_1.15.0,4/6/22,Android 11,https://www.vivo.com/kg/support/system-update,kg,Kyrgyzstan,2/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y1s,PD2014F_EX_A_1.13.27,4/6/22,1,https://www.vivo.com/kg/support/system-update,kg,Kyrgyzstan,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_1.9.3,4/6/22,Android 11,https://www.vivo.com/kg/support/system-update,kg,Kyrgyzstan,3/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y21,PD2139F_EX_A_1.3.8,4/6/22,Android 11,https://www.vivo.com/kg/support/system-update,kg,Kyrgyzstan,1/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+x90 pro,PD2242F_EX_A_13.1.15.1.W30.V000L1,9/13/23,13,https://www.vivo.com/pl/support/system-update,pl,Poland,8/1/23,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 pro,PD2185F_EX_A_13.1.11.7.W30.V000L1,2/21/23,13,https://www.vivo.com/pl/support/system-update,pl,Poland,1/1/23,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.15,3/8/23,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,,Qualcomm SM8250,qualcomm sm8250
+x51 5g,PD2005F_EX_A_38.13.7,5/19/22,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,4/1/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,1/16/23,13,https://www.vivo.com/pl/support/system-update,pl,Poland,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.22,1/16/23,Android 12,https://www.vivo.com/pl/support/system-update,pl,Poland,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y35,PD2225F_EX_A_12.0.9.0.W30.V000L1,1/16/23,12,https://www.vivo.com/pl/support/system-update,pl,Poland,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y16,PD2216F_EX_A_12.0.8.29.W30.V000L1,7/12/23,12,https://www.vivo.com/pl/support/system-update,pl,Poland,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_13.1.1.4.W30.V000L1,1/16/23,13,https://www.vivo.com/pl/support/system-update,pl,Poland,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y76 5g,PD2156F_EX_A_36.10.55,1/16/23,Android 12,https://www.vivo.com/pl/support/system-update,pl,Poland,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y01,PD2140F_EX_A_36.25.1,12/7/22,Android 12,https://www.vivo.com/pl/support/system-update,pl,Poland,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y52 5g,PD2069F_EX_A_36.9.48,1/16/23,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33s,PD2147F_EX_A_36.21.4,1/16/23,Android 12,https://www.vivo.com/pl/support/system-update,pl,Poland,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.22.2,2/21/23,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,1/1/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y72 5g,PD2069F_EX_A_36.9.36,3/8/23,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,9/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y11s,PD2042F_EX_A_36.11.39,4/22/22,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,11/7/22,Android 11,https://www.vivo.com/pl/support/system-update,pl,Poland,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.12,2/21/23,Android 10,https://www.vivo.com/pl/support/system-update,pl,Poland,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,3/10/23,13,https://www.vivo.com/ro/support/system-update,ro,Romania,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 lite,PD2215F_EX_A_13.1.13.5.W30.V000L1,3/10/23,13,https://www.vivo.com/ro/support/system-update,ro,Romania,12/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+x80 pro,PD2185F_EX_A_13.1.11.1.W30.V000L1,1/16/23,13,https://www.vivo.com/ro/support/system-update,ro,Romania,12/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.15,3/10/23,Android 11,https://www.vivo.com/ro/support/system-update,ro,Romania,,Qualcomm SM8250,qualcomm sm8250
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,1/16/23,13,https://www.vivo.com/ro/support/system-update,ro,Romania,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.22,1/16/23,Android 12,https://www.vivo.com/ro/support/system-update,ro,Romania,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y35,PD2225F_EX_A_12.0.9.0.W30.V000L1,1/16/23,12,https://www.vivo.com/ro/support/system-update,ro,Romania,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y16,PD2216F_EX_A_12.0.8.29.W30.V000L1,7/12/23,12,https://www.vivo.com/ro/support/system-update,ro,Romania,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_13.1.1.4.W30.V000L1,1/16/23,13,https://www.vivo.com/ro/support/system-update,ro,Romania,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y55 5g,PD2166F_EX_A_3.19.7,1/16/23,3,https://www.vivo.com/ro/support/system-update,ro,Romania,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y33s,PD2147F_EX_A_36.21.3,1/16/23,Android 12,https://www.vivo.com/ro/support/system-update,ro,Romania,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21s,PD2138F_EX_A_36.21.1,1/16/23,Android 11,https://www.vivo.com/ro/support/system-update,ro,Romania,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,12/9/22,Android 11,https://www.vivo.com/ro/support/system-update,ro,Romania,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y72 5g,PD2069F_EX_A_36.9.48,3/10/23,Android 11,https://www.vivo.com/ro/support/system-update,ro,Romania,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y70,PD2038F_EX_A_36.8.20,6/29/22,Android 11,https://www.vivo.com/ro/support/system-update,ro,Romania,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.9,1/16/23,Android 10,https://www.vivo.com/ro/support/system-update,ro,Romania,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y11s,PD2042F_EX_A_38.16.9,1/16/23,Android 11,https://www.vivo.com/ro/support/system-update,ro,Romania,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v23e,File size,,Android 12,https://www.vivo.com/ge/support/system-update,ge,Georgia,,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v23,File size,,Android 12,https://www.vivo.com/ge/support/system-update,ge,Georgia,,Mediatek Dimensity 1200 (6 nm),mediatek dimensity 1200
+y02,ფაილის ზომა,,Android 10,https://www.vivo.com/ge/support/system-update,ge,Georgia,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y21,File size,,Android 11,https://www.vivo.com/ge/support/system-update,ge,Georgia,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,ფაილის ზომა,,Android 12,https://www.vivo.com/ge/support/system-update,ge,Georgia,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y53s,File size,,Android 11,https://www.vivo.com/ge/support/system-update,ge,Georgia,,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y22,PD2226F_EX_A_12.0.15.9.W20.V000L1,5/12/23,12,https://www.vivo.com/dz/support/system-update,dz,Algeria,1/1/23,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y02,PD2236DF_EX_A_12.0.6.2.W20.V000L1,5/12/23,Android 10,https://www.vivo.com/dz/support/system-update,dz,Algeria,2/1/23,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y35,PD2225F_EX_A_13.1.1.9.W20.V000L1,5/12/23,13,https://www.vivo.com/dz/support/system-update,dz,Algeria,2/1/23,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+v25,PD2215F_EX_A_12.0.8.5.W20.V000L1,12/1/22,12,https://www.vivo.com/ma/support/system-update,ma,Morocco,11/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v23e,PD2150F_EX_A_6.18.0,12/1/22,Android 12,https://www.vivo.com/ma/support/system-update,ma,Morocco,10/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v23 5g,PD2167BF_EX_A_12.0.14.3.W20.V000L1,10/11/22,12,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v20 se,PD2038F_EX_A_8.9.18,10/11/22,8,https://www.vivo.com/ma/support/system-update,ma,Morocco,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v20,PD2039F_EX_A_6.21.9,10/11/22,6,https://www.vivo.com/ma/support/system-update,ma,Morocco,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v19,PD1969F_EX_A_6.9.16,12/1/22,6,https://www.vivo.com/ma/support/system-update,ma,Morocco,,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_9.2.9,10/11/22,9,https://www.vivo.com/ma/support/system-update,ma,Morocco,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+y16,PD2216F_EX_A_12.0.8.28.W20.V000L1,12/1/22,12,https://www.vivo.com/ma/support/system-update,ma,Morocco,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y35,PD2225F_EX_A_12.0.8.7.W20.V000L1,12/1/22,12,https://www.vivo.com/ma/support/system-update,ma,Morocco,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y22,PD2226F_EX_A_12.0.14.2.W20.V000L1,12/1/22,12,https://www.vivo.com/ma/support/system-update,ma,Morocco,10/1/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y01,PD2140F_EX_A_6.20.4,6/15/22,Android 12,https://www.vivo.com/ma/support/system-update,ma,Morocco,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y33s,PD2147F_EX_A_6.19.1,12/1/22,Android 12,https://www.vivo.com/ma/support/system-update,ma,Morocco,10/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y15s,PD2140F_EX_A_6.20.4,6/15/22,Android 11,https://www.vivo.com/ma/support/system-update,ma,Morocco,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21,PD2139F_EX_A_6.21.0,12/1/22,Android 11,https://www.vivo.com/ma/support/system-update,ma,Morocco,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y19,PD1934F_EX_A_8.9.22,10/11/22,8,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y12s,PD2036F_EX_A_6.15.2,12/1/22,6,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20s,PD2034F_EX_A_1.9.25,10/11/22,Android 10,https://www.vivo.com/ma/support/system-update,ma,Morocco,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034F_EX_A_1.9.27,10/11/22,Android 10,https://www.vivo.com/ma/support/system-update,ma,Morocco,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y1s,PD2014F_EX_A_1.13.41,12/1/22,1,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y11,PD1930F_EX_A_6.8.55,4/22/22,6,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6582–ú,mediatek mt6582–ú
+y12,PD1901BF_EX_A_6.12.21,4/2/22,6,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y15,PD1901BF_EX_A_6.12.24,10/11/22,6,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y91c,PD1818HF_EX_A_1.22.2,10/11/22,Android 8.1 Oreo,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+s1,PD1913F_EX_A_8.7.23,1/21/22,8,https://www.vivo.com/ma/support/system-update,ma,Morocco,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+x90 pro,PD2242F_EX_A_13.1.10.4.W30.V000L1,3/2/23,13,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 9200 (4 nm),mediatek dimensity 9200
+x80 pro,PD2185F_EX_A_13.1.11.7.W30.V000L1,2/21/23,13,https://www.vivo.com/fr/support/system-update,fr,France,1/1/23,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.15,1/16/23,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,,Qualcomm SM8250,qualcomm sm8250
+x51 5g,PD2005F_EX_A_36.8.18,4/22/22,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+v23 5g,PD2167BF_EX_A_13.1.14.0.W30.V000L1,1/16/23,13,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v21 5g,PD2083F_EX_A_36.9.22,3/2/23,Android 12,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y35,PD2225F_EX_A_12.0.9.0.W30.V000L1,1/16/23,12,https://www.vivo.com/fr/support/system-update,fr,France,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y16,PD2216F_EX_A_12.0.8.29.W30.V000L1,7/12/23,12,https://www.vivo.com/fr/support/system-update,fr,France,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22s,PD2228F_EX_A_13.1.1.4.W30.V000L1,1/16/23,13,https://www.vivo.com/fr/support/system-update,fr,France,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y01,PD2140F_EX_A_36.25.1,12/8/22,Android 12,https://www.vivo.com/fr/support/system-update,fr,France,10/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+y55 5g,PD2166F_EX_A_3.19.10,2/21/23,3,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y76 5g,PD2156F_EX_A_36.10.48,11/7/22,Android 12,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y21,PD2139F_EX_A_36.19.7,12/8/22,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y21s,PD2138F_EX_A_36.22.2,2/21/23,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,1/1/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y33s,PD2147F_EX_A_36.21.3,1/16/23,Android 12,https://www.vivo.com/fr/support/system-update,fr,France,12/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y52 5g,PD2069F_EX_A_36.9.48,1/16/23,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y72 5g,PD2069F_EX_A_36.9.48,1/16/23,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y11s,PD2042F_EX_A_38.16.12,2/21/23,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y70,PD2038F_EX_A_38.9.22,11/7/22,Android 11,https://www.vivo.com/fr/support/system-update,fr,France,9/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034EF_EX_A_38.16.12,2/21/23,Android 10,https://www.vivo.com/fr/support/system-update,fr,France,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+v25,PD2215F_EX_A_12.0.8.5.W30.V000L1,12/16/22,12,https://www.vivo.com/il/support/system-update,il,Israel,,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v23 5g,PD2167F_EX_A_12.0.14.4.W30.V000L1,11/8/22,12,https://www.vivo.com/il/support/system-update,il,Israel,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+y22s,PD2228F_EX_A_12.0.8.6.W30.V000L1,12/16/22,12,https://www.vivo.com/il/support/system-update,il,Israel,11/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y35,PD2225F_EX_A_12.0.8.6.W30.V000L1,12/16/22,12,https://www.vivo.com/il/support/system-update,il,Israel,10/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21,PD2139F_EX_A_36.19.7,12/16/22,Android 11,https://www.vivo.com/il/support/system-update,il,Israel,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_36.16.1,11/8/22,Android 12,https://www.vivo.com/il/support/system-update,il,Israel,7/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y76 5g,PD2156F_EX_A_36.10.50,12/16/22,Android 12,https://www.vivo.com/il/support/system-update,il,Israel,10/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+nex 3,PD1924F_EX_A_6.17.5,3/15/22,Android 10,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SM8150,Snapdragon 855+ (7 nm)","qualcomm sm8150,snapdragon 855+"
+y55,PD2201F_EX_A_12.0.11.0.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,8/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y16,PD2216F_EX_A_12.0.7.40.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y22,PD2226F_EX_A_12.0.13.2.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,9/1/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z helio g85
+y15s,PD2140F_EX_A_6.20.4,6/15/22,Android 11,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_6.16.1,10/12/22,Android 12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,7/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_6.19.7,10/12/22,Android 11,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y53s,PD2103F_EX_A_6.18.1,10/12/22,Android 11,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,7/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y31,PD2050F_EX_A_6.8.0,10/12/22,6,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+y1s,PD2014F_EX_A_1.13.36,10/12/22,1,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y20,PD2034F_EX_A_1.9.27,10/12/22,Android 10,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y12s,PD2036F_EX_A_6.13.0,4/22/22,6,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y30,PD1987F_EX_A_6.17.2,10/12/22,6,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y19,PD1934F_EX_A_8.9.22,10/12/22,8,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y12,PD1901BF_EX_A_6.11.15,6/23/21,6,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,2/1/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17,PD1901F_EX_A_1.58.4,10/12/22,1,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y93lite,PD1818F_EX_A_1.20.12,5/8/21,Android 8.1 Oreo,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439,snapdragon 439"
+y91c,PD1818HF_EX_A_1.22.2,10/12/22,Android 8.1 Oreo,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+x60 pro,PD2059F_EX_A_6.9.8,10/12/22,Android 11,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Qualcomm SM8250,qualcomm sm8250
+x50 pro,PD2005F_EX_A_8.13.7,6/15/22,Android 11,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+x50,PD2006F_EX_A_8.18.9,10/12/22,8,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+v25 pro,PD2204F_EX_A_12.0.8.13.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,9/1/22,Mediatek Dimensity 1300 (6 nm),mediatek dimensity 1300
+v25e,PD2214F_EX_A_12.0.7.3.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,9/1/22,Mediatek Helio G99 (6 nm),mediatek helio g99
+v25,PD2215F_EX_A_12.0.6.7.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,8/1/22,Mediatek Dimensity 900 (6 nm),mediatek dimensity 900
+v23 5g,PD2167BF_EX_A_12.0.14.3.W20.V000L1,10/12/22,12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek Dimensity 920 (6 nm),mediatek dimensity 920
+v23e,PD2150F_EX_A_1.13.8,4/2/22,Android 12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,3/1/22,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781 helio g96
+v21e,PD2107F_EX_A_6.7.9,10/12/22,Android 12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v21,PD2083F_EX_A_6.8.22,10/12/22,Android 12,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v20,PD2039F_EX_A_6.21.9,10/12/22,6,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 se,PD2038F_EX_A_8.9.18,10/12/22,8,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v17,PD1945F_EX_A_9.8.14,10/12/22,9,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v17 pro,PD1931F_EX_A_9.2.9,10/12/22,9,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v17 neo,PD1913F_EX_A_1.9.5,10/13/21,1,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+v15 pro（6+128）,PD1832F_EX_A_8.8.1,9/17/21,8,https://www.vivo.com/kz/support/system-update,kz,Kazakhstan,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+y53s,PD2103F_EX_A_1.9.6,,Android 11,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,4/1/22,"Qualcomm SM4350,Snapdragon 480 5G (8 nm)","qualcomm sm4350,snapdragon 480 5g"
+y12s,PD2036F_EX_A_6.13.0,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,3/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y51,PD2050F_EX_A_6.7.20,,Android 11,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+y20s,PD2034F_EX_A_1.9.25,,Android 10,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,5/1/22,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y20,PD2034F_EX_A_1.9.8,,Android 10,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,8/1/21,"Qualcomm SM4250,Snapdragon 460 (11 nm)","qualcomm sm4250,snapdragon 460"
+y1s,PD2014F_EX_A_1.13.31,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y11(2gb),PD1930DF_EX_A_6.8.53,,Android 10,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439, snapdragon 439"
+y30,PD1987F_EX_A_1.14.32,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y50,PD1965F_EX_A_1.13.14,,Android 10,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,4/1/22,"Qualcomm SM6125,Snapdragon 665 (11 nm)","qualcomm sm6125,snapdragon 665"
+y19,PD1934F_EX_A_8.9.21,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+y11(3gb),PD1930F_EX_A_6.8.55,,Android 10,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Qualcomm SDM439 Snapdragon 439 (12 nm),"qualcomm sdm439,snapdragon 439"
+y12,PD1901BF_EX_A_6.12.21,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y90,PD1917F_EX_A_1.25.10,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y15,PD1901BF_EX_A_6.12.12,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y17,PD1901F_EX_A_1.57.3,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y91c,PD1818GF_EX_A_1.21.21,,Android 8.1 Oreo,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+y91,PD1818CF_EX_A_1.12.2,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y95,PD1818F_EX_A_1.21.1,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+y81i,PD1732CF_EX_A_1.26.1,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761 helio a22
+y85,PD1803BF_EX_A_1.23.3,,Android 8.1 Oreo,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Qualcomm MSM8953-Pro Snapdragon 626 (14 nm),"qualcomm msm8953,snapdragon 626"
+y81,PD1732F_EX_A_2.6.3,,2,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762 helio p22
+y71,PD1731F_EX_A_1.19.2,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y65,PD1621BF_EX_A_1.18.2,,1,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+y53,PD1628F_EX_A_3.2.2,,3,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+s1 pro,PD1945F_EX_A_8.13.11,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+s1,PD1913F_EX_A_9.9.20,,9,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6768 Helio P65 (12 nm),mediatek mt6768 helio p65
+v21 5g,PD2083F_EX_A_6.8.14,,Android 12,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,5/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+v21e,PD2107F_EX_A_6.6.22,,Android 12,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,5/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20,PD2039F_EX_A_6.18.1,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,3/1/22,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+v20 se,PD2038F_EX_A_6.9.8,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,3/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+v19,PD1969F_EX_A_6.9.15,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,5/1/22,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+v17 pro,PD1931F_EX_A_8.10.0,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v15,PD1831F_EX_A_8.1.35,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Mediatek MT6771 Helio P70 (12 nm),mediatek mt6771 helio p70
+v15 pro,PD1832F_EX_A_8.8.1,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+v11 pro,PD1814F_EX_A_8.8.4,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v11,PD1813F_EX_A_8.8.16,,8,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+v9 youth,PD1730BF_EX_A_6.12.13,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+v9,PD1730F_EX_A_6.13.11,,6,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,Qualcomm MSM8953,qualcomm msm8953
+v7,PD1718F_EX_A_3.13.7,,3,https://www.vivo.com/lk/support/system-update,lk,Sri Lanka,,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+y33t,PD2142F_EX_A_11.0.8.3.W20.V000L1,,11,https://www.vivo.com/pg/support/system-update,pg,Papua New Guinea,4/1/22,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y21,PD2139F_EX_A_1.6.3,,Android 11,https://www.vivo.com/pg/support/system-update,pg,Papua New Guinea,6/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y15s,PD2140F_EX_A_6.20.4,,Android 11,https://www.vivo.com/pg/support/system-update,pg,Papua New Guinea,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y01,PD2140F_EX_A_6.20.4,,Android 12,https://www.vivo.com/pg/support/system-update,pg,Papua New Guinea,4/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+v29,PD2283F_EX_A_13.0.12.8.W30.V000L1,11/23/23,13,https://www.vivo.com/pt/support/system-update,pt,Portugal,,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+v29 lite,PD2271F_EX_A_13.0.7.0.W30.V000L1,10/11/23,13,https://www.vivo.com/pt/support/system-update,pt,Portugal,,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+v21 5g,PD2083F_EX_A_36.9.21,12/16/22,Android 12,https://www.vivo.com/pt/support/system-update,pt,Portugal,11/1/22,Mediatek Dimensity 800U (7 nm),mediatek dimensity 800u
+y22s,PD2228F_EX_A_12.0.8.8.W30.V000L1,11/23/23,12,https://www.vivo.com/pt/support/system-update,pt,Portugal,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y36,PD2280F_EX_A_13.0.9.8.W30.V000L1,10/11/23,13,https://www.vivo.com/pt/support/system-update,pt,Portugal,,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+y16,PD2216F_EX_A_12.0.10.7.W30.V000L1,10/9/23,12,https://www.vivo.com/pt/support/system-update,pt,Portugal,11/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+y33s,PD2147F_EX_A_3.13.17,11/21/23,Android 12,https://www.vivo.com/pt/support/system-update,pt,Portugal,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y72 5g,PD2069F_EX_A_36.9.46,12/16/22,Android 11,https://www.vivo.com/pt/support/system-update,pt,Portugal,11/1/22,Mediatek Dimensity 700 (7 nm),mediatek dimensity 700
+y21s,D2138F_EX_A_36.19.1,11/21/23,Android 11,https://www.vivo.com/pt/support/system-update,pt,Portugal,,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+y21,PD2139F_EX_A_36.19.7,10/10/23,Android 11,https://www.vivo.com/pt/support/system-update,pt,Portugal,9/1/22,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765 helio p35
+x80 pro,PD2185F_EX_A_12.0.14.1.W30.V000L1,10/9/23,12,https://www.vivo.com/pt/support/system-update,pt,Portugal,11/1/22,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm), Mediatek Dimensity 9000 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1,mediatek dimensity 9000"
+x60 pro,PD2059F_EX_A_36.7.14,12/16/22,Android 11,https://www.vivo.com/pt/support/system-update,pt,Portugal,11/1/22,Qualcomm SM8250,qualcomm sm8250

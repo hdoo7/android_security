@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-X218B,TUR,028338231208,SM-X218B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X218BXXS1BXD1,U(Android 14),2024-04-23,2024-02-01,Galaxy Tab A9+ 5G ,https://doc.samsungmobile.com/SM-X218B/028338231208/eng.html
+SM-X218B,TUR,028338231208,SM-X218B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X218BXXU1BXA7,U(Android 14),2024-02-21,2023-12-01,Galaxy Tab A9+ 5G ,https://doc.samsungmobile.com/SM-X218B/028338231208/eng.html
+SM-X218B,TUR,028338231208,SM-X218B/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,X218BXXS1AWK2,T(Android 13),2023-12-07,2023-10-01,Galaxy Tab A9+ 5G ,https://doc.samsungmobile.com/SM-X218B/028338231208/eng.html

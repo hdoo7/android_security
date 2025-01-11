@@ -1,0 +1,8 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G5700,CHC,000018170406,SM-G5700/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G5700ZCU3CSK2,Oreo(Android 8.0.0),2019-11-26,2019-09-01,Galaxy On5 ⑥ ,https://doc.samsungmobile.com/SM-G5700/000018170406/eng.html
+SM-G5700,CHC,000018170406,SM-G5700/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G5700ZCU2CSB1,Oreo(Android 8.0.0),2019-03-12,2019-01-01,Galaxy On5 ⑥ ,https://doc.samsungmobile.com/SM-G5700/000018170406/eng.html
+SM-G5700,CHC,000018170406,SM-G5700/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G5700ZCS2BRH1,Nougat(Android 7.0),2018-08-30,2018-08-01,Galaxy On5 ⑥ ,https://doc.samsungmobile.com/SM-G5700/000018170406/eng.html
+SM-G5700,CHC,000018170406,SM-G5700/CHC, China (Open China),China,Open China,Asia,Eastern Asia,G5700ZCU2BRG3,Nougat(Android 7.0),2018-08-06,2018-07-01,Galaxy On5 ⑥ ,https://doc.samsungmobile.com/SM-G5700/000018170406/eng.html
+SM-G5700,TGY,000045170406,SM-G5700/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,G5700ZHU3CSK2,Oreo(Android 8.0.0),2019-11-26,2019-09-01,Galaxy J5 Prime ,https://doc.samsungmobile.com/SM-G5700/000045170406/eng.html
+SM-G5700,TGY,000045170406,SM-G5700/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,G5700ZHU2CSA1,Oreo(Android 8.0.0),2019-02-12,2019-01-01,Galaxy J5 Prime ,https://doc.samsungmobile.com/SM-G5700/000045170406/eng.html
+SM-G5700,TGY,000045170406,SM-G5700/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,G5700ZHU2BRH1,Nougat(Android 7.0),2018-09-20,2018-08-01,Galaxy J5 Prime ,https://doc.samsungmobile.com/SM-G5700/000045170406/eng.html

@@ -1,0 +1,144 @@
+timestamp,device,period
+2021-06-23,Galaxy Fold,monthly
+2021-06-23,Galaxy Fold 5G,monthly
+2021-06-23,Galaxy Z Fold2,monthly
+2021-06-23,Galaxy Z Fold2 5G,monthly
+2021-06-23,Galaxy Z Flip,monthly
+2021-06-23,Galaxy Z Flip 5G,monthly
+2021-06-23,Galaxy S10,monthly
+2021-06-23,Galaxy S10+,monthly
+2021-06-23,Galaxy S10e,monthly
+2021-06-23,Galaxy S10 5G,monthly
+2021-06-23,Galaxy S10 Lite,monthly
+2021-06-23,Galaxy S20,monthly
+2021-06-23,Galaxy S20 5G,monthly
+2021-06-23,Galaxy S20+,monthly
+2021-06-23,Galaxy S20+ 5G,monthly
+2021-06-23,Galaxy S20 Ultra,monthly
+2021-06-23,Galaxy S20 Ultra 5G,monthly
+2021-06-23,Galaxy S20 FE,monthly
+2021-06-23,Galaxy S20 FE 5G,monthly
+2021-06-23,Galaxy S21 5G,monthly
+2021-06-23,Galaxy S21+ 5G,monthly
+2021-06-23,Galaxy S21 Ultra 5G,monthly
+2021-06-23,Galaxy Note9,monthly
+2021-06-23,Galaxy Note10,monthly
+2021-06-23,Galaxy Note10 5G,monthly
+2021-06-23,Galaxy Note10+,monthly
+2021-06-23,Galaxy Note10+ 5G,monthly
+2021-06-23,Galaxy Note10 Lite,monthly
+2021-06-23,Galaxy Note20,monthly
+2021-06-23,Galaxy Note20 5G,monthly
+2021-06-23,Galaxy Note20 Ultra,monthly
+2021-06-23,Galaxy Note20 Ultra 5G,monthly
+2021-06-23,Galaxy A52,monthly
+2021-06-23,Galaxy A52 5G,monthly
+2021-06-23,Enterprise Models: Galaxy A50,monthly
+2021-06-23,Galaxy XCover4s,monthly
+2021-06-23,Galaxy Xcover FieldPro,monthly
+2021-06-23,Galaxy Xcover Pro,monthly
+2021-06-23,Galaxy Xcover5,monthly
+2021-06-23,Galaxy S8 Active,quarterly
+2021-06-23,Galaxy S9,quarterly
+2021-06-23,Galaxy S9+,quarterly
+2021-06-23,Galaxy Note8,quarterly
+2021-06-23,Galaxy A10e,quarterly
+2021-06-23,Galaxy A10s,quarterly
+2021-06-23,Galaxy A20s,quarterly
+2021-06-23,Galaxy A30s,quarterly
+2021-06-23,Galaxy A40,quarterly
+2021-06-23,Galaxy A50s,quarterly
+2021-06-23,Galaxy A70s,quarterly
+2021-06-23,Galaxy A80,quarterly
+2021-06-23,Galaxy A90 5G,quarterly
+2021-06-23,Galaxy A01,quarterly
+2021-06-23,Galaxy A01 Core,quarterly
+2021-06-23,Galaxy A11,quarterly
+2021-06-23,Galaxy A21,quarterly
+2021-06-23,Galaxy A21s,quarterly
+2021-06-23,Galaxy A31,quarterly
+2021-06-23,Galaxy A41,quarterly
+2021-06-23,Galaxy A51,quarterly
+2021-06-23,Galaxy A51 5G,quarterly
+2021-06-23,Galaxy A71,quarterly
+2021-06-23,Galaxy A71 5G,quarterly
+2021-06-23,Galaxy A02,quarterly
+2021-06-23,Galaxy A02s,quarterly
+2021-06-23,Galaxy A12,quarterly
+2021-06-23,Galaxy A32,quarterly
+2021-06-23,Galaxy A32 5G,quarterly
+2021-06-23,Galaxy A42 5G,quarterly
+2021-06-23,Galaxy A72,quarterly
+2021-06-23,Galaxy A82 5G,quarterly
+2021-06-23,Galaxy M10s,quarterly
+2021-06-23,Galaxy M30s,quarterly
+2021-06-23,Galaxy M40,quarterly
+2021-06-23,Galaxy M01,quarterly
+2021-06-23,Galaxy M11,quarterly
+2021-06-23,Galaxy M21,quarterly
+2021-06-23,Galaxy M31,quarterly
+2021-06-23,Galaxy M31s,quarterly
+2021-06-23,Galaxy M51,quarterly
+2021-06-23,Galaxy M12,quarterly
+2021-06-23,Galaxy F62,quarterly
+2021-06-23,Galaxy F52 5G,quarterly
+2021-06-23,Galaxy Tab A 8 (2019),quarterly
+2021-06-23,Galaxy Tab A 8.4 (2020),quarterly
+2021-06-23,Galaxy Tab A7,quarterly
+2021-06-23,Galaxy Tab A7 Lite,quarterly
+2021-06-23,Galaxy Tab Active2,quarterly
+2021-06-23,Galaxy Tab Active Pro,quarterly
+2021-06-23,Galaxy Tab Active3,quarterly
+2021-06-23,Galaxy Tab S6,quarterly
+2021-06-23,Galaxy Tab S6 5G,quarterly
+2021-06-23,Galaxy Tab S6 Lite,quarterly
+2021-06-23,Galaxy Tab S7,quarterly
+2021-06-23,Galaxy Tab S7+,quarterly
+2021-06-23,Galaxy Tab S7 FE,quarterly
+2021-06-23,W20 5G,quarterly
+2021-06-23,W21 5G,quarterly
+2021-06-23,Enterprise Models: Galaxy A8 (2018),quarterly
+2021-06-23,Galaxy S8 Lite,biannual
+2021-06-23,Galaxy Note FE,biannual
+2021-06-23,Galaxy A6,biannual
+2021-06-23,Galaxy A6+,biannual
+2021-06-23,Galaxy A7 (2018),biannual
+2021-06-23,Galaxy A8+ (2018),biannual
+2021-06-23,Galaxy A8 Star,biannual
+2021-06-23,Galaxy A8s,biannual
+2021-06-23,Galaxy A9 (2018),biannual
+2021-06-23,Galaxy A2 Core,biannual
+2021-06-23,Galaxy A10,biannual
+2021-06-23,Galaxy A20e,biannual
+2021-06-23,Galaxy A20,biannual
+2021-06-23,Galaxy A30,biannual
+2021-06-23,Galaxy A60,biannual
+2021-06-23,Galaxy A70,biannual
+2021-06-23,Galaxy J2 Core,biannual
+2021-06-23,Galaxy J3 (2017),biannual
+2021-06-23,Galaxy J3 Top,biannual
+2021-06-23,Galaxy J4,biannual
+2021-06-23,Galaxy J4+,biannual
+2021-06-23,Galaxy J4 Core,biannual
+2021-06-23,Galaxy J5 (2017),biannual
+2021-06-23,Galaxy J6,biannual
+2021-06-23,Galaxy J6+,biannual
+2021-06-23,Galaxy J7 (2017),biannual
+2021-06-23,Galaxy J7 Duo,biannual
+2021-06-23,Galaxy J7 Prime2,biannual
+2021-06-23,Galaxy J7 Top,biannual
+2021-06-23,Galaxy J7 Max,biannual
+2021-06-23,Galaxy J7 Neo,biannual
+2021-06-23,Galaxy J7+,biannual
+2021-06-23,Galaxy J8,biannual
+2021-06-23,Galaxy M10,biannual
+2021-06-23,Galaxy M20,biannual
+2021-06-23,Galaxy M30,biannual
+2021-06-23,Galaxy Tab A (2017),biannual
+2021-06-23,Galaxy Tab A 10.5 (2018),biannual
+2021-06-23,Galaxy Tab S4,biannual
+2021-06-23,Galaxy Tab E 8 Refresh,biannual
+2021-06-23,Galaxy Tab A 10.1 (2019),biannual
+2021-06-23,Galaxy Tab A with S pen,biannual
+2021-06-23,Galaxy Tab S5e,biannual
+2021-06-23,Galaxy View2,biannual

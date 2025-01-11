@@ -1,0 +1,35 @@
+id,device,last_android_version,last_update_date,guaranteed_android_version_updates,guaranteed_security_updates
+sailfish,Pixel,10.0.0,12/1/19,18-Oct,19-Oct
+walleye,Pixel 2,11.0.0,12/1/20,20-Oct,20-Oct
+taimen,Pixel 2 XL,11.0.0,12/1/20,20-Oct,20-Oct
+blueline,Pixel 3,12.0.0,6/1/22,21-Oct,21-Oct
+crosshatch,Pixel 3 XL,12.0.0,6/1/22,21-Oct,21-Oct
+sargo,Pixel 3a,12.1.0,9/1/22,22-May,22-May
+bonito,Pixel 3a XL,12.1.0,9/1/22,22-May,22-May
+flame,Pixel 4,13.0.0,2/1/23,22-Oct,22-Oct
+coral,Pixel 4 XL,13.0.0,2/1/23,22-Oct,22-Oct
+sunfish,Pixel 4a,13.0.0,3/1/23,23-Aug,23-Aug
+bramble,Pixel 4a (5G),13.0.0,3/1/23,23-Nov,23-Nov
+redfin,Pixel 5,13.0.0,3/1/23,23-Oct,23-Oct
+barbet,Pixel 5a,13.0.0,3/1/23,24-Aug,24-Aug
+oriole,Pixel 6,13.0.0,3/1/23,24-Oct,26-Oct
+raven,Pixel 6 Pro,13.0.0,3/1/23,24-Oct,26-Oct
+bluejay,Pixel 6a,13.0.0,3/1/23,25-Jul,27-Jul
+panther,Pixel 7,13.0.0,3/1/23,25-Oct,27-Oct
+cheetah,Pixel 7 Pro,13.0.0,3/1/23,25-Oct,27-Oct
+,Pixel 7a,,,26-May,28-May
+,Pixel 8,,,30-Oct,30-Oct
+,Pixel 8 Pro,,,30-Oct,30-Oct
+,Pixel 8a,,,31-May,31-May
+ryu,Pixel C,8.1.0,6/1/19,,
+,Pixel Fold,,,26-Jun,28-Jun
+marlin,Pixel XL,10.0.0,12/1/19,18-Oct,19-Oct
+,Nexus 10,,,14-Nov,15-Nov
+,Nexus 4,,,14-Nov,15-Nov
+,Nexus 5,,,15-Oct,16-Oct
+,Nexus 5X,,,17-Sep,18-Nov
+,Nexus 6,,,16-Oct,17-Oct
+,Nexus 6P,,,17-Sep,18-Nov
+,Nexus 7 (2012),,,14-Jun,15-Jun
+,Nexus 7 (2013),,,15-Jul,16-Aug
+,Nexus 9,,,16-Oct,17-Oct

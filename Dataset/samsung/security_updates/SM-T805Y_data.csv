@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T805Y,TEL,023534220811,SM-T805Y/TEL, Australia (Telstra),Australia,Telstra,Oceania,Australia and New Zealand,T805YDOU1CVG1,Marshmallow(Android 6.0.1),2022-08-11,2016-11-01,GALAXY Tab S ,https://doc.samsungmobile.com/SM-T805Y/023534220811/eng.html
+SM-T805Y,TNZ,023498220809,SM-T805Y/TNZ, New Zealand,New Zealand,No-carrier,Oceania,Australia and New Zealand,T805YDOU1CVG1,Marshmallow(Android 6.0.1),2022-08-09,2016-11-01,GALAXY Tab S ,https://doc.samsungmobile.com/SM-T805Y/023498220809/eng.html
+SM-T805Y,XSA,023375220802,SM-T805Y/XSA, Australia,Australia,No-carrier,Oceania,Australia and New Zealand,T805YDOU1CVG1,Marshmallow(Android 6.0.1),2022-08-01,2016-11-01,GALAXY Tab S ,https://doc.samsungmobile.com/SM-T805Y/023375220802/eng.html

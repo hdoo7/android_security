@@ -1,0 +1,19 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDS5CWA1,Q(Android 10),2023-02-10,2023-01-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDS4CVG1,Q(Android 10),2022-09-01,2022-06-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDS4CVB1,Q(Android 10),2022-03-25,2022-01-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU4CUF3,Q(Android 10),2021-07-20,2021-06-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDS4CUD1,Q(Android 10),2021-05-31,2021-04-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDS4CTL2,Q(Android 10),2021-01-08,2020-12-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU3CTK3,Q(Android 10),2020-11-24,2020-09-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU3CTI3,Q(Android 10),2020-10-06,2020-09-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU3CTGC,Q(Android 10),2020-08-13,2020-07-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU3BTE1,Pie(Android 9),2020-06-11,2020-05-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDS3BTB4,Pie(Android 9),2020-03-04,2020-03-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU2BSJ4,Pie(Android 9),2019-12-13,2019-10-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU2BSH2,Pie(Android 9),2019-09-03,2019-08-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU1BSF2,Pie(Android 9),2019-06-28,2019-05-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU1BSF1,Pie(Android 9),2019-06-10,2019-05-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU1BSEA,Pie(Android 9),2019-05-29,2019-05-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU1ASB4,Oreo(Android 8.1.0),2019-02-26,2019-02-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html
+SM-M105F,INS,005900190507,SM-M105F/INS, India,India,No-carrier,Asia,Southern Asia,M105FDDU1ASA7,Oreo(Android 8.1.0),2019-01-24,2019-01-01,Galaxy M10 ,https://doc.samsungmobile.com/SM-M105F/005900190507/eng.html

@@ -1,0 +1,19 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU8CWA1,R(Android 11),2023-02-15,2022-12-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU8CVG2,R(Android 11),2022-09-15,2022-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU8CVB1,R(Android 11),2022-03-15,2022-02-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU8CUJ1,R(Android 11),2021-11-09,2021-10-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU8CUF4,R(Android 11),2021-06-24,2021-06-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXS8BUC2,Q(Android 10),2021-04-24,2021-03-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU7BUA1,Q(Android 10),2021-02-23,2021-01-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU6BTK1,Q(Android 10),2020-12-16,2020-11-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU5BTH1,Q(Android 10),2020-09-21,2020-09-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU4BTG1,Q(Android 10),2020-07-18,2020-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU4BTFK,Q(Android 10),2020-07-13,2020-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXS4ATE1,Pie(Android 9),2020-06-03,2020-05-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXS4ATB4,Pie(Android 9),2020-04-02,2020-03-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU3ASL2,Pie(Android 9),2020-03-24,2019-12-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU3ASK5,Pie(Android 9),2019-12-30,2019-12-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXS3ASJ5,Pie(Android 9),2019-11-15,2019-11-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU2ASH6,Pie(Android 9),2019-09-19,2019-08-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html
+SM-T517,TUR,007098190610,SM-T517/TUR, Turkey,Turkey,No-carrier,Asia,Western Asia,T517JXU1ASEF,Pie(Android 9),2019-06-10,2019-05-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T517/007098190610/eng.html

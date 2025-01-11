@@ -1,0 +1,27 @@
+id,device,last_android_version,last_update_date,chipset,keyword
+"""akita""",pixel 8a,Android 14.0.0,2024-05-01,Google Tensor G3 (4 nm),google tensor g3
+"""husky""",pixel 8 pro,Android 14.0.0,2024-05-01,Google Tensor G3 (4 nm),google tensor g3
+"""shiba""",pixel 8,Android 14.0.0,2024-05-01,Google Tensor G3 (4 nm),google tensor g3
+"""felix""",pixel fold,Android 14.0.0,2024-05-01,Google Tensor G2 (5 nm),google tensor g2
+"""tangorpro""",pixel tablet,Android 14.0.0,2024-05-01,Google Tensor G2 (5 nm),google tensor g2
+"""lynx""",pixel 7a,Android 14.0.0,2024-05-01,Google Tensor G2 (5 nm),google tensor g2
+"""cheetah""",pixel 7 pro,Android 13.0.0,2023-03-01,Google Tensor G2 (5 nm),google tensor g2
+"""panther""",pixel 7,Android 13.0.0,2023-03-01,Google Tensor G2 (5 nm),google tensor g2
+"""bluejay""",pixel 6a,Android 13.0.0,2023-03-01,Google Tensor (5 nm),google tensor
+"""oriole""",pixel 6,Android 13.0.0,2023-03-01,Google Tensor (5 nm),google tensor
+"""raven""",pixel 6 pro,Android 13.0.0,2023-03-01,Google Tensor (5 nm),google tensor
+"""barbet""",pixel 5a,Android 13.0.0,2023-03-01,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),qualcomm sm7250 snapdragon 765g 5g
+"""redfin""",pixel 5,Android 13.0.0,2023-03-01,Qualcomm SM7250 Snapdragon 765G 5G (7 nm),qualcomm sm7250 snapdragon 765g 5g
+"""bramble""",pixel 4a (5g),Android 13.0.0,2023-03-01,Qualcomm SDM730 Snapdragon 730G (8 nm),qualcomm sdm730 snapdragon 730g
+"""sunfish""",pixel 4a,Android 13.0.0,2023-03-01,Qualcomm SDM730 Snapdragon 730G (8 nm),qualcomm sdm730 snapdragon 730g
+"""coral""",pixel 4 xl,Android 13.0.0,2023-02-01,Qualcomm SM8150 Snapdragon 855 (7 nm),qualcomm sm8150 snapdragon 855
+"""flame""",pixel 4,Android 13.0.0,2023-02-01,Qualcomm SM8150 Snapdragon 855 (7 nm),qualcomm sm8150 snapdragon 855
+"""bonito""",pixel 3a xl,Android 12.1.0,2022-09-01,Qualcomm SDM670 Snapdragon 670 (10 nm),qualcomm sdm670 snapdragon 670
+"""sargo""",pixel 3a,Android 12.1.0,2022-09-01,Qualcomm SDM670 Snapdragon 670 (10 nm),qualcomm sdm670 snapdragon 670
+"""crosshatch""",pixel 3 xl,Android 12.0.0,2022-06-01,Qualcomm SDM845 Snapdragon 845 (10 nm),qualcomm sdm845 snapdragon 845
+"""blueline""",pixel 3,Android 12.0.0,2022-06-01,Qualcomm SDM845 Snapdragon 845 (10 nm),qualcomm sdm845 snapdragon 845
+"""taimen""",pixel 2 xl,Android 11.0.0,2020-12-01,Qualcomm MSM8998 Snapdragon 835 (10 nm),qualcomm msm8998 snapdragon 835
+"""walleye""",pixel 2,Android 11.0.0,2020-12-01,Qualcomm MSM8998 Snapdragon 835 (10 nm),qualcomm msm8998 snapdragon 835
+"""marlin""",pixel xl,Android 10.0.0,2019-12-01,Qualcomm MSM8996 Snapdragon 821 (14 nm),qualcomm msm8996 snapdragon 821
+"""sailfish""",pixel,Android 10.0.0,2019-12-01,Qualcomm MSM8996 Snapdragon 821 (14 nm),qualcomm msm8996 snapdragon 821
+"""ryu""",pixel c,Android 8.1.0,2019-06-01,Nvidia Tegra X1,nvidia tegra x1

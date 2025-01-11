@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J327R6,LRA,004999190410,SM-J327R6/LRA, USA (Bluegrass Cellular),USA,Bluegrass Cellular,Americas,Northern America,J327R6WWS2BSC2,Oreo(Android 8.1.0),2019-04-09,2019-03-01,Galaxy J3 ,https://doc.samsungmobile.com/SM-J327R6/004999190410/eng.html

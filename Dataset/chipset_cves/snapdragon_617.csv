@@ -1,0 +1,19 @@
+keyword,cpe_vendor,cpe,cve
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:sd617:-:*:*:*:*:*:*:*,CVE-2018-11982
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:sd617:-:*:*:*:*:*:*:*,CVE-2018-11277
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:sd617:-:*:*:*:*:*:*:*,CVE-2018-11267
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:sd617:-:*:*:*:*:*:*:*,CVE-2017-18314
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:sd617:-:*:*:*:*:*:*:*,CVE-2017-18301
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:sd617:-:*:*:*:*:*:*:*,CVE-2017-18280
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:snapdragon_617:-:*:*:*:*:*:*:*,CVE-2023-33020
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:snapdragon_617:-:*:*:*:*:*:*:*,CVE-2023-33019
+snapdragon 617,qualcomm,cpe:2.3:h:qualcomm:snapdragon_617_processor:-:*:*:*:*:*:*:*,CVE-2023-33059
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:sd617_firmware:-:*:*:*:*:*:*:*,CVE-2018-11982
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:sd617_firmware:-:*:*:*:*:*:*:*,CVE-2018-11277
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:sd617_firmware:-:*:*:*:*:*:*:*,CVE-2018-11267
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:sd617_firmware:-:*:*:*:*:*:*:*,CVE-2017-18314
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:sd617_firmware:-:*:*:*:*:*:*:*,CVE-2017-18301
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:sd617_firmware:-:*:*:*:*:*:*:*,CVE-2017-18280
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:snapdragon_617_firmware:-:*:*:*:*:*:*:*,CVE-2023-33020
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:snapdragon_617_firmware:-:*:*:*:*:*:*:*,CVE-2023-33019
+snapdragon 617,qualcomm,cpe:2.3:o:qualcomm:snapdragon_617_processor_firmware:-:*:*:*:*:*:*:*,CVE-2023-33059

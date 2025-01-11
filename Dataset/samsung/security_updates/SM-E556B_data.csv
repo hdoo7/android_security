@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-E556B,INS,029907240426,SM-E556B/INS, India,India,No-carrier,Asia,Southern Asia,E556BXXU2AXE8,U(Android 14),2024-06-05,2024-05-01,Galaxy F55 5G ,https://doc.samsungmobile.com/SM-E556B/029907240426/eng.html
+SM-E556B,INS,029907240426,SM-E556B/INS, India,India,No-carrier,Asia,Southern Asia,E556BXXU2AXE5,U(Android 14),2024-05-23,2024-05-01,Galaxy F55 5G ,https://doc.samsungmobile.com/SM-E556B/029907240426/eng.html
+SM-E556B,INS,029907240426,SM-E556B/INS, India,India,No-carrier,Asia,Southern Asia,E556BXXU1AXD7,U(Android 14),2024-04-25,2024-04-01,Galaxy F55 5G ,https://doc.samsungmobile.com/SM-E556B/029907240426/eng.html

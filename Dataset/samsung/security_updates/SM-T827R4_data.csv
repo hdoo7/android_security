@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T827R4,USC,005564190426,SM-T827R4/USC, USA (US Cellular),USA,US Cellular,Americas,Northern America,T827R4TYS3BSD1,Oreo(Android 8.0.0),2019-04-25,2019-04-01,Galaxy Tab S3 ,https://doc.samsungmobile.com/SM-T827R4/005564190426/eng.html

@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C5000,CHC,000008170406,SM-C5000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5000ZCU1CSA1,Oreo(Android 8.0.0),2019-01-17,2019-01-01,Galaxy C5 ,https://doc.samsungmobile.com/SM-C5000/000008170406/eng.html
+SM-C5000,CHC,000008170406,SM-C5000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5000ZCU1CRK2,Oreo(Android 8.0.0),2018-12-05,2018-08-01,Galaxy C5 ,https://doc.samsungmobile.com/SM-C5000/000008170406/eng.html
+SM-C5000,CHC,000008170406,SM-C5000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5000ZCU1BRH1,Nougat(Android 7.0),2018-08-16,2018-08-01,Galaxy C5 ,https://doc.samsungmobile.com/SM-C5000/000008170406/eng.html
+SM-C5000,TGY,000041170406,SM-C5000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C5000ZHU1CSA1,Oreo(Android 8.0.0),2019-02-01,2019-01-01,Galaxy C5 ,https://doc.samsungmobile.com/SM-C5000/000041170406/eng.html
+SM-C5000,TGY,000041170406,SM-C5000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C5000ZHU1CRJ5,Oreo(Android 8.0.0),2018-12-06,2018-08-01,Galaxy C5 ,https://doc.samsungmobile.com/SM-C5000/000041170406/eng.html

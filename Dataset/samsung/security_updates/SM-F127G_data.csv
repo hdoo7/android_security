@@ -1,0 +1,25 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXS8DXE4,T(Android 13),2024-06-10,2024-05-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXS7DWL1,T(Android 13),2024-01-05,2023-12-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXS6DWK1,T(Android 13),2023-11-28,2023-11-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU6DWI3,T(Android 13),2023-10-17,2023-08-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU5DWF2,T(Android 13),2023-06-28,2023-06-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU4DWD1,T(Android 13),2023-04-24,2023-03-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXS4CWB1,T(Android 13),2023-02-20,2023-02-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU3CWA2,T(Android 13),2023-01-25,2022-11-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU3CWA1,T(Android 13),2023-01-05,2022-11-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU3CVL4,T(Android 13),2023-01-02,2022-11-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU3BVG2,S(Android 12),2022-08-30,2022-06-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GXXU3BVG1,S(Android 12),2022-08-02,2022-06-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDS3AVF1,R(Android 11),2022-07-01,2022-06-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU3AVD1,R(Android 11),2022-05-20,2022-02-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDS3AUL1,R(Android 11),2022-02-02,2021-12-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU3AUJ3,R(Android 11),2021-12-31,2021-09-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU2AUH2,R(Android 11),2021-09-07,2021-07-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDS2AUE1,R(Android 11),2021-06-18,2021-05-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU1AUD3,R(Android 11),2021-05-26,2021-03-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU1AUD1,R(Android 11),2021-04-26,2021-03-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU1AUC7,R(Android 11),2021-04-13,2021-03-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU1AUB6,R(Android 11),2021-03-08,2021-01-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU1AUB4,R(Android 11),2021-02-22,2021-01-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html
+SM-F127G,INS,017298210201,SM-F127G/INS, India,India,No-carrier,Asia,Southern Asia,F127GDDU1AUA1,R(Android 11),2021-02-01,2020-12-01,Galaxy F12 ,https://doc.samsungmobile.com/SM-F127G/017298210201/eng.html

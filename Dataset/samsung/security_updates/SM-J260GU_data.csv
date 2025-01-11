@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J260GU,INS,011628200304,SM-J260GU/INS, India,India,No-carrier,Asia,Southern Asia,J260GUDDS1AVK2,Oreo(Android 8.1.0),2023-01-13,2020-12-01,Galaxy J2 Core ,https://doc.samsungmobile.com/SM-J260GU/011628200304/eng.html
+SM-J260GU,INS,011628200304,SM-J260GU/INS, India,India,No-carrier,Asia,Southern Asia,J260GUDDS1ATF3,Oreo(Android 8.1.0),2020-07-19,2020-07-01,Galaxy J2 Core ,https://doc.samsungmobile.com/SM-J260GU/011628200304/eng.html
+SM-J260GU,INS,011628200304,SM-J260GU/INS, India,India,No-carrier,Asia,Southern Asia,J260GUDDU1ATB7,Oreo(Android 8.1.0),2020-06-16,2020-02-01,Galaxy J2 Core ,https://doc.samsungmobile.com/SM-J260GU/011628200304/eng.html
+SM-J260GU,INS,011628200304,SM-J260GU/INS, India,India,No-carrier,Asia,Southern Asia,J260GUDDU1ATB7,Oreo(Android 8.1.0),2020-03-03,2020-02-01,Galaxy J2 Core ,https://doc.samsungmobile.com/SM-J260GU/011628200304/eng.html

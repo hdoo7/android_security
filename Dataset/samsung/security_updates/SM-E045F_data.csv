@@ -1,0 +1,11 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXS6DXC2,U(Android 14),2024-03-27,2024-03-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXU6DXA2,U(Android 14),2024-01-29,2023-12-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXS6CWL1,T(Android 13),2023-12-28,2023-12-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXS5CWJ2,T(Android 13),2023-10-30,2023-10-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXU4CWI3,T(Android 13),2023-10-03,2023-08-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXU3CWH2,T(Android 13),2023-09-13,2023-08-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXS3CWG6,T(Android 13),2023-08-02,2023-06-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXS2CWC3,T(Android 13),2023-04-07,2023-04-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXU1CWC1,T(Android 13),2023-04-04,2023-03-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html
+SM-E045F,INS,025905230224,SM-E045F/INS, India,India,No-carrier,Asia,Southern Asia,E045FXXU1BWAA,T(Android 13),2023-02-23,2023-01-01,Galaxy F04 ,https://doc.samsungmobile.com/SM-E045F/025905230224/eng.html

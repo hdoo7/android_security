@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A3560,BRI,029929240516,SM-A3560/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,A3560ZHU1AXD3,U(Android 14),2024-05-16,2024-04-01,Galaxy A35 5G ,https://doc.samsungmobile.com/SM-A3560/029929240516/eng.html
+SM-A3560,TGY,029931240516,SM-A3560/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A3560ZHU1AXD3,U(Android 14),2024-05-16,2024-04-01,Galaxy A35 5G ,https://doc.samsungmobile.com/SM-A3560/029931240516/eng.html

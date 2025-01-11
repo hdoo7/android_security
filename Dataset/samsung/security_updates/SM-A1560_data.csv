@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A1560,BRI,029046240221,SM-A1560/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,A1560ZHU2BXE5,U(Android 14),2024-06-04,2024-05-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-A1560/029046240221/eng.html
+SM-A1560,BRI,029046240221,SM-A1560/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,A1560ZHS1AXA4,U(Android 14),2024-02-21,2024-02-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-A1560/029046240221/eng.html
+SM-A1560,TGY,029045240221,SM-A1560/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A1560ZHU2BXE5,U(Android 14),2024-06-05,2024-05-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-A1560/029045240221/eng.html
+SM-A1560,TGY,029045240221,SM-A1560/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,A1560ZHS1AXA4,U(Android 14),2024-02-21,2024-02-01,Galaxy A15 5G ,https://doc.samsungmobile.com/SM-A1560/029045240221/eng.html

@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G889YB,DBT,017990210312,SM-G889YB/DBT, Germany,Germany,No-carrier,Europe,Western Europe,G889YBXXU3BVH1,Q(Android 10),2022-08-19,2022-08-01,Galaxy XCover FieldPro ,https://doc.samsungmobile.com/SM-G889YB/017990210312/eng.html
+SM-G889YB,DBT,017990210312,SM-G889YB/DBT, Germany,Germany,No-carrier,Europe,Western Europe,G889YBXXU2BUD2,Q(Android 10),2021-07-02,2021-05-01,Galaxy XCover FieldPro ,https://doc.samsungmobile.com/SM-G889YB/017990210312/eng.html
+SM-G889YB,DBT,017990210312,SM-G889YB/DBT, Germany,Germany,No-carrier,Europe,Western Europe,G889YBXXU1BUA7,Q(Android 10),2021-03-12,2021-02-01,Galaxy XCover FieldPro ,https://doc.samsungmobile.com/SM-G889YB/017990210312/eng.html

@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A7108,CHM,000005170406,SM-A7108/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,A7108ZMS4CTI2,Nougat(Android 7.1.1),2020-11-16,2019-02-01,Galaxy A7 ,https://doc.samsungmobile.com/SM-A7108/000005170406/eng.html
+SM-A7108,CHM,000005170406,SM-A7108/CHM, China (China Mobile),China,China Mobile,Asia,Eastern Asia,A7108ZMU4CSB2,Nougat(Android 7.1.1),2019-04-26,2019-02-01,Galaxy A7 ,https://doc.samsungmobile.com/SM-A7108/000005170406/eng.html

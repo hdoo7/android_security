@@ -1,0 +1,903 @@
+id,device,last_android_version,last_update_date,chipset,keyword
+mione_plus,mi 1s,Android 4.1,4/12/15,Qualcomm MSM8260,qualcomm msm8260
+taurus,mi 2a,Android 4.1,4/27/15,Snapdragon S4 Pro,snapdragon s4 pro
+HM2013022,redmi 1 td,Android 4.4,11/15/17,Qualcomm MSM8228 Snapdragon 400 (28 nm),"qualcomm msm8228,snapdragon 400"
+HM2014813,redmi 2 lte,Android 4.4,3/29/15,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+HM2013023_sg_global,redmi 1 w,Android 4.4,12/24/15,Qualcomm MSM8228 Snapdragon 400 (28 nm),"qualcomm msm8228,snapdragon 400"
+HM2014811,redmi 2 lte,Android 4.4,10/17/15,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+virgo_lte_ct,mi note lte ct,Android 4.4,8/23/16,"Qualcomm MSM8974AC,Snapdragon 801 (28 nm)","qualcomm msm8974ac,snapdragon 801"
+lcsh92_wet_jb9_global,redmi note 3g,Android 4.4,8/3/18,Qualcomm MSM8956,qualcomm msm8956
+HM2013023,redmi 1,Android 4.4,9/26/18,"Qualcomm MSM8228,Snapdragon 400 (28 nm)","qualcomm msm8228,snapdragon 400"
+prada_global,redmi 4,Android 6.0,5/21/19,"Qualcomm MSM8940,Snapdragon 435 (28 nm)","qualcomm msm8940,snapdragon 435"
+wt88047_pro_global,redmi 2 pro,Android 5.1,8/3/18,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+HM2014011,redmi 1s td 3g,Android 4.4,9/7/18,"Qualcomm MSM8228,Snapdragon 400 (28 nm)","qualcomm msm8228,snapdragon 400"
+lcsh92_wet_jb9,redmi note 3g,Android 4.4,8/3/18,Qualcomm MSM8956,qualcomm msm8956
+HM2014501,redmi 1s td 4g,Android 4.4,9/7/18,"Qualcomm MSM8228,Snapdragon 400 (28 nm)","qualcomm msm8228,snapdragon 400"
+lcsh92_wet_tdd,redmi note 1 td,Android 4.4,8/3/18,Mediatek MT6592 (28 nm),mediatek mt6592
+armani,redmi 1s,Android 4.4,9/7/18,"Qualcomm MSM8228,Snapdragon 400 (28 nm)","qualcomm msm8228,snapdragon 400"
+aries,mi 2s,Android 5.0,10/14/18,"Qualcomm APQ8064,Snapdragon S4 Pro","qualcomm apq8064,snapdragon s4 pro"
+aries_global,mi 2s,Android 5.0,10/14/18,"Qualcomm APQ8064,Snapdragon S4 Pro","qualcomm apq8064,snapdragon s4 pro"
+armani_global,redmi 1s,Android 4.4,9/9/18,"Qualcomm MSM8228,Snapdragon 400 (28 nm)","qualcomm msm8228,snapdragon 400"
+wt88047_pro,redmi 2 pro,Android 5.1,9/7/18,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+wt86047_pro,redmi 2 pro,Android 5.1,9/7/18,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+cancro_lte_ct,mi 4 lte ct,Android 6.0,10/14/18,"Qualcomm MSM8974AC,Snapdragon 801 (28 nm)","qualcomm msm8974ac,snapdragon 801"
+ido_xhdpi_global,redmi 3/3 pro,Android 5.1,9/8/18,"Qualcomm MSM8939v2,Snapdragon 616 (28 nm)","qualcomm msm8939v2,snapdragon 616"
+vince_ru_global,redmi 5 plus,Android 7.1,8/8/18,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+cancro_global,mi 3,Android 6.0,10/14/18,"Qualcomm MSM8274AB,Snapdragon 800 (28 nm)","qualcomm msm8274ab,snapdragon 800"
+lte26007,redmi 2a,Android 4.4,9/26/18,Leadcore L1860C,leadcore l1860c
+dior,redmi note 4g,Android 4.4,9/7/18,"Qualcomm MSM8928,Snapdragon 400 (28 nm)","qualcomm msm8928,snapdragon 400"
+pisces,mi 3 td,Android 4.4,9/7/18,"Qualcomm MSM8274AB,Snapdragon 800 (28 nm)","qualcomm msm8274ab,snapdragon 800"
+dior_global,redmi note 4g,Android 4.4,9/9/18,"Qualcomm MSM8928,Snapdragon 400 (28 nm)","qualcomm msm8928,snapdragon 400"
+hermes_global,redmi note 2,Android 5.0,9/9/18,Mediatek MT6795 Helio X10 (28 nm),mediatek mt6795
+gucci,redmi note 1s 4g,Android 4.4,9/7/18,Mediatek MT6592 (28 nm),mediatek mt6592
+ferrari_global,mi 4i,Android 5.0,9/7/18,"Qualcomm MSM8939,Snapdragon 615 (28 nm)","qualcomm msm8939,snapdragon 615"
+wt86047,redmi 2,Android 4.4,9/7/18,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+wt88047_global,redmi 2,Android 4.4,9/7/18,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+wt88047,redmi 2,Android 4.4,9/7/18,"Qualcomm MSM8916,Snapdragon 410 (28 nm)","qualcomm msm8916,snapdragon 410"
+hennessy,redmi note 3 (mtk),Android 5.0,9/7/18,Qualcomm MSM8956,qualcomm msm8956
+virgo_global,mi note,Android 6.0,10/14/18,"Qualcomm MSM8974AC,Snapdragon 801 (28 nm)","qualcomm msm8974ac,snapdragon 801"
+gucci_global,redmi note 1s 4g,Android 4.4,9/7/18,Mediatek MT6592 (28 nm),mediatek mt6592
+leo,mi note pro,Android 7.0,10/14/18,"Qualcomm MSM8994,Snapdragon 810 (20 nm)","qualcomm msm8994,snapdragon 810"
+latte,mi pad,Android 5.1,9/7/18,Intel Atom X5-Z8500,intel atom x5-z8500
+hermes,redmi note 2,Android 5.0,9/7/18,Mediatek MT6795 Helio X10 (28 nm),mediatek mt6795
+mocha,mi pad,Android 4.4,9/7/18,Intel Atom X5-Z8500,intel atom x5-z8500
+virgo,mi note,Android 6.0,10/14/18,"Qualcomm MSM8974AC,Snapdragon 801 (28 nm)","qualcomm msm8974ac,snapdragon 801"
+mocha_global,mi pad,Android 4.4,9/9/18,Intel Atom X5-Z8500,intel atom x5-z8500
+ferrari,mi 4i,Android 5.0,10/14/18,"Qualcomm MSM8939,Snapdragon 615 (28 nm)","qualcomm msm8939,snapdragon 615"
+ido_xhdpi,redmi 3,Android 5.1,10/14/18,"Qualcomm MSM8939v2,Snapdragon 616 (28 nm)","qualcomm msm8939v2,snapdragon 616"
+aqua,mi 4s,Android 7.0,11/8/18,"Qualcomm MSM8992,Snapdragon 808 (20 nm)","qualcomm msm8992,snapdragon 808"
+libra,mi 4c,Android 7.0,10/30/18,"Qualcomm MSM8992,Snapdragon 808 (20 nm)","qualcomm msm8992,snapdragon 808"
+cancro,mi 3 / mi 4,Android 6.0,11/7/18,"Qualcomm MSM8274AB,Snapdragon 800 (28 nm)","qualcomm msm8274ab,snapdragon 800"
+vince_global,redmi 5 plus / note 5,Android 8.1,11/20/19,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+gemini_global,mi 5,Android 8.0,2/4/19,"Qualcomm MSM8996,Snapdragon 820 (14 nm)","qualcomm msm8996,snapdragon 820"
+gemini,mi 5,Android 8.0,1/8/19,"Qualcomm MSM8996,Snapdragon 820 (14 nm)","qualcomm msm8996,snapdragon 820"
+kenzo_global,redmi note 3 pro,Android 6.0,1/25/19,Qualcomm MSM8956,qualcomm msm8956
+kenzo,redmi note 3 pro,Android 6.0,1/16/19,Qualcomm MSM8956,qualcomm msm8956
+mido_global,redmi note 4,Android 7.0,11/19/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+omega,redmi pro,Android 6.0,3/29/19,"Mediatek MT6797T Helio X25 (20 nm), Mediatek MT6797 Helio X20 (20 nm)","mediatek mt6797t,mediatek mt6797"
+cappu,mi pad 3,Android 7.0,8/30/19,Mediatek MT8176,mediatek mt8176
+kate_global,redmi note 3 se,Android 6.0,3/29/19,Qualcomm MSM8956,qualcomm msm8956
+nikel_global,redmi note 4 mtk,Android 6.0,3/29/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+ysl_global,redmi s2/y2,Android 9.0,9/29/20,Mediatek MT6589T (28 nm),mediatek mt6589t
+helium,mi max prime,Android 7.0,6/18/19,"Qualcomm MSM8956, Qualcomm MSM8976,Snapdragon 652 (28 nm)","qualcomm msm8956,qualcomm msm8976,snapdragon 652"
+hydrogen,mi max,Android 7.0,6/18/19,"Qualcomm MSM8956, Qualcomm MSM8976,Snapdragon 652 (28 nm)","qualcomm msm8956,qualcomm msm8976,snapdragon 652"
+ysl,redmi s2,Android 9.0,8/5/20,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+helium_global,mi max prime,Android 7.0,5/13/19,"Qualcomm MSM8956, Qualcomm MSM8976,Snapdragon 652 (28 nm)","qualcomm msm8956,qualcomm msm8976,snapdragon 652"
+hydrogen_global,mi max,Android 7.0,5/13/19,"Qualcomm MSM8956, Qualcomm MSM8976,Snapdragon 652 (28 nm)","qualcomm msm8956,qualcomm msm8976,snapdragon 652"
+tulip_ru_global,redmi note 6 pro,Android 8.1,3/11/19,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+nikel,redmi note 4 mtk,Android 6.0,5/22/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+markw,redmi 4 prime,Android 6.0,5/21/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+land,redmi 3s,Android 6.0,5/21/19,"Qualcomm MSM8937,Snapdragon 430 (28 nm)","qualcomm msm8937,snapdragon 430"
+rolex_global,redmi 4a,Android 7.1,7/3/19,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+land_global,redmi 3s,Android 6.0,5/28/19,"Qualcomm MSM8937,Snapdragon 430 (28 nm)","qualcomm msm8937,snapdragon 430"
+rolex,redmi 4a,Android 6.0,5/21/19,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+prada,redmi 4,Android 6.0,5/21/19,"Qualcomm MSM8940,Snapdragon 435 (28 nm)","qualcomm msm8940,snapdragon 435"
+capricorn_global,mi 5s,Android 8.0,6/28/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+natrium_global,mi 5s plus,Android 8.0,6/28/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+clover,mi pad 4 (plus),Android 8.1,8/29/19,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+markw_global,redmi 4 prime,Android 6.0,5/20/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+raphael,redmi k20 pro,Android 11.0,11/25/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+cereus_global,redmi 6,Android 9.0,9/22/20,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+cactus_global,redmi 6a,Android 9.0,9/22/20,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+grus_global,mi 9 se,Android 11.0,5/25/21,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+whyred_global,redmi note 5 / note 5 pro,Android 9.0,1/4/21,Mediatek MT6592 (28 nm),mediatek mt6592
+ugglite_global,redmi note 5a (2gb),Android 7.1,11/12/19,Mediatek MT6592 (28 nm),mediatek mt6592
+ugg_global,redmi note 5a prime,Android 7.1,11/12/19,Mediatek MT6592 (28 nm),mediatek mt6592
+tulip_global,redmi note 6 pro,Android 9.0,1/6/21,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+riva_global,redmi 5a,Android 8.1,11/12/19,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+santoni_global,redmi 4x,Android 7.1,11/21/19,Mediatek MT6589T (28 nm),mediatek mt6589t
+scorpio_global,mi note 2,Android 8.0,11/13/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+equuleus_global,mi 8 pro,Android 10.0,1/11/22,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+polaris_global,mi mix 2s,Android 10.0,1/4/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+platina_global,mi 8 lite,Android 10.0,9/21/20,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+jason_global,mi note 3,Android 9.0,9/21/20,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+rosy_global,redmi 5,Android 8.1,1/9/20,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+sagit_global,mi 6,Android 9.0,3/23/20,"Qualcomm MSM8998,Snapdragon 835 (10 nm)","qualcomm msm8998,snapdragon 835"
+perseus_global,mi mix 3,Android 10.0,11/20/20,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+lithium_global,mi mix,Android 8.0,11/13/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+oxygen_global,mi max 2,Android 7.1,11/6/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+sakura_india_global,redmi 6 pro,Android 9.0,11/12/20,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+nitrogen_global,mi max 3,Android 10.0,10/16/20,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+beryllium_global,poco f1,Android 10.0,1/11/21,Qualcomm SM8550,qualcomm sm8550
+cepheus_global,mi 9,Android 11.0,6/17/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+chiron_global,mi mix 2,Android 9.0,10/10/20,"Qualcomm MSM8998,Snapdragon 835 (10 nm)","qualcomm msm8998,snapdragon 835"
+dipper_global,mi 8,Android 10.0,12/21/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+cepheus,mi 9,Android 11.0,12/1/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+andromeda,mi mix 3 5g,Android 9.0,11/22/19,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+raphaels,redmi k20 pro premium edition,Android 9.0,9/29/19,"Qualcomm SM8150,Snapdragon 855+ (7 nm)","qualcomm sm8150,snapdragon 855+"
+santoni,redmi 4x,Android 7.1,11/12/19,Mediatek MT6589T (28 nm),mediatek mt6589t
+capricorn,mi 5s,Android 8.0,11/11/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+oxygen,mi max 2,Android 7.1,11/6/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+scorpio,mi note 2,Android 8.0,12/4/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+mido,redmi note 4,Android 7.0,11/25/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+lithium,mi mix,Android 8.0,11/8/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+ugg,redmi note 5a prime,Android 7.1,11/5/19,Mediatek MT6592 (28 nm),mediatek mt6592
+meri,mi 5c,Android 7.1,12/10/19,Xiaomi Surge S1,xiaomi surge s1
+ugglite,redmi note 5a (2gb),Android 7.1,11/5/19,Mediatek MT6592 (28 nm),mediatek mt6592
+tiffany,mi 5x,Android 8.1,11/27/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+riva,redmi 5a,Android 8.1,12/25/19,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+natrium,mi 5s plus,Android 8.0,11/8/19,"Qualcomm MSM8996,Snapdragon 821 (14 nm)","qualcomm msm8996,snapdragon 821"
+rosy,redmi 5,Android 8.1,12/25/19,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+vince,redmi 5 plus,Android 8.1,11/27/19,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+lotus,mi play,Android 8.1,11/26/20,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+wayne,mi 6x,Android 9.0,4/7/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+nitrogen,mi max 3,Android 10.0,6/23/21,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+cereus,redmi 6,Android 9.0,6/17/21,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+cactus,redmi 6a,Android 9.0,6/18/21,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+whyred,redmi note 5,Android 9.0,6/15/21,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+grus,mi 9 se,Android 11.0,11/25/21,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+ursa,mi 8 explorer,Android 10.0,11/15/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+violet,redmi note 7 pro,Android 10.0,11/17/21,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+platina,mi 8 lite,Android 10.0,6/25/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+polaris,mi mix 2s,Android 10.0,7/16/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+sirius,mi 8 se,Android 10.0,7/12/21,"Qualcomm SDM710,Snapdragon 710 (10 nm)","qualcomm sdm710,snapdragon 710"
+sakura,redmi 6 pro,Android 9.0,8/5/20,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+perseus,mi mix 3,Android 10.0,7/15/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+jason,mi note 3,Android 9.0,8/20/20,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+sagit,mi 6,Android 9.0,6/18/20,"Qualcomm MSM8998,Snapdragon 835 (10 nm)","qualcomm msm8998,snapdragon 835"
+chiron,mi mix 2,Android 9.0,9/7/20,"Qualcomm MSM8998,Snapdragon 835 (10 nm)","qualcomm msm8998,snapdragon 835"
+lavender,redmi note 7,Android 10.0,11/17/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+equuleus,mi 8 pro,Android 10.0,11/26/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+dipper,mi 8,Android 10.0,11/5/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+rosy_ru_global,redmi 5,Android 8.1,11/7/19,"Qualcomm SDM450,Snapdragon 450 (14 nm)","qualcomm sdm450,snapdragon 450"
+whyred_ru_global,redmi note 5,Android 9.0,10/30/19,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+cactus_ru_global,redmi 6a,Android 9.0,7/13/20,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+toco_global,mi note 10 lite,Android 12.0,11/3/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+onclite,redmi 7,Android 10.0,11/11/21,"Qualcomm SDM632,Snapdragon 632 (14 nm)","qualcomm sdm632,snapdragon 632"
+umi_tr_global,mi 10,Android 13.0,5/16/23,Qualcomm SM8250,qualcomm sm8250
+tissot,mi a1,Android 9.0,8/23/20,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+lancelot_global,redmi 9,Android 12.0,1/31/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+lancelot_eea_global,redmi 9,Android 12.0,1/31/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+platina_ru_global,mi 8 lite,Android 10.0,9/12/20,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+toco_tr_global,mi note 10 lite,Android 12.0,11/8/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+cezanne,redmi k30 ultra,Android 12.0,7/19/23,Mediatek Dimensity 1000+ (7 nm),mediatek dimensity
+cereus_ru_global,redmi 6,Android 9.0,9/19/20,Mediatek MT6762 Helio P22 (12 nm),mediatek mt6762
+nitrogen_ru_global,mi max 3,Android 10.0,10/16/20,"Qualcomm SDM636,Snapdragon 636 (14 nm)","qualcomm sdm636,snapdragon 636"
+joyeuse_tr_global,redmi note 9 pro,Android 12.0,4/28/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+davinci,redmi k20,Android 11.0,11/25/21,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+angelicain_in_global,poco c3,Android 10.0,9/6/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+lmi_tr_global,poco f2 pro,Android 12.0,3/29/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+gauguin_eea_global,mi 10t lite,Android 12.0,6/27/23,"Qualcomm SM7225,Snapdragon 750G 5G (8 nm)","qualcomm sm7225,snapdragon 750g 5g"
+perseus_ru_global,mi mix 3,Android 10.0,11/27/20,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+ginkgo_global,redmi note 8,Android 11.0,2/25/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+ginkgo_ru_global,redmi note 8,Android 11.0,6/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+citrus_eea_global,poco m3,Android 12.0,5/19/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+umi_in_global,mi 10,Android 13.0,5/29/23,Qualcomm SM8250,qualcomm sm8250
+ysl_ru_global,redmi s2,Android 9.0,12/15/20,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+surya_global,poco x3 nfc,Android 12.0,7/25/23,Qualcomm SM7150,qualcomm sm7150
+polaris_ru_global,mi mix 2s,Android 10.0,12/22/20,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+surya_id_global,poco x3 nfc,Android 12.0,7/21/23,Qualcomm SM7150,qualcomm sm7150
+andromeda_global,mi mix 3 5g,Android 9.0,3/29/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+lmi_global,poco f2 pro,Android 12.0,3/24/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+cannon,redmi note 9 5g,Android 12.0,10/25/23,Mediatek Dimensity 800U (7 nm),mediatek dimensity
+lmi_eea_global,poco f2 pro,Android 12.0,3/13/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+citrus_ru_global,poco m3,Android 12.0,5/10/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+lotus_global,mi play,Android 8.1,1/14/21,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+lotus_ru_global,mi play,Android 8.1,1/20/21,Mediatek MT6765 Helio P35 (12 nm),mediatek mt6765
+curtana_eea_global,redmi note 9s,Android 12.0,4/18/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+cmi_eea_global,mi 10 pro,Android 13.0,5/10/24,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+beryllium_ru_global,poco f1,Android 10.0,1/29/21,Qualcomm SM8550,qualcomm sm8550
+tiare_global,redmi go,Android 8.1,2/18/21,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+tiare_eea_global,redmi go,Android 8.1,2/19/21,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+lime_ru_global,redmi 9t,Android 12.0,5/12/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+tiare_in_global,redmi go,Android 8.1,2/24/21,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+onclite_global,redmi 7,Android 10.0,3/12/21,"Qualcomm SDM632,Snapdragon 632 (14 nm)","qualcomm sdm632,snapdragon 632"
+onclite_ru_global,redmi 7,Android 10.0,3/19/21,"Qualcomm SDM632,Snapdragon 632 (14 nm)","qualcomm sdm632,snapdragon 632"
+gauguin_in_global,mi 10i,Android 12.0,7/3/23,"Qualcomm SM7225,Snapdragon 750G 5G (8 nm)","qualcomm sm7225,snapdragon 750g 5g"
+onclite_in_global,redmi 7,Android 10.0,4/7/21,"Qualcomm SDM632,Snapdragon 632 (14 nm)","qualcomm sdm632,snapdragon 632"
+surya_eea_global,poco x3 nfc,Android 12.0,8/17/23,Qualcomm SM7150,qualcomm sm7150
+monet_eea_global,mi 10 lite,Android 12.0,11/8/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+onc_in_global,redmi y3,Android 10.0,4/14/21,"Qualcomm SDM632,Snapdragon 632 (14 nm)","qualcomm sdm632,snapdragon 632"
+tiare_ru_global,redmi go,Android 8.1,4/16/21,"Qualcomm MSM8917,Snapdragon 425 (28 nm)","qualcomm msm8917,snapdragon 425"
+joyeuse_ru_global,redmi note 9 pro,Android 12.0,4/28/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+laurus,mi cc 9e,Android 10.0,11/26/21,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+pyxis,mi cc 9,Android 11.0,11/25/21,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+vela,mi cc 9 meitu edition,Android 11.0,11/25/21,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+camellian_eea_global,redmi note 10 5g,Android 13.0,10/9/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+rosemary_global,redmi note 10s,Android 13.0,11/20/23,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+haydn_in_global,mi 11x pro,Android 14.0,5/10/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+mojito_global,redmi note 10,Android 12.0,10/27/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+andromeda_eea_global,mi mix 3 5g,Android 9.0,5/31/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+haydn_eea_global,mi 11i,Android 14.0,4/28/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+biloba_global,redmi note 8 (2021),Android 13.0,9/22/23,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+grus_ru_global,mi 9 se,Android 11.0,6/4/21,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+sweetin_in_global,redmi note 10 pro / pro max,Android 13.0,4/7/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+grus_eea_global,mi 9 se,Android 11.0,6/4/21,"Qualcomm SDM712,Snapdragon 712 (10 nm)","qualcomm sdm712,snapdragon 712"
+davinci_global,mi 9t,Android 11.0,8/6/21,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+gauguin_tr_global,mi 10t lite,Android 12.0,5/8/23,"Qualcomm SM7225,Snapdragon 750G 5G (8 nm)","qualcomm sm7225,snapdragon 750g 5g"
+surya_in_global,poco x3,Android 12.0,8/25/22,Qualcomm SM7150,qualcomm sm7150
+curtana_tr_global,redmi note 9s,Android 12.0,4/28/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+begonia_eea_global,redmi note 8 pro,Android 11.0,9/16/22,Mediatek MT6785V/CC Helio G90T (12 nm),mediatek mt6785v
+raphael_eea_global,mi 9t pro,Android 11.0,7/6/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+begonia_global,redmi note 8 pro,Android 11.0,6/6/22,Mediatek MT6785V/CC Helio G90T (12 nm),mediatek mt6785v
+raphaelin_in_global,redmi k20 pro,Android 11.0,7/9/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+sweet_eea_global,redmi note 10 pro,Android 13.0,12/11/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+daisy_global,mi a2 lite,Android 10.0,7/13/21,"Qualcomm MSM8953,Snapdragon 625 (14 nm)","qualcomm msm8953,snapdragon 625"
+jasmine_global,mi a2,Android 10.0,7/15/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+raphael_ru_global,mi 9t pro,Android 11.0,7/15/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+apollo_global,mi 10t / mi 10t pro,Android 12.0,7/19/23,Qualcomm SM8250,qualcomm sm8250
+davinciin_in_global,redmi k20,Android 11.0,7/17/21,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+pyxis_global,mi 9 lite,Android 11.0,7/20/21,"Qualcomm SDM710,Snapdragon 710 (10 nm)","qualcomm sdm710,snapdragon 710"
+cepheus_ru_global,mi 9,Android 11.0,7/23/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+willow_global,redmi note 8t,Android 11.0,7/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+onclite_eea_global,redmi 7,Android 10.0,8/19/21,"Qualcomm SDM632,Snapdragon 632 (14 nm)","qualcomm sdm632,snapdragon 632"
+lime_tr_global,redmi 9t,Android 12.0,5/19/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+lime_tw_global,redmi 9t,Android 12.0,5/6/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+lime_id_global,redmi 9t,Android 12.0,5/6/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+raphael_global,mi 9t pro,Android 11.0,8/13/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+apollo,redmi k30s ultra,Android 12.0,3/8/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+gram_in_global,poco m2 pro,Android 12.0,7/20/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+dandelion_tr_global,redmi 9a,Android 10.0,9/2/21,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+pine_eea_global,redmi 7a,Android 10.0,10/12/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+davinci_ru_global,mi 9t,Android 11.0,9/3/21,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+curtana_in_global,redmi note 9 pro,Android 12.0,4/28/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+courbet_global,mi 11 lite 4g,Android 13.0,10/31/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+courbet_eea_global,mi 11 lite 4g,Android 13.0,11/7/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+alioth_global,poco f3,Android 13.0,4/22/24,Qualcomm SM8250,qualcomm sm8250
+lavender_ru_global,redmi note 7,Android 10.0,9/13/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+davinci_eea_global,mi 9t,Android 11.0,9/16/21,"Qualcomm SDM730,Snapdragon 730 (8 nm)","qualcomm sdm730,snapdragon 730"
+lavender_eea_global,redmi note 7,Android 10.0,9/13/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+violet_in_global,redmi note 7 pro,Android 10.0,10/8/21,"Qualcomm SDM675,Snapdragon 675 (11 nm)","qualcomm sdm675,snapdragon 675"
+angelicain_in_rf_global,poco c31,Android 11.0,8/7/23,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+alioth_in_global,mi 11x,Android 13.0,5/10/24,Qualcomm SM8250,qualcomm sm8250
+agate_eea_global,11t,Android 14.0,4/23/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+agate_global,11t,Android 14.0,4/1/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+lisa_global,11 lite 5g ne,Android 14.0,3/20/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+lavender_in_global,redmi note 7/7s,Android 10.0,9/29/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+excalibur_in_global,redmi note 9 pro max,Android 12.0,5/6/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+ginkgo,redmi note 8,Android 11.0,8/10/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+mona,civi,Android 13.0,3/4/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+haydn_global,mi 11i,Android 14.0,5/10/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+olive_eea_global,redmi 8,Android 10.0,10/27/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olivelite_ru_global,redmi 8a,Android 10.0,10/19/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olive_in_global,redmi 8,Android 10.0,11/5/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olivelite_in_global,redmi 8a,Android 10.0,10/20/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+nabu_tr_global,pad 5,Android 13.0,4/10/24,Snapdragon 860 (7 nm),snapdragon 860
+nabu_ru_global,pad 5,Android 13.0,4/10/24,Snapdragon 860 (7 nm),snapdragon 860
+nabu_eea_global,pad 5,Android 13.0,4/7/24,Snapdragon 860 (7 nm),snapdragon 860
+begoniain_in_global,redmi note 8 pro,Android 11.0,7/7/22,Mediatek MT6785V/CC Helio G90T (12 nm),mediatek mt6785v
+willow_ru_global,redmi note 8t,Android 11.0,1/4/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+ginkgo_id_global,redmi note 8,Android 11.0,7/29/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+olivelite_global,redmi 8a,Android 10.0,11/1/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olive_global,redmi 8,Android 10.0,11/1/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olive_ru_global,redmi 8,Android 10.0,11/1/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+begonia_ru_global,redmi note 8 pro,Android 11.0,7/20/22,Mediatek MT6785V/CC Helio G90T (12 nm),mediatek mt6785v
+olivelite_eea_global,redmi 8a,Android 10.0,11/1/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+nabu,pad 5,Android 13.0,5/28/24,Snapdragon 860 (7 nm),snapdragon 860
+lancelot,redmi 9,Android 12.0,9/26/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+olivelite,redmi 8a,Android 10.0,12/8/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+cepheus_eea_global,mi 9,Android 11.0,11/26/21,"Qualcomm SM8150,Snapdragon 855 (7 nm)","qualcomm sm8150,snapdragon 855"
+phoenixin_in_global,poco x2,Android 11.0,2/7/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+begonia,redmi note 8 pro,Android 11.0,6/13/22,Mediatek MT6785V/CC Helio G90T (12 nm),mediatek mt6785v
+crux,mi 9 pro 5g,Android 11.0,4/11/22,"Qualcomm SM8150,Snapdragon 855+ (7 nm)","qualcomm sm8150,snapdragon 855+"
+selenes,redmi note 11 4g,Android 13.0,5/16/23,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+lavender_global,redmi note 7,Android 10.0,12/15/21,"Qualcomm SDM660,Snapdragon 660 (14 nm)","qualcomm sdm660,snapdragon 660"
+dipper_ru_global,mi 8,Android 10.0,12/21/21,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+pine_global,redmi 7a,Android 10.0,12/27/21,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+vili_eea_global,11t pro,Android 14.0,4/26/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+venus_global,mi 11,Android 14.0,4/25/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+pine_in_global,redmi 7a,Android 10.0,1/20/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olivewood_in_global,redmi 8a dual,Android 10.0,2/7/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+pine,redmi 7a,Android 10.0,1/6/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+olive,redmi 8,Android 10.0,1/10/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+enuma,pad 5 pro 5g,Android 13.0,5/17/24,Qualcomm SM8250,qualcomm sm8250
+equuleus_ru_global,mi 8 pro,Android 10.0,1/14/22,"Qualcomm SDM845,Snapdragon 845 (10 nm)","qualcomm sdm845,snapdragon 845"
+venus,mi 11,Android 14.0,4/15/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+pine_ru_global,redmi 7a,Android 10.0,1/10/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+citrus_in_global,poco m3,Android 12.0,5/9/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+picasso,redmi k30 5g,Android 12.0,11/4/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+tucana,mi cc 9 pro,Android 11.0,9/3/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+umi,mi 10,Android 13.0,4/15/24,Qualcomm SM8250,qualcomm sm8250
+phoenix,redmi k30 4g,Android 12.0,10/9/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+ares,redmi k40 gaming,Android 13.0,3/5/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+evergo,redmi note 11 5g,Android 13.0,2/26/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+alioth,redmi k40,Android 13.0,4/15/24,Qualcomm SM8250,qualcomm sm8250
+thyme,mi 10s,Android 13.0,4/22/24,Qualcomm SM8250,qualcomm sm8250
+vangogh,mi 10 lite zoom,Android 12.0,11/10/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+gauguin,redmi note 9 pro 5g,Android 12.0,3/24/23,"Qualcomm SM7225,Snapdragon 750G 5G (8 nm)","qualcomm sm7225,snapdragon 750g 5g"
+lmi,redmi k30 pro,Android 12.0,5/12/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+cmi,mi 10 pro,Android 13.0,4/15/24,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+odin,mix 4,Android 14.0,4/29/24,"Qualcomm SM8350,Snapdragon 888+ 5G (5 nm)","qualcomm sm8350,snapdragon 888+ 5g"
+pissarro,redmi note 11 pro / pro+,Android 13.0,5/29/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+star,mi 11 pro / ultra,Android 14.0,4/15/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+chopin,redmi note 10 pro 5g,Android 13.0,11/14/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+camellia,redmi note 10 5g / redmi note 11se,Android 13.0,3/17/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+renoir,mi 11 lite 5g,Android 13.0,12/8/23,Qualcomm SM7350,qualcomm sm7350
+haydn,redmi k40 pro / pro+,Android 14.0,4/13/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+spesn_ru_global,redmi note 11 nfc,Android 13.0,5/17/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+venus_eea_global,mi 11,Android 14.0,4/18/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+spesn_eea_global,redmi note 11 nfc,Android 13.0,3/26/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+lisa,mi 11 le,Android 14.0,5/9/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+psyche,12x,Android 13.0,3/5/24,Qualcomm SM8250,qualcomm sm8250
+cas,mi 10 ultra,Android 13.0,4/15/24,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+bomb,redmi 10x pro,Android 12.0,7/20/23,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+atom,redmi 10x 5g,Android 12.0,7/20/23,Mediatek Dimensity 820 (7 nm),mediatek dimensity
+umi_global,mi 10,Android 13.0,5/8/24,Qualcomm SM8250,qualcomm sm8250
+viva_global,redmi note 11 pro 4g,Android 13.0,3/25/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+cetus,mi mix fold,Android 13.0,2/20/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+elish,pad 5 pro wi-fi,Android 13.0,5/17/24,Qualcomm SM8250,qualcomm sm8250
+dandelion_c3l2,redmi 10a,Android 11.0,4/24/23,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+umi_eea_global,mi 10,Android 13.0,4/23/24,Qualcomm SM8250,qualcomm sm8250
+vayu_ru_global,poco x3 pro,Android 13.0,3/9/23,Snapdragon 860 (7 nm),snapdragon 860
+vayu_tr_global,poco x3 pro,Android 13.0,3/13/23,Snapdragon 860 (7 nm),snapdragon 860
+picasso_48m,redmi k30i 5g,Android 12.0,10/19/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+lime,redmi note 9 4g,Android 12.0,3/7/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+monet_global,mi 10 lite,Android 12.0,11/14/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+gauguin_tw_global,mi 10t lite,Android 12.0,5/8/23,"Qualcomm SM7225,Snapdragon 750G 5G (8 nm)","qualcomm sm7225,snapdragon 750g 5g"
+camellian_global,redmi note 10 5g,Android 13.0,10/10/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+munch,redmi k40s,Android 14.0,4/14/24,Qualcomm SM8250,qualcomm sm8250
+tucana_id_global,mi note 10 / note 10 pro,Android 11.0,9/19/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+merlin_ru_global,redmi note 9,Android 12.0,1/28/23,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+dandelion_global,redmi 9a,Android 10.0,4/10/23,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+curtana_global,redmi note 9s,Android 12.0,6/12/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+joyeuse_eea_global,redmi note 9 pro,Android 12.0,8/9/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+willow_eea_global,redmi note 8t,Android 11.0,6/17/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+begonia_id_global,redmi note 8 pro,Android 11.0,6/13/22,Mediatek MT6785V/CC Helio G90T (12 nm),mediatek mt6785v
+merlin,redmi 10x 4g,Android 12.0,6/17/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+veux,redmi note 11e pro,Android 13.0,2/27/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+apollo_eea_global,mi 10t / mi 10t pro,Android 12.0,7/18/23,Qualcomm SM8250,qualcomm sm8250
+ginkgo_in_global,redmi note 8,Android 11.0,8/30/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+pyxis_ru_global,mi 9 lite,Android 11.0,6/28/22,"Qualcomm SDM710,Snapdragon 710 (10 nm)","qualcomm sdm710,snapdragon 710"
+xaga_global,redmi note 11t pro / poco x4 gt / pro,Android 14.0,5/14/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+light_eea_global,redmi 10 5g / poco m4 5g,Android 14.0,5/22/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+venus_tr_global,mi 11,Android 14.0,5/15/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+vayu_tw_global,poco x3 pro,Android 13.0,3/23/23,Snapdragon 860 (7 nm),snapdragon 860
+merlin_in_global,redmi note 9,Android 12.0,12/26/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+cmi_global,mi 10 pro,Android 13.0,4/26/24,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+taoyao_global,12 lite,Android 14.0,5/23/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+umi_ru_global,mi 10,Android 13.0,6/1/23,Qualcomm SM8250,qualcomm sm8250
+merlin_tr_global,redmi note 9,Android 12.0,1/28/23,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+lancelot_ru_global,redmi 9,Android 12.0,2/8/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+merlin_global,redmi note 9,Android 12.0,10/25/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+shiva_in_global,poco m2,Android 11.0,8/1/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+pyxis_eea_global,mi 9 lite,Android 11.0,8/9/22,"Qualcomm SDM710,Snapdragon 710 (10 nm)","qualcomm sdm710,snapdragon 710"
+sweet_id_global,redmi note 10 pro,Android 13.0,3/30/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+daumier,12 pro dimensity,Android 14.0,2/21/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+olivelite_id_global,redmi 8a,Android 10.0,8/23/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+angelican_ru_global,redmi 9c nfc,Android 11.0,8/30/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+olive_id_global,redmi 8,Android 10.0,8/23/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+laurel_sprout_global,mi a3,Android 11.0,8/15/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+dandelion,redmi 9a,Android 11.0,4/20/23,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+fog_eea_global,redmi 10c,Android 13.0,3/6/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+laurel_sprout_eea_global,mi a3,Android 11.0,8/15/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+cupid_global,12,Android 14.0,5/15/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+angelica_eea_global,redmi 9c,Android 10.0,8/22/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+angelican_eea_global,redmi 9c nfc,Android 10.0,8/25/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+pissarro_in_global,11i / hypercharge,Android 13.0,4/1/24,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+angelica_id_global,redmi 9c,Android 11.0,8/30/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+lancelot_tr_global,redmi 9,Android 12.0,2/3/23,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+rock_ru_global,poco m5,Android 14.0,4/23/24,Mediatek Helio G99 (6 nm),mediatek helio
+rock_tr_global,poco m5,Android 14.0,2/18/24,Mediatek Helio G99 (6 nm),mediatek helio
+curtana_in_rf_global,redmi note 10 lite,Android 12.0,9/25/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+agate_tr_global,11t,Android 14.0,5/15/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+dandelion_c3l2_id_global,redmi 10a,Android 11.0,5/8/24,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+cattail_in_global,redmi 9 / 9 activ,Android 10.0,9/2/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+rock_tw_global,poco m5,Android 14.0,5/14/24,Mediatek Helio G99 (6 nm),mediatek helio
+olivewood_id_global,redmi 8a pro,Android 10.0,9/9/22,"Qualcomm SDM439,Snapdragon 439 (12 nm)","qualcomm sdm439,snapdragon 439"
+tucana_eea_global,mi note 10 / note 10 pro,Android 11.0,9/9/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+lime_global,redmi 9t,Android 12.0,7/24/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+opal_tw_global,redmi note 11s 5g,Android 13.0,3/18/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+tucana_global,mi note 10 / note 10 pro,Android 11.0,9/15/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+rock_in_global,poco m5 / redmi 11 prime 4g,Android 14.0,5/20/24,Mediatek Helio G99 (6 nm),mediatek helio
+angelica_tr_global,redmi 9c,Android 10.0,9/30/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+dandelion_ru_global,redmi 9a,Android 11.0,10/11/22,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+tucana_ru_global,mi note 10 / note 10 pro,Android 11.0,9/22/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+fleur_tw_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,4/22/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+nabu_global,pad 5,Android 13.0,3/20/24,Snapdragon 860 (7 nm),snapdragon 860
+nabu_in_global,pad 5,Android 13.0,4/7/24,Snapdragon 860 (7 nm),snapdragon 860
+frost_tw_global,poco c40,Android 11.0,1/24/24,JLQ JR510 (11 nm),jlq jr510
+pissarro_tw_global,redmi note 11 pro+ 5g,Android 13.0,4/16/24,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+umi_id_global,mi 10,Android 13.0,6/19/23,Qualcomm SM8250,qualcomm sm8250
+dandelion_c3l2_tw_global,redmi 10a,Android 11.0,2/27/24,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+angelican_global,redmi 9c nfc,Android 10.0,10/10/22,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+gauguin_global,mi 10t lite,Android 12.0,5/9/23,"Qualcomm SM7225,Snapdragon 750G 5G (8 nm)","qualcomm sm7225,snapdragon 750g 5g"
+diting_tr_global,12t pro,Android 14.0,5/31/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+opal_ru_global,redmi note 11s 5g,Android 13.0,4/7/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+light_in_global,redmi 11 prime 5g / poco m4 5g,Android 14.0,5/14/24,Mediatek Helio G99 (6 nm),mediatek helio
+evergreen_tw_global,poco m4 pro 5g,Android 13.0,3/18/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+evergreen_tr_global,poco m4 pro 5g,Android 13.0,4/7/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+venus_tw_global,mi 11,Android 14.0,5/14/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+vida_in_global,redmi note 11 pro 4g,Android 13.0,3/5/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+veux_id_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,5/6/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+toco_ru_global,mi note 10 lite,Android 12.0,11/9/22,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+ruby,redmi note 12 pro / pro+ / discovery 5g,Android 14.0,5/11/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+sunstone,redmi note 12 5g / note 12r pro,Android 14.0,5/4/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+lancelot_id_global,redmi 9,Android 12.0,11/30/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+vayu_eea_global,poco x3 pro,Android 13.0,4/19/23,Snapdragon 860 (7 nm),snapdragon 860
+ice_tw_global,redmi a1 / poco c50,Android 12.0,1/17/23,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+monet_tw_global,mi 10 lite,Android 12.0,11/14/22,"Qualcomm SM7250,Snapdragon 765G 5G (7 nm)","qualcomm sm7250,snapdragon 765g 5g"
+zeus,12 pro,Android 14.0,3/18/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+vayu_id_global,poco x3 pro,Android 13.0,3/9/23,Snapdragon 860 (7 nm),snapdragon 860
+ice_eea_global,redmi a1 / poco c50,Android 12.0,4/9/24,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+ice_id_global,redmi a1 / poco c50,Android 12.0,6/15/23,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+vili_tr_global,11t pro,Android 14.0,5/17/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+pissarro_in_fk_global,11i 5g,Android 13.0,3/24/23,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+ginkgo_eea_global,redmi note 8,Android 11.0,12/1/22,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+chopin_tr_global,poco x3 gt,Android 13.0,12/28/23,Mediatek Dimensity 1100 (6 nm),mediatek dimensity
+merlin_eea_global,redmi note 9,Android 12.0,12/12/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+merlin_id_global,redmi note 9,Android 12.0,12/12/22,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+camellian_tw_global,redmi note 10 5g,Android 13.0,7/7/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+cupid_eea_global,12,Android 14.0,4/18/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+xaga,redmi note 11t pro / pro+,Android 14.0,5/20/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+cupid,12,Android 14.0,3/1/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+rubens,redmi k50,Android 14.0,3/19/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+zijin,civi 1s,Android 14.0,5/9/24,Qualcomm SM7325,qualcomm sm7325
+unicorn,12s pro,Android 14.0,4/8/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+thor,12s ultra,Android 14.0,4/15/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+matisse,redmi k50 pro,Android 14.0,2/28/24,Mediatek Dimensity 9000 (4 nm),mediatek dimensity
+mayfly,12s,Android 14.0,4/2/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+diting,redmi k50 ultra,Android 14.0,5/16/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+ingres,redmi k50g,Android 14.0,4/3/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+ice_global,redmi a1 / poco c50,Android 12.0,4/9/24,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+diting_jp_global,12t pro,Android 13.0,12/25/23,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+redwood_eea_global,poco x5 pro 5g,Android 14.0,5/20/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+viva_tw_global,redmi note 11 pro 4g,Android 13.0,3/5/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+zizhan,mix fold 2,Android 14.0,5/27/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+zeus_global,12 pro,Android 14.0,4/16/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+zeus_eea_global,12 pro,Android 14.0,4/22/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+lancelot_in_global,redmi 9 prime,Android 12.0,12/23/22,Mediatek MT6769V/CU Helio G80 (12 nm),mediatek mt6769v
+redwood_tr_global,poco x5 pro 5g,Android 14.0,5/30/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+dagu,pad 5 pro 12.4,Android 14.0,5/27/24,Qualcomm SM8250,qualcomm sm8250
+light_id_global,redmi 10 5g / poco m4 5g,Android 14.0,5/14/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+dandelion_c3l2_in_global,redmi 10a / 10a sport,Android 11.0,3/21/24,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+rosemary_p_tr_global,poco m5s,Android 13.0,1/23/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+redwood,redmi note 12 pro speed,Android 14.0,4/19/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+fuxi,13,Android 14.0,3/21/24,Qualcomm SM8550,qualcomm sm8550
+socrates,redmi k60 pro,Android 14.0,5/31/24,Qualcomm SM8550,qualcomm sm8550
+merlin_tw_global,redmi note 9,Android 12.0,2/3/23,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+veux_tr_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,5/9/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+ziyi,civi 2,Android 14.0,5/28/24,Qualcomm SM7450,qualcomm sm7450
+vayu_global,poco x3 pro,Android 13.0,5/18/23,Snapdragon 860 (7 nm),snapdragon 860
+ruby_in_global,redmi note 12 pro / pro+ 5g,Android 14.0,4/16/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+redwood_in_global,poco x5 pro 5g,Android 14.0,5/30/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+toco_eea_global,mi note 10 lite,Android 12.0,1/21/23,"Qualcomm SDM730,Snapdragon 730G (8 nm)","qualcomm sdm730,snapdragon 730g"
+camellian_tr_global,redmi note 10 5g,Android 13.0,6/28/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+redwood_ru_global,poco x5 pro 5g,Android 14.0,5/30/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+biloba_ru_global,redmi note 8 (2021),Android 13.0,4/3/24,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+rosemary_p_id_global,poco m5s,Android 13.0,1/22/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+frost_eea_global,poco c40,Android 11.0,3/12/24,JLQ JR510 (11 nm),jlq jr510
+camellia_in_global,redmi note 10t 5g / poco m3 pro 5g,Android 13.0,10/17/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+light,redmi note 11e,Android 14.0,3/21/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+ingres_tw_global,poco f4 gt,Android 14.0,4/26/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+ingres_ru_global,poco f4 gt,Android 14.0,3/25/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+agate_id_global,11t,Android 14.0,5/15/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+mondrian,redmi k60,Android 14.0,5/24/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+redwood_global,poco x5 pro 5g,Android 14.0,5/21/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+courbet_tr_global,mi 11 lite 4g,Android 13.0,8/16/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+plato_id_global,12t,Android 14.0,4/29/24,Mediatek Dimensity 8100 Ultra (5 nm),mediatek dimensity
+nuwa_tr_global,13 pro,Android 13.0,2/27/23,Qualcomm SM8550,qualcomm sm8550
+fuxi_tr_global,13,Android 13.0,2/27/23,Qualcomm SM8550,qualcomm sm8550
+lightcm,redmi note 11r,Android 14.0,1/15/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+apollo_in_global,mi 10t / mi 10t pro,Android 12.0,5/22/23,Qualcomm SM8250,qualcomm sm8250
+dandelion_in_global,redmi 9a / 9i / 9a sport,Android 10.0,2/17/23,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+plato_tr_global,12t,Android 14.0,1/17/24,Mediatek Dimensity 8100 Ultra (5 nm),mediatek dimensity
+marble,redmi note 12 turbo,Android 14.0,5/6/24,Qualcomm SM7475,qualcomm sm7475
+spes_tr_global,redmi note 11,Android 13.0,4/11/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+zeus_tw_global,12 pro,Android 14.0,5/23/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+vayu_in_global,poco x3 pro,Android 13.0,6/1/23,Snapdragon 860 (7 nm),snapdragon 860
+ingres_tr_global,poco f4 gt,Android 14.0,3/25/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+courbet_id_global,mi 11 lite 4g,Android 13.0,4/28/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+yunluo_id_global,redmi pad,Android 14.0,3/25/24,Mediatek Helio G99 (6 nm),mediatek helio
+yunluo_ru_global,redmi pad,Android 14.0,3/19/24,Mediatek Helio G99 (6 nm),mediatek helio
+alioth_id_global,poco f3,Android 13.0,5/10/24,Qualcomm SM8250,qualcomm sm8250
+dandelion_id_global,redmi 9a,Android 10.0,2/28/23,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+yunluo,redmi pad,Android 14.0,5/30/24,Mediatek Helio G99 (6 nm),mediatek helio
+ruby_tw_global,redmi note 12 pro / pro+ 5g,Android 14.0,5/15/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+xaga_tw_global,redmi note 11t pro / poco x4 gt / pro,Android 14.0,5/23/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+xaga_tr_global,redmi note 11t pro / poco x4 gt / pro,Android 14.0,5/23/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+cupid_id_global,12,Android 14.0,4/28/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+cupid_tw_global,12,Android 14.0,4/28/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+chopin_id_global,poco x3 gt,Android 13.0,1/4/24,Mediatek Dimensity 1100 (6 nm),mediatek dimensity
+zeus_ru_global,12 pro,Android 14.0,5/8/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+zeus_tr_global,12 pro,Android 14.0,5/23/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+ingres_id_global,poco f4 gt,Android 14.0,4/25/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+cupid_ru_global,12,Android 14.0,5/29/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+yunluo_tw_global,redmi pad,Android 14.0,3/25/24,Mediatek Helio G99 (6 nm),mediatek helio
+selene_tw_global,redmi 10 / redmi 10 2022,Android 13.0,12/25/23,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+star_id_global,mi 11 ultra,Android 14.0,5/30/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+selene_eea_global,redmi 10 / redmi 10 2022,Android 13.0,5/8/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+sweet_tw_global,redmi note 10 pro,Android 13.0,11/27/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+pissarro_tr_global,redmi note 11 pro+ 5g,Android 13.0,4/22/24,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+pissarro_ru_global,redmi note 11 pro+ 5g,Android 13.0,4/17/24,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+cupid_tr_global,12,Android 14.0,5/29/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+ruby_ru_global,redmi note 12 pro / pro+ 5g,Android 14.0,5/10/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+fuxi_global,13,Android 14.0,4/19/24,Qualcomm SM8550,qualcomm sm8550
+yunluo_tr_global,redmi pad,Android 14.0,3/6/24,Mediatek Helio G99 (6 nm),mediatek helio
+ziyi_eea_global,civi 2 / 13 lite,Android 14.0,5/17/24,Qualcomm SM7450,qualcomm sm7450
+ingres_eea_global,poco f4 gt,Android 14.0,4/26/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+dandelion_c3l2_global,redmi 10a,Android 11.0,3/21/24,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+munch_id_global,poco f4,Android 14.0,5/14/24,Qualcomm SM8250,qualcomm sm8250
+dandelion_c3l2_eea_global,redmi 10a,Android 11.0,5/9/24,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+selene_id_global,redmi 10 / redmi 10 2022,Android 13.0,5/9/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+alioth_eea_global,poco f3,Android 13.0,4/22/24,Qualcomm SM8250,qualcomm sm8250
+vili_tw_global,11t pro,Android 14.0,5/17/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+dandelion_eea_global,redmi 9a / 9at,Android 10.0,3/20/23,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+vili_id_global,11t pro,Android 14.0,5/14/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+venus_ru_global,mi 11,Android 14.0,5/14/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+venus_id_global,mi 11,Android 14.0,5/9/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+fleur_ru_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,4/8/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+fleur_tr_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,4/8/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+joyeuse_tw_global,redmi note 9 pro,Android 12.0,9/27/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+joyeuse_global,redmi note 9 pro,Android 12.0,3/27/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+rosemary_id_global,redmi note 10s,Android 13.0,5/20/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+dandelion_c3l2_ru_global,redmi 10a,Android 11.0,5/15/24,Mediatek MT6762G Helio G25 (12 nm),mediatek mt6762g
+evergreen_ru_global,poco m4 pro 5g,Android 13.0,4/7/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+viva_tr_global,redmi note 11 pro 4g,Android 13.0,4/1/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+sweet_k6a_id_global,redmi note 12 pro 4g,Android 13.0,5/23/24,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+selene_ru_global,redmi 10 / redmi 10 2022,Android 13.0,10/13/23,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+selene_global,redmi 10 / redmi 10 2022,Android 13.0,5/9/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+earth_eea_global,redmi 12c / poco c55,Android 14.0,4/26/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+ruby_id_global,redmi note 12 pro / pro+ 5g,Android 14.0,4/18/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+diting_tw_global,12t pro,Android 14.0,5/31/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+munch_global,poco f4,Android 14.0,4/26/24,Qualcomm SM8250,qualcomm sm8250
+camellian_id_global,redmi note 10 5g,Android 13.0,9/12/23,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+frost_ru_global,poco c40,Android 11.0,3/15/24,JLQ JR510 (11 nm),jlq jr510
+rock_id_global,poco m5,Android 14.0,4/17/24,Mediatek Helio G99 (6 nm),mediatek helio
+rock_eea_global,poco m5,Android 14.0,5/20/24,Mediatek Helio G99 (6 nm),mediatek helio
+water_global,redmi a2 / a2+ / poco c51,Android 13.0,5/30/24,Mediatek Helio G36 (12 nm),mediatek helio
+light_tw_global,redmi 10 5g / poco m4 5g,Android 14.0,3/1/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+earth_global,redmi 12c / poco c55,Android 14.0,5/12/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+earth_id_global,redmi 12c / poco c55,Android 14.0,5/16/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+earth_tr_global,redmi 12c / poco c55,Android 14.0,5/16/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+agate_tw_global,11t,Android 14.0,5/15/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+xaga_in_global,redmi k50i / pro,Android 14.0,5/22/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+joyeuse_id_global,redmi note 9 pro,Android 12.0,3/31/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+selene_tr_global,redmi 10 / redmi 10 2022,Android 13.0,12/18/23,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+lmi_id_global,poco f2 pro,Android 12.0,3/29/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+munch_eea_global,poco f4,Android 14.0,5/13/24,Qualcomm SM8250,qualcomm sm8250
+earth_ru_global,redmi 12c / poco c55,Android 14.0,5/16/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+light_ru_global,redmi 10 5g / poco m4 5g,Android 14.0,3/25/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+light_tr_global,redmi 10 5g / poco m4 5g,Android 14.0,3/25/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+ruby_global,redmi note 12 pro / pro+ 5g,Android 14.0,5/28/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+rosemary_p_tw_global,poco m5s,Android 13.0,2/29/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+rosemary_p_ru_global,poco m5s,Android 13.0,4/18/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+ruby_eea_global,redmi note 12 pro / pro+ 5g,Android 14.0,5/28/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+moonstone_ru_global,poco x5 5g,Android 14.0,5/13/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+veux_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,3/23/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+yunluo_eea_global,redmi pad,Android 14.0,4/8/24,Mediatek Helio G99 (6 nm),mediatek helio
+angelica_global,redmi 9c,Android 10.0,4/13/23,Mediatek MT6765G Helio G35 (12 nm),mediatek mt6765g
+lmi_ru_global,poco f2 pro,Android 12.0,4/6/23,"Qualcomm SM8250,Snapdragon 865 5G (7 nm+)","qualcomm sm8250,snapdragon 865 5g"
+renoir_eea_global,mi 11 lite 5g,Android 13.0,12/26/23,Qualcomm SM7350,qualcomm sm7350
+renoir_global,mi 11 lite 5g,Android 13.0,1/4/24,Qualcomm SM7350,qualcomm sm7350
+sunstone_in_global,redmi note 12 5g,Android 14.0,5/9/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+fog_in_global,redmi 10c,Android 13.0,5/17/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+evergo_in_global,redmi note 11t 5g,Android 13.0,4/9/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+moonstone_eea_global,poco x5 5g,Android 14.0,4/18/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+fog_id_global,redmi 10c,Android 13.0,4/18/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+rosemary_in_global,redmi note 10s / redmi note 11 se,Android 13.0,3/18/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+rosemary_eea_global,redmi note 10s,Android 13.0,2/23/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+plato_global,12t,Android 14.0,5/15/24,Mediatek Dimensity 8100 Ultra (5 nm),mediatek dimensity
+diting_global,12t pro,Android 14.0,5/16/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+zeus_in_global,12 pro,Android 14.0,5/8/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+earth_tw_global,redmi 12c / poco c55,Android 14.0,5/12/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+apollo_ru_global,mi 10t / mi 10t pro,Android 12.0,4/6/23,Qualcomm SM8250,qualcomm sm8250
+courbet_ru_global,mi 11 lite 4g,Android 13.0,8/8/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+sweet_tr_global,redmi note 10 pro,Android 13.0,8/16/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+spesn_id_global,redmi note 11 nfc,Android 13.0,4/11/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+ruby_tr_global,redmi note 12 pro / pro+ 5g,Android 14.0,5/15/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+sweet_ru_global,redmi note 10 pro,Android 13.0,8/16/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+cannong_global,redmi note 9t,Android 12.0,11/8/23,Mediatek Dimensity 800U (7 nm),mediatek dimensity
+cannong_eea_global,redmi note 9t,Android 12.0,11/9/23,Mediatek Dimensity 800U (7 nm),mediatek dimensity
+moonstone_id_global,poco x5 5g,Android 14.0,5/9/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+renoir_ru_global,mi 11 lite 5g,Android 13.0,1/4/24,Qualcomm SM7350,qualcomm sm7350
+citrus_global,poco m3,Android 12.0,4/7/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+nuwa,13 pro,Android 14.0,3/21/24,Qualcomm SM8550,qualcomm sm8550
+taoyao_ru_global,12 lite,Android 14.0,5/31/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+taoyao_id_global,12 lite,Android 14.0,5/30/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+lisa_ru_global,11 lite 5g ne,Android 14.0,4/11/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+renoir_jp_global,mi 11 lite 5g,Android 13.0,1/26/24,Qualcomm SM7350,qualcomm sm7350
+rosemary_p_eea_global,poco m5s,Android 13.0,5/24/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+sunstone_tw_global,redmi note 12 5g,Android 14.0,2/27/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+biloba_eea_global,redmi note 8 (2021),Android 13.0,11/30/23,"Qualcomm SDM665,Snapdragon 665 (11 nm)","qualcomm sdm665,snapdragon 665"
+spes_in_global,redmi note 11,Android 13.0,3/26/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+psyche_eea_global,12x,Android 13.0,4/10/24,Qualcomm SM8250,qualcomm sm8250
+redwood_id_global,poco x5 pro 5g,Android 14.0,5/30/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+rosemary_ru_global,redmi note 10s,Android 13.0,9/22/23,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+rosemary_tr_global,redmi note 10s,Android 13.0,5/13/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+rosemary_tw_global,redmi note 10s,Android 13.0,12/8/23,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+apollo_id_global,mi 10t / mi 10t pro,Android 12.0,4/13/23,Qualcomm SM8250,qualcomm sm8250
+apollo_tr_global,mi 10t / mi 10t pro,Android 12.0,4/11/23,Qualcomm SM8250,qualcomm sm8250
+apollo_tw_global,mi 10t / mi 10t pro,Android 12.0,4/23/23,Qualcomm SM8250,qualcomm sm8250
+frost_global,poco c40,Android 11.0,3/12/24,JLQ JR510 (11 nm),jlq jr510
+veux_in_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,4/17/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+vili_jp_global,11t pro,Android 13.0,10/30/23,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+star_global,mi 11 ultra,Android 14.0,5/30/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+yunluo_global,redmi pad,Android 14.0,3/26/24,Mediatek Helio G99 (6 nm),mediatek helio
+courbet_in_global,mi 11 lite 4g,Android 13.0,4/17/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+fog_tr_global,redmi 10c,Android 13.0,1/4/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+tapas_tr_global,redmi note 12 4g,Android 14.0,5/7/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+fog_tw_global,redmi 10c,Android 13.0,4/11/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+psyche_global,12x,Android 13.0,2/29/24,Qualcomm SM8250,qualcomm sm8250
+topaz_ru_global,redmi note 12 4g nfc,Android 14.0,4/19/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+topaz_id_global,redmi note 12 4g nfc,Android 14.0,5/7/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+selene_in_global,redmi 10 prime / redmi 10 2022,Android 13.0,5/9/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+veux_ru_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,5/6/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+diting_ru_global,12t pro,Android 14.0,5/17/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+zeus_id_global,12 pro,Android 14.0,5/23/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+ziyi_ru_global,civi 2 / 13 lite,Android 14.0,5/23/24,Qualcomm SM7450,qualcomm sm7450
+ziyi_tw_global,civi 2 / 13 lite,Android 14.0,5/30/24,Qualcomm SM7450,qualcomm sm7450
+plato_eea_global,12t,Android 14.0,5/17/24,Mediatek Dimensity 8100 Ultra (5 nm),mediatek dimensity
+ziyi_tr_global,13 lite,Android 14.0,5/30/24,Qualcomm SM7450,qualcomm sm7450
+light_global,redmi 10 5g / poco m4 5g,Android 14.0,5/22/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+mondrian_eea_global,poco f5 pro,Android 14.0,4/16/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+nuwa_global,13 pro,Android 14.0,5/12/24,Qualcomm SM8550,qualcomm sm8550
+rembrandt,redmi k60e,Android 14.0,5/9/24,Mediatek Dimensity 8200 (4 nm),mediatek dimensity
+surya_tr_global,poco x3 nfc,Android 12.0,7/21/23,Qualcomm SM7150,qualcomm sm7150
+yunluo_in_global,redmi pad,Android 14.0,4/8/24,Mediatek Helio G99 (6 nm),mediatek helio
+fuxi_eea_global,13,Android 14.0,5/24/24,Qualcomm SM8550,qualcomm sm8550
+fuxi_tw_global,13,Android 14.0,1/24/24,Qualcomm SM8550,qualcomm sm8550
+surya_ru_global,poco x3 nfc,Android 12.0,7/21/23,Qualcomm SM7150,qualcomm sm7150
+fog_ru_global,redmi 10c,Android 13.0,2/6/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+nuwa_tw_global,13 pro,Android 14.0,4/29/24,Qualcomm SM8550,qualcomm sm8550
+curtana_ru_global,redmi note 9s,Android 12.0,4/28/23,"Qualcomm SM7125,Snapdragon 720G (8 nm)","qualcomm sm7125,snapdragon 720g"
+nuwa_eea_global,13 pro,Android 14.0,5/24/24,Qualcomm SM8550,qualcomm sm8550
+moonstone_in_global,poco x5 5g,Android 14.0,4/17/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+mojito_ru_global,redmi note 10,Android 12.0,11/28/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+mojito_eea_global,redmi note 10,Android 12.0,12/8/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+diting_eea_global,12t pro,Android 14.0,4/15/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+munch_in_global,poco f4,Android 14.0,5/14/24,Qualcomm SM8250,qualcomm sm8250
+moonstone_tw_global,poco x5 5g,Android 14.0,3/5/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+sweet_global,redmi note 10 pro,Android 13.0,11/1/23,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+lilac_jp_global,redmi note 10t,Android 13.0,1/17/24,Mediatek Dimensity 700 (7 nm),mediatek dimensity
+psyche_ru_global,12x,Android 13.0,5/14/24,Qualcomm SM8250,qualcomm sm8250
+mondrian_ru_global,poco f5 pro,Android 14.0,5/11/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+citrus_tr_global,poco m3,Android 12.0,4/28/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+mondrian_tw_global,poco f5 pro,Android 14.0,3/26/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+citrus_tw_global,poco m3,Android 12.0,5/6/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+ziyi_global,civi 2 / 13 lite,Android 14.0,5/23/24,Qualcomm SM7450,qualcomm sm7450
+munch_tr_global,poco f4,Android 14.0,5/27/24,Qualcomm SM8250,qualcomm sm8250
+munch_ru_global,poco f4,Android 14.0,5/23/24,Qualcomm SM8250,qualcomm sm8250
+vili_ru_global,11t pro,Android 14.0,5/14/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+lime_in_global,redmi 9 power,Android 12.0,5/4/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+psyche_tw_global,12x,Android 13.0,4/10/24,Qualcomm SM8250,qualcomm sm8250
+vili_global,11t pro,Android 14.0,5/6/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+citrus_id_global,poco m3,Android 12.0,5/9/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+nuwa_in_global,13 pro,Android 14.0,5/22/24,Qualcomm SM8550,qualcomm sm8550
+marble_tw_global,poco f5,Android 14.0,5/22/24,Qualcomm SM7475,qualcomm sm7475
+taoyao_tw_global,12 lite,Android 14.0,5/31/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+marble_tr_global,poco f5,Android 14.0,5/22/24,Qualcomm SM7475,qualcomm sm7475
+mondrian_global,poco f5 pro,Android 14.0,5/8/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+sweet_k6a_eea_global,redmi note 12 pro 4g,Android 13.0,5/15/24,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+mondrian_tr_global,poco f5 pro,Android 14.0,5/11/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+marble_ru_global,poco f5,Android 14.0,5/13/24,Qualcomm SM7475,qualcomm sm7475
+marble_in_global,poco f5,Android 14.0,5/8/24,Qualcomm SM7475,qualcomm sm7475
+taoyao_tr_global,12 lite,Android 14.0,5/31/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+marble_id_global,poco f5,Android 14.0,5/14/24,Qualcomm SM7475,qualcomm sm7475
+marble_global,poco f5,Android 14.0,5/8/24,Qualcomm SM7475,qualcomm sm7475
+marble_eea_global,poco f5,Android 14.0,5/13/24,Qualcomm SM7475,qualcomm sm7475
+viva_eea_global,redmi note 11 pro 4g,Android 13.0,3/18/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+lisa_eea_global,11 lite 5g ne,Android 14.0,3/18/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+moonstone_global,poco x5 5g,Android 14.0,4/15/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+renoir_tw_global,mi 11 lite 5g,Android 13.0,1/31/24,Qualcomm SM7350,qualcomm sm7350
+ares_in_global,poco f3 gt,Android 13.0,4/1/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+water_in_global,redmi a2 / a2+ / poco c51,Android 13.0,6/6/23,Mediatek Helio G36 (12 nm),mediatek helio
+viva_id_global,redmi note 11 pro 4g,Android 13.0,3/25/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+topaz_global,redmi note 12 4g nfc,Android 14.0,5/9/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+lisa_tw_global,11 lite 5g ne,Android 14.0,4/11/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+alioth_ru_global,poco f3,Android 13.0,5/21/24,Qualcomm SM8250,qualcomm sm8250
+lisa_in_global,11 lite 5g ne,Android 14.0,4/15/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+fleur_in_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,3/26/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+cannong_ru_global,redmi note 9t,Android 12.0,5/17/23,Mediatek Dimensity 800U (7 nm),mediatek dimensity
+cannong_tr_global,redmi note 9t,Android 12.0,5/17/23,Mediatek Dimensity 800U (7 nm),mediatek dimensity
+cannong_tw_global,redmi note 9t,Android 12.0,5/17/23,Mediatek Dimensity 800U (7 nm),mediatek dimensity
+lisa_tr_global,11 lite 5g ne,Android 14.0,4/15/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+tapas_global,redmi note 12 4g,Android 14.0,4/19/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+xaga_eea_global,redmi note 11t pro / poco x4 gt / pro,Android 14.0,5/14/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+munch_tw_global,poco f4,Android 14.0,5/28/24,Qualcomm SM8250,qualcomm sm8250
+pipa,pad 6,Android 14.0,4/2/24,Qualcomm SM8250,qualcomm sm8250
+topaz_eea_global,redmi note 12 4g nfc,Android 14.0,5/27/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+fleur_id_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,4/16/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+nuwa_ru_global,13 pro,Android 14.0,4/30/24,Qualcomm SM8550,qualcomm sm8550
+fuxi_ru_global,13,Android 14.0,4/7/24,Qualcomm SM8550,qualcomm sm8550
+rock_global,poco m5,Android 14.0,5/13/24,Mediatek Helio G99 (6 nm),mediatek helio
+pissarro_global,redmi note 11 pro+ 5g,Android 13.0,3/18/24,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+alioth_tr_global,poco f3,Android 13.0,5/21/24,Qualcomm SM8250,qualcomm sm8250
+ishtar,13 ultra,Android 14.0,5/11/24,Qualcomm SM8550,qualcomm sm8550
+veux_tw_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,5/9/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+taoyao_eea_global,12 lite,Android 14.0,5/21/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+lime_eea_global,redmi 9t,Android 12.0,7/18/23,"Qualcomm SM6115,Snapdragon 662 (11 nm)","qualcomm sm6115,snapdragon 662"
+mojito_in_global,redmi note 10,Android 12.0,11/21/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+sea_global,redmi note 12s,Android 14.0,4/25/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+sea_ru_global,redmi note 12s,Android 14.0,5/22/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+nabu_tw_global,pad 5,Android 13.0,4/10/24,Snapdragon 860 (7 nm),snapdragon 860
+opal_eea_global,redmi note 11s 5g,Android 13.0,4/3/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+plato_tw_global,12t,Android 14.0,4/7/24,Mediatek Dimensity 8100 Ultra (5 nm),mediatek dimensity
+plato_ru_global,12t,Android 14.0,5/9/24,Mediatek Dimensity 8100 Ultra (5 nm),mediatek dimensity
+earth_in_global,redmi 12c / poco c55,Android 14.0,5/16/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+fog_global,redmi 10c,Android 13.0,5/27/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+fire_ru_global,redmi 12,Android 14.0,5/13/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+fire_eea_global,redmi 12,Android 14.0,4/19/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+earth,redmi 12c,Android 14.0,2/2/24,Mediatek MT6769Z Helio G85 (12 nm),mediatek mt6769z
+veux_jp_global,redmi note 11 pro 5g,Android 13.0,5/29/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+agate_ru_global,11t,Android 14.0,4/23/24,Mediatek Dimensity 1200 (6 nm),mediatek dimensity
+pissarro_eea_global,redmi note 11 pro+ 5g,Android 13.0,3/7/24,Mediatek Dimensity 920 (6 nm),mediatek dimensity
+rosemary_p_global,poco m5s,Android 13.0,3/18/24,Mediatek MT6785V/CD Helio G95 (12 nm),mediatek mt6785v
+veux_eea_global,redmi note 11 pro 5g / poco x4 pro 5g,Android 13.0,4/17/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+mojito_id_global,redmi note 10,Android 12.0,11/2/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+vili_in_global,11t pro,Android 14.0,5/6/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+chopin_global,poco x3 gt,Android 13.0,11/29/23,Mediatek Dimensity 1100 (6 nm),mediatek dimensity
+mojito_tr_global,redmi note 10,Android 12.0,11/21/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+alioth_tw_global,poco f3,Android 13.0,5/20/24,Qualcomm SM8250,qualcomm sm8250
+sea_tw_global,redmi note 12s,Android 14.0,4/1/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+sea_eea_global,redmi note 12s,Android 14.0,5/8/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+sea_tr_global,redmi note 12s,Android 14.0,1/29/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+tapas_in_global,redmi note 12 4g,Android 14.0,5/9/24,"Qualcomm SM6225,Snapdragon 685 (6 nm)","qualcomm sm6225,snapdragon 685"
+moonstone_tr_global,poco x5 5g,Android 14.0,3/6/24,"Qualcomm SM6375,Snapdragon 695 5G (6 nm)","qualcomm sm6375,snapdragon 695 5g"
+sweet_k6a_ru_global,redmi note 12 pro 4g,Android 13.0,5/14/24,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+viva_ru_global,redmi note 11 pro 4g,Android 13.0,4/12/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+camellian_ru_global,redmi note 10t / poco m3 pro,Android 13.0,7/7/23,"Qualcomm SDM678,Snapdragon 678 (11 nm)","qualcomm sdm678,snapdragon 678"
+liuqin,pad 6 pro,Android 14.0,4/5/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+ice_in_global,redmi a1 / a1+ / poco c50,Android 12.0,4/9/24,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+sweet_k6a_tr_global,redmi note 12 pro 4g,Android 13.0,3/21/24,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+star_eea_global,mi 11 ultra,Android 14.0,5/20/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+star_in_global,mi 11 ultra,Android 14.0,5/16/24,"Qualcomm SM8350,Snapdragon 888 5G (5 nm)","qualcomm sm8350,snapdragon 888 5g"
+fleur_eea_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,3/21/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+sunstone_eea_global,redmi note 12 5g,Android 14.0,5/22/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+opal_global,redmi note 11s 5g,Android 13.0,3/25/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+sunstone_global,redmi note 12 5g,Android 14.0,4/15/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+evergreen_eea_global,poco m4 pro 5g,Android 13.0,4/3/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+fleur_global,redmi note 11s 4g / poco m4 pro 4g,Android 13.0,2/29/24,Mediatek MT6781 Helio G96 (12 nm),mediatek mt6781
+pearl,redmi note 12t pro,Android 14.0,5/13/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+spesn_global,redmi note 11 nfc,Android 13.0,4/17/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+spes_global,redmi note 11,Android 13.0,2/26/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+xaga_ru_global,redmi note 11t pro / poco x4 gt / pro,Android 13.0,4/1/24,Mediatek Dimensity 8100 (5 nm),mediatek dimensity
+frost_id_global,poco c40,Android 11.0,8/8/23,JLQ JR510 (11 nm),jlq jr510
+ishtar_ru_global,13 ultra,Android 14.0,4/28/24,Qualcomm SM8550,qualcomm sm8550
+pipa_in_global,pad 6,Android 14.0,5/17/24,Qualcomm SM8250,qualcomm sm8250
+ishtar_eea_global,13 ultra,Android 14.0,4/23/24,Qualcomm SM8550,qualcomm sm8550
+redwood_tw_global,poco x5 pro 5g,Android 14.0,5/30/24,"Qualcomm SM7325,Snapdragon 778G 5G (6 nm)","qualcomm sm7325,snapdragon 778g 5g"
+evergreen_global,poco m4 pro 5g,Android 13.0,3/25/24,Mediatek Dimensity 810 (6 nm),mediatek dimensity
+ice_ru_global,redmi a1 / poco c50,Android 12.0,6/12/23,Mediatek MT6761 Helio A22 (12 nm),mediatek mt6761
+selene,redmi 10 / redmi 10 2022,Android 13.0,1/5/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+yuechu,civi 3,Android 14.0,4/2/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+fire_global,redmi 12,Android 14.0,4/23/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+sweet_k6a_global,redmi note 12 pro 4g,Android 13.0,3/21/24,"Qualcomm SM7150,Snapdragon 732G (8 nm)","qualcomm sm7150,snapdragon 732g"
+ingres_global,poco f4 gt,Android 14.0,4/10/24,"Qualcomm SM8450,Snapdragon 8 Gen 1 (4 nm)","qualcomm sm8450,snapdragon 8 gen 1"
+ishtar_tw_global,13 ultra,Android 14.0,4/28/24,Qualcomm SM8550,qualcomm sm8550
+ishtar_global,13 ultra,Android 14.0,4/19/24,Qualcomm SM8550,qualcomm sm8550
+water_id_global,redmi a2 / a2+ / poco c51,Android 13.0,4/29/24,Mediatek Helio G36 (12 nm),mediatek helio
+babylon,mix fold 3,Android 14.0,5/28/24,Qualcomm SM8550,qualcomm sm8550
+garnet,redmi note 13 pro 5g,Android 14.0,4/19/24,Qualcomm SM7435,qualcomm sm7435
+gold,redmi note 13 5g / 13r pro,Android 14.0,5/23/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+sky,redmi note 12r,Android 14.0,1/17/24,"Qualcomm SM4450,Snapdragon 4 Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4 gen 2"
+water_eea_global,redmi a2 / a2+ / poco c51,Android 13.0,5/14/24,Mediatek Helio G36 (12 nm),mediatek helio
+houji,14,Android 14.0,5/11/24,Qualcomm SM8650,qualcomm sm8650
+shennong,14 pro / ti,Android 14.0,5/11/24,Qualcomm SM8650,qualcomm sm8650
+aristotle_eea_global,13t,Android 14.0,5/14/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+pipa_id_global,pad 6,Android 14.0,5/17/24,Qualcomm SM8250,qualcomm sm8250
+manet,redmi k70 pro,Android 14.0,5/28/24,Qualcomm SM8650,qualcomm sm8650
+duchamp,redmi k70e,Android 14.0,5/31/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+corot,redmi k60 ultra,Android 14.0,5/17/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+zircon_eea_global,redmi note 13 pro+ 5g,Android 14.0,5/23/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+water_tw_global,redmi a2 / a2+ / poco c51,Android 13.0,1/22/24,Mediatek Helio G36 (12 nm),mediatek helio
+xun,redmi pad se,Android 14.0,5/14/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+corot_jp_global,13t pro,Android 13.0,1/29/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+corot_tr_global,13t pro,Android 14.0,2/18/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+corot_ru_global,13t pro,Android 14.0,2/26/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+frost_tr_global,poco c40,Android 11.0,2/20/24,JLQ JR510 (11 nm),jlq jr510
+sheng,pad 6s pro 12.4,Android 14.0,5/27/24,Qualcomm SM8550,qualcomm sm8550
+blue_ru_global,redmi a3,Android 14.0,2/22/24,Mediatek Helio G36 (12 nm),mediatek helio
+shennong_t,14 pro ti satellite,Android 14.0,3/5/24,Qualcomm SM8650,qualcomm sm8650
+aurora_eea_global,14 ultra,Android 14.0,5/13/24,Qualcomm SM8650,qualcomm sm8650
+blue_eea_global,redmi a3,Android 14.0,2/27/24,Mediatek Helio G36 (12 nm),mediatek helio
+sky_tw_global,redmi 12 5g / poco m6 pro 5g,Android 14.0,3/5/24,"Qualcomm SM4450,Snapdragon 4 Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4 gen 2"
+garnet_eea_global,redmi note 13 pro 5g / poco x6 5g,Android 14.0,4/26/24,Qualcomm SM7435,qualcomm sm7435
+houji_tr_global,14,Android 14.0,2/29/24,Qualcomm SM8650,qualcomm sm8650
+ruby_kr_global,redmi note 12 pro / pro+ 5g south,Android 14.0,5/15/24,"Qualcomm SM4375,Snapdragon 4 Gen 1 (6 nm)","qualcomm sm4375,snapdragon 4 gen 1"
+sky_jp_global,redmi 12 5g,Android 14.0,3/7/24,"Qualcomm SM4450,Snapdragon 4 Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4 gen 2"
+duchamp_eea_global,poco x6 pro 5g,Android 14.0,5/29/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+duchamp_global,poco x6 pro 5g,Android 14.0,5/23/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+xun_tr_global,redmi pad se,Android 14.0,3/15/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+water_ru_global,redmi a2 / a2+ / poco c51,Android 13.0,3/7/24,Mediatek Helio G36 (12 nm),mediatek helio
+corot_tw_global,13t pro,Android 14.0,3/28/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+duchamp_in_global,poco x6 pro 5g,Android 14.0,5/23/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+corot_global,13t pro,Android 14.0,3/21/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+aurora_global,14 ultra,Android 14.0,5/23/24,Qualcomm SM8650,qualcomm sm8650
+blue_in_global,poco c61/redmi a3,Android 14.0,3/14/24,Mediatek Helio G36 (12 nm),mediatek helio
+blue_id_global,redmi a3,Android 14.0,3/14/24,Mediatek Helio G36 (12 nm),mediatek helio
+aurora,14 ultra,Android 14.0,5/31/24,Qualcomm SM8650,qualcomm sm8650
+garnet_tr_global,redmi note 13 pro 5g / poco x6 5g,Android 14.0,4/1/24,Qualcomm SM7435,qualcomm sm7435
+garnet_global,redmi note 13 pro 5g / poco x6 5g,Android 14.0,3/25/24,Qualcomm SM7435,qualcomm sm7435
+garnet_ru_global,redmi note 13 pro 5g / poco x6 5g,Android 14.0,4/1/24,Qualcomm SM7435,qualcomm sm7435
+garnet_id_global,redmi note 13 pro 5g / poco x6 5g,Android 14.0,4/1/24,Qualcomm SM7435,qualcomm sm7435
+garnet_tw_global,redmi note 13 pro 5g / poco x6 5g,Android 14.0,4/3/24,Qualcomm SM7435,qualcomm sm7435
+houji_tw_global,14,Android 14.0,5/28/24,Qualcomm SM8650,qualcomm sm8650
+emerald_id_global,redmi note 13 pro 4g / poco m6 pro,Android 14.0,4/9/24,Mediatek Helio G99 Ultra,mediatek helio
+vermeer_ru_global,poco f6 pro,Android 14.0,5/14/24,Qualcomm SM8550,qualcomm sm8550
+vermeer_tw_global,poco f6 pro,Android 14.0,5/22/24,Qualcomm SM8550,qualcomm sm8550
+yudi,pad 6 max 14,Android 14.0,4/3/24,"Qualcomm SM8475,Snapdragon 8+ Gen 1 (4 nm)","qualcomm sm8475,snapdragon 8+ gen 1"
+fire_id_global,redmi 12,Android 14.0,4/8/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+blue_global,redmi a3,Android 14.0,3/28/24,Mediatek Helio G36 (12 nm),mediatek helio
+houji_in_global,14,Android 14.0,4/11/24,Qualcomm SM8650,qualcomm sm8650
+houji_id_global,14,Android 14.0,4/11/24,Qualcomm SM8650,qualcomm sm8650
+emerald_ru_global,redmi note 13 pro 4g / poco m6 pro,Android 14.0,4/12/24,Mediatek Helio G99 Ultra,mediatek helio
+air_in_global,redmi 13r 5g / poco m6 5g,Android 13.0,4/17/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+corot_eea_global,13t pro,Android 14.0,4/25/24,Mediatek Dimensity 9200+ (4 nm),mediatek dimensity
+aristotle_global,13t,Android 14.0,4/19/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+gale_in_global,redmi 13c / poco c65,Android 14.0,4/30/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+gale_eea_global,redmi 13c / poco c65,Android 14.0,4/23/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+peridot,redmi turbo 3,Android 14.0,5/14/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+fire_in_global,redmi 12,Android 14.0,5/10/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+sky_eea_global,redmi 12 5g / poco m6 pro 5g,Android 14.0,4/25/24,"Qualcomm SM4450,Snapdragon 4 Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4 gen 2"
+gale_id_global,redmi 13c / poco c65,Android 14.0,5/8/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+gale_ru_global,redmi 13c / poco c65,Android 14.0,5/8/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+peridot_in_global,poco f6,Android 14.0,5/23/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+houji_global,14,Android 14.0,4/29/24,Qualcomm SM8650,qualcomm sm8650
+sky_in_global,redmi 12 5g / poco m6 pro 5g,Android 14.0,5/9/24,"Qualcomm SM4450,Snapdragon 4 Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4 gen 2"
+peridot_ru_global,poco f6,Android 14.0,5/23/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+duchamp_id_global,poco x6 pro 5g,Android 14.0,5/16/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+xun_global,redmi pad se,Android 14.0,4/28/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+gale_tr_global,redmi 13c / poco c65,Android 14.0,5/9/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+gale_tw_global,redmi 13c / poco c65,Android 14.0,5/9/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+vermeer_global,poco f6 pro,Android 14.0,5/22/24,Qualcomm SM8550,qualcomm sm8550
+xun_eea_global,redmi pad se,Android 14.0,5/7/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+aristotle_ru_global,13t,Android 14.0,5/15/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+emerald_global,redmi note 13 pro 4g / poco m6 pro,Android 14.0,5/11/24,Mediatek Helio G99 Ultra,mediatek helio
+fire_tr_global,redmi 12,Android 14.0,5/13/24,Mediatek MT6769H Helio G88 (12 nm),mediatek mt6769h
+air_eea_global,redmi 13r 5g / 13c 5g,Android 13.0,5/6/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+aurora_in_global,14 ultra,Android 14.0,5/13/24,Qualcomm SM8650,qualcomm sm8650
+dizi,redmi pad pro,Android 14.0,5/28/24,Qualcomm SM7435,qualcomm sm7435
+moon_eea_global,redmi 13 / poco m6,Android 14.0,5/7/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+xun_id_global,redmi pad se,Android 14.0,5/11/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+xun_ru_global,redmi pad se,Android 14.0,5/21/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+sapphiren_tr_global,redmi note 13 nfc,Android 14.0,5/16/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+aristotle_id_global,13t,Android 14.0,5/21/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+pipa_tw_global,pad 6,Android 14.0,5/20/24,Qualcomm SM8250,qualcomm sm8250
+pipa_tr_global,pad 6,Android 14.0,5/20/24,Qualcomm SM8250,qualcomm sm8250
+gold_id_global,redmi note 13 5g / poco x6 neo 5g,Android 13.0,5/17/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+pipa_ru_global,pad 6,Android 14.0,5/20/24,Qualcomm SM8250,qualcomm sm8250
+air,redmi 13r 5g / 13c 5g,Android 14.0,5/16/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+zircon_global,redmi note 13 pro+ 5g,Android 14.0,5/17/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+gold_tw_global,redmi note 13 5g / poco x6 neo 5g,Android 13.0,5/17/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+zircon_in_global,redmi note 13 pro+ 5g,Android 14.0,5/15/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+houji_eea_global,14,Android 14.0,5/16/24,Qualcomm SM8650,qualcomm sm8650
+zircon_id_global,redmi note 13 pro+ 5g,Android 14.0,5/22/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+aurora_tw_global,14 ultra,Android 14.0,5/27/24,Qualcomm SM8650,qualcomm sm8650
+gold_tr_global,redmi note 13 5g / poco x6 neo 5g,Android 13.0,5/21/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+dizi_tw_global,redmi pad pro / poco pad,Android 14.0,5/14/24,Qualcomm SM7435,qualcomm sm7435
+moon_tw_global,redmi 13 / poco m6,Android 14.0,5/14/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+xun_in_global,redmi pad se,Android 14.0,5/23/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+aristotle_tr_global,13t,Android 14.0,5/22/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+aristotle_tw_global,13t,Android 14.0,5/22/24,Mediatek Dimensity 8200 Ultra (4 nm),mediatek dimensity
+vermeer_eea_global,poco f6 pro,Android 14.0,5/23/24,Qualcomm SM8550,qualcomm sm8550
+aurora_ru_global,14 ultra,Android 14.0,5/23/24,Qualcomm SM8650,qualcomm sm8650
+aurora_tr_global,14 ultra,Android 14.0,5/23/24,Qualcomm SM8650,qualcomm sm8650
+air_global,redmi 13r 5g / 13c 5g,Android 13.0,5/15/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+sapphiren_eea_global,redmi note 13 nfc,Android 14.0,5/22/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+duchamp_ru_global,poco x6 pro 5g,Android 14.0,5/27/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+emerald_eea_global,redmi note 13 pro 4g / poco m6 pro,Android 14.0,5/16/24,Mediatek Helio G99 Ultra,mediatek helio
+zircon_ru_global,redmi note 13 pro+ 5g,Android 14.0,5/24/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+peridot_id_global,poco f6,Android 14.0,5/27/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+moon_ru_global,redmi 13 / poco m6,Android 14.0,5/17/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+moon_global,redmi 13 / poco m6,Android 14.0,5/17/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+zircon_tr_global,redmi note 13 pro+ 5g,Android 14.0,5/29/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+zircon_tw_global,redmi note 13 pro+ 5g,Android 14.0,5/29/24,Mediatek Dimensity 7200 Ultra (4 nm),mediatek dimensity
+sheng_eea_global,pad 6s pro 12.4,Android 14.0,5/28/24,Qualcomm SM8550,qualcomm sm8550
+sapphiren_ru_global,redmi note 13 nfc,Android 14.0,5/28/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+vermeer,redmi k70,Android 14.0,5/28/24,Qualcomm SM8550,qualcomm sm8550
+emerald_tr_global,redmi note 13 pro 4g / poco m6 pro,Android 14.0,5/22/24,Mediatek Helio G99 Ultra,mediatek helio
+sky_global,redmi 12 5g / poco m6 pro 5g,Android 14.0,5/22/24,"Qualcomm SM4450,Snapdragon 4 Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4 gen 2"
+pipa_eea_global,pad 6,Android 14.0,5/22/24,Qualcomm SM8250,qualcomm sm8250
+gold_global,redmi note 13 5g / poco x6 neo 5g,Android 14.0,5/27/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+pipa_global,pad 6,Android 14.0,5/22/24,Qualcomm SM8250,qualcomm sm8250
+klein_global,redmi a3x,Android 14.0,5/22/24,Unisoc T603 (22 nm),unisoc t603
+peridot_global,poco f6,Android 14.0,5/23/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+duchamp_tw_global,poco x6 pro 5g,Android 14.0,5/23/24,Mediatek Dimensity 8300 Ultra (4 nm),mediatek dimensity
+gold_in_global,redmi note 13 5g / poco x6 neo 5g,Android 13.0,5/31/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+peridot_tw_global,poco f6,Android 14.0,5/29/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+dizi_global,redmi pad pro / poco pad,Android 14.0,5/30/24,Qualcomm SM7435,qualcomm sm7435
+sapphire_global,redmi note 13,Android 13.0,5/24/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+breeze,redmi note 13r,Android 14.0,5/31/24,"Qualcomm SM4450,Snapdragon 4+ Gen 2 (4 nm)","qualcomm sm4450,snapdragon 4+ gen 2"
+sapphiren_id_global,redmi note 13 nfc,Android 13.0,5/31/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+gold_eea_global,redmi note 13 5g / poco x6 neo 5g,Android 14.0,5/24/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+dizi_id_global,redmi pad pro / poco pad,Android 14.0,5/25/24,Qualcomm SM7435,qualcomm sm7435
+xun_tw_global,redmi pad se,Android 14.0,5/27/24,"Qualcomm SM6225,Snapdragon 680 4G (6 nm)","qualcomm sm6225,snapdragon 680 4g"
+sheng_ru_global,pad 6s pro 12.4,Android 14.0,5/27/24,Qualcomm SM8550,qualcomm sm8550
+sheng_global,pad 6s pro 12.4,Android 14.0,5/27/24,Qualcomm SM8550,qualcomm sm8550
+sapphiren_global,redmi note 13 nfc,Android 13.0,5/28/24,Mediatek Dimensity 6080 (6 nm),mediatek dimensity
+gale_global,redmi 13c / poco c65,Android 14.0,5/28/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+houji_ru_global,14,Android 14.0,5/28/24,Qualcomm SM8650,qualcomm sm8650
+moon_id_global,redmi 13 / poco m6,Android 14.0,5/29/24,Mediatek Helio G91 Ultra (12 nm),mediatek helio
+peridot_eea_global,poco f6,Android 14.0,5/31/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+chenfeng,civi 4 pro,Android 14.0,5/31/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"
+chenfeng_in_global,civi 4 pro,Android 14.0,5/31/24,"Qualcomm SM8635,Snapdragon 8s Gen 3 (4 nm)","qualcomm sm8635,snapdragon 8s gen 3"

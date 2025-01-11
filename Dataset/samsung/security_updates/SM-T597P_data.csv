@@ -1,0 +1,12 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPU5CUL1,Q(Android 10),2022-01-24,2021-12-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPS4CUD1,Q(Android 10),2021-05-28,2021-05-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPS3CUA2,Q(Android 10),2021-03-04,2021-02-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPU2CTH3,Q(Android 10),2020-09-07,2020-08-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPU2BTF3,Pie(Android 9),2020-08-04,2020-06-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPU2BTB3,Pie(Android 9),2020-03-24,2020-02-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPS2BSK1,Pie(Android 9),2019-11-21,2019-11-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPU2BSH7,Pie(Android 9),2019-09-16,2019-08-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPS2ASG3,Oreo(Android 8.1.0),2019-08-05,2019-07-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPS1ASD1,Oreo(Android 8.1.0),2019-05-03,2019-04-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html
+SM-T597P,SPR,002877190208,SM-T597P/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,T597PVPU1ASA2,Oreo(Android 8.1.0),2019-02-07,2019-01-01,Galaxy Tab A ,https://doc.samsungmobile.com/SM-T597P/002877190208/eng.html

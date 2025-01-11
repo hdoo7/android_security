@@ -1,0 +1,307 @@
+ID,CVE,descrip,vul_true,SPL,SMR,date,last_mod,severity,confid,integrity,availability,req_privileges,attack_vector,attack_complexity,user_req,cwe,cwe_info,NVD_descriptions,android_versions,NVD_published,NVD_last_modified,NVD_version,privileges_required,user_interaction,confidentiality_impact,integrity_impact,availability_impact,base_score,base_severity,Year,Month,Date_oppo
+239,CVE-2019-2100,CVE-ID Not Found,,19-Jun,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2019,06,2019-06-01
+311,CVE-2018-9350,CVE-ID Not Found,,19-Aug,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2019,08,2019-08-01
+728,CVE-2020-0255,Rejected,,20-Aug,,2020-08-14T20:15:12.700,2023-11-07T03:13:52.197,,,,,,,,,,,Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2020-10751. Reason: This candidate is a duplicate of CVE-2020-10751. Notes: All CVE users should reference CVE-2020-10751 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage,,2020-08-14T20:15:12.700,2023-11-07T03:13:52.197,,,,,,,,,2020,08,2020-08-01
+791,CVE-2020-0402,CVE-ID Not Found,,20-Sep,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,09,2020-09-01
+832,CVE-2020-0114CVE-2020-0215,CVE-ID Not Found,,20-Oct,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,10,2020-10-01
+842,CVE-2020-0422CVE-2020-0423,CVE-ID Not Found,,20-Oct,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,10,2020-10-01
+851,CVE-2020-11174CVE-2020-3638,CVE-ID Not Found,,20-Oct,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,10,2020-10-01
+876,CVE-2020-0438CVE-2020-12856,CVE-ID Not Found,,20-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,11,2020-11-01
+882,CVE-2020-0444CVE-2020-0445,CVE-ID Not Found,,20-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,11,2020-11-01
+886,CVE-2020-11196CVE-2020-3632,CVE-ID Not Found,,20-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,11,2020-11-01
+917,CVE-2020-0469CVE-2020-0470,CVE-ID Not Found,,20-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,12,2020-12-01
+924,CVE-2020-11217CVE-2020-0444,CVE-ID Not Found,,20-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,12,2020-12-01
+927,CVE-2020-0461,CVE-ID Not Found,,20-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,12,2020-12-01
+928,CVE-2020-0462,CVE-ID Not Found,,20-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,12,2020-12-01
+931,CVE-2020-11185CVE-2020-11119,CVE-ID Not Found,,20-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,12,2020-12-01
+938,CVE-2020-11212CVE-2020-11213,CVE-ID Not Found,,20-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2020,12,2020-12-01
+1043,CVE-2021-0394CVE-2021-0399,CVE-ID Not Found,,21-Mar,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,03,2021-03-01
+1077,CVE-2021-0338CVE-2021-0437,CVE-ID Not Found,,21-Apr,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,04,2021-04-01
+1087,CVE-2021-0435CVE-2020-15436,CVE-ID Not Found,,21-Apr,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,04,2021-04-01
+1091,CVE-2020-11234CVE-2020-11191,CVE-ID Not Found,,21-Apr,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,04,2021-04-01
+1110,CVE-2020-036,CVE-ID Not Found,,21-May,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,05,2021-05-01
+1113,CVE-2021-0484CVE-2021-0476,CVE-ID Not Found,,21-May,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,05,2021-05-01
+1120,CVE-2021-0324CVE-2020-16120,CVE-ID Not Found,,21-May,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,05,2021-05-01
+1126,CVE-2021-1915CVE-2021-0489,CVE-ID Not Found,,21-May,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,05,2021-05-01
+1154,CVE-2021-0304CVE-2021-0508,CVE-ID Not Found,,21-Jun,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,06,2021-06-01
+1158,CVE-2021-0520CVE-2021-0514,CVE-ID Not Found,,21-Jun,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,06,2021-06-01
+1201,CVE-2020-14381CVE-2021-1923,CVE-ID Not Found,,21-Aug,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,08,2021-08-01
+1205,CVE-2021-30261CVE-2021-30260,CVE-ID Not Found,,21-Aug,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,08,2021-08-01
+1209,CVE-2021-0578CVE-2021-0573,CVE-ID Not Found,,21-Aug,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,08,2021-08-01
+1213,CVE-2021-0574CVE-2021-0576,CVE-ID Not Found,,21-Aug,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,08,2021-08-01
+1225,CVE-2021-1979CVE-2021-30284,CVE-ID Not Found,,21-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,11,2021-11-01
+1230,CVE-2021-1973CVE-2021-30259,CVE-ID Not Found,,21-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,11,2021-11-01
+1235,CVE-2021-0650CVE-2021-0926,CVE-ID Not Found,,21-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,11,2021-11-01
+1240,CVE-2021-0923CVE-2021-0921,CVE-ID Not Found,,21-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,11,2021-11-01
+1251,CVE-2021-0967CVE-2021-30351,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1257,CVE-2021-0704CVE-2021-0953,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1262,CVE-2021-30267CVE-2021-30278,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1273,CVE-2021-1894CVE-2021-30268,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1278,CVE-2021-33909CVE-2021-0952,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1283,CVE-2021-30336CVE-2021-30335,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1285,CVE-2021-0962,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1286,CVE-2021-0962,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1288,CVE-2021-0904CVE-2021-0675,CVE-ID Not Found,,21-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2021,12,2021-12-01
+1385,CVE-2022-20136,CVE-ID Not Found,,22-Jun,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2022,06,2022-06-01
+1428,CVE-2022-20136,CVE-ID Not Found,,22-Jul,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2022,07,2022-07-01
+1492,,CVE-ID Not Found,,22-Aug,,,,,,,,,,,,,,,,,,,,,,,,,,2022,08,2022-08-01
+1541,CVE-2022-20424,Rejected,,22-Oct,,2022-10-19T21:15:09.330,2023-11-07T03:42:25.907,,,,,,,,,,,Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.,,2022-10-19T21:15:09.330,2023-11-07T03:42:25.907,,,,,,,,,2022,10,2022-10-01
+1566,CVECVE-2021-35109,CVE-ID Not Found,,22-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2022,11,2022-11-01
+1599,,CVE-ID Not Found,,22-Nov,,,,,,,,,,,,,,,,,,,,,,,,,,2022,11,2022-11-01
+1608,CVE-2022-20442-2,CVE-ID Not Found,,22-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2022,12,2022-12-01
+1610,CVE-2022-20466-2,CVE-ID Not Found,,22-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2022,12,2022-12-01
+1612,CVE-2022-20144-2,CVE-ID Not Found,,22-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2022,12,2022-12-01
+1773,,CVE-ID Not Found,,23-Feb,,,,,,,,,,,,,,,,,,,,,,,,,,2023,02,2023-02-01
+1779,CVE-2022-20359,Rejected,,23-Mar,,2022-08-10T20:15:27.730,2023-11-07T03:42:25.427,,,,,,,,,,,Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none,,2022-08-10T20:15:27.730,2023-11-07T03:42:25.427,,,,,,,,,2023,03,2023-03-01
+1831,,CVE-ID Not Found,,23-Mar,,,,,,,,,,,,,,,,,,,,,,,,,,2023,03,2023-03-01
+1929,,CVE-ID Not Found,,23-May,,,,,,,,,,,,,,,,,,,,,,,,,,2023,05,2023-05-01
+1942,CVE-2023-21125,CVE-ID Not Found,,23-Jun,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2023,06,2023-06-01
+1994,,CVE-ID Not Found,,23-Jun,,,,,,,,,,,,,,,,,,,,,,,,,,2023,06,2023-06-01
+2025,CVE-2023-21261,Rejected,,23-Jul,,2023-07-13T00:15:24.203,2023-11-07T04:06:34.760,,,,,,,,,,,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.,,2023-07-13T00:15:24.203,2023-11-07T04:06:34.760,,,,,,,,,2023,07,2023-07-01
+2040,,CVE-ID Not Found,,23-Jul,,,,,,,,,,,,,,,,,,,,,,,,,,2023,07,2023-07-01
+2097,,CVE-ID Not Found,,23-Aug,,,,,,,,,,,,,,,,,,,,,,,,,,2023,08,2023-08-01
+2170,CVE-2022-20359,Rejected,,23-Nov,,2022-08-10T20:15:27.730,2023-11-07T03:42:25.427,,,,,,,,,,,Rejected reason: DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none,,2022-08-10T20:15:27.730,2023-11-07T03:42:25.427,,,,,,,,,2023,11,2023-11-01
+2171,CVE-2023-40132,CVE-ID Not Found,,23-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2023,11,2023-11-01
+2172,CVE-2023-40108,CVE-ID Not Found,,23-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2023,11,2023-11-01
+2190,CVE-2023-40118,CVE-ID Not Found,,23-Nov,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2023,11,2023-11-01
+2205,,CVE-ID Not Found,,23-Nov,,,,,,,,,,,,,,,,,,,,,,,,,,2023,11,2023-11-01
+2290,CVE-2023-40099,CVE-ID Not Found,,23-Dec,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2023,12,2023-12-01
+2340,,CVE-ID Not Found,,24-Jan,,,,,,,,,,,,,,,,,,,,,,,,,,2024,01,2024-01-01
+2342,CVE-2024-0205,CVE-ID Not Found,,24-Feb,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,02,2024-02-01
+2344,CVE-315207417,CVE-ID Not Found,,24-Feb,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,02,2024-02-01
+2345,CVE-315295188,CVE-ID Not Found,,24-Feb,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,02,2024-02-01
+2346,CVE-310244900,CVE-ID Not Found,,24-Feb,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,02,2024-02-01
+2370,CVE-2023-5248,CVE-ID Not Found,,24-Feb,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,02,2024-02-01
+2395,,CVE-ID Not Found,,24-Feb,,,,,,,,,,,,,,,,,,,,,,,,,,2024,02,2024-02-01
+2439,CVE-2024-0044-O,CVE-ID Not Found,,24-Apr,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,04,2024-04-01
+2447,CVE-2024-0028,CVE-ID Not Found,,24-Apr,,,,,,,,,,,,,,CVE ID Not Found,,,,,,,,,,,,2024,04,2024-04-01
+210,CVE-2016-2428,"libAACdec/src/aacdec_drc.cpp in mediaserver in Android 4.x before 4.4.4, 5.0.x before 5.0.2, 5.1.x before 5.1.1, and 6.x before 2016-05-01 does not properly limit the number of threads, which allows remote attackers to execute arbitrary code or cause a denial of service (stack memory corruption) via a crafted media file, aka internal bug 26751339.",,19-Apr,,2016-05-09T10:59:04.360,2016-05-10T17:25:53.500,CRITICAL,HIGH,HIGH,HIGH,NONE,NETWORK,LOW,NONE,CWE-119,Improper Restriction of Operations within the Bounds of a Memory Buffer,"libAACdec/src/aacdec_drc.cpp in mediaserver in Android 4.x before 4.4.4, 5.0.x before 5.0.2, 5.1.x before 5.1.1, and 6.x before 2016-05-01 does not properly limit the number of threads, which allows remote attackers to execute arbitrary code or cause a denial of service (stack memory corruption) via a crafted media file, aka internal bug 26751339.","4.4.4, 5.0, 5.0.2, 5.1, 5.1.1",2016-05-09T10:59:04.360,2016-05-10T17:25:53.500,cvssMetricV30,NONE,NONE,HIGH,HIGH,HIGH,9.8,CRITICAL,2019,04,2019-04-01
+225,CVE-2019-6496,"The ThreadX-based firmware on Marvell Avastar Wi-Fi devices, models 88W8787, 88W8797, 88W8801, 88W8897, and 88W8997, allows remote attackers to execute arbitrary code or cause a denial of service (block pool overflow) via malformed Wi-Fi packets during identification of available Wi-Fi networks. Exploitation of the Wi-Fi device can lead to exploitation of the host application processor in some cases, but this depends on several factors including host OS hardening and the availability of DMA.",,19-Jun,,2019-01-20T20:29:00.917,2020-08-24T17:37:01.140,HIGH,HIGH,HIGH,HIGH,NONE,ADJACENT_NETWORK,LOW,NONE,CWE-787,Out-of-bounds Write,"The ThreadX-based firmware on Marvell Avastar Wi-Fi devices, models 88W8787, 88W8797, 88W8801, 88W8897, and 88W8997, allows remote attackers to execute arbitrary code or cause a denial of service (block pool overflow) via malformed Wi-Fi packets during identification of available Wi-Fi networks. Exploitation of the Wi-Fi device can lead to exploitation of the host application processor in some cases, but this depends on several factors including host OS hardening and the availability of DMA.",,2019-01-20T20:29:00.917,2020-08-24T17:37:01.140,cvssMetricV30,NONE,NONE,HIGH,HIGH,HIGH,8.8,HIGH,2019,06,2019-06-01
+280,CVE-2017-13177,"In several functions of libhevc, NEON registers are not preserved. This could lead to remote code execution as a privileged process with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android. Versions: 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1. Android ID: A-68320413.",,19-Aug,,2018-01-12T23:29:00.343,2018-02-01T20:46:56.800,CRITICAL,HIGH,HIGH,HIGH,NONE,NETWORK,LOW,NONE,CWE-119,Improper Restriction of Operations within the Bounds of a Memory Buffer,"In several functions of libhevc, NEON registers are not preserved. This could lead to remote code execution as a privileged process with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android. Versions: 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1. Android ID: A-68320413.","5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1",2018-01-12T23:29:00.343,2018-02-01T20:46:56.800,cvssMetricV30,NONE,NONE,HIGH,HIGH,HIGH,9.8,CRITICAL,2019,08,2019-08-01
+302,CVE-2017-13279,"In M3UParser::parse of M3UParser.cpp, there is a memory resource exhaustion due to a large loop of pushing items into a vector. This could lead to remote denial of service with no additional execution privileges needed. User interaction is needed for exploitation. Product: Android. Versions: 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1. Android ID: A-68399439.",,19-Aug,,2018-04-04T16:29:00.573,2019-10-03T00:03:26.223,MEDIUM,NONE,NONE,HIGH,NONE,LOCAL,LOW,REQUIRED,CWE-834,Excessive Iteration,"In M3UParser::parse of M3UParser.cpp, there is a memory resource exhaustion due to a large loop of pushing items into a vector. This could lead to remote denial of service with no additional execution privileges needed. User interaction is needed for exploitation. Product: Android. Versions: 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1. Android ID: A-68399439.","6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1",2018-04-04T16:29:00.573,2019-10-03T00:03:26.223,cvssMetricV30,NONE,REQUIRED,NONE,NONE,HIGH,5.5,MEDIUM,2019,08,2019-08-01
+452,CVE-2017-0648,"An elevation of privilege vulnerability in the kernel FIQ debugger could enable a local malicious application to execute arbitrary code within the context of the kernel. This issue is rated as High due to the possibility of a local permanent device compromise, which may require reflashing the operating system to repair the device. Product: Android. Versions: Kernel-3.10. Android ID: A-36101220.",,19-Dec,,2017-06-14T13:29:00.577,2019-10-03T00:03:26.223,HIGH,HIGH,HIGH,HIGH,NONE,LOCAL,LOW,REQUIRED,NVD-CWE-noinfo,,"An elevation of privilege vulnerability in the kernel FIQ debugger could enable a local malicious application to execute arbitrary code within the context of the kernel. This issue is rated as High due to the possibility of a local permanent device compromise, which may require reflashing the operating system to repair the device. Product: Android. Versions: Kernel-3.10. Android ID: A-36101220.",3.10,2017-06-14T13:29:00.577,2019-10-03T00:03:26.223,cvssMetricV30,NONE,REQUIRED,HIGH,HIGH,HIGH,7.8,HIGH,2019,12,2019-12-01
+453,CVE-2017-0510,"An elevation of privilege vulnerability in the kernel FIQ debugger could enable a local malicious application to execute arbitrary code within the context of the kernel. This issue is rated as Critical due to the possibility of a local permanent device compromise, which may require reflashing the operating system to repair the device. Product: Android. Versions: Kernel-3.10. Android ID: A-32402555.",,19-Dec,,2017-03-08T01:59:02.440,2019-10-03T00:03:26.223,HIGH,HIGH,HIGH,HIGH,NONE,LOCAL,LOW,REQUIRED,NVD-CWE-noinfo,,"An elevation of privilege vulnerability in the kernel FIQ debugger could enable a local malicious application to execute arbitrary code within the context of the kernel. This issue is rated as Critical due to the possibility of a local permanent device compromise, which may require reflashing the operating system to repair the device. Product: Android. Versions: Kernel-3.10. Android ID: A-32402555.",3.10,2017-03-08T01:59:02.440,2019-10-03T00:03:26.223,cvssMetricV30,NONE,REQUIRED,HIGH,HIGH,HIGH,7.8,HIGH,2019,12,2019-12-01
+893,CVE-2020-11201,"Arbitrary access to DSP memory due to improper check in loaded library for data received from CPU side' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in QCM6125, QCS410, QCS603, QCS605, QCS610, QCS6125, SA6145P, SA6155, SA6155P, SA8155, SA8155P, SDA640, SDA845, SDM640, SDM830, SDM845, SDX50M, SDX55, SDX55M, SM6125, SM6150, SM6250, SM6250P, SM7125, SM7150, SM7150P, SM8150, SM8150P",,20-Nov,,2020-11-12T10:15:12.827,2021-12-30T13:52:12.067,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-20,Improper Input Validation,"Arbitrary access to DSP memory due to improper check in loaded library for data received from CPU side' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in QCM6125, QCS410, QCS603, QCS605, QCS610, QCS6125, SA6145P, SA6155, SA6155P, SA8155, SA8155P, SDA640, SDA845, SDM640, SDM830, SDM845, SDX50M, SDX55, SDX55M, SM6125, SM6150, SM6250, SM6250P, SM7125, SM7150, SM7150P, SM8150, SM8150P",,2020-11-12T10:15:12.827,2021-12-30T13:52:12.067,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2020,11,2020-11-01
+894,CVE-2020-11202,"Buffer overflow/underflow occurs when typecasting the buffer passed by CPU internally in the library which is not aligned with the actual size of the structure' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in QCM6125, QCS410, QCS603, QCS605, QCS610, QCS6125, SA6145P, SA6155, SA6155P, SA8155, SA8155P, SDA640, SDA670, SDA845, SDM640, SDM670, SDM710, SDM830, SDM845, SDX50M, SDX55, SDX55M, SM6125, SM6150, SM6150P, SM6250, SM6250P, SM7125, SM7150, SM7150P, SM8150, SM8150P",,20-Nov,,2020-11-12T10:15:12.890,2021-12-22T21:06:35.463,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-787,Out-of-bounds Write,"Buffer overflow/underflow occurs when typecasting the buffer passed by CPU internally in the library which is not aligned with the actual size of the structure' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in QCM6125, QCS410, QCS603, QCS605, QCS610, QCS6125, SA6145P, SA6155, SA6155P, SA8155, SA8155P, SDA640, SDA670, SDA845, SDM640, SDM670, SDM710, SDM830, SDM845, SDX50M, SDX55, SDX55M, SM6125, SM6150, SM6150P, SM6250, SM6250P, SM7125, SM7150, SM7150P, SM8150, SM8150P",,2020-11-12T10:15:12.890,2021-12-22T21:06:35.463,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2020,11,2020-11-01
+896,CVE-2020-11206,"Possible buffer overflow in Fastrpc while handling received parameters due to lack of validation on input parameters' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in APQ8098, MSM8998, QCM4290, QCM6125, QCS410, QCS4290, QCS610, QCS6125, QSM8250, QSM8350, SA6145P, SA6150P, SA6155, SA6155P, SA8150P, SA8155, SA8155P, SA8195P, SC7180, SDA640, SDA660, SDA845, SDA855, SDM640, SDM660, SDM830, SDM845, SDM850, SDX50M, SDX55, SDX55M, SM4250, SM4250P, SM6115, SM6115P, SM6125, SM6150, SM6150P, SM6250, SM6250P, SM6350, SM7125, SM7150, SM7150P, SM7225, SM7250, SM7250P, SM8150, SM8150P, SM8250, SM8350, SM8350P, SXR2130, SXR2130P",,20-Nov,,2020-11-12T10:15:13.030,2022-10-19T17:12:52.913,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,NVD-CWE-Other,,"Possible buffer overflow in Fastrpc while handling received parameters due to lack of validation on input parameters' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in APQ8098, MSM8998, QCM4290, QCM6125, QCS410, QCS4290, QCS610, QCS6125, QSM8250, QSM8350, SA6145P, SA6150P, SA6155, SA6155P, SA8150P, SA8155, SA8155P, SA8195P, SC7180, SDA640, SDA660, SDA845, SDA855, SDM640, SDM660, SDM830, SDM845, SDM850, SDX50M, SDX55, SDX55M, SM4250, SM4250P, SM6115, SM6115P, SM6125, SM6150, SM6150P, SM6250, SM6250P, SM6350, SM7125, SM7150, SM7150P, SM7225, SM7250, SM7250P, SM8150, SM8150P, SM8250, SM8350, SM8350P, SXR2130, SXR2130P",,2020-11-12T10:15:13.030,2022-10-19T17:12:52.913,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2020,11,2020-11-01
+897,CVE-2020-11207,"Buffer overflow in LibFastCV library due to improper size checks with respect to buffer length' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in APQ8052, APQ8056, APQ8076, APQ8096, APQ8096SG, APQ8098, MDM9655, MSM8952, MSM8956, MSM8976, MSM8976SG, MSM8996, MSM8996SG, MSM8998, QCM4290, QCM6125, QCS410, QCS4290, QCS610, QCS6125, QSM8250, SA6145P, SA6150P, SA6155, SA6155P, SA8150P, SA8155, SA8155P, SA8195P, SC7180, SDA640, SDA660, SDA845, SDA855, SDM640, SDM660, SDM830, SDM845, SDM850, SDX50M, SDX55, SDX55M, SM4250, SM4250P, SM6115, SM6115P, SM6125, SM6150, SM6150P, SM6250, SM6250P, SM6350, SM7125, SM7150, SM7150P, SM7225, SM7250, SM7250P, SM8150, SM8150P, SM8250, SXR2130, SXR2130P",,20-Nov,,2020-11-12T10:15:13.107,2022-10-19T15:51:39.133,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),"Buffer overflow in LibFastCV library due to improper size checks with respect to buffer length' in Snapdragon Auto, Snapdragon Compute, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile in APQ8052, APQ8056, APQ8076, APQ8096, APQ8096SG, APQ8098, MDM9655, MSM8952, MSM8956, MSM8976, MSM8976SG, MSM8996, MSM8996SG, MSM8998, QCM4290, QCM6125, QCS410, QCS4290, QCS610, QCS6125, QSM8250, SA6145P, SA6150P, SA6155, SA6155P, SA8150P, SA8155, SA8155P, SA8195P, SC7180, SDA640, SDA660, SDA845, SDA855, SDM640, SDM660, SDM830, SDM845, SDM850, SDX50M, SDX55, SDX55M, SM4250, SM4250P, SM6115, SM6115P, SM6125, SM6150, SM6150P, SM6250, SM6250P, SM6350, SM7125, SM7150, SM7150P, SM7225, SM7250, SM7250P, SM8150, SM8150P, SM8250, SXR2130, SXR2130P",,2020-11-12T10:15:13.107,2022-10-19T15:51:39.133,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2020,11,2020-11-01
+898,CVE-2020-11208,"Out of Bound issue in DSP services while processing received arguments due to improper validation of length received as an argument' in SD820, SD821, SD820, QCS603, QCS605, SDA855, SA6155P, SA6145P, SA6155, SA6155P, SD855, SD 675, SD660, SD429, SD439",,20-Nov,,2020-11-12T10:15:13.170,2022-10-19T15:43:44.033,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-191,Integer Underflow (Wrap or Wraparound),"Out of Bound issue in DSP services while processing received arguments due to improper validation of length received as an argument' in SD820, SD821, SD820, QCS603, QCS605, SDA855, SA6155P, SA6145P, SA6155, SA6155P, SD855, SD 675, SD660, SD429, SD439",,2020-11-12T10:15:13.170,2022-10-19T15:43:44.033,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2020,11,2020-11-01
+899,CVE-2020-11209,"Improper authorization in DSP process could allow unauthorized users to downgrade the library versions in SD820, SD821, SD820, QCS603, QCS605, SDA855, SA6155P, SA6145P, SA6155, SA6155P, SD855, SD 675, SD660, SD429, SD439",,20-Nov,,2020-11-12T10:15:13.250,2021-12-22T20:39:32.167,MEDIUM,NONE,HIGH,NONE,LOW,LOCAL,LOW,NONE,CWE-863,Incorrect Authorization,"Improper authorization in DSP process could allow unauthorized users to downgrade the library versions in SD820, SD821, SD820, QCS603, QCS605, SDA855, SA6155P, SA6145P, SA6155, SA6155P, SD855, SD 675, SD660, SD429, SD439",,2020-11-12T10:15:13.250,2021-12-22T20:39:32.167,cvssMetricV31,LOW,NONE,NONE,HIGH,NONE,5.5,MEDIUM,2020,11,2020-11-01
+1108,CVE-2021-0486,"In onPackageAddedInternal of PermissionManagerService.java, there is possible access to external storage due to a permissions bypass. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-171430330",,21-May,,2021-07-14T14:15:08.160,2021-07-15T22:30:01.087,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-276,Incorrect Default Permissions,"In onPackageAddedInternal of PermissionManagerService.java, there is possible access to external storage due to a permissions bypass. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-171430330","Android-10, Android-11",2021-07-14T14:15:08.160,2021-07-15T22:30:01.087,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2021,05,2021-05-01
+1166,CVE-2021-0518,"In Wi-Fi, there is a possible leak of location-sensitive data due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-176541017",,21-Jun,,2021-07-14T14:15:08.253,2022-10-28T13:42:55.217,MEDIUM,HIGH,NONE,NONE,LOW,LOCAL,LOW,NONE,CWE-862,Missing Authorization,"In Wi-Fi, there is a possible leak of location-sensitive data due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-176541017",Android-13,2021-07-14T14:15:08.253,2022-10-28T13:42:55.217,cvssMetricV31,LOW,NONE,HIGH,NONE,NONE,5.5,MEDIUM,2021,06,2021-06-01
+1526,CVE-2020-0293,"In Java network APIs, there is possible access to sensitive network state due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation in Android versions: Android-11, Android ID: A-141455849",,22-Sep,,2020-09-17T21:15:13.627,2022-04-28T18:19:22.360,MEDIUM,HIGH,NONE,NONE,LOW,LOCAL,LOW,NONE,CWE-862,Missing Authorization,"In Java network APIs, there is possible access to sensitive network state due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation in Android versions: Android-11, Android ID: A-141455849",Android-11,2020-09-17T21:15:13.627,2022-04-28T18:19:22.360,cvssMetricV31,LOW,NONE,HIGH,NONE,NONE,5.5,MEDIUM,2022,09,2022-09-01
+1527,CVE-2020-0500,"In startInputUncheckedLocked of InputMethodManager.java, there is a possible permission bypass due to an unsafe PendingIntent. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11Android ID: A-154913391",,22-Sep,,2020-12-15T16:15:14.713,2021-07-21T11:39:23.747,MEDIUM,HIGH,NONE,NONE,LOW,LOCAL,LOW,NONE,NVD-CWE-noinfo,,"In startInputUncheckedLocked of InputMethodManager.java, there is a possible permission bypass due to an unsafe PendingIntent. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11Android ID: A-154913391",Android-11,2020-12-15T16:15:14.713,2021-07-21T11:39:23.747,cvssMetricV31,LOW,NONE,HIGH,NONE,NONE,5.5,MEDIUM,2022,09,2022-09-01
+1734,CVE-2022-20443,"In hasInputInfo of Layer.cpp, there is a possible bypass of user interaction requirements due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194480991",,23-Feb,,2023-06-28T18:15:11.637,2023-07-05T20:30:30.343,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-1021,Improper Restriction of Rendered UI Layers or Frames,"In hasInputInfo of Layer.cpp, there is a possible bypass of user interaction requirements due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194480991",Android-13,2023-06-28T18:15:11.637,2023-07-05T20:30:30.343,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2023,02,2023-02-01
+1885,CVE-2022-20443,"In hasInputInfo of Layer.cpp, there is a possible bypass of user interaction requirements due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194480991",,23-May,,2023-06-28T18:15:11.637,2023-07-05T20:30:30.343,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-1021,Improper Restriction of Rendered UI Layers or Frames,"In hasInputInfo of Layer.cpp, there is a possible bypass of user interaction requirements due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194480991",Android-13,2023-06-28T18:15:11.637,2023-07-05T20:30:30.343,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2023,05,2023-05-01
+1937,CVE-2022-20443,"In hasInputInfo of Layer.cpp, there is a possible bypass of user interaction requirements due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194480991",,23-Jun,,2023-06-28T18:15:11.637,2023-07-05T20:30:30.343,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,CWE-1021,Improper Restriction of Rendered UI Layers or Frames,"In hasInputInfo of Layer.cpp, there is a possible bypass of user interaction requirements due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-194480991",Android-13,2023-06-28T18:15:11.637,2023-07-05T20:30:30.343,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2023,06,2023-06-01
+2373,CVE-2023-32871,Awaiting Analysis,,24-Feb,,2024-05-06T03:15:09.273,2024-05-06T12:44:56.377,,,,,,,,,CWE-391,Unchecked Error Condition,"In DA, there is a possible permission bypass due to an incorrect status check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS08355514; Issue ID: ALPS08355514.",,2024-05-06T03:15:09.273,2024-05-06T12:44:56.377,,,,,,,,,2024,02,2024-02-01
+2436,CVE-2023-20971,"In updatePermissionTreeSourcePackage of PermissionManagerServiceImpl.java, there is a possible way to obtain dangerous permissions without user consent due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-225880325",,24-Mar,,2023-03-24T20:15:10.913,2023-06-28T18:15:11.803,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,LOW,NONE,NVD-CWE-noinfo,,"In updatePermissionTreeSourcePackage of PermissionManagerServiceImpl.java, there is a possible way to obtain dangerous permissions without user consent due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-225880325",Android-13,2023-03-24T20:15:10.913,2023-06-28T18:15:11.803,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.8,HIGH,2024,03,2024-03-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2438,CVE-2023-4622,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,24-Apr,,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,HIGH,HIGH,HIGH,HIGH,LOW,LOCAL,HIGH,NONE,CWE-416,Use After Free,"A use-after-free vulnerability in the Linux kernel's af_unix component can be exploited to achieve local privilege escalation.
+
+The unix_stream_sendpage() function tries to add data to the last skb in the peer's recv queue without locking the queue. Thus there is a race where unix_stream_sendpage() could access an skb locklessly that is being released by garbage collection, resulting in use-after-free.
+
+We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
+
+",,2023-09-06T14:15:12.193,2024-01-11T19:15:12.097,cvssMetricV31,LOW,NONE,HIGH,HIGH,HIGH,7.0,HIGH,2024,04,2024-04-01
+2473,CVE-2023-52160,"The implementation of PEAP in wpa_supplicant through 2.10 allows authentication bypass. For a successful attack, wpa_supplicant must be configured to not verify the network's TLS certificate during Phase 1 authentication, and an eap_peap_decrypt vulnerability can then be abused to skip Phase 2 authentication. The attack vector is sending an EAP-TLV Success packet instead of starting Phase 2. This allows an adversary to impersonate Enterprise Wi-Fi networks.",,24-Apr,,2024-02-22T17:15:08.263,2024-03-10T04:15:06.897,MEDIUM,HIGH,NONE,NONE,NONE,NETWORK,LOW,REQUIRED,CWE-287,Improper Authentication,"The implementation of PEAP in wpa_supplicant through 2.10 allows authentication bypass. For a successful attack, wpa_supplicant must be configured to not verify the network's TLS certificate during Phase 1 authentication, and an eap_peap_decrypt vulnerability can then be abused to skip Phase 2 authentication. The attack vector is sending an EAP-TLV Success packet instead of starting Phase 2. This allows an adversary to impersonate Enterprise Wi-Fi networks.",2.10,2024-02-22T17:15:08.263,2024-03-10T04:15:06.897,cvssMetricV31,NONE,REQUIRED,HIGH,NONE,NONE,6.5,MEDIUM,2024,04,2024-04-01

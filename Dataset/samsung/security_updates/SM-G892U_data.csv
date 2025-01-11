@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G892U,SPR,004207190328,SM-G892U/SPR, USA (Sprint),USA,Sprint,Americas,Northern America,G892USQS4BSC1,Oreo(Android 8.0.0),2019-03-28,2019-03-01,Galaxy S8 Active ,https://doc.samsungmobile.com/SM-G892U/004207190328/eng.html
+SM-G892U,TMB,004260190329,SM-G892U/TMB, USA (T-Mobile),USA,T-Mobile,Americas,Northern America,G892USQS4BSC3,Oreo(Android 8.0.0),2019-03-29,2019-03-01,Galaxy S8 Active ,https://doc.samsungmobile.com/SM-G892U/004260190329/eng.html

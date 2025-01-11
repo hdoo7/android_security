@@ -1,0 +1,4 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-A810YZ,BRI,000066170406,SM-A810YZ/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,A810YZZTS1CTJ1,Oreo(Android 8.0.0),2020-11-30,2018-11-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810YZ/000066170406/eng.html
+SM-A810YZ,BRI,000066170406,SM-A810YZ/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,A810YZZTU1CRJ1,Oreo(Android 8.0.0),2018-12-11,2018-11-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810YZ/000066170406/eng.html
+SM-A810YZ,BRI,000066170406,SM-A810YZ/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,A810YZZTU1CRG6,Oreo(Android 8.0.0),2018-08-22,2018-06-01,Galaxy A8 ⑥ ,https://doc.samsungmobile.com/SM-A810YZ/000066170406/eng.html

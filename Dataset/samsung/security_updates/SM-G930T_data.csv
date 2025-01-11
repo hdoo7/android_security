@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G930T,TMB,004523190403,SM-G930T/TMB, USA (T-Mobile),USA,T-Mobile,Americas,Northern America,G930TUVS9CSC1,Oreo(Android 8.0.0),2019-04-03,2019-03-01,Galaxy S7 ,https://doc.samsungmobile.com/SM-G930T/004523190403/eng.html

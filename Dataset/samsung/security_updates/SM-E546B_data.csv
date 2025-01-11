@@ -1,0 +1,9 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXS5CXE2,U(Android 14),2024-06-12,2024-05-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXU4CXDC,U(Android 14),2024-05-20,2024-04-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXS4BXB1,U(Android 14),2024-02-29,2024-02-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXS4BWL3,U(Android 14),2023-12-29,2023-12-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXU3BWL1,U(Android 14),2023-12-18,2023-11-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXU3AWH3,T(Android 13),2023-09-01,2023-08-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXU3AWH2,T(Android 13),2023-08-18,2023-08-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html
+SM-E546B,INS,026875230626,SM-E546B/INS, India,India,No-carrier,Asia,Southern Asia,E546BXXU2AWF1,T(Android 13),2023-06-26,2023-05-01,Galaxy F54 5G,https://doc.samsungmobile.com/SM-E546B/026875230626/eng.html

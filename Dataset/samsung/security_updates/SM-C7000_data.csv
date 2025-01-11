@@ -1,0 +1,8 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C7000,CHC,000010170406,SM-C7000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7000ZCS3CRJ1,Oreo(Android 8.0.0),2018-11-06,2018-10-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000010170406/eng.html
+SM-C7000,CHC,000010170406,SM-C7000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7000ZCU3CRI1,Oreo(Android 8.0.0),2018-09-17,2018-09-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000010170406/eng.html
+SM-C7000,CHC,000010170406,SM-C7000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7000ZCU3CRH3,Oreo(Android 8.0.0),2018-08-28,2018-08-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000010170406/eng.html
+SM-C7000,CHC,000010170406,SM-C7000/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C7000ZCU3BRG1,Nougat(Android 7.0),2018-07-30,2018-07-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000010170406/eng.html
+SM-C7000,TGY,000043170406,SM-C7000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7000ZHS3CRJ1,Oreo(Android 8.0.0),2018-11-19,2018-10-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000043170406/eng.html
+SM-C7000,TGY,000043170406,SM-C7000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7000ZHU3CRI5,Oreo(Android 8.0.0),2018-09-27,2018-09-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000043170406/eng.html
+SM-C7000,TGY,000043170406,SM-C7000/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C7000ZHU3BRG1,Nougat(Android 7.0),2018-08-13,2018-07-01,Galaxy C7 ,https://doc.samsungmobile.com/SM-C7000/000043170406/eng.html

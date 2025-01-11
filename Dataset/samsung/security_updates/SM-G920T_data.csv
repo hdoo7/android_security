@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G920T,TMB,024053220820,SM-G920T/TMB, USA (T-Mobile),USA,T-Mobile,Americas,Northern America,G920TUVU6FVH1,Nougat(Android 7.0),2022-08-20,2018-03-01,Galaxy S6 ,https://doc.samsungmobile.com/SM-G920T/024053220820/eng.html
+SM-G920T,XAR,024145220824,SM-G920T/XAR, USA (Cellular South),USA,Cellular South,Americas,Northern America,G920TUEU6EVH1,Nougat(Android 7.0),2022-08-23,2018-03-01,Galaxy S6 ,https://doc.samsungmobile.com/SM-G920T/024145220824/eng.html

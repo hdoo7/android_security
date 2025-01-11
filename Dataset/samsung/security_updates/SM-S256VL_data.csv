@@ -1,0 +1,5 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-S256VL,TFN,028605240127,SM-S256VL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S256VLUDS3AXE2,U(Android 14),2024-05-23,2024-05-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-S256VL/028605240127/eng.html
+SM-S256VL,TFN,028605240127,SM-S256VL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S256VLUDS2AXD1,U(Android 14),2024-04-19,2024-04-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-S256VL/028605240127/eng.html
+SM-S256VL,TFN,028605240127,SM-S256VL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S256VLUDU1AXB8,U(Android 14),2024-04-09,2024-02-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-S256VL/028605240127/eng.html
+SM-S256VL,TFN,028605240127,SM-S256VL/TFN, USA (Tracfone),USA,Tracfone,Americas,Northern America,S256VLUDS1AXA3,U(Android 14),2024-01-26,2024-01-01,Galaxy A25 5G,https://doc.samsungmobile.com/SM-S256VL/028605240127/eng.html

@@ -1,0 +1,7 @@
+keyword,cpe_vendor,cpe,cve
+Snapdragon 653,qualcomm,cpe:2.3:h:qualcomm:snapdragon_653:-:*:*:*:*:*:*:*,CVE-2023-33020
+Snapdragon 653,qualcomm,cpe:2.3:h:qualcomm:snapdragon_653:-:*:*:*:*:*:*:*,CVE-2023-33019
+Snapdragon 653,qualcomm,cpe:2.3:h:qualcomm:snapdragon_653_mobile_platform:-:*:*:*:*:*:*:*,CVE-2023-33059
+Snapdragon 653,qualcomm,cpe:2.3:o:qualcomm:snapdragon_653_firmware:-:*:*:*:*:*:*:*,CVE-2023-33020
+Snapdragon 653,qualcomm,cpe:2.3:o:qualcomm:snapdragon_653_firmware:-:*:*:*:*:*:*:*,CVE-2023-33019
+Snapdragon 653,qualcomm,cpe:2.3:o:qualcomm:snapdragon_653_mobile_platform_firmware:-:*:*:*:*:*:*:*,CVE-2023-33059

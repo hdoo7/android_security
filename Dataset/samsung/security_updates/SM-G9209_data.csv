@@ -1,0 +1,2 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-G9209,CTC,000008161127,SM-G9209/CTC, China (China Telecom),China,China Telecom,Asia,Eastern Asia,G9209KEU2ERI2,Nougat(Android 7.0),2018-10-05,2018-09-01,Galaxy S6 ,https://doc.samsungmobile.com/SM-G9209/000008161127/eng.html

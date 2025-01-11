@@ -1,0 +1,3 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-J530GM,CHL,006713190529,SM-J530GM/CHL, Chile (Claro),Chile,Claro,Americas,Latin America and the Caribbean,J530GMUBS5BSE1,Oreo(Android 8.1.0),2019-05-28,2019-05-01,Galaxy J5 Pro ,https://doc.samsungmobile.com/SM-J530GM/006713190529/eng.html
+SM-J530GM,CHO,006437190523,SM-J530GM/CHO, Chile,Chile,No-carrier,Americas,Latin America and the Caribbean,J530GMUBS5BSE1,Oreo(Android 8.1.0),2019-05-23,2019-05-01,Galaxy J5 Pro ,https://doc.samsungmobile.com/SM-J530GM/006437190523/eng.html

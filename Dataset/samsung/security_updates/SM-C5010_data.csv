@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-C5010,CHC,000009170406,SM-C5010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5010ZCU2CRK1,Oreo(Android 8.0.0),2018-11-20,2018-10-01,Galaxy C5 Pro ,https://doc.samsungmobile.com/SM-C5010/000009170406/eng.html
+SM-C5010,CHC,000009170406,SM-C5010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5010ZCU2CRJ1,Oreo(Android 8.0.0),2018-10-30,2018-10-01,Galaxy C5 Pro ,https://doc.samsungmobile.com/SM-C5010/000009170406/eng.html
+SM-C5010,CHC,000009170406,SM-C5010/CHC, China (Open China),China,Open China,Asia,Eastern Asia,C5010ZCU1CRG8,Oreo(Android 8.0.0),2018-08-06,2018-06-01,Galaxy C5 Pro ,https://doc.samsungmobile.com/SM-C5010/000009170406/eng.html
+SM-C5010,TGY,000042170406,SM-C5010/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C5010ZHU2CRK1,Oreo(Android 8.0.0),2018-12-05,2018-10-01,Galaxy C5 Pro ,https://doc.samsungmobile.com/SM-C5010/000042170406/eng.html
+SM-C5010,TGY,000042170406,SM-C5010/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,C5010ZHU1CRH1,Oreo(Android 8.0.0),2018-08-16,2018-06-01,Galaxy C5 Pro ,https://doc.samsungmobile.com/SM-C5010/000042170406/eng.html

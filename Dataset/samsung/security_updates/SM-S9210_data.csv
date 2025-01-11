@@ -1,0 +1,14 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-S9210,BRI,029249240224,SM-S9210/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,S9210ZHU2AXF1,U(Android 14),2024-06-11,2024-06-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029249240224/eng.html
+SM-S9210,BRI,029249240224,SM-S9210/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,S9210ZHS2AXD3,U(Android 14),2024-05-20,2024-05-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029249240224/eng.html
+SM-S9210,BRI,029249240224,SM-S9210/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,S9210ZHU1AXCA,U(Android 14),2024-03-26,2024-04-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029249240224/eng.html
+SM-S9210,BRI,029249240224,SM-S9210/BRI, Taiwan,Taiwan,No-carrier,Asia,Eastern Asia,S9210ZHU1AXBA,U(Android 14),2024-02-23,2024-02-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029249240224/eng.html
+SM-S9210,CHC,029234240224,SM-S9210/CHC, China (Open China),China,Open China,Asia,Eastern Asia,S9210ZCU2AXE1,U(Android 14),2024-06-05,2024-04-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029234240224/eng.html
+SM-S9210,CHC,029234240224,SM-S9210/CHC, China (Open China),China,Open China,Asia,Eastern Asia,S9210ZCS2AXD3,U(Android 14),2024-05-20,2024-04-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029234240224/eng.html
+SM-S9210,CHC,029234240224,SM-S9210/CHC, China (Open China),China,Open China,Asia,Eastern Asia,S9210ZCS1AXCC,U(Android 14),2024-04-15,2024-04-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029234240224/eng.html
+SM-S9210,CHC,029234240224,SM-S9210/CHC, China (Open China),China,Open China,Asia,Eastern Asia,S9210ZCU1AXCB,U(Android 14),2024-03-26,2023-10-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029234240224/eng.html
+SM-S9210,CHC,029234240224,SM-S9210/CHC, China (Open China),China,Open China,Asia,Eastern Asia,S9210ZCU1AXBA,U(Android 14),2024-02-23,2023-10-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029234240224/eng.html
+SM-S9210,TGY,029246240224,SM-S9210/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,S9210ZHU2AXF1,U(Android 14),2024-06-11,2024-06-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029246240224/eng.html
+SM-S9210,TGY,029246240224,SM-S9210/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,S9210ZHS2AXD3,U(Android 14),2024-05-20,2024-05-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029246240224/eng.html
+SM-S9210,TGY,029246240224,SM-S9210/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,S9210ZHU1AXCA,U(Android 14),2024-03-26,2024-04-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029246240224/eng.html
+SM-S9210,TGY,029246240224,SM-S9210/TGY, Hong Kong,Hong Kong,No-carrier,Asia,Eastern Asia,S9210ZHU1AXBA,U(Android 14),2024-02-23,2024-02-01,Galaxy S24,https://doc.samsungmobile.com/SM-S9210/029246240224/eng.html

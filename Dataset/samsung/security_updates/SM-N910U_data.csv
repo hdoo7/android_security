@@ -1,0 +1,6 @@
+model,csc,csc_code,device_id,carrier_country,country,carrier,region,subregion,build_number,android_version,release_date,security_patch_level,device,model_url
+SM-N910U,NZC,023859220819,SM-N910U/NZC, New Zealand,New Zealand,No-carrier,Oceania,Australia and New Zealand,N910UXXU2DVH1,Marshmallow(Android 6.0.1),2022-08-18,2017-08-01,GALAXY Note4 ,https://doc.samsungmobile.com/SM-N910U/023859220819/eng.html
+SM-N910U,PNG,023878220819,SM-N910U/PNG, Papua New Guinea,Papua New Guinea,No-carrier,Oceania,Melanesia,N910UXXU2DVH1,Marshmallow(Android 6.0.1),2022-08-18,2017-08-01,GALAXY Note4 ,https://doc.samsungmobile.com/SM-N910U/023878220819/eng.html
+SM-N910U,TNZ,023855220819,SM-N910U/TNZ, New Zealand,New Zealand,No-carrier,Oceania,Australia and New Zealand,N910UXXU2DVH1,Marshmallow(Android 6.0.1),2022-08-18,2017-08-01,GALAXY Note4 ,https://doc.samsungmobile.com/SM-N910U/023855220819/eng.html
+SM-N910U,VFJ,023886220819,SM-N910U/VFJ, Fiji (Vodafone),Fiji,Vodafone,Oceania,Melanesia,N910UXXU2DVH1,Marshmallow(Android 6.0.1),2022-08-18,2017-08-01,GALAXY Note4 ,https://doc.samsungmobile.com/SM-N910U/023886220819/eng.html
+SM-N910U,VNZ,023865220819,SM-N910U/VNZ, New Zealand (Vodafone),New Zealand,Vodafone,Oceania,Australia and New Zealand,N910UXXU2DVH1,Marshmallow(Android 6.0.1),2022-08-18,2017-08-01,GALAXY Note4 ,https://doc.samsungmobile.com/SM-N910U/023865220819/eng.html

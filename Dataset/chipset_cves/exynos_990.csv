@@ -1,0 +1,8 @@
+keyword,cpe_vendor,cpe,cve
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2024-28818
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2023-50804
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2023-50803
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2023-49928
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2023-49927
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2024-29152
+exynos 990,samsung,cpe:2.3:h:samsung:exynos_990:-:*:*:*:*:*:*:*,CVE-2020-28341
