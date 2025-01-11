@@ -103,7 +103,7 @@ In Jupyter Notebook, navigate to the notebook file (e.g., `01_mhealth_apps.ipynb
 ## Citation
 
 If you use this dataset or analysis in your research, please cite:
-
+[![DOI](https://zenodo.org/badge/915324103.svg)](https://doi.org/10.5281/zenodo.14632581)
 
 ## Contact
 
